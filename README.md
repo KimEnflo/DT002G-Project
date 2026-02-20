@@ -18,8 +18,8 @@ Reddit Scraper – Quick Usage Guide
 
 
 3. Install dependencies
-       pip install --upgrade pip setuptools wheel
-       pip install -r requirements.txt
+      - pip install --upgrade pip setuptools wheel
+      - pip install -r requirements.txt
 
 
 4. Run the scraper
