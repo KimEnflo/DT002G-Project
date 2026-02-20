@@ -7,10 +7,6 @@ Reddit Scraper – Quick Usage Guide
 1. Install Python 3.12
    Download and install Python 3.12 from https://www.python.org/downloads/release/python-3120/
 
-
-2. Create a virtual environment:
-
-
 2. Create a virtual environment:  
    Windows:
    - py -3.12 -m venv venv
