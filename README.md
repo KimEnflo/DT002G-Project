@@ -1,15 +1,15 @@
 # DT002G-Project
 Project for DT002G
 
+Limitations:
+In the current state, the tool will break at around 1,500-comment threads due to Reddit’s API throttling the requests
+for additional children. To ensure no loss of data, try to keep it to 1,000-comment threads or fewer.
 
 Reddit Scraper – Quick Usage Guide
 
+
 1. Install Python 3.12
    Download and install Python 3.12 from https://www.python.org/downloads/release/python-3120/
-
-
-2. Create a virtual environment:
-
 
 2. Create a virtual environment:  
    Windows:
