@@ -1,11 +1,12 @@
 import html
 import re
 from typing import Any
+
 import markdown2
 from bs4 import BeautifulSoup
 
 
-def clean(comments:list) -> dict:
+def clean(comments: list) -> dict:
     """Clean the data and map it to a dictionary
     :param: comments: list of comments
     :returns: dictionary with cleaned data"""
@@ -20,10 +21,10 @@ def clean(comments:list) -> dict:
         if clean_comments:
             dictionary[index] = clean_comments
 
-    print("Cleaned data" + str(len(dictionary)))
     return dictionary
 
-def clean_text(comment:str) -> dict[str, str | list[Any]] | None:
+
+def clean_text(comment: str) -> dict[str, str | list[Any]] | None:
     """clean the comment by removing whitespaces and urls
     :param: comment: comment body text
     :returns: dictionary with cleaned data or None for dropped comments"""
@@ -65,16 +66,15 @@ def clean_text(comment:str) -> dict[str, str | list[Any]] | None:
         "text": " ".join(cleaned_lines),
         "quotes": quotes
     }
-
     if not result["text"] and not result["quotes"]:
         return None
 
     return result
 
-def filter_comments(comment:str) -> bool:
+
+def filter_comments(comment: str) -> bool:
     """Filter out deleted, removed comments, bot comments and GIFs
     :param: comment: comment body text
     :returns: boolean with True or False"""
-    filters = ("[deleted]", "[removed]", "i am a bot", "![gif]", "this is a bot","removed by reddit")
+    filters = ("[deleted]", "[removed]", "i am a bot", "![gif]", "this is a bot", "removed by reddit")
     return not any(x in comment.lower() for x in filters)
-
