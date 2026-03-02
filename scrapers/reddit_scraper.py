@@ -1,4 +1,5 @@
 import time
+from typing import Any, Generator, Sequence
 
 import httpx
 
@@ -10,30 +11,31 @@ headers = {
 client = httpx.Client(headers=headers)
 
 
-def parse(url):
+def parse(url:str) -> list:
     """Parse a reddit url and collect the comments
     :param url: the url to be parsed
-    :return: list of comments"""
+    :return list of comments"""
     data = fetch_data(url + ".json")
 
     link_id = data[0]["data"]["children"][0]["data"]["name"]
     total_comments = data[0]["data"]["children"][0]["data"]["num_comments"]
-
     return extract_comments(data[1]["data"]["children"], link_id, total_comments)
 
 
-def fetch_data(url):
-    """Fetch a reddit url and collect the comments"""
+def fetch_data(url:str)-> list:
+    """Fetch a reddit url and collect the comments
+    :param url: the reddit url to be fetched
+    :return list of comments"""
     return client.get(url).json()
 
 
-def extract_comments(comment_nodes, link_id, total_comments, collected=None):
+def extract_comments(comment_nodes:list, link_id:str, total_comments:int, collected=None)-> list:
     """Recursively collect all comments, including collapsed 'more' ones
     :param comment_nodes: list of comments
     :param link_id: the reddit link
     :param total_comments: number of comments
     :param collected: collected comments
-    :return: list of comments"""
+    :return list of comments"""
     if collected is None:
         collected = []
 
@@ -53,22 +55,26 @@ def extract_comments(comment_nodes, link_id, total_comments, collected=None):
             if children_ids:
                 more_nodes = fetch_more_children(link_id, total_comments, children_ids)
                 extract_comments(more_nodes, link_id, total_comments, collected)
-
     return collected
 
 
-def chunked(iterable, size):
-    """Creates chunks out of the iterable to loop over"""
+def chunked(iterable:Sequence[Any], size:int) -> Generator[Sequence[Any], None, None]:
+    """Creates chunks out of the iterable to loop over
+    :param iterable: iterable to loop over
+    :param size: the size of the chunks
+    :return yields slice of the iterable based on the size"""
     for i in range(0, len(iterable), size):
         yield iterable[i:i + size]
 
 
-def fetch_more_children(link_id, total_comments, children_ids):
+def fetch_more_children(link_id:str, total_comments:int, children_ids:list)-> list:
     """Recursively collect all comments, including 'more' ones
     :param link_id: the reddit link
     :param children_ids: list of children ids
-    :param total_comments: number of comments"""
-
+    :param total_comments: number of comments
+    :exception Request error
+    :exception JSON error
+    :return list of children comments"""
     scraped_data = []
     # Sleep timer to avoid rate-limiting if you get Status 429 try increasing it.
     sleep_time = 0.2 if total_comments < 1000 else 2
@@ -95,7 +101,6 @@ def fetch_more_children(link_id, total_comments, children_ids):
             payload = response.json()
         except Exception as e:
             print("JSON error:", e)
-            print(response.text[:300])
             continue
         scraped_data += payload.get("json", {}).get("data", {}).get("things", [])
 

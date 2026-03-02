@@ -1,0 +1,5 @@
+spacy
+httpx
+beautifulsoup4
+playwright
+markdown2
