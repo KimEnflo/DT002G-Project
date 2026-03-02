@@ -4,12 +4,10 @@ from bs4 import BeautifulSoup
 import sys
 import tokenizer
 from scrapers import reddit_scraper
+from text_cleaners import reddit_text_cleaner
 import re
 import asyncio
 from playwright.sync_api import Page, expect
-
-from tokenizer import clean_text
-
 
 def main():
     """Main function acting as the start of the program"""
@@ -27,20 +25,16 @@ def parse(parameters):
     """Main parsing function
     parameters: the console arguments <platform> <url>"""
     start = time.time()
-    scraped_data = []
+    cleaned_data  = []
     if parameters[0] == "reddit":
-        scraped_data = reddit_scraping(parameters[1])
-    print("scraped data" + str(len(scraped_data)) + " " + "Starting cleaning")
-    clean_data = tokenizer.tokenize(scraped_data)
+        scraped_data = reddit_scraper.parse(parameters[1])
+        cleaned_data = reddit_text_cleaner.clean(scraped_data)
+
+    tokenized_data = tokenizer.tokenize(cleaned_data)
     end = time.time()
     print(f"Time taken to run the code was {end-start} seconds")
-    # print(clean_data)
-
-def reddit_scraping(url):
-    """Reddit scraping function
-    url: the url to parse"""
-    comments = reddit_scraper.parse(url)
-    return comments
+    for comment in tokenized_data:
+        print(tokenized_data[comment])
 
 if __name__ == "__main__":
     main()
