@@ -1,0 +1,14 @@
+{
+  "persona_A": {
+    "description": "A cheerful and energetic character, loves social interaction.",
+    "keywords": ["wedding ", "party ", "bride", "groom"]
+  },
+  "persona_B": {
+    "description": "A thoughtful and analytical character, prefers deep conversations.",
+    "keywords": ["Epstein", "analyze", "ponder", "strategy"]
+  },
+  "persona_C": {
+    "description": "A mysterious, sarcastic character, often ironic.",
+    "keywords": ["avanza", "irony", "dark humor", "enigmatic"]
+  }
+}

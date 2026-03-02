@@ -11,7 +11,7 @@ headers = {
 client = httpx.Client(headers=headers)
 
 
-def parse(url:str) -> list:
+def parse(url: str) -> list:
     """Parse a reddit url and collect the comments
     :param url: the url to be parsed
     :return list of comments"""
@@ -22,14 +22,14 @@ def parse(url:str) -> list:
     return extract_comments(data[1]["data"]["children"], link_id, total_comments)
 
 
-def fetch_data(url:str)-> list:
+def fetch_data(url: str) -> list:
     """Fetch a reddit url and collect the comments
     :param url: the reddit url to be fetched
     :return list of comments"""
     return client.get(url).json()
 
 
-def extract_comments(comment_nodes:list, link_id:str, total_comments:int, collected=None)-> list:
+def extract_comments(comment_nodes: list, link_id: str, total_comments: int, collected=None) -> list:
     """Recursively collect all comments, including collapsed 'more' ones
     :param comment_nodes: list of comments
     :param link_id: the reddit link
@@ -58,7 +58,7 @@ def extract_comments(comment_nodes:list, link_id:str, total_comments:int, collec
     return collected
 
 
-def chunked(iterable:Sequence[Any], size:int) -> Generator[Sequence[Any], None, None]:
+def chunked(iterable: Sequence[Any], size: int) -> Generator[Sequence[Any], None, None]:
     """Creates chunks out of the iterable to loop over
     :param iterable: iterable to loop over
     :param size: the size of the chunks
@@ -67,7 +67,7 @@ def chunked(iterable:Sequence[Any], size:int) -> Generator[Sequence[Any], None, 
         yield iterable[i:i + size]
 
 
-def fetch_more_children(link_id:str, total_comments:int, children_ids:list)-> list:
+def fetch_more_children(link_id: str, total_comments: int, children_ids: list) -> list:
     """Recursively collect all comments, including 'more' ones
     :param link_id: the reddit link
     :param children_ids: list of children ids
