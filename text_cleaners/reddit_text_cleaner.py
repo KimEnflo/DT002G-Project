@@ -62,7 +62,7 @@ def clean_text(comment:str) -> dict[str, str | list[Any]] | None:
             cleaned_lines.append(text)
 
     result = {
-        "text": "\n".join(cleaned_lines),
+        "text": " ".join(cleaned_lines),
         "quotes": quotes
     }
 

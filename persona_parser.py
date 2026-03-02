@@ -1,13 +1,9 @@
 import time
 
-from bs4 import BeautifulSoup
 import sys
 import tokenizer
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
-import re
-import asyncio
-from playwright.sync_api import Page, expect
 
 def main():
     """Main function acting as the start of the program"""
