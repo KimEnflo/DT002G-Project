@@ -3,7 +3,7 @@ import sys
 import time
 from pathlib import Path
 
-import tokenizer
+import comment_analyzer
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
 
@@ -26,19 +26,21 @@ def parse(parameters):
     parameters: the console arguments <platform> <url>"""
     persona_rules = load_persona_specifications()
     start = time.time()
-    cleaned_data = []
+    analyzed_data = {}
     if parameters[0] == "reddit":
         scraped_data = reddit_scraper.parse(parameters[1])
         cleaned_data = reddit_text_cleaner.clean(scraped_data)
+        analyzed_data = tokenizer.analyze_comment(cleaned_data, persona_rules,parameters[0])
 
-    tokenized_data = tokenizer.tokenize(cleaned_data)
+
     end = time.time()
+    save_output(analyzed_data)
     print(f"Time taken to run the code was {end - start} seconds")
-    save_output(tokenized_data)
 
 
-def load_persona_specifications():
-    """Load the persona specification file"""
+def load_persona_specifications() -> dict:
+    """Load the persona specification file
+    :return: Dictionary of persona specifications"""
     base_dir = Path(__file__).parent
     resource_file = base_dir / 'resources' / 'persona_specifications.json'
 
