@@ -1,5 +1,6 @@
 spacy
+en-core-web-lg
 httpx
 beautifulsoup4
-playwright
 markdown2
+vader-sentiment
