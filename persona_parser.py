@@ -30,7 +30,7 @@ def parse(parameters):
     if parameters[0] == "reddit":
         scraped_data = reddit_scraper.parse(parameters[1])
         cleaned_data = reddit_text_cleaner.clean(scraped_data)
-        analyzed_data = tokenizer.analyze_comment(cleaned_data, persona_rules,parameters[0])
+        analyzed_data = comment_analyzer.analyze_comment(cleaned_data, persona_rules,parameters[0])
 
 
     end = time.time()
