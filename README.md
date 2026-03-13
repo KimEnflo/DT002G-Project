@@ -7,7 +7,6 @@ for additional children. To ensure no loss of data, try to keep it to 1,000-comm
 
 Reddit Scraper – Quick Usage Guide
 
-
 1. Install Python 3.12
    Download and install Python 3.12 from https://www.python.org/downloads/release/python-3120/
 
@@ -30,5 +29,20 @@ Reddit Scraper – Quick Usage Guide
        python persona_parser.py <parser> <URL>
    Example:
        python persona_parser.py reddit https://reddit.com/r/python/comments/xyz
-   - <parser> – the parser to use (reddit for Reddit threads)
-   - <URL> – the URL of the Reddit thread you want to scrape
+   - parser – the parser to use (reddit for Reddit threads)
+   - URL – the URL of the Reddit thread you want to scrape
+
+   
+   
+Persona specifications structure.
+
+When defining the persona specifications the correct structure is as follows:
+
+`{`  
+  `"Name of the persona": {`  
+    `"keywords": ["apple","pear","orange"]`  
+  `}`  
+ `"Name of the persona 2": {`  
+    `"keywords": ["blue","red","orange"]`  
+`}`  
+`}`
