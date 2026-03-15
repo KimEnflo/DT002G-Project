@@ -3,7 +3,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 nlp = spacy.load("en_core_web_lg")
 
-def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_weight: float = 0.7) -> dict:
+def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_weight: float = 0.4) -> dict:
     """Analyze Reddit comments for persona matches and sentiment, including parent and quotes
     :param platform: The platform used to fetch the comments
     :param comments: Dictionary of cleaned comments, keyed by comment ID.
@@ -35,14 +35,13 @@ def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_
 
                 context_scores = analyzer.polarity_scores(data["full_text"])
                 context_compound = context_scores["compound"]
-                polarity = main_compound * (1 - context_weight) + context_compound * context_weight
+                polarity = combine_with_context(
+                    main_compound,
+                    context_compound,
+                    context_weight
+                )
 
-                if polarity > 0.05:
-                    sentiment = "positive"
-                elif polarity < -0.05:
-                    sentiment = "negative"
-                else:
-                    sentiment = "neutral"
+                sentiment = classify_sentiment(polarity)
 
                 matched_personas[persona][sentiment].append({
                     "comment": data["main_text"],
@@ -52,6 +51,18 @@ def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_
                 })
 
     return matched_personas
+
+def classify_sentiment(polarity: float, threshold: float = 0.10) -> str:
+    """Classify sentiment based on polarity and threshold
+    :param polarity: Polarity score
+    :param threshold: Threshold for polarity score
+    :return: Sentiment label"""
+    if abs(polarity) < threshold:
+        return "neutral"
+    elif polarity > 0:
+        return "positive"
+    else:
+        return "negative"
 
 def extract_reddit_comments(comment_data: dict)-> dict:
     """extract Reddit comments for persona matches, including parent and quotes
@@ -75,3 +86,21 @@ def extract_reddit_comments(comment_data: dict)-> dict:
         "quotes": quotes
     }
 
+def combine_with_context(main_compound, context_compound, context_weight)-> int:
+    """
+    Context adjusts intensity only if context sentiment is strong.
+    :param: main_compound: Compound score of main text
+    :param: context_compound: Compound score of context text
+    :param: context_weight: context weight to apply
+    :return: Intensity adjusted compound score
+    """
+
+    polarity = main_compound
+
+    if abs(context_compound) > 0.2:
+        if main_compound * context_compound > 0:
+            polarity += context_weight * context_compound
+        else:
+            polarity -= context_weight * context_compound
+
+    return polarity
