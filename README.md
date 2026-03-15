@@ -7,42 +7,43 @@ for additional children. To ensure no loss of data, try to keep it to 1,000-comm
 
 Reddit Scraper – Quick Usage Guide
 
+## 1. Install Python 3.12
+
 1. Install Python 3.12
    Download and install Python 3.12 from https://www.python.org/downloads/release/python-3120/
 
-2. Create a virtual environment:  
-   Windows:
+## 2. Create a virtual environment:
+The current version of spacy isn't compatible with the newest version of python in the current state.
+Because of that a virtual environment is needed to run this script.
+
+   Windows cmd:
    - py -3.12 -m venv venv
    - .\venv\Scripts\activate
 
-   macOS / Linux:
+   macOS / Linux terminal:
    - python3.12 -m venv venv
    - source venv/bin/activate
 
 
-3. Install dependencies
+## 3. Install dependencies
       - pip install --upgrade pip setuptools wheel
       - pip install -r requirements.txt
 
+## 4. Define persona specification
+Persona specifications structure:
 
-4. Run the scraper
-       python persona_parser.py <parser> <URL>
+`{  
+  "Name of the persona": {  
+    "keywords": ["apple","pear","orange"] 
+  }
+}`
+    
+## 5. Run the scraper
+    python persona_parser.py <parser> <URL>
    Example:
        python persona_parser.py reddit https://reddit.com/r/python/comments/xyz
-   - parser – the parser to use (reddit for Reddit threads)
-   - URL – the URL of the Reddit thread you want to scrape
+   - <parser> – the parser to use (reddit for Reddit threads)
+   - <URL> – the URL of the Reddit thread you want to scrape
 
-   
-   
-Persona specifications structure.
-
-When defining the persona specifications the correct structure is as follows:
-
-`{`  
-  `"Name of the persona": {`  
-    `"keywords": ["apple","pear","orange"]`  
-  `}`  
- `"Name of the persona 2": {`  
-    `"keywords": ["blue","red","orange"]`  
-`}`  
-`}`
+    `python persona_parser.py reddit https://reddit.com/r/python/comments/xyz`
+ 

@@ -3,7 +3,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 nlp = spacy.load("en_core_web_lg")
 
-def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_weight: float = 0.3) -> dict:
+def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_weight: float = 0.7) -> dict:
     """Analyze Reddit comments for persona matches and sentiment, including parent and quotes
     :param platform: The platform used to fetch the comments
     :param comments: Dictionary of cleaned comments, keyed by comment ID.
@@ -34,8 +34,7 @@ def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_
                 main_compound = analyzer.polarity_scores(data["main_text"])["compound"]
 
                 context_scores = analyzer.polarity_scores(data["full_text"])
-                context_compound = (context_scores["compound"]
-                                    * 0.5) if abs(context_scores["compound"]) > 0.1 else context_scores["compound"]
+                context_compound = context_scores["compound"]
                 polarity = main_compound * (1 - context_weight) + context_compound * context_weight
 
                 if polarity > 0.05:
