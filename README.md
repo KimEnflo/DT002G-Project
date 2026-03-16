@@ -41,7 +41,7 @@ Persona specifications structure:
 ## 5. Run the scraper
     python persona_parser.py <parser> <URL>
    Example:
-       python persona_parser.py reddit https://reddit.com/r/python/comments/xyz
+       python persona_parser.py reddit https://reddit.com/r/python/comments/id/titlename
    - <parser> – the parser to use (reddit for Reddit threads)
    - <URL> – the URL of the Reddit thread you want to scrape
 
