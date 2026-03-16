@@ -1,5 +1,4 @@
 spacy
-en-core-web-lg
 httpx
 beautifulsoup4
 markdown2
