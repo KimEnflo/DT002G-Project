@@ -10,7 +10,7 @@ Reddit Scraper – Quick Usage Guide
 ## 1. Install Python 3.12
 
 1. Install Python 3.12
-   Download and install Python 3.12 from https://www.python.org/downloads/release/python-3120/
+   Download and install Python 3.12.13 from [https://www.python.org/downloads/release/python-3120/](https://www.python.org/downloads/release/python-31213/)
 
 ## 2. Create a virtual environment:
 The current version of spacy isn't compatible with the newest version of python in the current state.
