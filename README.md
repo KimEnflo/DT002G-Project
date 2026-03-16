@@ -21,7 +21,7 @@ Because of that a virtual environment is needed to run this script.
    - .\venv\Scripts\activate
 
    macOS / Linux terminal:
-   - python3.12 -m venv venv
+   - python3.12.13 -m venv venv
    - source venv/bin/activate
 
 
