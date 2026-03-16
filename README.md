@@ -17,7 +17,7 @@ The current version of spacy isn't compatible with the newest version of python 
 Because of that a virtual environment is needed to run this script.
 
    Windows cmd:
-   - py -3.12 -m venv venv
+   - py -3.12.13 -m venv venv
    - .\venv\Scripts\activate
 
    macOS / Linux terminal:
