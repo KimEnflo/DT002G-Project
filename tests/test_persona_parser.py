@@ -119,10 +119,13 @@ def test_keyword_matching():
     Verify that keyword-based persona matching works correctly.
     """
     comments = {
-        "1": {
-            "text": "I love Python programming",
-            "quotes": [],
-            "parent_text": ""
+        "title": "Python discussion",
+        "comments": {
+            "1": {
+                "text": "I love Python programming",
+                "quotes": [],
+                "parent_text": ""
+            }
         }
     }
 
@@ -142,12 +145,15 @@ def test_keyword_matching():
 
 def test_performance_basic():
     comments = {
-        str(i): {
-            "text": "test python",
-            "quotes": [],
-            "parent_text": ""
+        "title": "Performance test thread",
+        "comments": {
+            str(i): {
+                "text": "test python",
+                "quotes": [],
+                "parent_text": ""
+            }
+            for i in range(1000)
         }
-        for i in range(1000)
     }
 
     persona_rules = {

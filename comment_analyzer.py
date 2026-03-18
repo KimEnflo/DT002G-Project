@@ -3,15 +3,15 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 nlp = spacy.load("en_core_web_lg")
 
-def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_weight: float = 0.4) -> dict:
+def analyze_comment(comments: dict, persona_rules: dict,platform : str) -> dict:
     """Analyze Reddit comments for persona matches and sentiment, including parent and quotes
     :param platform: The platform used to fetch the comments
     :param comments: Dictionary of cleaned comments, keyed by comment ID.
                      Each comment should have 'text', 'quotes', 'parent_text'.
     :param persona_rules: Dictionary of persona rules with keywords.
-    :param context_weight: Weight of parent + quotes in sentiment analysis (0.0 - 1.0)
     :return: Dictionary of persona matches, split into positive, neutral, negative.
     """
+    print("Starting Analyzing....")
     analyzer = SentimentIntensityAnalyzer()
     matched_personas = {
         persona: {
@@ -22,10 +22,11 @@ def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_
         for persona in persona_rules
     }
     data = {}
+    title = comments.get("title", "")
 
-    for comment_id, comment_data in comments.items():
+    for comment_id, comment_data in comments["comments"].items():
         if platform == "reddit":
-            data = extract_reddit_comments(comment_data)
+            data = extract_reddit_comments(comment_data,title)
 
         for persona, info in persona_rules.items():
 
@@ -38,7 +39,6 @@ def analyze_comment(comments: dict, persona_rules: dict,platform : str, context_
                 polarity = combine_with_context(
                     main_compound,
                     context_compound,
-                    context_weight
                 )
 
                 sentiment = classify_sentiment(polarity)
@@ -64,15 +64,16 @@ def classify_sentiment(polarity: float, threshold: float = 0.10) -> str:
     else:
         return "negative"
 
-def extract_reddit_comments(comment_data: dict)-> dict:
+def extract_reddit_comments(comment_data: dict,title:str)-> dict:
     """extract Reddit comments for persona matches, including parent and quotes
+    :param title: Title of the thread
     :param comment_data: Dictionary of cleaned comments, keyed by comment ID.
     :return: Dictionary of persona matches, split into positive, neutral, negative."""
     main_text = comment_data.get('text', '')
     parent_text = comment_data.get('parent_text', '')
     quotes = [q.get('text', '') for q in comment_data.get('quotes', [])]
 
-    context_text = " ".join([parent_text] + quotes) if parent_text or quotes else ""
+    context_text = " ".join([title,parent_text] + quotes) if parent_text or quotes else ""
 
     full_text_for_sentiment = " ".join([main_text, context_text]).strip()
 
@@ -86,12 +87,12 @@ def extract_reddit_comments(comment_data: dict)-> dict:
         "quotes": quotes
     }
 
-def combine_with_context(main_compound, context_compound, context_weight)-> int:
+def combine_with_context(main_compound, context_compound, context_weight: float = 0.4)-> int:
     """
     Context adjusts intensity only if context sentiment is strong.
-    :param: main_compound: Compound score of main text
-    :param: context_compound: Compound score of context text
-    :param: context_weight: context weight to apply
+    :param main_compound: Compound score of main text
+    :param context_compound: Compound score of context text
+    :param context_weight: Weight of parent + quotes in sentiment analysis (0.0 - 1.0)
     :return: Intensity adjusted compound score
     """
 
