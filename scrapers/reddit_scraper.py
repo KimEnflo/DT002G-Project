@@ -11,15 +11,21 @@ headers = {
 client = httpx.Client(headers=headers)
 
 
-def parse(url: str) -> list:
+def parse(url: str) -> dict[str, list | Any]:
     """Parse a reddit url and collect the comments
     :param url: the url to be parsed
     :return list of comments"""
+    print("Starting scraping....")
     data = fetch_data(url + ".json")
 
     link_id = data[0]["data"]["children"][0]["data"]["name"]
     total_comments = data[0]["data"]["children"][0]["data"]["num_comments"]
-    return extract_comments(data[1]["data"]["children"], link_id, total_comments)
+    title = data[0]["data"]["children"][0]["data"]["title"]
+
+    return {
+        "title": title,
+        "comments": extract_comments(data[1]["data"]["children"],link_id,total_comments)
+    }
 
 
 def fetch_data(url: str) -> list:

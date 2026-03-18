@@ -5,10 +5,14 @@ from typing import Any
 import markdown2
 from bs4 import BeautifulSoup
 
-def clean(comments: list) -> dict:
+def clean(data: dict) -> dict:
     """Clean the data and map it to a dictionary
     :param: comments: list of comments
     :returns: dictionary with cleaned data"""
+    comments = data["comments"]
+    title = data["title"]
+    print("Starting Cleaning....")
+
     dictionary = {}
     for index, comment in enumerate(comments):
 
@@ -19,7 +23,10 @@ def clean(comments: list) -> dict:
         if clean_comments:
             dictionary[comment["id"]] = clean_comments
 
-    return dictionary
+    return {
+        "title": title,
+        "comments": dictionary
+    }
 
 
 def clean_text(comment: dict,previous:dict) -> dict[str, str | list[Any]] | None:
