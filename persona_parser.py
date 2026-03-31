@@ -1,8 +1,9 @@
+import argparse
 import json
-import sys
 import time
 from pathlib import Path
 
+import aggregate_personas
 import comment_analyzer
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
@@ -10,58 +11,80 @@ from text_cleaners import reddit_text_cleaner
 
 def main():
     """Main function acting as the start of the program"""
-    try:
-        if len(sys.argv) < 3:
-            print("Usage: python -m persona_parser <parser> <url>")
-            return
+    parser = argparse.ArgumentParser(
+        description="Persona parser for Reddit comments or other platforms."
+    )
 
-        args = (sys.argv[1], sys.argv[2])
+    parser.add_argument("platform", help="Platform to use")
+    parser.add_argument("url", help="URL of the thread to parse")
+
+    parser.add_argument(
+        "--no-context",
+        action="store_false",
+        dest="context",
+        help="Disable including parent/quote context (default: context included)"
+    )
+
+    parser.add_argument(
+        "-p", "--platform",
+        default="reddit",
+        help="Specify platform (default: reddit)"
+    )
+
+    args = parser.parse_args()
+
+    try:
         parse(args)
     except AssertionError as msg:
         print(msg)
 
 
-def parse(parameters):
-    """Main parsing function
-    parameters: the console arguments <platform> <url>"""
-    persona_rules = load_persona_specifications()
+def parse(args):
+    """
+    Main parsing function.
+    :param args: argparse.Namespace with attributes:
+                 - url: URL of the thread
+                 - platform: platform name (default "reddit")
+                 - context: bool, whether to include parent/quote context
+    """
+    persona_rules = load_file(Path("resources/persona_specifications.json"))
     start = time.time()
     analyzed_data = {}
-    if parameters[0] == "reddit":
-        scraped_data = reddit_scraper.parse(parameters[1])
+    title = ""
+    if args.platform.lower() == "reddit":
+        scraped_data = reddit_scraper.parse(args.url)
+        title = scraped_data["title"]
         cleaned_data = reddit_text_cleaner.clean(scraped_data)
-        analyzed_data = comment_analyzer.analyze_comment(cleaned_data, persona_rules, parameters[0])
+        save_output(cleaned_data, Path(f"resources/data_sets/thread_{title}.json"))
+        analyzed_data = comment_analyzer.analyze_comment(
+            cleaned_data,
+            persona_rules,
+            platform=args.platform,
+            use_context=getattr(args, "context", True)
+        )
 
     end = time.time()
-    save_output(analyzed_data)
+    save_output(analyzed_data, Path(f"resources/matched_personas/matched_personas_{title}.json"))
+    aggregate_personas.aggregate_user_personas(title)
     print(f"Time taken to run the code was {end - start} seconds")
 
 
-def load_persona_specifications() -> dict:
-    """Load the persona specification file
-    :return: Dictionary of persona specifications"""
-    base_dir = Path(__file__).parent
-    resource_file = base_dir / 'resources' / 'persona_specifications.json'
-
-    with resource_file.open('r', encoding='utf-8') as f:
+def load_file(path: Path) -> dict:
+    """Load the JSON file from the given path
+     :return: Dictionary of the data loaded"""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('r', encoding='utf-8') as f:
         data = json.load(f)
-
     return data
 
 
-def save_output(analyzed_data: dict, output_path: Path | None = None):
-    """Save the analyzed data into a JSON file
+def save_output(data: dict, output_path: Path):
+    """Save data in a JSON file
     :param output_path: the path of the output file
-    :param analyzed_data: the analyzed data to be saved"""
-
-    if output_path is None:
-        base_dir = Path(__file__).parent
-        output_path = base_dir / "resources" / "matched_personas.json"
-
+    :param data: the analyzed data to be saved"""
     output_path.parent.mkdir(parents=True, exist_ok=True)
-
     with output_path.open("w", encoding="utf-8") as f:
-        json.dump(analyzed_data, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
