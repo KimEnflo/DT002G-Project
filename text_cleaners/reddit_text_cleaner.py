@@ -13,19 +13,30 @@ def clean(data: dict) -> dict:
     title = data["title"]
     print("Starting Cleaning....")
 
-    dictionary = {}
-    for index, comment in enumerate(comments):
+    user_comments = {}
+    comment_lookup = {}
+
+    for comment in comments:
 
         if not filter_comments(comment["body"]):
             continue
 
-        clean_comments = clean_text(comment,dictionary)
-        if clean_comments:
-            dictionary[comment["id"]] = clean_comments
+        clean_comment = clean_text(comment,comment_lookup)
+
+        author = comment.get("author")
+        comment_id = comment.get("id")
+
+        if author not in user_comments:
+            user_comments[author] = {}
+
+        user_comments[author][comment_id] = clean_comment
+
+        if clean_comment:
+            comment_lookup[comment_id] = clean_comment
 
     return {
         "title": title,
-        "comments": dictionary
+        "comments": user_comments
     }
 
 
