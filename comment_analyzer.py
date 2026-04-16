@@ -1,4 +1,3 @@
-import hashlib
 import spacy
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
@@ -39,15 +38,11 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
             if data["parent_text"]:
                 parent_tokens = [t.lemma_.lower() for t in nlp(data["parent_text"])]
 
-            for persona, info in persona_rules.items():
-                keywords = [k.lower() for k in info["keywords"]]
-                main_match = any(k in data["tokens"] for k in keywords)
+            for persona, keywords in persona_rules.items():
 
-                fallback_match = False
-                if not main_match and len(data["tokens"]) <= 3:
-                    fallback_match = any(k in parent_tokens for k in keywords)
+                match = find_match(keywords,data,parent_tokens)
 
-                if main_match or fallback_match:
+                if match:
                     main_compound = analyzer.polarity_scores(data["main_text"])["compound"]
                     context_compound = analyzer.polarity_scores(data["full_text"])["compound"]
 
@@ -57,7 +52,7 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
                     sentiment = classify_sentiment(polarity)
 
                     matched_personas[persona][sentiment].append({
-                        "user": anonymize_author(user),
+                        "user": user,
                         "comment": data["main_text"],
                         "polarity": polarity,
                         "parent": data["parent_text"],
@@ -66,6 +61,21 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
 
     return matched_personas
 
+
+def find_match(keywords:dict,data:dict,parent_tokens:list)-> bool:
+    """Find matching persona for a comment
+    :param keywords: Dictionary of the keywords for the persona
+    :param data: Dictionary of comments, keyed by comment ID
+    :param parent_tokens: List of parent tokens
+    :return: Matching persona"""
+    keywords_lower = [k.lower() for k in keywords["keywords"]]
+    main_match = sum(1 for k in keywords_lower if k in data["tokens"]) >= 1
+    fallback_match = False
+    if not main_match and len(data["tokens"]) <= 3:
+        fallback_match = sum(1 for k in keywords_lower if k in parent_tokens) >= 1
+
+    match = main_match or fallback_match
+    return match
 
 def classify_sentiment(polarity: float, threshold: float = 0.10) -> str:
     """Classify sentiment based on polarity and threshold
@@ -122,10 +132,3 @@ def combine_with_context(main_compound, context_compound, context_weight: float 
             polarity -= context_weight * context_compound
 
     return polarity
-
-
-def anonymize_author(author: str) -> str:
-    """Anonymize the author name
-    :param: author: author name
-    :returns: hashed author name"""
-    return hashlib.md5(author.encode("utf-8")).hexdigest()
