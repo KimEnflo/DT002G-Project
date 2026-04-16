@@ -1,3 +1,4 @@
+import hashlib
 import html
 import re
 from typing import Any
@@ -22,8 +23,7 @@ def clean(data: dict) -> dict:
             continue
 
         clean_comment = clean_text(comment,comment_lookup)
-
-        author = comment.get("author")
+        author = anonymize_author(comment.get("author"))
         comment_id = comment.get("id")
 
         if author not in user_comments:
@@ -103,3 +103,10 @@ def filter_comments(comment: str) -> bool:
     :returns: boolean with True or False"""
     filters = ("[deleted]", "[removed]", "i am a bot", "![gif]", "this is a bot", "removed by reddit")
     return not any(x in comment.lower() for x in filters)
+
+
+def anonymize_author(author: str) -> str:
+    """Anonymize the author name
+    :param: author: author name
+    :returns: hashed author name"""
+    return hashlib.md5(author.encode("utf-8")).hexdigest()
