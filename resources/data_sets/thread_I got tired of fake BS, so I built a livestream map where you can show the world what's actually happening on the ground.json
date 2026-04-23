@@ -1,0 +1,1353 @@
+{
+    "title": "I got tired of fake BS, so I built a livestream map where you can show the world what's actually happening on the ground",
+    "comments": {
+        "3e4ce20ec588600054f050310750c4ca": {
+            "nnz6zkj": {
+                "text": "Feel like this would be amazing for documenting civil unrest and protests",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnz9245": {
+                "text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles",
+                "quotes": [],
+                "parent_text": "u/Jyriad thanks man! We thought the same thing so we made a protests layer"
+            },
+            "no6p3n6": {
+                "text": "You should definitely try and get those data layers to a CDN cache and serve them for pennies on the Edge instead of serving everything from your main host. Highly distributed apps, especially ones like yours will demand a lot of data at critical mass, and that will be stupid money if you try and serve egress from a hosting provider. Checkout something like Cloudflare R2.",
+                "quotes": [],
+                "parent_text": "we're on digitalocean! so far just paying a few hundred bucks a month"
+            }
+        },
+        "8bdab321d0b1bf65a578885b87ca5c16": {
+            "nnz87hy": {
+                "text": "u/Jyriad thanks man! We thought the same thing so we made a protests layer",
+                "quotes": [],
+                "parent_text": "Feel like this would be amazing for documenting civil unrest and protests"
+            },
+            "nnzmzp7": {
+                "text": "Love this idea! We will try to implement very soon",
+                "quotes": [],
+                "parent_text": "Showing other available streams as overlays (i.e., enable a viewer to tap and shift over to another user’s perspective) is something we always wanted to do"
+            },
+            "no2ibpg": {
+                "text": "Hey, honestly, we were worried about this too. That's why we allow people to create private communities on the map. You can choose to stream to only a dedicated audience if you want, ensuring that your data doesn't fall into the wrong hands",
+                "quotes": [],
+                "parent_text": "Hey dude please be careful with this. While it's great to show what protests really look like you're basically serving law enforcement the data they need to capture activists on a silver platter. Depending on the country this is downright dangerous for everyone in the protests."
+            },
+            "o7g6tm7": {
+                "text": "hey, btw, we have now implemented this in the app. On the app store / play store latest version, tap on events and swipe through different perspectives of the same event",
+                "quotes": [],
+                "parent_text": "Showing other available streams as overlays (i.e., enable a viewer to tap and shift over to another user’s perspective) is something we always wanted to do"
+            },
+            "nnzn4db": {
+                "text": "I think this would be an easy change (the timestamp), great idea!",
+                "quotes": [],
+                "parent_text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles"
+            },
+            "nnzm2rf": {
+                "text": "we're hoping the aspect of communities / layers allows people to use the app for many different location-based needs. we allow anyone to create a layer on our map and invite users / moderate it and share it to other platforms",
+                "quotes": [],
+                "parent_text": "Did an entire startup on this years ago — the challenge is critical mass: It’s exceptionally difficult to get enough people to install / use an app that is so narrowly scoped while simultaneously keeping the content interesting Big triathalons are another opportunity"
+            },
+            "nnzsaxb": {
+                "text": "Snap doesnt do that unfortunately also, we haven't revealed the app to anyone outside of the beta testers in the past few days so maybe it was a different post you saw :D",
+                "quotes": [],
+                "parent_text": "Doesnt snapchat do that already I have seen you before like an year before on Reddit posting about your app"
+            },
+            "no01k0o": {
+                "text": "it's a great idea -- users can browse content on layer communities already, so for example we have a layer here for protests you can check out and we'd love to expand this functionality, though for posting content it makes sense for people to use the app since posts are tied to locations",
+                "quotes": [],
+                "parent_text": "Can it be website based too? No idea how hard/different that is, but accessing a website would make it more accessible than downloading an app. Lots of people are fed up with additional apps.."
+            },
+            "nnz9zs4": {
+                "text": "We’re considering adding private Layers, exclusive communities where creators can share members-only content and earn from user subscriptions",
+                "quotes": [],
+                "parent_text": "great idea, back in the days Periscope app had the same concept, but they failed to monetize it and closed the project. How will you handle all the potential traffic?"
+            },
+            "nnzbboh": {
+                "text": "we might put ads eventually, kind of just feeling it out for now",
+                "quotes": [],
+                "parent_text": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?"
+            },
+            "no01w33": {
+                "text": "good point! there are a lot of avenues to monetizing and paying the cost of the servers -- we're just still trying to figure out what works, we released the app a few days ago",
+                "quotes": [],
+                "parent_text": "Instead of adding on-screen ads, you can have promoted locations on the map. That would be less intrusive I think."
+            },
+            "no18974": {
+                "text": "we're on digitalocean! so far just paying a few hundred bucks a month",
+                "quotes": [],
+                "parent_text": "It's a great idea. I imagine plenty of data storage is needed. Can I ask what service does your app use and how much do they charge?"
+            },
+            "nnztop0": {
+                "text": "what can i say, i love pepe",
+                "quotes": [],
+                "parent_text": "Cant take you seriously with that pfp 😆"
+            },
+            "nnzniod": {
+                "text": "I don't think I would feel comfortable selling people's location data to advertisers. that honestly sounds like a massive invasion of privacy tbh. in general selling user data isn't something we plan to do",
+                "quotes": [],
+                "parent_text": "Is location data particularly valuable to advertisers? Like if we have someone’s live location that’s prime advertising real estate no? “Let’s show them the McDonald’s ad now since they’re about to walk by one in 2 blocks” that was your mouth is already watering by the time you smell the fries"
+            },
+            "no0fncj": {
+                "text": "thank you so much! I am handling the engineering and my cofounder is helping with product direction / business / marketing / and more we may need more ppl in near future depending on traction lol",
+                "quotes": [],
+                "parent_text": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!"
+            },
+            "no0b85q": {
+                "text": "yep, just use two fingers to pinch and rotate and hold with two fingers and move them up and down to change the camera angle / pitch",
+                "quotes": [],
+                "parent_text": "Is there a way to change the orientation of the map? It seems locked in isometric."
+            },
+            "nnznyi8": {
+                "text": "great question. unlike snapchat maps, we show livestreams directly on the map. we also give users the ability to create communities so that you can actually find what you're looking for on the map discoverability is a big problem in snapchat because you're essentially tapping on random spots on the map and hoping to find what you're looking for.",
+                "quotes": [],
+                "parent_text": "This is really neat! I'm just wondering how this is different than Snapchat does already"
+            },
+            "no0fuam": {
+                "text": "this is actually comforting to hear - I think it's an idea that is now possible with the confluence of various technologies!",
+                "quotes": [],
+                "parent_text": "Funny how I have had this exact idea although with some slight variations…"
+            },
+            "no1cftn": {
+                "text": "imo there has never really been a better time to be a developer :D as a dev, you now have AI tools that you can use to teach yourself any concept you want to learn. as long as you are willing to put in the work. my evenings building this app involved lots of long conversations with ChadGPT, Claude, Gemini, etc. I slowly learned how developers normally tackle the kinds of problems we face with an app like this. i've been an engineer for over a decade now, and I can tell you that the way I learned to code was by doing really small projects and building them out little by little, making them more and more complex over time when you do small projects, you're inevitably going to deal with all of the ugliness and all of the little problems that come with actually shipping real apps. and then you learn how to solve those problems, and you move onto solving bigger problems my stack is fastapi/react native, but you could just as easily use something else so here's my advice to you. pick a small project. get started with it, push it to github, and ask some smart people for feedback. i was constantly bouncing ideas off my partner and off my friends then add to it and think about how you can make it better. if you do this for long enough, you will learn so much than a school or textbook can teach you (although of course those have their place!).",
+                "quotes": [],
+                "parent_text": "not the place to ask but im junior dev got inspired by this level of project and expertise any developer want to share good full stack roadmap or resources courses to get good at making something like this"
+            },
+            "nnzwyzl": {
+                "text": "unlike snapchat, we allow people to create map based communities so you can actually find what you're looking for. we call them layers :D you can invite your own moderators to help you moderate content so you're not just randomly clicking around on the map hoping to find content -- you can find communities with content you're interested in",
+                "quotes": [],
+                "parent_text": "so snapchat?"
+            },
+            "no129mc": {
+                "text": "totally valid concern. in fact this was something that worried us as well. that's why we've created layers - map based communities that can be private / invite only. if you don't want to make your stream public and only available to a community you trust, you can do that too",
+                "quotes": [],
+                "parent_text": "It is neat, but consider the privacy and security concerns of individuals whose locations you’re doxxing. We’re in strange times here in the States and personally this would creep me out if I were at a protest and someone was broadcasting who is where to possible bad actors or others with bad intentions."
+            },
+            "no2i41i": {
+                "text": "We have a few general thoughts on spoofing: Spoofed content is generally fairly easy to verify and discard. If the content posted doesn't match the location/surroundings, it can be identified and removed We allow communities to appoint moderators and remove content which is clearly spoofed We might implement more stringent technical checks on location and IP matching, as well as aggressive banning of users who create spoofed content",
+                "quotes": [],
+                "parent_text": "Cool idea! Do you deal with GPS spoofing somehow?"
+            },
+            "nnz8sy6": {
+                "text": "Not sure. No ads - it's all free right now. We're funding the servers ourselves Maybe subscriptions to exclusive content in the future",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no0gp03": {
+                "text": "we're using stuff from Mapbox, really fantastic software",
+                "quotes": [],
+                "parent_text": "What map setup are you using for this?"
+            },
+            "no0gfdu": {
+                "text": "great question. first, we do allow non-livestream posts direct from your camera so you can create 30 second video clips on the map to help people discover your content and make the app to be useful in a standalone way, we created layer communities to help you group content on the map and invite your friends and share it directly to other platforms we also have a popular feed in the app, which will show your posts to more people if it gets a lot of engagement, helping reward people who make content that sticks",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzdpjw": {
+                "text": "our map does have elevation / terrain built into it, but we don't have anything specifically built for multi story buildings. What use case were you thinking, happy to add it to our big to do list",
+                "quotes": [],
+                "parent_text": "Do you support multi story buildings?"
+            },
+            "nnzi26x": {
+                "text": "lmao whoooosh, totally over my head :D",
+                "quotes": [],
+                "parent_text": "This was just a snarky joke on the tagline that that says I can stream things happening on the ground :)"
+            },
+            "nnzedma": {
+                "text": "Yep, we have layers which are communities that group content. Anyone can make a layer community on any topic Here are some examples:",
+                "quotes": [],
+                "parent_text": "Pretty neat idea … can there be project files, like related to particular event, individual topic, anything ? Is there a possibility to work with you ? I myself have been wondering to build a truth , fact establisher platform for quite some time."
+            },
+            "nnzhn8y": {
+                "text": "we agree, we're still working on the branding, we just havent really had much time to get things right",
+                "quotes": [],
+                "parent_text": "Awesome concept, website looks nice. I think the brand name needs a little work, especially as it's more a live streaming platform. If you want to crunch names I'm down to help. Good job"
+            },
+            "nnzjubd": {
+                "text": "We would love that!!",
+                "quotes": [],
+                "parent_text": "Really crackin' idea. Would love to run an interview on this for We Are Founders if you're up for it?"
+            },
+            "nnzofrb": {
+                "text": "nope, this is from the folks at Mapbox. they've created some really incredible open source libraries",
+                "quotes": [],
+                "parent_text": "Is this 3D map from Apple Maps?"
+            },
+            "nnzomc7": {
+                "text": "you can save 30 seconds videos in the app, but we don't currently save livestreams. we'd love to do this in the near future though",
+                "quotes": [],
+                "parent_text": "that's some unreal good anti biased media tool if the Videos would be saved over time"
+            },
+            "nnzqbyc": {
+                "text": "we're just 2 people lol and my mom. of course.",
+                "quotes": [],
+                "parent_text": "how big is your team for such nice Features ?"
+            },
+            "nnztefb": {
+                "text": "about 3 years of very intense effort lol. the first year or two i was building this i was regularly staying up until 6-7am working on it and then waking up at 930 for my regular engineering job ive basically had no life for the past 3 years so im super glad we released finally :D",
+                "quotes": [],
+                "parent_text": "how long did it take to code all this ?"
+            },
+            "nnzpnyd": {
+                "text": "that really means a lot, seriously. we've been working on this for a long time",
+                "quotes": [],
+                "parent_text": "For the first time I find an app that could really make a difference! Congratulations indeed!"
+            },
+            "nnzq5c8": {
+                "text": "we love that idea and it's something we've had on our to do list for a long time!",
+                "quotes": [],
+                "parent_text": "I add if possible: Translation of the videos (I am Italian and if I want to see the videos in other languages ​​the translation would be very useful)"
+            },
+            "nnzwqdg": {
+                "text": "so our team consistents of myself and my partner. i handle all the engineering, partner handles product direction / marketing / business / etc and he had the idea of doing a map based app. he's one of the smartest & wisest people ive ever worked with. from the engineering perspective i can say this was the most intense thing ive ever worked on. around 3 yrs of effort, i regularly stayed up until 7am working on it and woke up 930am for my regular engineering job multiple times a week. basically have had not much of a life for several years now but this was highly collaborative - my partner and i would bounce ideas off each other all the time, and refine how we did things. tech stack is python & react native early intuition was that we wanted to crowdsource location data to inform people. we thought it would be nice to go out and be notified about stuff your vicinity. the ideas evolved rather radically from there, into the concept of map-based communities and livestreaming",
+                "quotes": [],
+                "parent_text": "Man this is so awesome! It could literally change the world with its potential for showing what events unfolded and where with pin point accuracy. Could you also share what went into making this project, the tech, challenges, early intuition, and most of all was it solo project or a team collaboration?"
+            },
+            "nnzysjq": {
+                "text": "so sorry about that! here's a link to android and a link to ios if anyone needs",
+                "quotes": [],
+                "parent_text": "Uuh I got a problem. When I try to open the website it shows something for a split second and then gives me the whitescreen... Is there an android app?"
+            },
+            "no03t4m": {
+                "text": "Hey, thank you so much for the feedback! we will try to fix all of these in the next release. Lots of little bugs and some questionable UI UX decisions but we're trying rly hard to get this right. Feedback like this really, really helps I appreciate it. Also, added a discord server to the top of the post just now, feel free to join!",
+                "quotes": [],
+                "parent_text": "Some feedback: When searching for layers, that notification is in the middle of the screen, put it to the top and maybe a notch smaller. It's blocking the view on the map. Live Chat? I see comments but no idea if the creator sees them. Consider automatically adding publicly accessible cameras including traffic and weather cams. Mark them differently so people know there is nobody behind them. Probably just suggesting it because I like it but: Maybe a Discord server for the app to directly communicate with you guys? Or a subreddit? Idk. Would help with either of em."
+            },
+            "no0hmz3": {
+                "text": "tysm! we put a lot of effort into this and hearing people confirm our thinking on it is very reassuring!",
+                "quotes": [],
+                "parent_text": "I had this exact idea. But then left it at just an idea. Well done on execution"
+            },
+            "no0h2p3": {
+                "text": "thank you so much! we're hoping it gives people a way to show real people and places, maybe shed some light on the state of the world",
+                "quotes": [],
+                "parent_text": "Very nice indeed. Good luck. I really think this could take off."
+            },
+            "no0akgp": {
+                "text": "That means a lot! TYSM :D",
+                "quotes": [],
+                "parent_text": "Yooo, this is actually insanely useful! Love it!"
+            },
+            "no19pvj": {
+                "text": "thank you so much :D!",
+                "quotes": [],
+                "parent_text": "I’m in. This is neat."
+            },
+            "no0fuub": {
+                "text": "thank you so much!",
+                "quotes": [],
+                "parent_text": "Good idea"
+            },
+            "no0pjnm": {
+                "text": "hey, thanks! Twitch and Kick don't have location, unfortunately, which makes it harder to know what's happening and where. we also allow users to create communities on the map, where they can organize content and invite other members",
+                "quotes": [],
+                "parent_text": "Cool app! My question would be, how are you going to compete with current live streaming services like Twitch and Kick? What stops people from going to those already established platforms that have more of a community?"
+            },
+            "no14uw5": {
+                "text": "thank you! that means a lot. right now, we don't have any ads or any way to make money. everything is free :D we'd like to develop a sustainable business model though... but we're still trying to figure out what it is. we did start this whole thing as a business idea but we also want this app to be a force for good in the world",
+                "quotes": [],
+                "parent_text": "This is exactly what Snap Maps was made for but truly has lost their way…love this man, what’s the vision for this, will it be a non profit?"
+            },
+            "no16sf0": {
+                "text": "someone who sees the vision! tysm! there are a lot of possibilities here, and we're especially hopeful that we can give local experts a way to monetize their expertise and incentivize them to give back to their communities",
+                "quotes": [],
+                "parent_text": "This could be amazing! I assume the critical mass isn't here yet but I'd love if this could be social media but on a local level. We could see live and upcoming events, explore people hiking in national parks, people hunting or fishing or riding bikes or whatever. I can see monetizing through supported pages. Restaurants featuring a special, bars featuring a live music act, a beauty shop showing off nails, a clothing store featuring trendy outfits, the possibilities are endless"
+            },
+            "no0y576": {
+                "text": "tysm!! we're a bit different than citizen in that we have a different goal - show people what's happening on the ground and allow them to record anything newsworthy (not just incidents like citizen). we also allow users to record 30 second videos on the map and allow creation of map based communities that ensure that content stays on topic and is geographically relevant",
+                "quotes": [],
+                "parent_text": "Citizen app has a similar concept for location based user streaming. Cool idea regardless!"
+            },
+            "no148lp": {
+                "text": "thanks man!",
+                "quotes": [],
+                "parent_text": "Good job dude, very nice app! Congrats!"
+            },
+            "no14byf": {
+                "text": "thanks dude - it is reassuring to hear people reaffirm the need for something like this!",
+                "quotes": [],
+                "parent_text": "Necessity is the mother of invention. We need this. Thank you for your service."
+            },
+            "no2ilxn": {
+                "text": "Thank you! We're using mapbox, it's fantastic",
+                "quotes": [],
+                "parent_text": "Love it! What map ate you using? looks better than google maps :)"
+            },
+            "no2k0v2": {
+                "text": "Actually really appreciate feedback like this. We're going to try harder to make the ux a lot better",
+                "quotes": [],
+                "parent_text": "Too generic and unfocussed experience right now from a fresh install. Needs a quick tutorial on first use or to just work more like the Snapchat stories map out if the box."
+            },
+            "nnzxpht": {
+                "text": "lmao my bad! it's me and my partner, just to clarify",
+                "quotes": [],
+                "parent_text": "I. We. Make up your mind."
+            },
+            "nnzjmnw": {
+                "text": "thank you :D!",
+                "quotes": [],
+                "parent_text": "Nice"
+            },
+            "nnzdels": {
+                "text": "we've been building this in private beta and refining it for 3 years secretly lol",
+                "quotes": [],
+                "parent_text": "I love the idea. Nice execution too. Maybe its just for demo purposes for now, but 3 of the posts I clicked on said \"1 Year Ago\""
+            },
+            "nnzgozc": {
+                "text": "so like citizen is built around incident reporting and safety monitoring but Hereabout takes a little bit different approach. it's broader and its more real-time social map where anyone can post livestream, videos / photos to the exact spot, create their own layer communities, invite mods etc.",
+                "quotes": [],
+                "parent_text": "Looks good. Do you know about the Citizen app? How is this different?"
+            },
+            "nnzh7i3": {
+                "text": "thanks. we felt like the world needs a bit more real stuff in it, and location makes that easier to verify imo since you can just go and check the place",
+                "quotes": [],
+                "parent_text": "this looks like it could help a lot rn"
+            },
+            "nnzgqyo": {
+                "text": "thank you so much!",
+                "quotes": [],
+                "parent_text": "Brilliant concept"
+            },
+            "nnzksb1": {
+                "text": "thank you :D!",
+                "quotes": [],
+                "parent_text": "Very cool!"
+            },
+            "nnzkwq2": {
+                "text": "appreciate that tysm :D!",
+                "quotes": [],
+                "parent_text": "This freaking amazing."
+            },
+            "no00jim": {
+                "text": "thank you so much! we're hoping that people can find the app useful for different location based purposes using the communities feature",
+                "quotes": [],
+                "parent_text": "There are SO many skeptical points I can think of rn, especially the comment on how you achieve critical mass etc. but for now, ROOTING for this to be a success, so I'm in. Signing up, and will try to stream something live over the week all the way over from Karachi, Pakistan :PP San Diego seems to be the only place rn."
+            },
+            "no0bir4": {
+                "text": "yep, great thoughts and we had the same privacy concerns. That's why we invented layers, communities where you can invite people and make them private or public depending on what you want. So if there's a movement you want to broadcast and you only want to invite people you trust, you can do that",
+                "quotes": [],
+                "parent_text": "Just thinking outloud, but didn't Foursquare rename itself to Swarm, and then subsequently shut itself down once it realized it probably wasn't safe to show people where a group of people were gathered (mass-shootings, etc). I think Google had a similar feature and also shut it down. That said, this is really cool. I know it's more about showing live video, but just thought the map feature is the risky part."
+            },
+            "nnzb3od": {
+                "text": "LMAO you can make your own communities just like reddit. It's all free :D share some good UFO content pls",
+                "quotes": [],
+                "parent_text": "How about a UFO comunity?"
+            },
+            "nnzp63h": {
+                "text": "i didn't know facebook had a map in 2019! i think the technology has progressed a lot and there seems to be a real community need for something like this now",
+                "quotes": [],
+                "parent_text": "So you invited map that facebook killed in 2019?"
+            }
+        },
+        "407ebd8a8e00f9388d3106bc648e2db0": {
+            "nnzkovk": {
+                "text": "Showing other available streams as overlays (i.e., enable a viewer to tap and shift over to another user’s perspective) is something we always wanted to do",
+                "quotes": [],
+                "parent_text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles"
+            },
+            "nnzk9wu": {
+                "text": "Did an entire startup on this years ago — the challenge is critical mass: It’s exceptionally difficult to get enough people to install / use an app that is so narrowly scoped while simultaneously keeping the content interesting Big triathalons are another opportunity",
+                "quotes": [],
+                "parent_text": "Feel like this would be amazing for documenting civil unrest and protests"
+            },
+            "nnznmqq": {
+                "text": "Yeah, having the ability for someone to define temporal event areas (akin to subreddits or live Reddit events) is smart",
+                "quotes": [],
+                "parent_text": "we're hoping the aspect of communities / layers allows people to use the app for many different location-based needs. we allow anyone to create a layer on our map and invite users / moderate it and share it to other platforms"
+            },
+            "no65c88": {
+                "text": "We honestly never got that far — Periscope came out around the same time and sucked all the wind out of the sails. We pivoted to a communication platform for local newsrooms, enabling producers and editors (i.e., people in the building) to geospatially understand where their crews were and communicate with them more effectively. Local news is a pretty shitty market, though 😅 not awash in cash",
+                "quotes": [],
+                "parent_text": "how did you avoid explicit content? did you have moderation?"
+            },
+            "no9yify": {
+                "text": "We shut it down",
+                "quotes": [],
+                "parent_text": "that is always an interesting problem. what did you do in the end with the application?"
+            },
+            "noa3o4m": {
+                "text": "Yeah, I was too young to think about that",
+                "quotes": [],
+                "parent_text": "and the code with it? I always hoped that somehow that work would be open sourced. not necessarily yours just in general. there is so much software out there that was abandoned that could have been reused, repurposed etc."
+            },
+            "nnzl5vz": {
+                "text": "Best to just use ATAK for that (with your own server)",
+                "quotes": [],
+                "parent_text": "I had an interesting idea that included something like this. But it was more along the lines of providing a way for people to organize themselves in order to give what is termed a \"common operating picture\" in the defense world. Ideally for protestors or citizens in general to help protect themselves and others from mistreatment. I thought of including opt-in real-time location info, map annotations, interactive news graphs to try to get the \"truth\" out of reporting, messaging/bulletins for orgs to fan out to others. It's not a hard thing technically to achieve. The problems I found when thinking through the problem and solution were more along the lines of no path to monetization, abundant opportunities for misuse by bad actors (organized crime for example), and the govt probably would find a way to categorize this as an intelligence risk and would probably force it down. That and you can already piece a lot of what I planned together with dedicated (but separate) tech channels. Anyway I hope your project works out!"
+            }
+        },
+        "1d5ecb1edf279ae7d08fc70d60d05c21": {
+            "no2hbvm": {
+                "text": "Hey dude please be careful with this. While it's great to show what protests really look like you're basically serving law enforcement the data they need to capture activists on a silver platter. Depending on the country this is downright dangerous for everyone in the protests.",
+                "quotes": [],
+                "parent_text": "Love this idea! We will try to implement very soon"
+            },
+            "no2m7oo": {
+                "text": "In another comment you're telling someone that you're using AI to code. Honestly what is your security background? If you reliably want to create a platform for activists and your answer is vibe coding and not at least a master in that field with a lot of experience and a team of seasoned pentesters.. well then your app is nothing but a good looking Honeypot",
+                "quotes": [],
+                "parent_text": "Hey, honestly, we were worried about this too. That's why we allow people to create private communities on the map. You can choose to stream to only a dedicated audience if you want, ensuring that your data doesn't fall into the wrong hands"
+            }
+        },
+        "064919e8aa8d4300283168b3e34c26d6": {
+            "no38j2i": {
+                "text": "Hello! I am OP's partner/co-creator of this app. We appreciate your concern. We both have years of experience working at large Fintech companies, leading multi-tenant, multimillion dollar projects that handled sensitive financial data. Neither of us is particularly experienced with front-end/UX development, which is where most of the vibe-coding came in handy. But we spent a lot of time sweating over the security details of the app, using our combined experience in this area.",
+                "quotes": [],
+                "parent_text": "In another comment you're telling someone that you're using AI to code. Honestly what is your security background? If you reliably want to create a platform for activists and your answer is vibe coding and not at least a master in that field with a lot of experience and a team of seasoned pentesters.. well then your app is nothing but a good looking Honeypot"
+            },
+            "no36dmm": {
+                "text": "Hello! I am OP's partner/co-creator of this app. As far as monetization goes, one of our plans to allow users to monetize their content and local expertise. Suppose you make a *This_Earthian* layer. In there you could post a guide to your local attractions, or curated weekly content (could be live, could be short form video). You'd set the layer as a subscription (similar to the Patreon model) and ka-ching! If your content is compelling enough and with a decent sized audience, you can make some moola, and we'd take a small platform fee. There are other commercial aspects, but we are still fleshing those out. Thanks for your question!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no34ttb": {
+                "text": "Hello! I am OP's partner/co-creator of this app. In short, we do not collect any data that is not strictly necessary for the correct functioning of the app. When creating an account, all we ask for is an email and username/password; no gender/birthday/country/etc. When posting, we obviously need location permission to be able to show the location of the event/point of interest. But we do not care about your location otherwise (we do not track continuously). So, in theory, one could remain anonymous if taking the right precautions (we allow signing up with google, so if anonymity is a priority, maybe don't use this method.)",
+                "quotes": [],
+                "parent_text": "Can you prevent certain agencies from using this as self collected data on the protest layer?The news does a great job picking and choosing video bites to show a narrative with 1 or 2 cameras covering the events… can you ensure that our own videos won’t be clipped down to tell the news narrative? If so, you’ve broken away from the BS that you were sick of. If not, you’ve given them more ammunition to pick through. What data is collected? Can a user remain anonymous while streaming so no data collected can be associated with a single person if their face is never shown?"
+            },
+            "no352tj": {
+                "text": "Hello! I am OP's partner/co-creator of this app. I am sure people will find ways, geospoofing is still a concern, but we hope more people will use the app in legitimate ways and help police bad actors. Users can report offensive/graphic posts, and these get blurred out automatically once a reasonable threshold of reports is reached.",
+                "quotes": [],
+                "parent_text": "Love this! Very relevant nowadays. I'm sure people still would find a way to fake it somehow (i.e. pointing the camera at a display or something?). But very good idea. Love it!"
+            },
+            "nonog77": {
+                "text": "Hello! I am OP's partner/co-creator of this app. The data is pulled straight out of phone camera/microphone. We do not aggregate nor allow uploads from the device’s library. The idea behind Hereabout is for the content to be as raw, unedited, and genuine as possible.",
+                "quotes": [],
+                "parent_text": "This reminds me of periscope from back in the day. How is the data pulled and positioned? Does it aggregate other streaming services or is this its own platform?"
+            },
+            "nonpci8": {
+                "text": "Hello! I am OP's partner/co-creator of this app. We have features in the roadmap that would meet this need in a way. Requesting livestreams for money could be a sensitive issue since it borders on “pay-per-surveillance”, which is not something we want to do. If the app continues to gain traction, we want to introduce features that would allow for better organization around events, but right now we have our hands full. Thank you for your suggestion!",
+                "quotes": [],
+                "parent_text": "Would it be possible to allow people to send request to go live to users at a specific location? May be a request with small charge out of which you share the revenue with the user who is providing the feed?"
+            },
+            "no35e66": {
+                "text": "Hello! I am OP's partner/co-creator of this app. We'd love to see some content out of Karachi! Matter of fact, you could be Pakistan's layer founder, imagine that! :)",
+                "quotes": [],
+                "parent_text": "There are SO many skeptical points I can think of rn, especially the comment on how you achieve critical mass etc. but for now, ROOTING for this to be a success, so I'm in. Signing up, and will try to stream something live over the week all the way over from Karachi, Pakistan :PP San Diego seems to be the only place rn."
+            }
+        },
+        "31fcfa19fcb35989ea74a1cdebf20ffe": {
+            "nnzocjc": {
+                "text": "Uuuh. Back in the time when we still had DSLR cameras but they got Geodata and stuff, I thought: if we take the geotag, combine it with focal length and angles from which the photo was taken (most of them had inertia sensors). And if we do this with all the pictures that get uploaded to Google Earth, Maps, Pinterest, etc. Then we could recreate the whole earth in 3D. Google Maps kinda does this a little bit with the option to upload pictures for Street View. But there's a lot more possible.",
+                "quotes": [],
+                "parent_text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles"
+            }
+        },
+        "6110bda30ed2cbd28247690337c2a33d": {
+            "nnzrx9s": {
+                "text": "Doesnt snapchat do that already I have seen you before like an year before on Reddit posting about your app",
+                "quotes": [],
+                "parent_text": "we're hoping the aspect of communities / layers allows people to use the app for many different location-based needs. we allow anyone to create a layer on our map and invite users / moderate it and share it to other platforms"
+            }
+        },
+        "4ca56c6c27b704e5a3d02b3e317276c0": {
+            "nnzx3in": {
+                "text": "Can it be website based too? No idea how hard/different that is, but accessing a website would make it more accessible than downloading an app. Lots of people are fed up with additional apps..",
+                "quotes": [],
+                "parent_text": "Snap doesnt do that unfortunately also, we haven't revealed the app to anyone outside of the beta testers in the past few days so maybe it was a different post you saw :D"
+            },
+            "no033tm": {
+                "text": "Even for posting, can't browsers capture location information? Again, not a specialist.. great idea though.",
+                "quotes": [],
+                "parent_text": "it's a great idea -- users can browse content on layer communities already, so for example we have a layer here for protests you can check out and we'd love to expand this functionality, though for posting content it makes sense for people to use the app since posts are tied to locations"
+            }
+        },
+        "e9a98ec3b0723445d2da8e3381e83c54": {
+            "no64kuk": {
+                "text": "how did you avoid explicit content? did you have moderation?",
+                "quotes": [],
+                "parent_text": "Did an entire startup on this years ago — the challenge is critical mass: It’s exceptionally difficult to get enough people to install / use an app that is so narrowly scoped while simultaneously keeping the content interesting Big triathalons are another opportunity"
+            },
+            "no90dw8": {
+                "text": "that is always an interesting problem. what did you do in the end with the application?",
+                "quotes": [],
+                "parent_text": "We honestly never got that far — Periscope came out around the same time and sucked all the wind out of the sails. We pivoted to a communication platform for local newsrooms, enabling producers and editors (i.e., people in the building) to geospatially understand where their crews were and communicate with them more effectively. Local news is a pretty shitty market, though 😅 not awash in cash"
+            },
+            "noa3ili": {
+                "text": "and the code with it? I always hoped that somehow that work would be open sourced. not necessarily yours just in general. there is so much software out there that was abandoned that could have been reused, repurposed etc.",
+                "quotes": [],
+                "parent_text": "We shut it down"
+            }
+        },
+        "69a1eb07a3e0d7020cf0dd764e6947c6": {
+            "no0wyej": {
+                "text": "Should had a distress beacon which gets broadcast to all drone operators in the area and they get coordinates to you.",
+                "quotes": [],
+                "parent_text": "Feel like this would be amazing for documenting civil unrest and protests"
+            }
+        },
+        "0cf49bca8f62d99f9172f5c6f1ab5034": {
+            "nnz948s": {
+                "text": "great idea, back in the days Periscope app had the same concept, but they failed to monetize it and closed the project. How will you handle all the potential traffic?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "93aa63b82737d6c5638c1cdfca28856c": {
+            "nnzaq1a": {
+                "text": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?",
+                "quotes": [],
+                "parent_text": "We’re considering adding private Layers, exclusive communities where creators can share members-only content and earn from user subscriptions"
+            },
+            "nnzalw2": {
+                "text": "How about a UFO comunity?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "855bc08eeef0ff751f03cc7697384bba": {
+            "nnztzbg": {
+                "text": "Instead of adding on-screen ads, you can have promoted locations on the map. That would be less intrusive I think.",
+                "quotes": [],
+                "parent_text": "we might put ads eventually, kind of just feeling it out for now"
+            }
+        },
+        "985ed67139677a21ef3c156732375007": {
+            "no0bhrx": {
+                "text": "It's a great idea. I imagine plenty of data storage is needed. Can I ask what service does your app use and how much do they charge?",
+                "quotes": [],
+                "parent_text": "good point! there are a lot of avenues to monetizing and paying the cost of the servers -- we're just still trying to figure out what works, we released the app a few days ago"
+            },
+            "no0dl0o": {
+                "text": "It would be a massive invasion of privacy but the reality is that any app that's made it big knows this information is a huge honey pot for investors and advertising money. Of course, it makes sense to say that you'll never \"plan\" to sell this information but I'm sure you can take more input from Huffman in the later stages of your venture. ;)",
+                "quotes": [],
+                "parent_text": "I don't think I would feel comfortable selling people's location data to advertisers. that honestly sounds like a massive invasion of privacy tbh. in general selling user data isn't something we plan to do"
+            },
+            "no0eg59": {
+                "text": "Wikipedia provides information to the world. Information is power. I think people under the importance of something like that being independent. As for OP's app, I think most people are used to social media being free because most are unfortunately happy to have their information sold. Just look at where Reddit began and now is. Tiktok, X, Instagram... I would do exactly what OP is doing and saying that they're not going to sell anything and when they make it big, play the \"we need to make this profitable somehow\" card.",
+                "quotes": [],
+                "parent_text": "Yeah the way Wikipedia handles it could work. I think most people would donate if they knew it wasn’t going to big tech companies but just funding the app itself"
+            }
+        },
+        "88378cb535971a9cef15bb58c28016f4": {
+            "no3dph7": {
+                "text": "very cool to hear that you are using digitalocean!",
+                "quotes": [],
+                "parent_text": "we're on digitalocean! so far just paying a few hundred bucks a month"
+            }
+        },
+        "7afcac64b9dead2c9e48ee833e30cdbf": {
+            "no1dga6": {
+                "text": "\"This location is currently more rioting than usual\"",
+                "quotes": [],
+                "parent_text": "Instead of adding on-screen ads, you can have promoted locations on the map. That would be less intrusive I think."
+            },
+            "no1ytt8": {
+                "text": "Overwhelmingly positive feedback here. Thumbsupaggedon.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9878f5a7a19746d214ca097ab7185398": {
+            "nnzon1s": {
+                "text": "Cant take you seriously with that pfp 😆",
+                "quotes": [],
+                "parent_text": "we might put ads eventually, kind of just feeling it out for now"
+            }
+        },
+        "a506e7fc9378df5076b74f41a34c26c2": {
+            "nofcusi": {
+                "text": "There's a difference between doing an app for the money or for the service Seems like a server light app, specially if you don't handle uploads but only stream routing. Maybe you can setup a patreon or a account to let the user base fund your app without adding a tracking pixel for ads Good solid work btw",
+                "quotes": [],
+                "parent_text": "we might put ads eventually, kind of just feeling it out for now"
+            }
+        },
+        "cfcccc31bf7188540bff9ee049dcdf6f": {
+            "nnzj8gj": {
+                "text": "Is location data particularly valuable to advertisers? Like if we have someone’s live location that’s prime advertising real estate no? “Let’s show them the McDonald’s ad now since they’re about to walk by one in 2 blocks” that was your mouth is already watering by the time you smell the fries",
+                "quotes": [],
+                "parent_text": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?"
+            }
+        },
+        "ece43c28b4e708a24a76217950934533": {
+            "nnzvqtp": {
+                "text": "If the goal is truly a public service in the aim of doing good, I would suggest bulletproofing yourself and the site against things that could sway or make you fragile. For example, adding ads means that you are now working for advertisers and won’t want to upset them. There are some really nifty open source libraries out there that can run live streams in almost decentralized fashions. Then, I think you can host the streams for a small amount of time before ejecting them or database dumping them somewhere where other people can torrent them The name of the game is keeping your hosting costs low and renaming anti-fragile in the face of adversity if you’re building a site around free speech and accountability I’m a senior software engineer in California. Happy to help if you’d like",
+                "quotes": [],
+                "parent_text": "We’re considering adding private Layers, exclusive communities where creators can share members-only content and earn from user subscriptions"
+            }
+        },
+        "16164a55a66624d542c1be5667d12c5f": {
+            "no0c482": {
+                "text": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no4hp7f": {
+                "text": "Edited/AI BS.",
+                "quotes": [],
+                "parent_text": "Could you explain to me what it is? Genuinely asking. I've looked at this post, the whole website and I still cannot figure out the problem it's trying to solve."
+            }
+        },
+        "90d3818f861145f917f38d5265969df8": {
+            "no2muos": {
+                "text": "Im a frontend dev i'd be happy to chip in as well dont Care for money but would rather love to work for ownership 🫡",
+                "quotes": [],
+                "parent_text": "thank you so much! I am handling the engineering and my cofounder is helping with product direction / business / marketing / and more we may need more ppl in near future depending on traction lol"
+            }
+        },
+        "3cbccddf34e3d2c7154b3f9fdfc97381": {
+            "no3f8ti": {
+                "text": "Could you explain to me what it is? Genuinely asking. I've looked at this post, the whole website and I still cannot figure out the problem it's trying to solve.",
+                "quotes": [
+                    {
+                        "level": 1,
+                        "text": "solving a real pain point"
+                    }
+                ],
+                "parent_text": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!"
+            }
+        },
+        "47174ed2a3a36bf896626e863a9f6ad0": {
+            "no07zzk": {
+                "text": "Is there a way to change the orientation of the map? It seems locked in isometric.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d116d824c90a12b48239da431fe0af0f": {
+            "nnz8s6i": {
+                "text": "This is neat! I can think of a couple of reasons why it would be useful. Checking it out.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzp9ab": {
+                "text": "I love the idea of opening up a map and seeing what is going on around me, especially with live-streaming capabilities. Crowdsourcing location data is kinda genius, good luck!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1c813f9800a7d24092bbc7e74d38bf50": {
+            "nnzewcw": {
+                "text": "I had an interesting idea that included something like this. But it was more along the lines of providing a way for people to organize themselves in order to give what is termed a \"common operating picture\" in the defense world. Ideally for protestors or citizens in general to help protect themselves and others from mistreatment. I thought of including opt-in real-time location info, map annotations, interactive news graphs to try to get the \"truth\" out of reporting, messaging/bulletins for orgs to fan out to others. It's not a hard thing technically to achieve. The problems I found when thinking through the problem and solution were more along the lines of no path to monetization, abundant opportunities for misuse by bad actors (organized crime for example), and the govt probably would find a way to categorize this as an intelligence risk and would probably force it down. That and you can already piece a lot of what I planned together with dedicated (but separate) tech channels. Anyway I hope your project works out!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzmaqp": {
+                "text": "Lol yes basically.",
+                "quotes": [],
+                "parent_text": "Best to just use ATAK for that (with your own server)"
+            }
+        },
+        "eda4c1c7dab2fa6eb30d60911ab6d746": {
+            "nnznai4": {
+                "text": "This is really neat! I'm just wondering how this is different than Snapchat does already",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "650c7dd0efd979fdd9925e1701cb3d44": {
+            "no0d6v1": {
+                "text": "Funny how I have had this exact idea although with some slight variations…",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "72e49d374a5809ff548fe504c0bd423d": {
+            "no18vd8": {
+                "text": "not the place to ask but im junior dev got inspired by this level of project and expertise any developer want to share good full stack roadmap or resources courses to get good at making something like this",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no4w2az": {
+                "text": "Thanks man appreciate the advice 😇❣️ I tried your app its a great project",
+                "quotes": [],
+                "parent_text": "imo there has never really been a better time to be a developer :D as a dev, you now have AI tools that you can use to teach yourself any concept you want to learn. as long as you are willing to put in the work. my evenings building this app involved lots of long conversations with ChadGPT, Claude, Gemini, etc. I slowly learned how developers normally tackle the kinds of problems we face with an app like this. i've been an engineer for over a decade now, and I can tell you that the way I learned to code was by doing really small projects and building them out little by little, making them more and more complex over time when you do small projects, you're inevitably going to deal with all of the ugliness and all of the little problems that come with actually shipping real apps. and then you learn how to solve those problems, and you move onto solving bigger problems my stack is fastapi/react native, but you could just as easily use something else so here's my advice to you. pick a small project. get started with it, push it to github, and ask some smart people for feedback. i was constantly bouncing ideas off my partner and off my friends then add to it and think about how you can make it better. if you do this for long enough, you will learn so much than a school or textbook can teach you (although of course those have their place!)."
+            }
+        },
+        "81d641f6e88af546bb30e4328d4370be": {
+            "nnzwpkj": {
+                "text": "so snapchat?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b41445694c24cc92e13828d178c88a45": {
+            "no11t6l": {
+                "text": "It is neat, but consider the privacy and security concerns of individuals whose locations you’re doxxing. We’re in strange times here in the States and personally this would creep me out if I were at a protest and someone was broadcasting who is where to possible bad actors or others with bad intentions.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7aa6b97c3805c4bd0bd6ce94017b71f8": {
+            "nrz2yzt": {
+                "text": "Oh boy, anything can be used for nefarious purposes when it comes to the public internet. It doesn't take much imagination to think of how this can be used that is contrary to your beliefs. Whatever they are.",
+                "quotes": [],
+                "parent_text": "totally valid concern. in fact this was something that worried us as well. that's why we've created layers - map based communities that can be private / invite only. if you don't want to make your stream public and only available to a community you trust, you can do that too"
+            }
+        },
+        "b0d4da554831f5845adc4071e3d9be06": {
+            "no2h00d": {
+                "text": "Cool idea! Do you deal with GPS spoofing somehow?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "05a2284a6520c6d5563b601b4e212890": {
+            "nnzbu12": {
+                "text": "Could always go the non-profit donation/fundraising route if you really want to middle finger big cap. If this got traction I would certainly donate in app. Though transparency of how donations are used would help too.",
+                "quotes": [],
+                "parent_text": "Not sure. No ads - it's all free right now. We're funding the servers ourselves Maybe subscriptions to exclusive content in the future"
+            }
+        },
+        "3f92fe4e29b4aab05c5873893a94aea0": {
+            "nnzhky9": {
+                "text": "Yeah the way Wikipedia handles it could work. I think most people would donate if they knew it wasn’t going to big tech companies but just funding the app itself",
+                "quotes": [],
+                "parent_text": "Could always go the non-profit donation/fundraising route if you really want to middle finger big cap. If this got traction I would certainly donate in app. Though transparency of how donations are used would help too."
+            },
+            "nnz40kn": {
+                "text": "Ooo cool I’ll check it out",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2f40d0615be16a10302e1a400b245023": {
+            "nnzvqqp": {
+                "text": "I think this is a great idea and should be given a shot. If it doesn't seem to be enough, then can switch to a subscription or private room model",
+                "quotes": [],
+                "parent_text": "Could always go the non-profit donation/fundraising route if you really want to middle finger big cap. If this got traction I would certainly donate in app. Though transparency of how donations are used would help too."
+            }
+        },
+        "1107723bc2faa44d2bb8ede6ebbdb355": {
+            "no35p9r": {
+                "text": "This would be a huge win. Big cap only wants us divided and bickering amongst ourselves.",
+                "quotes": [],
+                "parent_text": "Could always go the non-profit donation/fundraising route if you really want to middle finger big cap. If this got traction I would certainly donate in app. Though transparency of how donations are used would help too."
+            }
+        },
+        "503bdee654654f13bf99246aa8895c5c": {
+            "no05s7b": {
+                "text": "What map setup are you using for this?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4a29403da057a51a6cf3ab20e94f24e6": {
+            "no1s0wg": {
+                "text": "You should have some sort of karma or points. And filming at important areas or times gets you more (to incentivize filming).",
+                "quotes": [],
+                "parent_text": "great question. first, we do allow non-livestream posts direct from your camera so you can create 30 second video clips on the map to help people discover your content and make the app to be useful in a standalone way, we created layer communities to help you group content on the map and invite your friends and share it directly to other platforms we also have a popular feed in the app, which will show your posts to more people if it gets a lot of engagement, helping reward people who make content that sticks"
+            },
+            "no1sjuw": {
+                "text": "Livestreaming is so expensive. You might have to go the nonprofit or community funded way like Wikipedia - just look at twitch still struggling. I wonder if you could have some sort of mesh network to offload server costs in some way? I think you all have to do ads at a minimum",
+                "quotes": [],
+                "parent_text": "thank you! that means a lot. right now, we don't have any ads or any way to make money. everything is free :D we'd like to develop a sustainable business model though... but we're still trying to figure out what it is. we did start this whole thing as a business idea but we also want this app to be a force for good in the world"
+            }
+        },
+        "16c78868889c731d028cce16ddd4f4bb": {
+            "no1i36y": {
+                "text": "Reminds me of this crypto app calledPerseeve Cool Idea.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fd98b2365e4632bc2d07a57a615be3e5": {
+            "no2r0yy": {
+                "text": "cool work! fun fact this was an idea a few friends and I were thinking of building back in 2013",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "96eac1d306a69bef9b9692c06c57c7c9": {
+            "no2w92c": {
+                "text": "Same lol I remember I had this idea in 2012 when I was in high school but couldn't code so i forget about it, then 3 years later I saw Periscope was sold for 100M before they even launched and I shed a tear.",
+                "quotes": [],
+                "parent_text": "cool work! fun fact this was an idea a few friends and I were thinking of building back in 2013"
+            }
+        },
+        "ec04f22a1eef6a7e4b761cfc56c9fc0a": {
+            "no5isdh": {
+                "text": "Dude that's awesome",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "52254f4f8a15d239ddff9a3c4dec20c5": {
+            "no769z2": {
+                "text": "Actually nice idea",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "60d088a56089256df86dcadd01295e36": {
+            "no7jjqz": {
+                "text": "This is amazing",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "24ce30130ac1531de79dea9d9910be0c": {
+            "no8ssc9": {
+                "text": "bro this is a great idea",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ee7e3e7e0a9e0f137af4bece0c6370e7": {
+            "no933uh": {
+                "text": "If I were you, I would make this open source, get it running and leave. Have it run on donations. You will be a target for anyone who is pushing misinformation. And we all know it's not some random individual citizens.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f45804637266ed8ef5e7b69f74bae505": {
+            "nog1x3p": {
+                "text": "Twitter used to have periscope.. gone.. it was the best thing ever! I followed the arab uprisings on it. Raw, real, no comments.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "75e5bae678484694d1e0e822d01a6c16": {
+            "nnzcszu": {
+                "text": "Do you support multi story buildings?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzfha3": {
+                "text": "This was just a snarky joke on the tagline that that says I can stream things happening on the ground :)",
+                "quotes": [],
+                "parent_text": "our map does have elevation / terrain built into it, but we don't have anything specifically built for multi story buildings. What use case were you thinking, happy to add it to our big to do list"
+            }
+        },
+        "6769e0e700c61410300427a482623ac8": {
+            "nnzdt24": {
+                "text": "Pretty neat idea … can there be project files, like related to particular event, individual topic, anything ? Is there a possibility to work with you ? I myself have been wondering to build a truth , fact establisher platform for quite some time.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7c49e1fbf8ca52b11146ebac64120a74": {
+            "nnze0wb": {
+                "text": "Awesome concept, website looks nice. I think the brand name needs a little work, especially as it's more a live streaming platform. If you want to crunch names I'm down to help. Good job",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzlu7e": {
+                "text": "Something you can try is, Tell ChatGPT about your product and ask it to generate 50 at a time, brandable .com domain name ideas. Aim for no longer than 10 characters. under 8 is better. Then you can use a tool like bulk domain search, and just see what options you have. Probably most of the .com domain names with \"live\" keywords are taken, but maybe you can be a little more creative.",
+                "quotes": [],
+                "parent_text": "we agree, we're still working on the branding, we just havent really had much time to get things right"
+            }
+        },
+        "84e7ce7733991a3d363e0cb16babfb59": {
+            "nnzjd2e": {
+                "text": "Really crackin' idea. Would love to run an interview on this for We Are Founders if you're up for it?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzl8qe": {
+                "text": "Awesome, sending you a DM. 🙂",
+                "quotes": [],
+                "parent_text": "We would love that!!"
+            }
+        },
+        "c75698ce5d6ea31cfbdbf1d065c26632": {
+            "nnzk0p0": {
+                "text": "Is this 3D map from Apple Maps?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c12243d8c29e5b22524a399b8eaebd2a": {
+            "nnzmua5": {
+                "text": "i dig the idea, good luck!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ba7fc15d289f13fd11e43e3c5f5ec42d": {
+            "nnznq8b": {
+                "text": "that's some unreal good anti biased media tool if the Videos would be saved over time",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzpnux": {
+                "text": "how big is your team for such nice Features ?",
+                "quotes": [],
+                "parent_text": "you can save 30 seconds videos in the app, but we don't currently save livestreams. we'd love to do this in the near future though"
+            },
+            "nnzs0ot": {
+                "text": "how long did it take to code all this ?",
+                "quotes": [],
+                "parent_text": "we're just 2 people lol and my mom. of course."
+            }
+        },
+        "47fc224527b5c616557f4c23a16427ae": {
+            "nnzp2my": {
+                "text": "For the first time I find an app that could really make a difference! Congratulations indeed!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzpng2": {
+                "text": "I add if possible: Translation of the videos (I am Italian and if I want to see the videos in other languages ​​the translation would be very useful)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "43398e9d04ad8fd461f7e2dc11585eae": {
+            "nnzt2sg": {
+                "text": "Man this is so awesome! It could literally change the world with its potential for showing what events unfolded and where with pin point accuracy. Could you also share what went into making this project, the tech, challenges, early intuition, and most of all was it solo project or a team collaboration?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no04778": {
+                "text": "Huge props to you and your partner for being such visionary hard workers and that too for 3 years. Really inspiring stuff. Hope it gets the recognition it deserves!",
+                "quotes": [],
+                "parent_text": "so our team consistents of myself and my partner. i handle all the engineering, partner handles product direction / marketing / business / etc and he had the idea of doing a map based app. he's one of the smartest & wisest people ive ever worked with. from the engineering perspective i can say this was the most intense thing ive ever worked on. around 3 yrs of effort, i regularly stayed up until 7am working on it and woke up 930am for my regular engineering job multiple times a week. basically have had not much of a life for several years now but this was highly collaborative - my partner and i would bounce ideas off each other all the time, and refine how we did things. tech stack is python & react native early intuition was that we wanted to crowdsource location data to inform people. we thought it would be nice to go out and be notified about stuff your vicinity. the ideas evolved rather radically from there, into the concept of map-based communities and livestreaming"
+            }
+        },
+        "f57e0eb348b51a5a98a8cec07f68c230": {
+            "nnzy0r6": {
+                "text": "Uuh I got a problem. When I try to open the website it shows something for a split second and then gives me the whitescreen... Is there an android app?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzzc9i": {
+                "text": "Appreciate it, you should add these links in your post directly. Or some mod could pin it.",
+                "quotes": [],
+                "parent_text": "so sorry about that! here's a link to android and a link to ios if anyone needs"
+            },
+            "no01gbr": {
+                "text": "Some feedback: When searching for layers, that notification is in the middle of the screen, put it to the top and maybe a notch smaller. It's blocking the view on the map. Live Chat? I see comments but no idea if the creator sees them. Consider automatically adding publicly accessible cameras including traffic and weather cams. Mark them differently so people know there is nobody behind them. Probably just suggesting it because I like it but: Maybe a Discord server for the app to directly communicate with you guys? Or a subreddit? Idk. Would help with either of em.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e8e2a06cdf564366b19a3e3434e78bed": {
+            "no03zbr": {
+                "text": "I had this exact idea. But then left it at just an idea. Well done on execution",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "45be4b3665548837bc8836004ae527a6": {
+            "no051tp": {
+                "text": "Very nice indeed. Good luck. I really think this could take off.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3982b74473430048f9de5c396c0036de": {
+            "no05w6b": {
+                "text": "Yooo, this is actually insanely useful! Love it!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d78a6f3a7a6440ba641de9bb05b1fc50": {
+            "no06j8r": {
+                "text": "I’m in. This is neat.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0b37ec7d749ca398fca989fd77eee5c4": {
+            "no0e1as": {
+                "text": "Good idea",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "509aa23bdaa9ca1b7c4f690f04961efd": {
+            "no0nw3i": {
+                "text": "Cool app! My question would be, how are you going to compete with current live streaming services like Twitch and Kick? What stops people from going to those already established platforms that have more of a community?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fe7465c6c9e56588477b653921ac4e55": {
+            "no0p438": {
+                "text": "Great idea. looking forward to following this.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "efd50a47ea5c21fee1b81d047e8381a6": {
+            "no0tgb0": {
+                "text": "This is exactly what Snap Maps was made for but truly has lost their way…love this man, what’s the vision for this, will it be a non profit?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "feb66c0437481daf9db3e4352fc0c82d": {
+            "no0ti01": {
+                "text": "This could be amazing! I assume the critical mass isn't here yet but I'd love if this could be social media but on a local level. We could see live and upcoming events, explore people hiking in national parks, people hunting or fishing or riding bikes or whatever. I can see monetizing through supported pages. Restaurants featuring a special, bars featuring a live music act, a beauty shop showing off nails, a clothing store featuring trendy outfits, the possibilities are endless",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "00153e5a57751f835416fb7a54a4caa3": {
+            "no0vdyp": {
+                "text": "Citizen app has a similar concept for location based user streaming. Cool idea regardless!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "14b3e96d0b3fbcb008db6263b7f2d1d7": {
+            "no10kix": {
+                "text": "Good job dude, very nice app! Congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "15d03c3688f712c062952456222c4412": {
+            "no10km2": {
+                "text": "Necessity is the mother of invention. We need this. Thank you for your service.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a4d3bd2d4062a847f03f380e3a2b2443": {
+            "no248di": {
+                "text": "That moment when side projects and FOSS does things that are more necessary and useful than any conglomerate garbage",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1b1901169b00160c6d89f7b41f83bad0": {
+            "no259ev": {
+                "text": "This is actually really cool. The location verification aspect solves a huge problem with misinformation",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6b46312615f4a041f44bcc101a899350": {
+            "no294er": {
+                "text": "I never comment her because most of the posts aren't worth it but this is a great idea.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a4eb72daf4cb4463ded9fa5b911c61f2": {
+            "no2hysm": {
+                "text": "Love it! What map ate you using? looks better than google maps :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "74b763cc2941f9feb65c2dfb89bceb88": {
+            "no2i4ui": {
+                "text": "So, can we watch school assassinations live?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "acf9abeaecb57e1a231738b77e44cdd5": {
+            "no2immc": {
+                "text": "Can you prevent certain agencies from using this as self collected data on the protest layer?The news does a great job picking and choosing video bites to show a narrative with 1 or 2 cameras covering the events… can you ensure that our own videos won’t be clipped down to tell the news narrative? If so, you’ve broken away from the BS that you were sick of. If not, you’ve given them more ammunition to pick through. What data is collected? Can a user remain anonymous while streaming so no data collected can be associated with a single person if their face is never shown?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "846357b78954a2693c5ec367ac38fd7d": {
+            "no2jk9g": {
+                "text": "Dude this is super cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3d51f7c83610f32cad26f50ca7337698": {
+            "no2jtd7": {
+                "text": "Too generic and unfocussed experience right now from a fresh install. Needs a quick tutorial on first use or to just work more like the Snapchat stories map out if the box.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "672f6740236c9cb3e8a20c1088fd859d": {
+            "no2zg7q": {
+                "text": "Love this! Very relevant nowadays. I'm sure people still would find a way to fake it somehow (i.e. pointing the camera at a display or something?). But very good idea. Love it!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "612fa110b86e8275d15d4912078edd1d": {
+            "no3k1cn": {
+                "text": "check dms",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "26e32af588810d9b80c920081b6d6712": {
+            "no3mtwv": {
+                "text": "That’s amazing. It should fill the void that Periscope & Meerkat left.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e533ecea3b2a6b465834a22b25b2c4c4": {
+            "no3v3do": {
+                "text": "you should better ai-generated pictures on the website",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2a4f4821ed3fdbcf0e7aeb4a64545f77": {
+            "no463n0": {
+                "text": "This is very much a cool project",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6e78302e0a4d6c2ab66d04c2ee277415": {
+            "no5a5fp": {
+                "text": "This idea could be life-changing given the fact about rise in fake news.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "58508ef6cb7c0332da4d337576c5fce1": {
+            "no5cbck": {
+                "text": "Wow so cool man , how are you guys gathering public data , I mean how are u guys convincing people to use the platform and to livestream from different parts of the world , this feels like a feature of snapchat where you click on the markers and it just shows u some highlights or user uploaded videos . But ur app is 3D uses OSM and is kinda really cool Wanna know more about it , if you are willing to tell 🔥🔥",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "dc05accb79c8beaa1c5c1a55fdbdfaad": {
+            "no5qikg": {
+                "text": "I like the camera only idea, but what stops me from using my phone to record a screen showing an AI generated video of a protest?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "641f17b91a6bee9861d696188ae56bad": {
+            "no6couk": {
+                "text": "Congratulations you’ve built Periscope",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b9d8b7f8d6d1fdbc014855bd09c1efb0": {
+            "no6he7h": {
+                "text": "Amazing! What is the tech stack used? I already installed it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2401fb0f4aaae82d1cb6e42ff8681f65": {
+            "no6p8ws": {
+                "text": "you build an auto doxing app",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2484f14b0d1ed221defe67264ec53f02": {
+            "no6yzyx": {
+                "text": "Awesome! Working on a Similar idea.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4c8cf5027da208f20dfa6a016082cf2b": {
+            "no7ne0z": {
+                "text": "Casey Neistat at it again!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c62b933bf13eb4265a8d17eba634d277": {
+            "no7y602": {
+                "text": "imagine if this is also connected to public security cams",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cb393ff2264ae3f1fa9c784dbc83bdf5": {
+            "no8iue7": {
+                "text": "There’s already an app I have been using since a long time.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "51dbc3b4254fb8fe13f0cdd59f6001ac": {
+            "no8xu0j": {
+                "text": "Reminds me of periscope",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c38852befdc5601328ce05d579b5c2e3": {
+            "noafzhc": {
+                "text": "Doesn't seem to work. Only showing the same few people from months ago in New York. Is this only opt-in for certain streamers?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4c4a68cbbf645c24c2be35da567e5313": {
+            "nocm1zf": {
+                "text": "Are you concerned about authorities misusing the app to break up protests?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b884807389cece33aee38fd9ab34f964": {
+            "nof4urz": {
+                "text": "Wow, amazing",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c95c019da1a6100bedea5af207860bef": {
+            "noizeh3": {
+                "text": "Finally a decent SaaS",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "159b44d4c62872828d159d9334819d83": {
+            "nokm2ra": {
+                "text": "This reminds me of periscope from back in the day. How is the data pulled and positioned? Does it aggregate other streaming services or is this its own platform?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8a401569a8e30c789716e7b1ced0b70a": {
+            "non27sf": {
+                "text": "Would it be possible to allow people to send request to go live to users at a specific location? May be a request with small charge out of which you share the revenue with the user who is providing the feed?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3497bea3baffd92560945117fb9bbbe8": {
+            "nonrknu": {
+                "text": "Very cool idea and execution!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7b4bb343373546763ccfd5f0b43521a4": {
+            "nnztsx1": {
+                "text": "I. We. Make up your mind.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "93b31270736cb71434ced62360947494": {
+            "nnzbrig": {
+                "text": "Nice",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "efabda8afc651f37d5d0dcf96a241176": {
+            "nnzd1ru": {
+                "text": "I love the idea. Nice execution too. Maybe its just for demo purposes for now, but 3 of the posts I clicked on said \"1 Year Ago\"",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8936ebe3cf3ac8889af8df974b2db579": {
+            "nnze8ug": {
+                "text": "Looks good. Do you know about the Citizen app? How is this different?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "31d756530ec0e1da4fe923748f58eb20": {
+            "nnzf6cb": {
+                "text": "this looks like it could help a lot rn",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnzhzxd": {
+                "text": "YES, most def. It reminds me of pokemon go when you go to a certain stop and you can scan the place or whatever it was lol but this is GOOD",
+                "quotes": [],
+                "parent_text": "thanks. we felt like the world needs a bit more real stuff in it, and location makes that easier to verify imo since you can just go and check the place"
+            }
+        },
+        "2147ce558fe2077dd01810274a2cd06e": {
+            "nnzg5xd": {
+                "text": "Brilliant concept",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6ea6b42ea5416bdb07348a644a197a86": {
+            "nnzj13s": {
+                "text": "Very cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b7931d8a9ce7acea0d45c6ce14979231": {
+            "nnzk0lm": {
+                "text": "This freaking amazing.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c00d04a8b8dc0787941d5425b2a2b74f": {
+            "nnzzkux": {
+                "text": "There are SO many skeptical points I can think of rn, especially the comment on how you achieve critical mass etc. but for now, ROOTING for this to be a success, so I'm in. Signing up, and will try to stream something live over the week all the way over from Karachi, Pakistan :PP San Diego seems to be the only place rn.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no044pr": {
+                "text": "Surprised you didn't do the typical YC just post the MVP kind of shit... you have an iPhone, Android, Web app all from the start. Well thought out, good going!",
+                "quotes": [],
+                "parent_text": "thank you so much! we're hoping that people can find the app useful for different location based purposes using the communities feature"
+            }
+        },
+        "ad134595577c27dc6b7a04eb97368536": {
+            "no073fn": {
+                "text": "Just thinking outloud, but didn't Foursquare rename itself to Swarm, and then subsequently shut itself down once it realized it probably wasn't safe to show people where a group of people were gathered (mass-shootings, etc). I think Google had a similar feature and also shut it down. That said, this is really cool. I know it's more about showing live video, but just thought the map feature is the risky part.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f3026390664fd8c6aaff80a25d7e59c8": {
+            "np4gs9y": {
+                "text": "how did you implement the 3d map?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8deffe7f0eddaabf2fcad12fb411d2d7": {
+            "nplzft7": {
+                "text": "Looks awesome!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "532e1a9f81de0ea8474137e7f4e05492": {
+            "ns76nm2": {
+                "text": "This reminds me of periscope, can you see past streams?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c6ce0c163674b150208811c03a9a4dd3": {
+            "nsrh03d": {
+                "text": "This looks great!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fcea5489931cb296c6d2520a03860c36": {
+            "nsvlue0": {
+                "text": "This is really valuable - if you can make an app that people can pop open that IMMEDIATELY starts recording that could really capture a lot of crime.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a1d33d29c5aa665868473cfe7511b9f0": {
+            "nt5s12l": {
+                "text": "Citystreamers is a same concept only with payment options. Maybe we can collab. Greets Miloud",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "52e93ce28af88631011a2106b8ba6f6c": {
+            "nt84psl": {
+                "text": "Thats a nice one !",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a01f067b85773078591a3d84731c8833": {
+            "nnzj9co": {
+                "text": "So you invited map that facebook killed in 2019?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        }
+    }
+}

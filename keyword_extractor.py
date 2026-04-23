@@ -1,6 +1,7 @@
 import altair as alt
 import numpy as np
 import pandas as pd
+import contractions
 from sklearn.feature_extraction.text import CountVectorizer
 from typing import Dict
 
@@ -8,30 +9,32 @@ from typing import Dict
 def extract_persona_keywords(
     data: Dict,
     ngram_range=(1, 2),
-    min_df: int = 2,
+    min_df: int = 1,
     top_n: int = 15,
     alpha: float = 1,
 ):
+    """Extract and visualize persona-specific keywords using log-odds weighting
+      :param data: The matched personas data
+      :param ngram_range: The n-gram range for tokenization
+      :param min_df: Minimum document frequency for terms
+      :param top_n: Number of top terms to display per persona
+      :param alpha: Smoothing parameter for log-odds
+      :return: Altair heatmap chart of persona keyword scores"""
+
     docs, persona_labels = flatten_data(data)
 
     vectorizer = CountVectorizer(
         stop_words="english",
         ngram_range=ngram_range,
-        min_df=min_df
+        min_df=min_df,
+        token_pattern=r"(?u)\b[a-zA-Z0-9_]+(?:'[a-zA-Z]+)?\b"
     )
 
-    x = vectorizer.fit_transform(docs)
+    document_term_matrix = vectorizer.fit_transform(docs)
+
     feature_names = vectorizer.get_feature_names_out()
 
-    df_counts = np.asarray((x > 0).sum(axis=0)).ravel()
-
-    num_docs = x.shape[0]
-
-    idf = np.log((num_docs + 1) / (df_counts + 1)) + 1
-
-    x = x.multiply(idf)
-
-    persona_scores = compute_persona(x, persona_labels, feature_names, alpha)
+    persona_scores = compute_persona(document_term_matrix, persona_labels, feature_names, alpha)
 
     return visualise_output(persona_scores, top_n)
 
@@ -45,40 +48,84 @@ def flatten_data(data: Dict):
     for persona, sentiments in data.items():
         for _, comments in sentiments.items():
             for entry in comments:
-                docs.append(entry["comment"])
+                docs.append(contractions.fix(entry["comment"]))
                 persona_labels.append(persona)
 
     return docs, persona_labels
 
 
-def compute_persona(x, labels, feature_names, alpha):
-    df = pd.DataFrame.sparse.from_spmatrix(x, columns=feature_names)
-    df["persona"] = labels
+def compute_persona(document_term_matrix, labels, feature_names, alpha):
+    """Compute log-odds scores for each term per persona
+    :param document_term_matrix: Document-term matrix
+    :param labels: Persona labels for each document
+    :param feature_names: Vocabulary terms
+    :param alpha: Smoothing parameter
+    :return: Dictionary of personas mapped to sorted term scores"""
+    dataframe = pd.DataFrame.sparse.from_spmatrix(document_term_matrix, columns=feature_names)
+    dataframe["persona"] = labels
 
-    persona_counts = df.groupby("persona").sum()
+    persona_counts = dataframe.groupby("persona").sum()
+
+    background = persona_counts.sum(axis=0)
+
     results = {}
 
     for persona in persona_counts.index:
         class_counts = persona_counts.loc[persona]
-        other_counts = persona_counts.drop(persona).sum()
+        other_counts = background - class_counts
 
-        scores = log_odds(class_counts, other_counts, alpha, len(feature_names))
+        scores = log_odds(class_counts, other_counts, background, alpha)
         results[persona] = scores.sort_values(ascending=False)
 
     return results
 
 
-def log_odds(class_counts, other_counts, alpha, vocab_size):
-    class_total = class_counts.sum()
-    other_total = other_counts.sum()
+def log_odds(class_counts, other_counts,background, alpha =1 ):
+    """ Monroe-style log-odds
+    :param class_counts: Term counts for the target persona
+    :param other_counts: Term counts for all other personas
+    :param alpha: Smoothing parameter
+    :param background: Total number of terms
+    :return: Log-odds score per term"""
 
-    p_class = (class_counts + alpha) / (class_total + alpha * vocab_size)
-    p_other = (other_counts + alpha) / (other_total + alpha * vocab_size)
+    eps = 1e-12
 
-    return np.log(p_class / p_other)
+    bg = background / background.sum()
+    alpha_i = alpha * bg
+    alpha0 = alpha_i.sum()
+
+    y1 = class_counts
+    y2 = other_counts
+
+    n1 = y1.sum()
+    n2 = y2.sum()
+
+    num1 = y1 + alpha_i
+    den1 = (n1 - y1) + (alpha0 - alpha_i)
+
+    num2 = y2 + alpha_i
+    den2 = (n2 - y2) + (alpha0 - alpha_i)
+
+    num1 = np.maximum(num1, eps)
+    num2 = np.maximum(num2, eps)
+    den1 = np.maximum(den1, eps)
+    den2 = np.maximum(den2, eps)
+
+    log_odds_1 = np.log(num1) - np.log(den1)
+    log_odds_2 = np.log(num2) - np.log(den2)
+
+    delta = log_odds_1 - log_odds_2
+
+    variance  = (1 / num1) + (1 / num2)
+
+    return pd.Series(delta / np.sqrt(variance ), index=class_counts.index)
 
 
 def visualise_output(persona_scores, top_n):
+    """Create and save a heatmap of top persona keywords
+    :param persona_scores: Dictionary of persona term scores
+    :param top_n: Number of top terms per persona
+    :return: Altair chart object"""
     df = pd.DataFrame({k: v.to_dict() for k, v in persona_scores.items()}).T.fillna(0.0)
 
     persona_top_words = {}
@@ -100,10 +147,10 @@ def visualise_output(persona_scores, top_n):
     ).rename(columns={"index": "persona"})
 
     chart = alt.Chart(long_df).mark_rect().encode(
-        x=alt.X("term:N", sort=None),
-        y="persona:N",
+        x="persona:N",
+        y=alt.Y("term:N", sort=None),
         color="score:Q"
-    ).properties(width=900, height=400)
+    ).properties(width=400, height=900)
 
     chart.save("persona_heatmap.html")
 

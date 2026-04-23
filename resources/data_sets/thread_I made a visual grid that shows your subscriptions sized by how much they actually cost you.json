@@ -1,0 +1,1025 @@
+{
+    "title": "I made a visual grid that shows your subscriptions sized by how much they actually cost you",
+    "comments": {
+        "751ce8a305620ba4c9c08b24d0978d3d": {
+            "nt9kfzw": {
+                "text": "I am afraid once I see it I cannot unsee it.. gonna face my streaming sins now!!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4f41e5f1f363af709f9fdb9b4651cfa1": {
+            "nt9kqpv": {
+                "text": "You'd better face it, or else it might grow even bigger!!!!!!",
+                "quotes": [],
+                "parent_text": "I am afraid once I see it I cannot unsee it.. gonna face my streaming sins now!!!"
+            },
+            "nt9wqka": {
+                "text": "LMAO, I can't unsee it now",
+                "quotes": [],
+                "parent_text": "Real use case of bundle analyser xd Great work"
+            },
+            "ntailsh": {
+                "text": "I'm glad that you like it!",
+                "quotes": [],
+                "parent_text": "This is nice. Thanks for not forcing signup."
+            },
+            "ntnz7am": {
+                "text": "Thank you, actually, I'm not going to do that. I already linked my product in the final step, where you can get more features (analytics, reminders, family sharing with cost splitting, and the grid, etc.). If it solves people's problems, they will eventually get it. But for this grid alone, I will keep it free, and no sign-up for people that doesn't actually need as many features to use it.",
+                "quotes": [],
+                "parent_text": "Force sign up, monitize this. Great and simple idea I bet people are willing to spend a couple bucks on. Could be enhanced to a full blown financial guide. Keep it up!"
+            },
+            "ntaovma": {
+                "text": "I see, yeah I actually thought of providing a list of popular subscriptions so it fills faster. But they would still have to fill in their price cuz most subscriptions seem to have different pricing in different places? Yeah but CSV import is also a good way, I might implement that!",
+                "quotes": [],
+                "parent_text": "This is super cool... but I think it's asking for a lot of effort to get a one-time visualization. Main suggestion is to provide a quicker UI for entering these in. There's a fairly limited set of subscriptions that'll cover many for most users. Letting users select options would be much quicker than the hefty form you have. Perhaps keep that for adding additional options. Another possibility would be allowing a user to paste in a CSV export from a bank statement and then recognizing the recurring charges."
+            },
+            "ntaq5kw": {
+                "text": "Sounds good actually!",
+                "quotes": [],
+                "parent_text": "It seems like the idea here is to raise awareness, so inputting a low price available and letting users actively change that could be a feature, not a bug..."
+            },
+            "ntahh7i": {
+                "text": "Thank you. Maybe I should add a currency selector too! For the icon, I'm using [ API (I'm not affliate with them). But if you don't want to use their API, you can use some sort of favicon extractor (I think you can Google it), the reason why I didn't use it because I was too lazy to setup a server to get around the cors so I just use the [ API",
+                "quotes": [],
+                "parent_text": "Looks great. Wish I could select the currency displayed. Question. How do you make it so that it auto makes an icon if it's a real website? Almost any working link works."
+            },
+            "nt9slxl": {
+                "text": "What's the issue? :D",
+                "quotes": [],
+                "parent_text": "Lmao, u pay ?"
+            },
+            "ntaaxmr": {
+                "text": "oh that's cool!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntaeuvf": {
+                "text": "Thank you. I'm not sure if I should do that because it kinda yells \"this is a promotion xD\"",
+                "quotes": [],
+                "parent_text": "Well done. This is marketing done right. Also, a missed opportunity. If I were you, I'd put this under the Vexly domain. Something like"
+            },
+            "ntafaea": {
+                "text": "Thank you! I'll note that down",
+                "quotes": [],
+                "parent_text": "No, that's definitely okay. I'm sure fellow redditors will agree with me. After all this gives value for free."
+            },
+            "ntdoov7": {
+                "text": "LOL, well its not possible cuz i want to make it no sign up, pulling info from bank or mail is not easy",
+                "quotes": [],
+                "parent_text": "id prefer it to pull out these info from my personal details cuz i have no idea what subscriptions ive signed up for lol"
+            },
+            "ntaalk2": {
+                "text": "really, I might need to recheck the code, do you think its bigger than it should be?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntao0pe": {
+                "text": "I see, thank you",
+                "quotes": [],
+                "parent_text": "Disney looks smaller than notion and nord... though that could be an optical illusion. Though Apple is definitely less than 1/3 of any of them. Though overall, this seems close enough."
+            },
+            "ntbhjiq": {
+                "text": "a lot of people do unfortunately",
+                "quotes": [],
+                "parent_text": "Who pay YouTube premiun?"
+            },
+            "ntao234": {
+                "text": "Thank youu!",
+                "quotes": [],
+                "parent_text": "Good work!"
+            },
+            "ntaoweo": {
+                "text": "thank you",
+                "quotes": [],
+                "parent_text": "I like it"
+            },
+            "ntapw8y": {
+                "text": "Thank you!",
+                "quotes": [],
+                "parent_text": "Love the design. Great job!"
+            },
+            "ntaxxos": {
+                "text": "thank you easymoneypapi (great name)",
+                "quotes": [],
+                "parent_text": "Nice"
+            },
+            "ntaz22u": {
+                "text": "lol tbh ur name kinda reminded me of crypto dudes",
+                "quotes": [],
+                "parent_text": "😂 its a mix of instagram usernames from easymoneysniper (kevin durant) and champagnepapi (drake)"
+            },
+            "ntba5h3": {
+                "text": "yes, I would when I have the time!",
+                "quotes": [],
+                "parent_text": "Great going! Any chance you could look at additional currencies in future? ZAR based here :) all the best"
+            },
+            "ntba2b3": {
+                "text": "I can public the source, it's just a simple html file with css and js. I might have to do some refactor before open source it",
+                "quotes": [],
+                "parent_text": "Looks cool! Is it open source?"
+            },
+            "nwuywe4": {
+                "text": "check out",
+                "quotes": [],
+                "parent_text": "Looking forward to it"
+            },
+            "ntbhh9a": {
+                "text": "really, never seem to see anyone did this visualizer",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntdok1y": {
+                "text": "Sure its on my list",
+                "quotes": [],
+                "parent_text": "Thanks, this is great! I’m gonna check it out. Can I make a feature request 😁 Support for other currencies, not just $"
+            },
+            "ntdohxo": {
+                "text": "Yes its in my list",
+                "quotes": [],
+                "parent_text": "Great Job, can add currency change?"
+            },
+            "ntdoh36": {
+                "text": "Yes, I will refactor it, add more things and public it",
+                "quotes": [],
+                "parent_text": "Can you share the source code?"
+            },
+            "ntghsm3": {
+                "text": "wow, I guess you can join my server and wait for my announcementhere",
+                "quotes": [],
+                "parent_text": "Do you have somewhere we can follow to await that release?"
+            },
+            "ntgkdgy": {
+                "text": "it's alright! I'll reply to you here when its added",
+                "quotes": [],
+                "parent_text": "I have to admit I won't do that as I don't use discord, but I'll follow on the site and hope for updates."
+            },
+            "ntdodp5": {
+                "text": "Hmmm, about the vexly flow data sounds like a good idea. I think more about the other one",
+                "quotes": [],
+                "parent_text": "I would expose the vexlyflowdata in a formatted fashion via a textarea or something to easily allow for bulk importing. Also, I would add groups to it so you can add a group then select it and apply it to a subscription. So you could have a \"Necessary\" group that would probably include things like a Cell phone plan and internet plan. And then a \"Optional\" or \"On the bubble\" group if people need to figure out which subscriptions to pare down. Obviously that would include things like Amazon Prime, Netflix, HBO... so if no groups then its a big grid but distinct the groups then filter for only items in that group if there are any and display the group grids."
+            },
+            "ntdo7ag": {
+                "text": "Yes, It's on my list",
+                "quotes": [],
+                "parent_text": "Any Chance of adding an option to change the currenvy symbol? € would be nice But like the tool so far"
+            },
+            "ntdo5pa": {
+                "text": "Hey, it's just Tailwindcss",
+                "quotes": [],
+                "parent_text": "This is super nice! What did you use to built the UI?"
+            },
+            "ntdo3uy": {
+                "text": "Lol so real, but you gotta face it",
+                "quotes": [],
+                "parent_text": "I'm afraid to use this and come face to face with my poor financial decisions."
+            },
+            "ntdo21h": {
+                "text": "You know what, I'm adding it",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntdo0p5": {
+                "text": "Thank you",
+                "quotes": [],
+                "parent_text": "Clever"
+            },
+            "ntdnzha": {
+                "text": "Thank you",
+                "quotes": [],
+                "parent_text": "Great job👏👏👏"
+            },
+            "ntdnypu": {
+                "text": "It's just pure TailwindCSS",
+                "quotes": [],
+                "parent_text": "What did you use to make this UI? It looks really good"
+            },
+            "ntdpcwt": {
+                "text": "Well I was inspired by a lot of website tbh",
+                "quotes": [],
+                "parent_text": "Cool! I do absolutely zero UI but I’d like to get more familiar with making things look nice!"
+            },
+            "nte27pi": {
+                "text": "just manually input",
+                "quotes": [],
+                "parent_text": "How ingest data"
+            },
+            "nte5c5t": {
+                "text": "haha ikr",
+                "quotes": [],
+                "parent_text": "Nice work! Pretty cool (and a bit scary...) to see all these expenses visualized like that."
+            },
+            "nteyo7c": {
+                "text": "thanks, I think I am script kiddle yeah",
+                "quotes": [],
+                "parent_text": "it's generated by AI, script kiddle"
+            },
+            "nteyr6i": {
+                "text": "thank you!",
+                "quotes": [],
+                "parent_text": "Very cool!"
+            },
+            "ntf3iox": {
+                "text": "well I dont think people want to connect their bnak to random website lol, also it kinda complex to integrate that, this is just a fun side project",
+                "quotes": [],
+                "parent_text": "The next step would be to use open banking (True Layer in the UK or Plaid in the US) so it automatically connects to users banks and automatically finds subscriptions. For the users it becomes 10x quicker… no manual insertions"
+            },
+            "ntfec33": {
+                "text": "cool, thank you for your opinion",
+                "quotes": [],
+                "parent_text": "It's pretty, but all AI-generated code looks the same. I wonder what the internet will look like in 5 years."
+            },
+            "ntgi68c": {
+                "text": "yea its on my todo list rn",
+                "quotes": [],
+                "parent_text": "Good idea, imo needs some UX improvements. Some suggestions, take it or leave it 😅 Step one: I’d put all the famous ones to select as a logo. Like Grid Step two: Currency Selector and a table with name of previously selected subscription, input for price and frequency (weekly/monthly/yearly) Step 3: Custom or the ones thats not on step 1 with price And then the result"
+            },
+            "ntgvvie": {
+                "text": "nope",
+                "quotes": [],
+                "parent_text": "you should put 10$ subscription on this now"
+            },
+            "ntgvwc0": {
+                "text": "lol agree though",
+                "quotes": [],
+                "parent_text": "Ok but now we should size them by how much value, usefulness and happiness they bring, against what they cost. Maybe the graph would be different"
+            },
+            "ntgzgxo": {
+                "text": "Thank you!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntikuw5": {
+                "text": "well if I add AI I might need to do it BYOK or else I would go bankrupt",
+                "quotes": [],
+                "parent_text": "Amazing tool! But it takes quite a bit of manual effort, and I don’t think I’d personally go through all of that. If it had an AI feature where I could just paste my subscription emails/text and it automatically generated the cards, that would make it way more productive for me."
+            },
+            "ntjnnww": {
+                "text": "soon!",
+                "quotes": [],
+                "parent_text": "Open source?"
+            },
+            "ntju1s9": {
+                "text": "i dont plan to add auth, maybe i could do import and export",
+                "quotes": [],
+                "parent_text": "You thought about log in feuture or you want it to reset after webbroswer"
+            },
+            "ntldmza": {
+                "text": "its on my list rn, will work when i have time",
+                "quotes": [],
+                "parent_text": "Please add currency signs for other countries as well."
+            },
+            "nwca2b0": {
+                "text": "what do you mean?",
+                "quotes": [],
+                "parent_text": "Looks great.👏 Quick question: are you doing anything for downtime alerts yet, or just watching logs for now?"
+            },
+            "nwcavbk": {
+                "text": "but this is a subscription visualizer, not a uptime alert bot",
+                "quotes": [],
+                "parent_text": "Yeah — what I meant is: When a site goes down, do you get notified automatically (like via email/alert), or do you notice it when you check logs or dashboards? Lots of uptime tools trigger alerts instantly and often falsely, which gets noisy. I’m exploring a simple way to reduce that noise — just asking so I can understand what people are doing today."
+            },
+            "nt9w8zs": {
+                "text": "Thank you",
+                "quotes": [],
+                "parent_text": "congrats!❀"
+            },
+            "ntafgej": {
+                "text": "I'd think that's a flex, how can you even do that?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntafxtl": {
+                "text": "That's a great tip, thank you for sharing",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8460eca61755c004199dba6eb36cec2a": {
+            "nt9woi6": {
+                "text": "Real use case of bundle analyser xd Great work",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nt9x9w8": {
+                "text": "You should post this on X with same",
+                "quotes": [],
+                "parent_text": "LMAO, I can't unsee it now"
+            }
+        },
+        "322156ffb3ffa6c169f788ead1025c7e": {
+            "ntcibd2": {
+                "text": "Lol a life bundle analyzer. I hope Adobe is lazy loaded.",
+                "quotes": [],
+                "parent_text": "Real use case of bundle analyser xd Great work"
+            }
+        },
+        "7c2d1497a1562ad673080c20752edf0e": {
+            "ntaij08": {
+                "text": "This is nice. Thanks for not forcing signup.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c594557457bcbcfa9d28a381a275f52f": {
+            "ntnydhg": {
+                "text": "Force sign up, monitize this. Great and simple idea I bet people are willing to spend a couple bucks on. Could be enhanced to a full blown financial guide. Keep it up!",
+                "quotes": [],
+                "parent_text": "I'm glad that you like it!"
+            }
+        },
+        "375137af3c4c633a585b0cbd92de8800": {
+            "ntaofo7": {
+                "text": "This is super cool... but I think it's asking for a lot of effort to get a one-time visualization. Main suggestion is to provide a quicker UI for entering these in. There's a fairly limited set of subscriptions that'll cover many for most users. Letting users select options would be much quicker than the hefty form you have. Perhaps keep that for adding additional options. Another possibility would be allowing a user to paste in a CSV export from a bank statement and then recognizing the recurring charges.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntaq249": {
+                "text": "It seems like the idea here is to raise awareness, so inputting a low price available and letting users actively change that could be a feature, not a bug...",
+                "quotes": [],
+                "parent_text": "I see, yeah I actually thought of providing a list of popular subscriptions so it fills faster. But they would still have to fill in their price cuz most subscriptions seem to have different pricing in different places? Yeah but CSV import is also a good way, I might implement that!"
+            },
+            "ntanul4": {
+                "text": "Disney looks smaller than notion and nord... though that could be an optical illusion. Though Apple is definitely less than 1/3 of any of them. Though overall, this seems close enough.",
+                "quotes": [],
+                "parent_text": "really, I might need to recheck the code, do you think its bigger than it should be?"
+            }
+        },
+        "229d24d74a203cb7d6d00c476f9ef9d8": {
+            "ntah843": {
+                "text": "Looks great. Wish I could select the currency displayed. Question. How do you make it so that it auto makes an icon if it's a real website? Almost any working link works.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5292ce97d89cc14d677127eb774a9d61": {
+            "ntbvniu": {
+                "text": "+1 on the currency, nice work as well.",
+                "quotes": [],
+                "parent_text": "Thank you. Maybe I should add a currency selector too! For the icon, I'm using [ API (I'm not affliate with them). But if you don't want to use their API, you can use some sort of favicon extractor (I think you can Google it), the reason why I didn't use it because I was too lazy to setup a server to get around the cors so I just use the [ API"
+            }
+        },
+        "07d69e0d44eb32e972b915c8bfed265b": {
+            "nt9sis8": {
+                "text": "Lmao, u pay ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e0bb993b0ae27a6881eb6eef687fc89c": {
+            "ntaeoyv": {
+                "text": "Well done. This is marketing done right. Also, a missed opportunity. If I were you, I'd put this under the Vexly domain. Something like",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntaf77b": {
+                "text": "No, that's definitely okay. I'm sure fellow redditors will agree with me. After all this gives value for free.",
+                "quotes": [],
+                "parent_text": "Thank you. I'm not sure if I should do that because it kinda yells \"this is a promotion xD\""
+            }
+        },
+        "8db1dee59f02710fec18eff5e412c394": {
+            "ntbtnd0": {
+                "text": "id prefer it to pull out these info from my personal details cuz i have no idea what subscriptions ive signed up for lol",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d582fa29168beaa0e96b667ed328009a": {
+            "ntbudh1": {
+                "text": "Can you add currency conversion?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2adfac5269fba67dbc61002cd5150b2f": {
+            "ntbh96c": {
+                "text": "Who pay YouTube premiun?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nthr6yn": {
+                "text": "First comment that makes sense to me about this topic",
+                "quotes": [],
+                "parent_text": "I watch a lot of YouTube on the living room TV. Well worth the money to skip the ads I know ad blockers exist but watching YouTube with the family on the laptop isn’t practical"
+            },
+            "nthumxv": {
+                "text": "I'm not familiar with this, but is it possible to configure a server's IP address for DNS on a TV? If so, can I use the AdGuard server's IP address?",
+                "quotes": [],
+                "parent_text": "If someone can invent a smart tv free Adblocker though… take my money!! (Donation)"
+            }
+        },
+        "75e5bae678484694d1e0e822d01a6c16": {
+            "nte82oy": {
+                "text": "I know pihole exists, but it's easier to remove ads on all devices",
+                "quotes": [],
+                "parent_text": "Who pay YouTube premiun?"
+            }
+        },
+        "def013ac98a08bc0a571df00e7fff1c3": {
+            "nthr1al": {
+                "text": "I watch a lot of YouTube on the living room TV. Well worth the money to skip the ads I know ad blockers exist but watching YouTube with the family on the laptop isn’t practical",
+                "quotes": [],
+                "parent_text": "Who pay YouTube premiun?"
+            },
+            "nths8w8": {
+                "text": "If someone can invent a smart tv free Adblocker though… take my money!! (Donation)",
+                "quotes": [],
+                "parent_text": "First comment that makes sense to me about this topic"
+            },
+            "nthvu5x": {
+                "text": "I don’t speak nerd but let me know if you figure it out",
+                "quotes": [],
+                "parent_text": "I'm not familiar with this, but is it possible to configure a server's IP address for DNS on a TV? If so, can I use the AdGuard server's IP address?"
+            },
+            "nx9pbcr": {
+                "text": "Thank you sir, I will look into it",
+                "quotes": [],
+                "parent_text": "SmartTube for Android TV or buy a Raspberry Pi board, watch a couple of tutorials and set-up pihole. No more ads on any device."
+            }
+        },
+        "1a010bf3b0795ddf183f621984e93bca": {
+            "nx96uvs": {
+                "text": "SmartTube for Android TV or buy a Raspberry Pi board, watch a couple of tutorials and set-up pihole. No more ads on any device.",
+                "quotes": [],
+                "parent_text": "If someone can invent a smart tv free Adblocker though… take my money!! (Donation)"
+            }
+        },
+        "37e83c943cb9b9cd0ecb4a5fb9e70920": {
+            "ntjl0bq": {
+                "text": "Plus YT Music. As a YT heavy user, their algo suggestions are better than spotify for me. Endured non-premium for both for such a long time using ad blockers and ad-less mods but not foolproof and mod devs ended support eventually. And the whole family benefits. Mega worth with my usecase.",
+                "quotes": [],
+                "parent_text": "I watch a lot of YouTube on the living room TV. Well worth the money to skip the ads I know ad blockers exist but watching YouTube with the family on the laptop isn’t practical"
+            }
+        },
+        "fce5c867e4d767d05519500253080553": {
+            "ntannsl": {
+                "text": "Good work!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8bbc2991ca8c7df17996c5fb84f0850f": {
+            "ntaoddc": {
+                "text": "I like it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "66a1e7164f69e68a70a409a70fe3ac26": {
+            "ntapshl": {
+                "text": "Love the design. Great job!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "281414df5459b71fc291ca0259d468d4": {
+            "ntawft3": {
+                "text": "Nice",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntayj3q": {
+                "text": "😂 its a mix of instagram usernames from easymoneysniper (kevin durant) and champagnepapi (drake)",
+                "quotes": [],
+                "parent_text": "thank you easymoneypapi (great name)"
+            }
+        },
+        "1ce6ec557f83a03b70238eeced767d20": {
+            "ntb1fbc": {
+                "text": "Great going! Any chance you could look at additional currencies in future? ZAR based here :) all the best",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "757ab7d4f34aca9ad040cda3e8a06f36": {
+            "ntb9ubb": {
+                "text": "Looks cool! Is it open source?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "77473e0fe4aa22d983d06a1bd19dfa44": {
+            "nwuyr94": {
+                "text": "Looking forward to it",
+                "quotes": [],
+                "parent_text": "I can public the source, it's just a simple html file with css and js. I might have to do some refactor before open source it"
+            },
+            "nwv0b2g": {
+                "text": "Thanks.",
+                "quotes": [],
+                "parent_text": "check out"
+            }
+        },
+        "89f0bdf78b280a6910bc74fd585b29b0": {
+            "ntbursd": {
+                "text": "This is really cool man!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a58ed58187fa506cb8f4a5ba7399e5dd": {
+            "ntbyeg2": {
+                "text": "Thanks, this is great! I’m gonna check it out. Can I make a feature request 😁 Support for other currencies, not just $",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "84accd025dc6091b8a5a6eb0d4b7da24": {
+            "ntbymun": {
+                "text": "Love how seeing this as boxes instantly makes every bad subscription decision feel ten times dumber.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "10fd8c585e000e7a1bb5bc4e845af0a5": {
+            "ntc0aut": {
+                "text": "looks great but can you add currency select?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "56956a131dbdc37af65d7f828442d4cb": {
+            "ntc0v8m": {
+                "text": "Joke's on you... Coz I sail the rough seas!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fbe35af467b75c33da476a74b58f073a": {
+            "ntc4vg5": {
+                "text": "This is super slick! Phenomenal!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4a4d06688172969b69b0660b330e98b7": {
+            "ntcava4": {
+                "text": "Great Job, can add currency change?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "202f2f41025895fb7ef2ba384f853566": {
+            "ntcbnej": {
+                "text": "Can you share the source code?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntecdev": {
+                "text": "Awesome!!! 👏",
+                "quotes": [],
+                "parent_text": "Yes, I will refactor it, add more things and public it"
+            }
+        },
+        "3b26b8ad01fd63a6feaf6d901b1ab04c": {
+            "ntghm18": {
+                "text": "Do you have somewhere we can follow to await that release?",
+                "quotes": [],
+                "parent_text": "Yes, I will refactor it, add more things and public it"
+            },
+            "ntgk7ip": {
+                "text": "I have to admit I won't do that as I don't use discord, but I'll follow on the site and hope for updates.",
+                "quotes": [],
+                "parent_text": "wow, I guess you can join my server and wait for my announcementhere"
+            },
+            "ntgkqgl": {
+                "text": "Thank you. That's very kind.",
+                "quotes": [],
+                "parent_text": "it's alright! I'll reply to you here when its added"
+            }
+        },
+        "7f193c4a096e8981cba1277c98b31218": {
+            "ntcfgfy": {
+                "text": "Love it 👍 thanks",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7fe1bb26c866cfbe569953354a177c9b": {
+            "ntchzd5": {
+                "text": "I would expose the vexlyflowdata in a formatted fashion via a textarea or something to easily allow for bulk importing. Also, I would add groups to it so you can add a group then select it and apply it to a subscription. So you could have a \"Necessary\" group that would probably include things like a Cell phone plan and internet plan. And then a \"Optional\" or \"On the bubble\" group if people need to figure out which subscriptions to pare down. Obviously that would include things like Amazon Prime, Netflix, HBO... so if no groups then its a big grid but distinct the groups then filter for only items in that group if there are any and display the group grids.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7d80dbc3279f8bc9c06e875ce6a66771": {
+            "ntcir7o": {
+                "text": "Any Chance of adding an option to change the currenvy symbol? € would be nice But like the tool so far",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cf73e0fece5be5ced448e75f9271f514": {
+            "ntclt3f": {
+                "text": "This is super nice! What did you use to built the UI?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntdtznc": {
+                "text": "Beautifully made, great job!",
+                "quotes": [],
+                "parent_text": "Hey, it's just Tailwindcss"
+            }
+        },
+        "9b3ac0d36f109cc9377bfb9f8ed4d68e": {
+            "ntcq37c": {
+                "text": "I'm afraid to use this and come face to face with my poor financial decisions.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "26967dca5198b2d7cfe88ef74d8722e2": {
+            "ntd58yo": {
+                "text": "I need one to see which family member spent the most in a given month. :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "84de820106c2aa2d450cbbea4eda1914": {
+            "ntdgtrl": {
+                "text": "Clever",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "78fc65019e10addac45770c4fb98e8fe": {
+            "ntdlrqi": {
+                "text": "Great job👏👏👏",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "deb8a1f7ba9a4e3db731d699f800721a": {
+            "ntdntz8": {
+                "text": "What did you use to make this UI? It looks really good",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntdp8sd": {
+                "text": "Cool! I do absolutely zero UI but I’d like to get more familiar with making things look nice!",
+                "quotes": [],
+                "parent_text": "It's just pure TailwindCSS"
+            }
+        },
+        "c98a96601cd3e2edafa07b61b0f10bcb": {
+            "ntdvzak": {
+                "text": "How ingest data",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0a8270ed0b661e5a56718c5045879d2a": {
+            "nte2o65": {
+                "text": "Nice work! Pretty cool (and a bit scary...) to see all these expenses visualized like that.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fa7d52c420d215154bc600905b1402ba": {
+            "ntephu9": {
+                "text": "Um so time to make more! The streaming apps are for entertainment/ could help you learn new skills/project to make you money :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "52b7f617035941e16f55ee602151ddaf": {
+            "ntermcz": {
+                "text": "thanks for sharing! It's true, I will check those subscriptions every month",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nt9ugtr": {
+                "text": "congrats!❀",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0a27b6fbf367a45ec3e1e4bb6fe332db": {
+            "ntex2x7": {
+                "text": "it's generated by AI, script kiddle",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1eb9af51321e6c953bf8339af09d1a5e": {
+            "nteyjp3": {
+                "text": "Very cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c2b13b59287df181fcf1218622f38563": {
+            "ntf33ti": {
+                "text": "The next step would be to use open banking (True Layer in the UK or Plaid in the US) so it automatically connects to users banks and automatically finds subscriptions. For the users it becomes 10x quicker… no manual insertions",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a0d13fc006ea09db92dec0299ed98e42": {
+            "ntfe6b2": {
+                "text": "It's pretty, but all AI-generated code looks the same. I wonder what the internet will look like in 5 years.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "05c404e1f8a7e9cabbaea6f5275c9e11": {
+            "ntfgf8o": {
+                "text": "Now add rent",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0b4633e796b10c8ff6ef26a613d14fc7": {
+            "ntfo48k": {
+                "text": "This is cook",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1646a357ae958347f3a1b5d94d748ea9": {
+            "ntfobfx": {
+                "text": "Adobe is an evil walking on Earth. Its more like 79usd not 54",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1a3c89e81ced8766d42c9a0d08ed36dc": {
+            "ntg0peh": {
+                "text": "Wicked man.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3e02f9e95bba97b575d68edee4ba2313": {
+            "ntg6g8o": {
+                "text": "Good idea, imo needs some UX improvements. Some suggestions, take it or leave it 😅 Step one: I’d put all the famous ones to select as a logo. Like Grid Step two: Currency Selector and a table with name of previously selected subscription, input for price and frequency (weekly/monthly/yearly) Step 3: Custom or the ones thats not on step 1 with price And then the result",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d206bbb6711084cf28a789d33becd99e": {
+            "ntgubp3": {
+                "text": "you should put 10$ subscription on this now",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1c9ed263b837e7626c50783471245bf1": {
+            "ntgvoh6": {
+                "text": "Ok but now we should size them by how much value, usefulness and happiness they bring, against what they cost. Maybe the graph would be different",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8e5dc33c274cdf7dc4ff7c217406716c": {
+            "nth66cc": {
+                "text": "Thing is, we see such tools every single day…",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a66037e96938eb33bf9ceb93b1379cb2": {
+            "nthiatx": {
+                "text": "🏴‍☠️ yo-ho",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f7bfd0c05e67682bd24b19ef8ee1bee2": {
+            "nthte2g": {
+                "text": "Dump Adobe. That’s a disgusting waste of money",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "25f699a3e1184edd86cf26c82af48715": {
+            "nu8bbgt": {
+                "text": "Wish I could but Adobe Express is too useful. 😩",
+                "quotes": [],
+                "parent_text": "Dump Adobe. That’s a disgusting waste of money"
+            },
+            "nu8b4ef": {
+                "text": "I love this idea. Clever little app. Great job! 😄",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1cc4728ade1bf6091b5e1cd179a4f8b0": {
+            "nti2cl3": {
+                "text": "I have the Excel version of this. Looking really good! An idea: I have personal and business subscriptions in the same graph for the overall picture, and sometimes filter them for a detailed look.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4eaeb90c7502822dcf7ae5640056ce5c": {
+            "ntiee09": {
+                "text": "Add a feature where it shows the price increases over time as well, like a slider where you can see how much you were paying a year ago versus how much the sub costs now as well",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "af880c899c800c796ae6e674cef74ef5": {
+            "ntieyhm": {
+                "text": "it's giving `windirstat` - anyone?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4034bfe6aee611ebe5832b024d27ea00": {
+            "ntiixrt": {
+                "text": "Amazing tool! But it takes quite a bit of manual effort, and I don’t think I’d personally go through all of that. If it had an AI feature where I could just paste my subscription emails/text and it automatically generated the cards, that would make it way more productive for me.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e3cae806070496dcb73c9e12a005538f": {
+            "ntjd7zz": {
+                "text": "Love this — the treemap makes the “budget leaks” instantly obvious. Have you thought about adding acost-per-useview too (€/watch, €/workout, etc.)? I’m working on a simple calculator for that:",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "bc06bdfd1774590a5f6efce14119e3ce": {
+            "ntjlmi1": {
+                "text": "Open source?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntjo9pi": {
+                "text": "Nice one. Looks great!",
+                "quotes": [],
+                "parent_text": "soon!"
+            }
+        },
+        "ab61a80c004a328772556b55298a01b5": {
+            "ntjszav": {
+                "text": "You thought about log in feuture or you want it to reset after webbroswer",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9cf73a93110b14dbd57580ef4102cc92": {
+            "ntlcy8w": {
+                "text": "Please add currency signs for other countries as well.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "91044cc63098d809f7882394079da396": {
+            "ntlg3hq": {
+                "text": "wicked",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "615eab5c0bc4aaf62eba6e66f7c05b28": {
+            "ntptpni": {
+                "text": "Love the idea, but if you have a lot of subscriptions it can get boring. You could try building a signup system and tracking user activity to keep everything up to date. Not simple, but it could become a great tool.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1d9b5d00029c0e1f36230be736894e62": {
+            "ntxab9h": {
+                "text": "This really amazing, I have seen this type of models in Ahref",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "56de998daba7ded866ee458ae3bfd271": {
+            "ntzp17c": {
+                "text": "Loos nice but: Using area to visualize a linear value is a classic anti pattern. Better read Stephen Few and Edward Tufte about how visuals perception can mislead.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "27aa13a378e2d65a53425a5603f0902c": {
+            "nuolkoc": {
+                "text": "Nice idea",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5da93120dc0867d8ad0fd3bac6d3f0dd": {
+            "nvtncwu": {
+                "text": "i like this a lot. For the coders, I build an app that can debug, refactor, translate, check security, add performance and generally help with coding tasks. Easy and simple to use!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "535abc8694bb18cfdfd3b2f807967fc8": {
+            "nwc9h68": {
+                "text": "Looks great.👏 Quick question: are you doing anything for downtime alerts yet, or just watching logs for now?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nwcas7p": {
+                "text": "Yeah — what I meant is: When a site goes down, do you get notified automatically (like via email/alert), or do you notice it when you check logs or dashboards? Lots of uptime tools trigger alerts instantly and often falsely, which gets noisy. I’m exploring a simple way to reduce that noise — just asking so I can understand what people are doing today.",
+                "quotes": [],
+                "parent_text": "what do you mean?"
+            },
+            "nwccr0h": {
+                "text": "Ah got it — thanks for clarifying. I wasn’t assuming it needed uptime alerts specifically — I’m just talking to folks who’ve recently launched anything public and asking how they think about reliability in general (if at all) at this stage. Totally makes sense if it’s not something you’re worrying about yet, especially for a tool like this 👍",
+                "quotes": [],
+                "parent_text": "but this is a subscription visualizer, not a uptime alert bot"
+            }
+        },
+        "62cf58ec0121bcaafc0f32538a8f5355": {
+            "nwrib6c": {
+                "text": "Thank you so so much for this! just realized how much subscriptions are taking up my income that’s insane 🫩",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "08d2114b1afe5a658777ef1d0a7782df": {
+            "nwtdj5e": {
+                "text": "This is genius! The visual proportions make it so much easier to see where money is actually going compared to just looking at a list. Adobe Creative Cloud really stands out when you see it take up 28% of the grid. One suggestion: add a toggle to sort by \"annual waste\" - highlighting subscriptions people rarely use but keep paying for. That would be a great conversion driver if you ever monetize this. Also, the \"no signup, works in browser\" approach is perfect. Too many finance tools want access to your bank accounts. This is way more privacy-friendly.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "14a2445a5531c98d4bf3db3bea9fdb26": {
+            "nxb035j": {
+                "text": "This is super cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e1b0a3960c147b4664f0cc129a597f08": {
+            "nxj9imk": {
+                "text": "I can't not see tetris lol",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "92320746c30745ad258473fc8c0adb22": {
+            "nxl1vvu": {
+                "text": "Adding a category or label (or AI automated categorization) can be helpful to track cost by category.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "32315a72b6e1bbb47c296361fc6675f9": {
+            "nxlp3yz": {
+                "text": "This is brilliantly simple - the visual instantly shows what Adobe is really costing you. Nice execution on making it browser-based too. Have you considered adding a \"yearly savings if I cancel X\" view? Would make the pain even more obvious.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "508fb5e313067376a744e968f8e72bd9": {
+            "ny39cbs": {
+                "text": "Nice one 👍🏽👍🏽",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "37dbadda2d9ffa0cc1bad3e910b90ddc": {
+            "nycable": {
+                "text": "Looks great! Clean idea, and props for open sourcing it. 👍",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e0a6eab3cdc33800d37c96107af370ee": {
+            "nyibcfm": {
+                "text": "Really nice UI! It looks clean, thoughtful, and genuinely pleasant to use. You can tell care went into it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e235049a5f665ebd77d67f3ba237ad6e": {
+            "nylvyvu": {
+                "text": "Nice idea! Looks pretty good.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "bd89c604a01655a11c5363f0753bccc4": {
+            "nyqktjx": {
+                "text": "that's pretty cool. I used to see a lot of commercials for something Rocket which helps you cancel your subscriptions and thought it was relevant. This is something a lot of people need to keep track of monthly expenditures.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d8669b81507736e73ea65d544be7a2ef": {
+            "oa89d0l": {
+                "text": "This is brilliant. Thank you 🙏",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ba5d567932a661d602899ca7b60a05f7": {
+            "ntc5k3w": {
+                "text": "Lmao. Disingenuous compliment + advertisement... Stop it",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ntg52q4": {
+                "text": "If this was a one off I'd believe you. Given that you leave comments like this regularly, I don't.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        }
+    }
+}

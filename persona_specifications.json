@@ -1,0 +1,54 @@
+{
+  "Question asker": {
+    "keywords": [
+      "why",
+      "how",
+      "what",
+      "who",
+      "where",
+      "when",
+      "can",
+      "does",
+      "should",
+      "?"
+    ]
+  },
+  "Solution Provider": {
+    "keywords": [
+      "try",
+      "use",
+      "recommend",
+      "fix",
+      "solve",
+      "implement",
+      "step",
+      "first",
+      "then"
+    ]
+  },
+  "Technical explainer": {
+    "keywords": [
+      "because",
+      "means",
+      "defined as",
+      "refers to",
+      "in other words",
+      "for example",
+      "specifically"
+    ]
+  },
+  "Critic": {
+    "keywords": [
+      "wrong",
+      "bad",
+      "inefficient",
+      "flawed",
+      "doesn't work",
+      "issue",
+      "problem",
+      "incorrect",
+      "worse",
+      "better than"
+    ]
+  }
+}

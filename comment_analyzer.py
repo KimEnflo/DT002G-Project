@@ -68,11 +68,16 @@ def find_match(keywords:dict,data:dict,parent_tokens:list)-> bool:
     :param data: Dictionary of comments, keyed by comment ID
     :param parent_tokens: List of parent tokens
     :return: Matching persona"""
-    keywords_lower = [k.lower() for k in keywords["keywords"]]
-    main_match = sum(1 for k in keywords_lower if k in data["tokens"]) >= 1
+    keywords_lemma = [nlp(k)[0].lemma_.lower() for k in keywords["keywords"]]
+
+    doc = nlp(" ".join(data["tokens"]))
+    tokens = [t.lemma_.lower() for t in doc]
+    token_set = set(tokens)
+
+    main_match = sum(1 for k in keywords_lemma if k in token_set) >= 2
     fallback_match = False
     if not main_match and len(data["tokens"]) <= 3:
-        fallback_match = sum(1 for k in keywords_lower if k in parent_tokens) >= 1
+        fallback_match = sum(1 for k in keywords_lemma if k in parent_tokens) >= 1
 
     match = main_match or fallback_match
     return match
