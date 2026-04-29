@@ -4,11 +4,12 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 nlp = spacy.load("en_core_web_lg")
 
 
-def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_context: bool) -> dict:
+def analyze_comment(comments: dict, persona_rules: dict,iteration:int, platform: str, use_context: bool) -> dict:
     """Analyze Reddit comments for persona matches and sentiment, including parent and quotes
     :param platform: The platform used to fetch the comments
     :param comments: Dictionary of cleaned comments, keyed by comment ID.
                      Each comment should have 'text', 'quotes', 'parent_text'.
+    :param iteration: The iteration number
     :param persona_rules: Dictionary of persona rules with keywords.
     :param use_context: boolean to decide if context should be used or not
     :return: Dictionary of persona matches, split into positive, neutral, negative.
@@ -23,6 +24,17 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
         }
         for persona in persona_rules
     }
+
+    persona_docs = {
+        persona: nlp(" ".join(k["term"] for k in rules["keywords"]))
+        for persona, rules in persona_rules.items()
+    }
+
+    persona_keywords = {
+        persona: rules["keywords"]
+        for persona, rules in persona_rules.items()
+    }
+
     data = {}
     title = comments.get("title", "")
     for user, user_comments in comments.get("comments", {}).items():
@@ -38,9 +50,8 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
             if data["parent_text"]:
                 parent_tokens = [t.lemma_.lower() for t in nlp(data["parent_text"])]
 
-            for persona, keywords in persona_rules.items():
-
-                match = find_match(keywords,data,parent_tokens)
+            for persona in persona_rules:
+                match = find_match(data,iteration, parent_tokens, persona_docs[persona], persona_keywords[persona])
 
                 if match:
                     main_compound = analyzer.polarity_scores(data["main_text"])["compound"]
@@ -62,25 +73,94 @@ def analyze_comment(comments: dict, persona_rules: dict, platform: str, use_cont
     return matched_personas
 
 
-def find_match(keywords:dict,data:dict,parent_tokens:list)-> bool:
+def find_match(data: dict, iteration:int,parent_tokens: list, persona_docs, keywords) -> bool:
     """Find matching persona for a comment
-    :param keywords: Dictionary of the keywords for the persona
     :param data: Dictionary of comments, keyed by comment ID
+    :param iteration: the iteration number
     :param parent_tokens: List of parent tokens
+    :param persona_docs spacy doc
+    :param keywords: List of keywords
     :return: Matching persona"""
-    keywords_lemma = [nlp(k)[0].lemma_.lower() for k in keywords["keywords"]]
 
-    doc = nlp(" ".join(data["tokens"]))
-    tokens = [t.lemma_.lower() for t in doc]
-    token_set = set(tokens)
+    iteration_rules = {
+        1:{
+            "threshold" : 0.2,
+            "min_main_sim" : 0.1,
+            "require_main_signal": False,
+            "parent_weight" : 0.1,
+        },
+        2: {
+            "threshold": 0.3,
+            "min_main_sim": 0.2,
+            "require_main_signal": True,
+            "parent_weight": 0.1,
+        },
+        3: {
+            "threshold": 0.4,
+            "min_main_sim": 0.3,
+            "require_main_signal": True,
+            "parent_weight": 0.05,
+        }
+    }
 
-    main_match = sum(1 for k in keywords_lemma if k in token_set) >= 2
-    fallback_match = False
-    if not main_match and len(data["tokens"]) <= 3:
-        fallback_match = sum(1 for k in keywords_lemma if k in parent_tokens) >= 1
+    tokens = data["tokens"]
 
-    match = main_match or fallback_match
-    return match
+    main_token_set = set(tokens)
+    main_text = data["main_text"].lower()
+    main_text_padded = f" {main_text} "
+
+    parent_token_set = set(parent_tokens)
+    parent_text = data["parent_text"].lower()
+    parent_text_padded = f" {parent_text} "
+
+    main_hits = sum(
+        kw["weight"]
+        for kw in keywords
+        if (
+            f" {kw['term']} " in main_text_padded
+            if " " in kw["term"]
+            else kw["term"] in main_token_set
+        )
+    )
+
+    parent_hits = sum(
+        kw["weight"]
+        for kw in keywords
+        if (
+            f" {kw['term']} " in parent_text_padded
+            if " " in kw["term"]
+            else kw["term"] in parent_token_set
+        )
+    )
+
+    total_weight = sum(kw["weight"] for kw in keywords)
+
+    keyword_score = 0 if total_weight == 0 else \
+        (
+            0.9 * (main_hits / max(total_weight, 1)) +
+            0.1 * (parent_hits / max(total_weight, 1))
+        )
+
+    main_doc = nlp(data["main_text"])
+    parent_doc = nlp(data["parent_text"]) if data["parent_text"] else None
+
+    main_sim = main_doc.similarity(persona_docs)
+    parent_sim = parent_doc.similarity(persona_docs) if parent_doc else 0
+
+    if iteration_rules[iteration]["require_main_signal"]:
+        if main_hits == 0 and main_sim < iteration_rules[iteration]["min_main_sim"]:
+            return False
+
+    parent_weight = iteration_rules[iteration]["parent_weight"]\
+        if (main_hits > 0 or main_sim > iteration_rules[iteration]["min_main_sim"]) else 0
+
+    sim_score = (1 - parent_weight) * main_sim + parent_weight * parent_sim
+
+    final_score = 0.5 * keyword_score + 0.7 * sim_score if iteration == 1\
+        else 0.5 * keyword_score + 0.5 * sim_score
+
+    return final_score > iteration_rules[iteration]["threshold"]
+
 
 def classify_sentiment(polarity: float, threshold: float = 0.10) -> str:
     """Classify sentiment based on polarity and threshold
@@ -127,7 +207,6 @@ def combine_with_context(main_compound, context_compound, context_weight: float 
     :param context_weight: Weight of parent + quotes in sentiment analysis (0.0 - 1.0)
     :return: Intensity adjusted compound score
     """
-
     polarity = main_compound
 
     if abs(context_compound) > 0.2:

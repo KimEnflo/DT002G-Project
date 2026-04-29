@@ -1,54 +1,80 @@
 {
   "Question asker": {
     "keywords": [
-      "why",
-      "how",
-      "what",
-      "who",
-      "where",
-      "when",
-      "can",
-      "does",
-      "should",
-      "?"
+      {"term": "why", "weight": 1.0},
+      {"term": "how", "weight": 1.0},
+      {"term": "what", "weight": 1.0},
+      {"term": "who", "weight": 1.0},
+      {"term": "where", "weight": 1.0},
+      {"term": "when", "weight": 1.0},
+      {"term": "can", "weight": 1.0},
+      {"term": "should", "weight": 1.0},
+      {"term": "is it", "weight": 1.0},
+      {"term": "are we", "weight": 1.0},
+      {"term": "do we", "weight": 1.0},
+      {"term": "does the", "weight": 1.0},
+      {"term": "what if", "weight": 1.0},
+      {"term": "why does", "weight": 1.0},
+      {"term": "how should", "weight": 1.0},
+      {"term": "question", "weight": 1.0},
+      {"term": "use case", "weight": 1.0},
+      {"term": "?", "weight": 1.0}
     ]
   },
   "Solution Provider": {
     "keywords": [
-      "try",
-      "use",
-      "recommend",
-      "fix",
-      "solve",
-      "implement",
-      "step",
-      "first",
-      "then"
+      {"term": "you should", "weight": 1.0},
+      {"term": "consider", "weight": 1.0},
+      {"term": "try", "weight": 1.0},
+      {"term": "use", "weight": 1.0},
+      {"term": "implement", "weight": 1.0},
+      {"term": "add", "weight": 1.0},
+      {"term": "provide", "weight": 1.0},
+      {"term": "allow", "weight": 1.0},
+      {"term": "enable", "weight": 1.0},
+      {"term": "support", "weight": 1.0},
+      {"term": "design", "weight": 1.0},
+      {"term": "propose", "weight": 1.0},
+      {"term": "suggest", "weight": 1.0},
+      {"term": "solution", "weight": 1.0},
+      {"term": "approach", "weight": 1.0},
+      {"term": "one option", "weight": 1.0},
+      {"term": "alternative", "weight": 1.0},
+      {"term": "could be", "weight": 1.0}
     ]
   },
   "Technical explainer": {
     "keywords": [
-      "because",
-      "means",
-      "defined as",
-      "refers to",
-      "in other words",
-      "for example",
-      "specifically"
+      {"term": "because", "weight": 1.0},
+      {"term": "means", "weight": 1.0},
+      {"term": "defined as", "weight": 1.0},
+      {"term": "in other words", "weight": 1.0},
+      {"term": "for example", "weight": 1.0},
+      {"term": "for instance", "weight": 1.0},
+      {"term": "specifically", "weight": 1.0},
+      {"term": "this means", "weight": 1.0},
+      {"term": "workflow", "weight": 1.0},
+      {"term": "data flow", "weight": 1.0},
+      {"term": "architecture", "weight": 1.0},
+      {"term": "depends on", "weight": 1.0},
+      {"term": "based on", "weight": 1.0}
     ]
   },
   "Critic": {
     "keywords": [
-      "wrong",
-      "bad",
-      "inefficient",
-      "flawed",
-      "doesn't work",
-      "issue",
-      "problem",
-      "incorrect",
-      "worse",
-      "better than"
+      {"term": "wrong", "weight": 1.0},
+      {"term": "incorrect", "weight": 1.0},
+      {"term": "issue", "weight": 1.0},
+      {"term": "problem", "weight": 1.0},
+      {"term": "doesn't work", "weight": 1.0},
+      {"term": "won't work", "weight": 1.0},
+      {"term": "fails", "weight": 1.0},
+      {"term": "missing", "weight": 1.0},
+      {"term": "unclear", "weight": 1.0},
+      {"term": "incomplete", "weight": 1.0},
+      {"term": "conflict", "weight": 1.0},
+      {"term": "inefficient", "weight": 1.0},
+      {"term": "risk", "weight": 1.0}
     ]
   }
 }

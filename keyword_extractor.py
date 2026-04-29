@@ -1,20 +1,27 @@
-import altair as alt
-import numpy as np
-import pandas as pd
-import contractions
-from sklearn.feature_extraction.text import CountVectorizer
+from pathlib import Path
 from typing import Dict
 
+import altair as alt
+import contractions
+import numpy as np
+import pandas as pd
+from sklearn.feature_extraction.text import CountVectorizer
+
+import persona_parser
 
 def extract_persona_keywords(
-    data: Dict,
-    ngram_range=(1, 2),
-    min_df: int = 1,
-    top_n: int = 15,
-    alpha: float = 1,
+        data: Dict,
+        iteration: int,
+        title: str,
+        ngram_range=(1, 3),
+        min_df: int = 2,
+        top_n: int = 15,
+        alpha: float = 1,
 ):
     """Extract and visualize persona-specific keywords using log-odds weighting
       :param data: The matched personas data
+      :param title: title of the post
+      :param iteration: The iteration number
       :param ngram_range: The n-gram range for tokenization
       :param min_df: Minimum document frequency for terms
       :param top_n: Number of top terms to display per persona
@@ -27,7 +34,8 @@ def extract_persona_keywords(
         stop_words="english",
         ngram_range=ngram_range,
         min_df=min_df,
-        token_pattern=r"(?u)\b[a-zA-Z0-9_]+(?:'[a-zA-Z]+)?\b"
+        max_df = 0.8,
+        token_pattern=r"(?u)\b(?!\d+\b)[a-zA-Z0-9_]+(?:'[a-zA-Z]+)?\b"
     )
 
     document_term_matrix = vectorizer.fit_transform(docs)
@@ -36,7 +44,15 @@ def extract_persona_keywords(
 
     persona_scores = compute_persona(document_term_matrix, persona_labels, feature_names, alpha)
 
-    return visualise_output(persona_scores, top_n)
+    df = pd.DataFrame({k: v.to_dict() for k, v in persona_scores.items()}).T.fillna(0.0)
+
+    low_signal_terms = df.columns[df.std(axis=0) < 0.1]
+
+    df = df.drop(columns=low_signal_terms, errors="ignore")
+
+    extract_top_keywords(df, iteration, title, top_n=top_n)
+
+    return visualise_output(df, title, iteration, top_n)
 
 
 def flatten_data(data: Dict):
@@ -54,7 +70,50 @@ def flatten_data(data: Dict):
     return docs, persona_labels
 
 
-def compute_persona(document_term_matrix, labels, feature_names, alpha):
+def extract_top_keywords(df: pd.DataFrame, iteration, title, top_n=15):
+    """Save the new persona_specification keywords
+    :param df Dataframe of persona term scores
+    :param title: The title of the post
+    :param iteration: The iteration number
+    :param top_n:  of top terms to display per persona
+    """
+
+    junk_terms = {
+        "thank", "thanks", "cool", "nice", "great",
+        "awesome", "good", "love", "lol", "yeah",
+        "ok", "okay", "sure", "hi", "hey"
+    }
+
+    new_keywords = {}
+
+    for persona in df.index:
+        filtered = df.loc[persona]
+        top_terms = filtered.sort_values(ascending=False).head(top_n)
+        top_terms = dict(top_terms)
+
+        total = sum(max(s, 0) for s in top_terms.values())
+
+        new_keywords[persona] = {
+            "keywords": [
+                {
+                    "term": term,
+                    "weight": (
+                            max(score, 0) / total
+                            * (1.3 if term.count(" ") >= 3 else 0.6)
+                    )
+                }
+                for term, score in top_terms.items()
+                if score > 0 and term not in junk_terms
+            ]
+        }
+
+    persona_parser.save_output(new_keywords, Path(
+        f"resources/persona_specifications/"
+        f"{title}/"
+        f"Iteration {iteration}/persona_specifications.json"))
+
+
+def compute_persona(document_term_matrix, labels, feature_names, alpha) -> dict:
     """Compute log-odds scores for each term per persona
     :param document_term_matrix: Document-term matrix
     :param labels: Persona labels for each document
@@ -80,7 +139,7 @@ def compute_persona(document_term_matrix, labels, feature_names, alpha):
     return results
 
 
-def log_odds(class_counts, other_counts,background, alpha =1 ):
+def log_odds(class_counts, other_counts, background, alpha=1):
     """ Monroe-style log-odds
     :param class_counts: Term counts for the target persona
     :param other_counts: Term counts for all other personas
@@ -116,17 +175,18 @@ def log_odds(class_counts, other_counts,background, alpha =1 ):
 
     delta = log_odds_1 - log_odds_2
 
-    variance  = (1 / num1) + (1 / num2)
+    variance = (1 / num1) + (1 / num2)
 
-    return pd.Series(delta / np.sqrt(variance ), index=class_counts.index)
+    return pd.Series(delta / np.sqrt(variance), index=class_counts.index)
 
 
-def visualise_output(persona_scores, top_n):
+def visualise_output(df, title, iteration, top_n):
     """Create and save a heatmap of top persona keywords
-    :param persona_scores: Dictionary of persona term scores
-    :param top_n: Number of top terms per persona
+    :param df: Dataframe of persona term scores
+    :param title: The title of the thread
+    :param iteration: The iteration number
+    :param top_n:  of top terms per persona
     :return: Altair chart object"""
-    df = pd.DataFrame({k: v.to_dict() for k, v in persona_scores.items()}).T.fillna(0.0)
 
     persona_top_words = {}
 
@@ -151,7 +211,9 @@ def visualise_output(persona_scores, top_n):
         y=alt.Y("term:N", sort=None),
         color="score:Q"
     ).properties(width=400, height=900)
-
-    chart.save("persona_heatmap.html")
+    chart.save(Path(
+        f"resources/heatmaps/"
+        f"{title}/"
+        f"Iteration {iteration}/persona_heatmap.html"))
 
     return chart
