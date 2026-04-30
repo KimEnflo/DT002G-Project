@@ -4,7 +4,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 nlp = spacy.load("en_core_web_lg")
 
 
-def analyze_comment(comments: dict, persona_rules: dict,iteration:int, platform: str, use_context: bool) -> dict:
+def analyze_comment(comments: dict, persona_rules: dict, iteration: int, platform: str, use_context: bool) -> dict:
     """Analyze Reddit comments for persona matches and sentiment, including parent and quotes
     :param platform: The platform used to fetch the comments
     :param comments: Dictionary of cleaned comments, keyed by comment ID.
@@ -50,30 +50,39 @@ def analyze_comment(comments: dict, persona_rules: dict,iteration:int, platform:
             if data["parent_text"]:
                 parent_tokens = [t.lemma_.lower() for t in nlp(data["parent_text"])]
 
+            scores = []
+
             for persona in persona_rules:
-                match = find_match(data,iteration, parent_tokens, persona_docs[persona], persona_keywords[persona])
+                match_score = find_match_score(data, iteration, parent_tokens, persona_docs[persona], persona_keywords[persona],persona)
+                scores.append((persona, match_score))
 
-                if match:
-                    main_compound = analyzer.polarity_scores(data["main_text"])["compound"]
-                    context_compound = analyzer.polarity_scores(data["full_text"])["compound"]
+            scores.sort(key=lambda x: x[1], reverse=True)
 
-                    polarity = main_compound if not use_context else combine_with_context(
-                        main_compound,
-                        context_compound)
-                    sentiment = classify_sentiment(polarity)
+            best_persona, best_score = scores[0]
 
-                    matched_personas[persona][sentiment].append({
-                        "user": user,
-                        "comment": data["main_text"],
-                        "polarity": polarity,
-                        "parent": data["parent_text"],
-                        "quotes": data["quotes"]
-                    })
+            threshold = 0.2 if iteration == 1 else 0.35
+
+            if best_persona and best_score > threshold:
+                main_compound = analyzer.polarity_scores(data["main_text"])["compound"]
+                context_compound = analyzer.polarity_scores(data["full_text"])["compound"]
+
+                polarity = main_compound if not use_context else combine_with_context(
+                    main_compound,
+                    context_compound)
+                sentiment = classify_sentiment(polarity)
+
+                matched_personas[best_persona][sentiment].append({
+                    "user": user,
+                    "comment": data["main_text"],
+                    "polarity": polarity,
+                    "parent": data["parent_text"],
+                    "quotes": data["quotes"]
+                })
 
     return matched_personas
 
 
-def find_match(data: dict, iteration:int,parent_tokens: list, persona_docs, keywords) -> bool:
+def find_match_score(data: dict, iteration: int, parent_tokens: list, persona_docs, keywords,persona) -> float:
     """Find matching persona for a comment
     :param data: Dictionary of comments, keyed by comment ID
     :param iteration: the iteration number
@@ -82,12 +91,13 @@ def find_match(data: dict, iteration:int,parent_tokens: list, persona_docs, keyw
     :param keywords: List of keywords
     :return: Matching persona"""
 
+
     iteration_rules = {
-        1:{
-            "threshold" : 0.2,
-            "min_main_sim" : 0.1,
+        1: {
+            "threshold": 0.2,
+            "min_main_sim": 0.1,
             "require_main_signal": False,
-            "parent_weight" : 0.1,
+            "parent_weight": 0.1,
         },
         2: {
             "threshold": 0.3,
@@ -97,7 +107,7 @@ def find_match(data: dict, iteration:int,parent_tokens: list, persona_docs, keyw
         },
         3: {
             "threshold": 0.4,
-            "min_main_sim": 0.3,
+            "min_main_sim": 0.4,
             "require_main_signal": True,
             "parent_weight": 0.05,
         }
@@ -137,29 +147,28 @@ def find_match(data: dict, iteration:int,parent_tokens: list, persona_docs, keyw
 
     keyword_score = 0 if total_weight == 0 else \
         (
-            0.9 * (main_hits / max(total_weight, 1)) +
-            0.1 * (parent_hits / max(total_weight, 1))
+                0.9 * (main_hits / max(total_weight, 1)) +
+                0.1 * (parent_hits / max(total_weight, 1))
         )
 
     main_doc = nlp(data["main_text"])
     parent_doc = nlp(data["parent_text"]) if data["parent_text"] else None
-
     main_sim = main_doc.similarity(persona_docs)
     parent_sim = parent_doc.similarity(persona_docs) if parent_doc else 0
 
     if iteration_rules[iteration]["require_main_signal"]:
         if main_hits == 0 and main_sim < iteration_rules[iteration]["min_main_sim"]:
-            return False
+            return 0
 
-    parent_weight = iteration_rules[iteration]["parent_weight"]\
+    parent_weight = iteration_rules[iteration]["parent_weight"] \
         if (main_hits > 0 or main_sim > iteration_rules[iteration]["min_main_sim"]) else 0
 
     sim_score = (1 - parent_weight) * main_sim + parent_weight * parent_sim
 
-    final_score = 0.5 * keyword_score + 0.7 * sim_score if iteration == 1\
+    final_score = 0.5 * keyword_score + 0.7 * sim_score if iteration == 1 \
         else 0.5 * keyword_score + 0.5 * sim_score
 
-    return final_score > iteration_rules[iteration]["threshold"]
+    return final_score
 
 
 def classify_sentiment(polarity: float, threshold: float = 0.10) -> str:

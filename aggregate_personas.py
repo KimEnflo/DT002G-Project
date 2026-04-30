@@ -4,7 +4,7 @@ from pathlib import Path
 import persona_parser
 
 
-def aggregate_user_personas(title:str):
+def aggregate_user_personas(title: str):
     """
       Aggregate comment-level persona matches to assign dominant persona(s) to each user,
     including counts per persona and total occurrences across all users.

@@ -9,7 +9,6 @@ import keyword_extractor
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
 
-
 def main():
     """Main function acting as the start of the program"""
     parser = argparse.ArgumentParser(
@@ -51,7 +50,7 @@ def parse(args):
     for iteration in range(3):
         start = time.time()
 
-        persona_rules = load_file(Path("persona_specifications.json"))  if iteration == 0 \
+        persona_rules = load_file(Path("persona_specifications.json")) if iteration == 0 \
             else load_file(
             Path(f"resources/persona_specifications"
                  f"/I built a tool that lets you send real mail like a text message"
@@ -85,7 +84,7 @@ def parse(args):
         end = time.time()
         save_output(analyzed_data, Path(f"resources/matched_personas/matched_personas_{title}.json"))
         aggregate_personas.aggregate_user_personas(title)
-        keyword_extractor.extract_persona_keywords(analyzed_data,iteration,title)
+        keyword_extractor.extract_persona_keywords(analyzed_data, iteration, title)
         print(f"Time taken to run iteration{iteration} was {end - start} seconds")
 
 

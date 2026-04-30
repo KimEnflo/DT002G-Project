@@ -13,8 +13,6 @@ def extract_persona_keywords(
         data: Dict,
         iteration: int,
         title: str,
-        ngram_range=(1, 3),
-        min_df: int = 2,
         top_n: int = 15,
         alpha: float = 1,
 ):
@@ -22,8 +20,6 @@ def extract_persona_keywords(
       :param data: The matched personas data
       :param title: title of the post
       :param iteration: The iteration number
-      :param ngram_range: The n-gram range for tokenization
-      :param min_df: Minimum document frequency for terms
       :param top_n: Number of top terms to display per persona
       :param alpha: Smoothing parameter for log-odds
       :return: Altair heatmap chart of persona keyword scores"""
@@ -32,9 +28,9 @@ def extract_persona_keywords(
 
     vectorizer = CountVectorizer(
         stop_words="english",
-        ngram_range=ngram_range,
-        min_df=min_df,
-        max_df = 0.8,
+        ngram_range= (1, 3),
+        min_df= 2,
+        max_df=0.8,
         token_pattern=r"(?u)\b(?!\d+\b)[a-zA-Z0-9_]+(?:'[a-zA-Z]+)?\b"
     )
 
@@ -46,9 +42,9 @@ def extract_persona_keywords(
 
     df = pd.DataFrame({k: v.to_dict() for k, v in persona_scores.items()}).T.fillna(0.0)
 
-    low_signal_terms = df.columns[df.std(axis=0) < 0.1]
+    presence = (df > 0).sum(axis=0)
 
-    df = df.drop(columns=low_signal_terms, errors="ignore")
+    df = df.loc[:, presence < len(df.index)]
 
     extract_top_keywords(df, iteration, title, top_n=top_n)
 
@@ -106,7 +102,6 @@ def extract_top_keywords(df: pd.DataFrame, iteration, title, top_n=15):
                 if score > 0 and term not in junk_terms
             ]
         }
-
     persona_parser.save_output(new_keywords, Path(
         f"resources/persona_specifications/"
         f"{title}/"
