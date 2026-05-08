@@ -1,7 +1,6 @@
 from pathlib import Path
 from typing import Dict
 
-import altair as alt
 import contractions
 import numpy as np
 import pandas as pd
@@ -9,13 +8,23 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 import persona_parser
 
+JUNK_TERMS = {
+    "thank", "thanks", "cool", "nice", "great",
+    "awesome", "good", "love", "lol", "yeah",
+    "ok", "okay", "sure", "hi", "hey", "really", "look"
+}
+
+GENERIC_PHRASES = {
+    "really cool", "good idea", "nice work",
+}
+
 def extract_persona_keywords(
         data: Dict,
         iteration: int,
         title: str,
         top_n: int = 15,
         alpha: float = 1,
-):
+) -> dict:
     """Extract and visualize persona-specific keywords using log-odds weighting
       :param data: The matched personas data
       :param title: title of the post
@@ -28,9 +37,9 @@ def extract_persona_keywords(
 
     vectorizer = CountVectorizer(
         stop_words="english",
-        ngram_range= (1, 3),
-        min_df= 2,
-        max_df=0.8,
+        ngram_range=(1, 3),
+        min_df=1,
+        max_df=0.85,
         token_pattern=r"(?u)\b(?!\d+\b)[a-zA-Z0-9_]+(?:'[a-zA-Z]+)?\b"
     )
 
@@ -48,7 +57,7 @@ def extract_persona_keywords(
 
     extract_top_keywords(df, iteration, title, top_n=top_n)
 
-    return visualise_output(df, title, iteration, top_n)
+    return {"data_frame": df, "title": title, "iteration": iteration, "top_words": top_n}
 
 
 def flatten_data(data: Dict):
@@ -58,54 +67,114 @@ def flatten_data(data: Dict):
     docs, persona_labels = [], []
 
     for persona, sentiments in data.items():
-        for _, comments in sentiments.items():
+        for comments in sentiments.values():
             for entry in comments:
-                docs.append(contractions.fix(entry["comment"]))
-                persona_labels.append(persona)
-
+                text = entry.get("comment", "").strip()
+                if text:
+                    docs.append(contractions.fix(text))
+                    persona_labels.append(persona)
     return docs, persona_labels
 
 
-def extract_top_keywords(df: pd.DataFrame, iteration, title, top_n=15):
+def extract_top_keywords(df: pd.DataFrame, iteration: int, title: str, top_n: int = 15):
     """Save the new persona_specification keywords
     :param df Dataframe of persona term scores
     :param title: The title of the post
     :param iteration: The iteration number
     :param top_n:  of top terms to display per persona
     """
-
-    junk_terms = {
-        "thank", "thanks", "cool", "nice", "great",
-        "awesome", "good", "love", "lol", "yeah",
-        "ok", "okay", "sure", "hi", "hey"
-    }
-
     new_keywords = {}
 
     for persona in df.index:
-        filtered = df.loc[persona]
-        top_terms = filtered.sort_values(ascending=False).head(top_n)
-        top_terms = dict(top_terms)
+        top_terms = {
+            t: s for t, s in df.loc[persona]
+            .sort_values(ascending=False)
+            .head(top_n)
+            .items()
+            if s > 0 and is_informative(t, s)
+        }
+        if not top_terms:
+            continue
 
-        total = sum(max(s, 0) for s in top_terms.values())
+        max_score = max(top_terms.values())
 
         new_keywords[persona] = {
             "keywords": [
                 {
                     "term": term,
-                    "weight": (
-                            max(score, 0) / total
-                            * (1.3 if term.count(" ") >= 3 else 0.6)
+                    "weight": round(
+                        (score / max_score) * (
+                            1.2 if term.count(" ") >= 2
+                            else 1.0 if term.count(" ") == 1
+                            else 0.75
+                        ), 4
                     )
                 }
                 for term, score in top_terms.items()
-                if score > 0 and term not in junk_terms
             ]
         }
+
+    base_path = Path("persona_specifications.json") if iteration == 1 else Path(
+        f"resources/persona_specifications/{title}/Iteration {iteration - 1}/persona_specifications.json"
+    )
+
+    new_keywords = merge_with_base(new_keywords, base_path)
+
     persona_parser.save_output(new_keywords, Path(
-        f"resources/persona_specifications/"
-        f"{title}/"
-        f"Iteration {iteration}/persona_specifications.json"))
+        f"resources/persona_specifications/{title}/Iteration {iteration}/persona_specifications.json"
+    ))
+
+
+def merge_with_base(new_keywords: dict, base_path: Path) -> dict:
+    """ Merge the new rules with the last iteration rules
+    :param new_keywords: The newly discovered keywords
+    :param base_path: Path to the previous persona_classification
+    :return: new dict of keywords for the next iteration
+    """
+    try:
+        base = persona_parser.load_file(base_path)
+    except FileNotFoundError:
+        return new_keywords
+
+    merged = {}
+
+    for persona, base_data in base.items():
+        base_terms = {
+            kw["term"]: kw["weight"]
+            for kw in base_data.get("keywords", [])
+        }
+
+        new_phrases = {
+            kw["term"]: kw["weight"]
+            for kw in new_keywords.get(persona, {}).get("keywords", [])
+            if " " in kw["term"]
+               and kw["term"] not in base_terms
+        }
+
+        merged[persona] = {
+            "keywords": [
+                {"term": t, "weight": w}
+                for t, w in {**base_terms, **new_phrases}.items()
+            ]
+        }
+
+    return merged
+
+
+def is_informative(term: str, score: float) -> bool:
+    """ Function to filter out informative terms
+    :param term: The term to verify
+    :param score: score of the term
+    :return: boolean if It's informative or not
+    """
+    words = term.split()
+    if score < 1.5:
+        return False
+    if term in GENERIC_PHRASES:
+        return False
+    if any(w in JUNK_TERMS for w in words):
+        return False
+    return True
 
 
 def compute_persona(document_term_matrix, labels, feature_names, alpha) -> dict:
@@ -173,42 +242,3 @@ def log_odds(class_counts, other_counts, background, alpha=1):
     variance = (1 / num1) + (1 / num2)
 
     return pd.Series(delta / np.sqrt(variance), index=class_counts.index)
-
-
-def visualise_output(df, title, iteration, top_n):
-    """Create and save a heatmap of top persona keywords
-    :param df: Dataframe of persona term scores
-    :param title: The title of the thread
-    :param iteration: The iteration number
-    :param top_n:  of top terms per persona
-    :return: Altair chart object"""
-
-    persona_top_words = {}
-
-    for persona in df.index:
-        top_terms = df.loc[persona].sort_values(ascending=False).head(top_n)
-        persona_top_words[persona] = set(top_terms.index)
-
-    all_top_words = sorted(set.union(*persona_top_words.values()))
-    df = df[all_top_words]
-
-    global_order = df.mean(axis=0).sort_values(ascending=False).index
-    df = df[global_order]
-
-    long_df = df.reset_index().melt(
-        id_vars="index",
-        var_name="term",
-        value_name="score"
-    ).rename(columns={"index": "persona"})
-
-    chart = alt.Chart(long_df).mark_rect().encode(
-        x="persona:N",
-        y=alt.Y("term:N", sort=None),
-        color="score:Q"
-    ).properties(width=400, height=900)
-    chart.save(Path(
-        f"resources/heatmaps/"
-        f"{title}/"
-        f"Iteration {iteration}/persona_heatmap.html"))
-
-    return chart
