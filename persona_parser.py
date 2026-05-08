@@ -6,6 +6,7 @@ from pathlib import Path
 import aggregate_personas
 import comment_analyzer
 import keyword_extractor
+import visualize_output
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
 
@@ -47,44 +48,36 @@ def parse(args):
                  - platform: platform name (default "reddit")
                  - context: bool, whether to include parent/quote context
     """
-    for iteration in range(3):
-        start = time.time()
 
+    for iteration in range(3):
+        title = ""
+        cleaned_data = {}
+        start = time.time()
+        iteration += 1
+        if args.platform.lower() == "reddit":
+            scraped_data = reddit_scraper.parse(args.url)
+            title = scraped_data["title"]
+            cleaned_data = reddit_text_cleaner.clean(scraped_data)
+            save_output(cleaned_data, Path(f"resources/data_sets/thread_{title}.json"))
+            title = cleaned_data["title"]
         persona_rules = load_file(Path("persona_specifications.json")) if iteration == 0 \
             else load_file(
             Path(f"resources/persona_specifications"
-                 f"/I built a tool that lets you send real mail like a text message"
+                 f"/{title}"
                  f"/Iteration {iteration}"
                  f"/persona_specifications.json"))
-        iteration += 1
-        analyzed_data = {}
-        title = ""
-        if args.platform.lower() == "reddit":
-            # These commented lines are for running the gathering of the datasets
-            # scraped_data = reddit_scraper.parse(args.url)
-            # title = scraped_data["title"]
-            # cleaned_data = reddit_text_cleaner.clean(scraped_data)
-            # save_output(cleaned_data, Path(f"resources/data_sets/thread_{title}.json"))
-
-            # Data_sets are already cleaned and ready to use, simply load the file here to reproduce
-            cleaned_data = (
-                load_file(
-                    Path("resources"
-                         "/data_sets"
-                         "/thread_I built a tool that lets you send real mail like a text message.json")))
-
-            title = cleaned_data["title"]
-            analyzed_data = comment_analyzer.analyze_comment(
-                cleaned_data,
-                persona_rules,
-                iteration,
-                platform=args.platform,
-                use_context=getattr(args, "context", True)
-            )
+        analyzed_data = comment_analyzer.analyze_comment(
+            cleaned_data,
+            persona_rules,
+            iteration,
+            platform=args.platform,
+            use_context=getattr(args, "context", True)
+    )
         end = time.time()
         save_output(analyzed_data, Path(f"resources/matched_personas/matched_personas_{title}.json"))
         aggregate_personas.aggregate_user_personas(title)
-        keyword_extractor.extract_persona_keywords(analyzed_data, iteration, title)
+        data = keyword_extractor.extract_persona_keywords(analyzed_data, iteration, title)
+        visualize_output.visualise_output(data)
         print(f"Time taken to run iteration{iteration} was {end - start} seconds")
 
 

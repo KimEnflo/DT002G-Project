@@ -24,7 +24,7 @@ def parse(url: str) -> dict[str, list | Any]:
 
     return {
         "title": title,
-        "comments": extract_comments(data[1]["data"]["children"],link_id,total_comments)
+        "comments": extract_comments(data[1]["data"]["children"], link_id, total_comments)
     }
 
 
