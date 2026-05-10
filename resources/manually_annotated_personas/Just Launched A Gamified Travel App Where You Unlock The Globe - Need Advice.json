@@ -1,0 +1,122 @@
+{
+  "n4z1jt8": {
+    "persona": "None",
+    "text": "God damn it looks sexy af. Love the hexagons",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "n4zcxnv": {
+    "persona": "Question Asker",
+    "text": "Awesome work. What did you use to build it ?",
+    "quotes": [],
+    "parent_text": "Hey I really appreciate it! I had the hexagons in mind since the beginning.... I actually ditched the project like a year ago when I couldn't figure out the hexagons, wasn't the same with squares/rectangles along lat/long lines"
+  },
+  "n504obm": {
+    "persona": "Technical Explainer",
+    "text": "Yes, I'm using Uber's H3, and there will be a few pentagons. The hexagons near the pentagons are also a bit distorted",
+    "quotes": [],
+    "parent_text": "What do you use to distribute the hexagons over a sphere? Uber’s H3? There will be a few pentagons, correct?"
+  },
+  "n4z0hes": {
+    "persona": "Solution Provider",
+    "text": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
+    "quotes": [],
+    "parent_text": "Cool concept. Just seems like it would piss off completionists to no end. You'll never unlock the whole globe, at least not at that zoomed in view you showed. Cool for showing where you have been tho."
+  },
+  "n4znr34": {
+    "persona": "None",
+    "text": "That's a great idea",
+    "quotes": [],
+    "parent_text": "You should make ocean tiles larger for sections of the ocean with no islands"
+  },
+  "n55nxhg": {
+    "persona": "None",
+    "text": "Very cool idea!",
+    "quotes": [],
+    "parent_text": "Make a territory game out of it. The last one visiting an area owns it. There could be teams. Like gang wars in Los Santos."
+  },
+  "n55mvw9": {
+    "persona": "Solution Provider",
+    "text": "I like this idea. I'm starting a subreddit soon for tracking feature requests to see which get highest traction to prioritize in my roadmap. But this will probably be a popular one. Thanks!",
+    "quotes": [],
+    "parent_text": "You should be able to import historical data from various sources. Photo library geotags, health/running apps and I’d love to import from Google Maps Timeline."
+  },
+  "n4zfxtn": {
+    "persona": "Solution Provider",
+    "text": "Yeah that is ironic... I should have mentioned it's available in US/Canada right now. I will open it up though, should be available elsewhere in the coming days. EDIT: it should be available almost everywhere in the next 24 hours",
+    "quotes": [],
+    "parent_text": "“This app is not available in your country or region” which is somewhat ironic given it’s about visiting everywhere in the world!"
+  },
+  "n552njp": {
+    "persona": "Solution Provider",
+    "text": "Yeah, I am planning on it. Wanted to validate the concept first. So far it seems there might be enough interest. It will take some work though so won't be instant. I think I'll start a subreddit to both track requests like these but also make announcements for things like when the Android port would be ready (it may take a bit of work): r/surveyor_64",
+    "quotes": [],
+    "parent_text": "Are you planning to release on android?"
+  },
+  "n56f9b3": {
+    "persona": "None",
+    "text": "Thanks! I plan to take care to maintain and add to this, so hopefully you'll like it going forward!",
+    "quotes": [],
+    "parent_text": "Congratulations this app looks amazing. I travel all the time and look forward to more features but love where it is at right now. Bought a lifetime license. Hoping it will be worth the $20! I really think it will be."
+  },
+  "n5057as": {
+    "persona": "Solution Provider",
+    "text": "Great idea, that's probably doable. But also for the \"big\" hexagons you can manually mark the ones you've been to. Maybe that's a bit annoying if you've been to a ton of places, so the photo idea is good. I believe there are ways to do it while respecting privacy (basically the photos not leaving the phone at any point)",
+    "quotes": [],
+    "parent_text": "Not sure there’s a way to do this and respect privacy but would be cool if you can scan my photos for location meta info and start me off with where ive been. Thats really my only record and I’ve been to dozens of countries but travel has slowed."
+  },
+  "n55mnmf": {
+    "persona": "Solution Provider",
+    "text": "Yeah that's something I'm considering. But ultimately I'm kind of leaning that maybe that's just a part of it. It's already something not everyone will use, but as long as the people that do use it love it I think it could do well. But perhaps there are some creative ways to make it more useful to more people.",
+    "quotes": [],
+    "parent_text": "Oh man, that’s cool!! Honestly though, only people who are doing pretty well are traveling. And that’s a small market. But you could possibly make that work. It does seem like you have a pretty good handle on your UI so far, so that’s a good start!"
+  },
+  "n55o5jz": {
+    "persona": "Solution Provider",
+    "text": "That could probably be a pretty easy setting to add. Thanks for the feedback!",
+    "quotes": [],
+    "parent_text": "it'll be lowkey cool if theres a low opacity map instead of completely cultured map"
+  },
+  "n4z95ud": {
+    "persona": "Solution Provider",
+    "text": "Yeah fair enough, that's actually part of what I'm interested in ppls opinions on. FWIW you can use it free. I tried to keep the ads minimal, but I do actually have some costs to keep it running",
+    "quotes": [],
+    "parent_text": "But not sure I like the subscription for access might delete later."
+  },
+  "n4zo08z": {
+    "persona": "Solution Provider",
+    "text": "Yeah I've been thinking of something similar, so this is super helpful, thanks!",
+    "quotes": [],
+    "parent_text": "For 'completionists' like the other comment was saying, maybe add friends/ groups or clans that can team up to unlock more. Or compete with competitions etc. might be kinda cool to work together to unlock a map. Can keep it separate from your personal map obviously."
+  },
+  "n5knviy": {
+    "persona": "Solution Provider",
+    "text": "Yeah I’m pretty set on adding another layer, seems like a popular idea. Just need to work out the details to maintain the current feel of the app (not make it too busy)",
+    "quotes": [],
+    "parent_text": "The way I see it, it's not really walking into every house/building but more like exploring the various streets or at least the vicinity of the area, like the shop, or stores at street level, at the current tile size I think it encompasses 5 malls at the moment, and several other landmarks"
+  },
+  "n55mdxi": {
+    "persona": "None",
+    "text": "Thanks!",
+    "quotes": [],
+    "parent_text": "This design is insanely cool! Totally has that hacker vibe—I love it!"
+  },
+  "n4zob4e": {
+    "persona": "None",
+    "text": "No, but I would definitely consider implementing that if there were interest, seems like a good idea",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "n55lkzw": {
+    "persona": "Technical Explainer",
+    "text": "You can manually enter the big cells you've already been to. It's in the menu and called \"entry mode\"",
+    "quotes": [],
+    "parent_text": "This is awesome! Can I unlock the countries I have visited in the past? Or I just start from scratch as a new user?"
+  },
+  "n56evby": {
+    "persona": "Solution Provider",
+    "text": "That's awesome, thanks! I will add the ability to turn off sound in the next update. I'll add the other suggestions to the backlog for potential additions. I actually considered that the music might be annoying. I like it but also recognize that. Will add a permanent setting for it as well",
+    "quotes": [],
+    "parent_text": "Okay. Love it. Life time license bought. I could just not be able to find it but please add the ability to turn off all sound under settings. I like the sound but don’t always like to hear clicking. I think I found the button to turn the music off at least. Would love to see how long I have spent in each tile if that is an option in the future."
+  }
+}

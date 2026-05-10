@@ -420,32 +420,6 @@
                 ]
             },
             {
-                "user": "becbb1e19c597efa8b715e2ce2334136",
-                "message_id": "nlhpene",
-                "comment": "??",
-                "polarity": 0.0,
-                "parent": "Bruh clean up your inbox!! emails?!",
-                "quotes": [],
-                "score": [
-                    [
-                        "Question asker",
-                        0.3899141997098923
-                    ],
-                    [
-                        "Solution Provider",
-                        0.28421369433403015
-                    ],
-                    [
-                        "Technical explainer",
-                        0.24127730429172517
-                    ],
-                    [
-                        "Critic",
-                        0.21459395170211795
-                    ]
-                ]
-            },
-            {
                 "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
                 "message_id": "nlgqu41",
                 "comment": "Can I PM you? I am looking for a co-founder.",

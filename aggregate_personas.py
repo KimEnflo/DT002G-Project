@@ -4,14 +4,16 @@ from pathlib import Path
 import persona_parser
 
 
-def aggregate_user_personas(title: str):
+def aggregate_user_personas(path: Path,title:str):
     """
       Aggregate comment-level persona matches to assign dominant persona(s) to each user,
     including counts per persona and total occurrences across all users.
+    param: path the path to save the file
     param: title the title of the thread
     :return: Dictionary of users -> dominant persona(s)
     """
-    matched_personas = persona_parser.load_file(Path(f"resources/matched_personas/matched_personas_{title}.json"))
+    save_path = Path(f"resources/aggregated_personas/aggregated_personas_{title}.json")
+    matched_personas = persona_parser.load_file(path)
 
     user_counts = {}
     for persona, sentiment_dict in matched_personas.items():
@@ -44,5 +46,5 @@ def aggregate_user_personas(title: str):
 
     persona_parser.save_output(
         output,
-        Path(f"resources/aggregated_personas/aggregated_personas_{title}.json")
+        Path(save_path)
     )

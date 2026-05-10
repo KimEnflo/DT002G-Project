@@ -1,0 +1,122 @@
+{
+  "oa5r0zf": {
+    "persona": "None",
+    "text": "That is a COOL side project! Finally a real side project :D Looks great!",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "oa7uzpm": {
+    "persona": "None",
+    "text": "Thanks! 😄 I'm turning it into a small project called HollowScope and working on a beta version. If you're curious or want to try it when it's ready: holoscape",
+    "quotes": [],
+    "parent_text": "That is a COOL side project! Finally a real side project :D Looks great!"
+  },
+  "oa7ydh1": {
+    "persona": "None",
+    "text": "how deep can we go? asking for inception 2 plot.",
+    "quotes": [],
+    "parent_text": "This is a side to side project. It has actual depth."
+  },
+  "oa7xlnh": {
+    "persona": "None",
+    "text": "Drop your card details XD",
+    "quotes": [],
+    "parent_text": "Nah this is cool as shit. Drop the git bro."
+  },
+  "oa7zxip": {
+    "persona": "Technical Explainer",
+    "text": "Totally fair concern. All the head tracking runs locally on the computer. No video is stored or sent anywhere. The webcam is only used to estimate the head position for the perspective effect.",
+    "quotes": [],
+    "parent_text": "This is badass. I however do not think many people want their video streaming into a random app unless it's open source / guaranteed to be secure."
+  },
+  "oa7zq86": {
+    "persona": "Technical Explainer",
+    "text": "It tracks your head position with the webcam and adjusts the camera of a small 3D scene accordingly. So when you move left/right the perspective shifts, which creates the depth illusion. I explained it a bit more here:",
+    "quotes": [],
+    "parent_text": "How does it work tho?"
+  },
+  "oa7umfk": {
+    "persona": "None",
+    "text": "Haha thanks 😄 I'm preparing a beta version right now. You can join the early access list here:",
+    "quotes": [],
+    "parent_text": "Take my money!"
+  },
+  "oa80aja": {
+    "persona": "None",
+    "text": "Haha thanks, glad you like it!link",
+    "quotes": [],
+    "parent_text": "fuckin awesome is my feed back!"
+  },
+  "oa80nyt": {
+    "persona": "None",
+    "text": "thanks a lot!",
+    "quotes": [],
+    "parent_text": "I’ve had this idea for well over twenty years and never had the gumption to actually try it — this is so cool!"
+  },
+  "oah7ai5": {
+    "persona": "Technical Explainer",
+    "text": "Thanks, I appreciate it! Performance on lower-end machines is something I’m actively testing and optimizing. Mobile/gyro support is also something I’d love to experiment with later. If you’re curious there’s a demo and some details here:",
+    "quotes": [],
+    "parent_text": "This is really impressive technical work! The head-tracking parallax effect is incredibly smooth. Using WebGL/ for this kind of head-pose estimation + perspective manipulation is the right call performance-wise. A few questions that might help as you develop HollowScope further: - Performance on lower-end devices? Head tracking + rendering effects can get heavy - Mobile support? Phone gyroscope for mobile devices could be next frontier - Battery drain on the device running this? The polish is genuinely impressive for a side project. The transitions are buttery and the effect is mesmerizing. Definitely has commercial potential if you lean into VR/AR experiences."
+  },
+  "oah6j5u": {
+    "persona": "Technical Explainer",
+    "text": "It’s basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is. If you’re curious, I put a demo and more info here:",
+    "quotes": [],
+    "parent_text": "How did you do this? This is insane"
+  },
+  "ob1am0y": {
+    "persona": "Solution Provider",
+    "text": "Yep! You can choose your screen in the settings tab — it’s actually live right now:",
+    "quotes": [],
+    "parent_text": "This is awesome. Is it compatible with a dual screen setup?"
+  },
+  "od6st11": {
+    "persona": "Solution Provider",
+    "text": "Totally fair point; but just to reassure you, the app is now Microsoft-certified 😉 so it’s not just some random side project anymore.",
+    "quotes": [],
+    "parent_text": "maybe, but face unlock is quite secure, it's built in service, not someone's side project"
+  },
+  "oa7tzex": {
+    "persona": "None",
+    "text": "Wow I didn’t expect this to blow up 😅 For people asking: I'm turning it into a small project called HollowScope. I'm opening a small beta soon if people want to try it. You can join the waitlist here: holoscape Also curious what features you'd want next.",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "oa5vt7l": {
+    "persona": "None",
+    "text": "It works for me and I want it. The only improvement idea I can think of is to make it available :)",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "oa6p7wl": {
+    "persona": "None",
+    "text": "The laptop isn’t moving.",
+    "quotes": [],
+    "parent_text": "Gyroscope"
+  },
+  "oa6rezv": {
+    "persona": "None",
+    "text": "Of course no",
+    "quotes": [],
+    "parent_text": "Cool project. But it won't work for multiple people watching, right?"
+  },
+  "oa7kx6q": {
+    "persona": "Technical Explainer",
+    "text": "The iPhone wallpaper (lock screen) can do this",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "oa9vxij": {
+    "persona": "Question Asker",
+    "text": "Quick Clarification: if 2 people look at the wallpaper at the same time, Both will see the illusion?",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "oa9n45g": {
+    "persona": "None",
+    "text": "trippy and really cool!",
+    "quotes": [],
+    "parent_text": ""
+  }
+}

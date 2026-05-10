@@ -1,0 +1,122 @@
+{
+  "mr1d800": {
+    "persona": "Question Asker",
+    "text": "Sorry if this is a stupid question, but how is that different from what your phone already does? I'm on Android, so maybe it's different - it warns me of spam callers before I answer. After taking calls I can report them as spam, block numbers, etc all from the default phone app.",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "mr1dmkn": {
+    "persona": "Technical Explainer",
+    "text": "Not a stupid question at all, and you’re totally right: Android has had this kind of functionality for years. The big difference is that until iOS 18.2, iPhones didn’t support real-time Caller ID at all. You couldn’t see who was calling while the phone was ringing unless they were in your contacts",
+    "quotes": [],
+    "parent_text": "Sorry if this is a stupid question, but how is that different from what your phone already does? I'm on Android, so maybe it's different - it warns me of spam callers before I answer. After taking calls I can report them as spam, block numbers, etc all from the default phone app."
+  },
+  "mr2nsgw": {
+    "persona": "None",
+    "text": "Totally fair take - and honestly, if Apple eventually builds it in, that’s still a win for users. In the meantime, we’re focused on building the best experience possible, and yeah… an Apple acquisition wouldn’t be the worst outcome 😄",
+    "quotes": [],
+    "parent_text": "Same. This app seems cool but it’s one Apple update from becoming obsolete. For OP’s sake, I hope Apple acquires it or pays for the upstream service."
+  },
+  "mr2o8cr": {
+    "persona": "Technical Explainer",
+    "text": "Yeah, sometimes Apple shows info from Siri Suggestions or Mail, and some carriers return basic caller details - but it’s all pretty limited.",
+    "quotes": [],
+    "parent_text": "I’m using iPhone and when numbers not in my contacts call me Isometimessee who it is."
+  },
+  "mr2nm8h": {
+    "persona": "Technical Explainer",
+    "text": "Some carriers in the U.S. do offer basic caller ID, but it’s limited to their own data. With iOS 18.2, apps like Livecaller can now offer real-time caller ID with much broader global coverage, and it works regardless of your carrier.",
+    "quotes": [],
+    "parent_text": "Mines done that forever, you sure this isn’t a country dependent thing? I’m in US. Maybe it’s carrier dependent also"
+  },
+  "mr1c7e1": {
+    "persona": "Technical Explainer",
+    "text": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
+    "quotes": [],
+    "parent_text": "I really like the idea but that does mean your app will know about who calls me and when right? I’m not really a fan of that part"
+  },
+  "mr1nyud": {
+    "persona": "Solution Provider",
+    "text": "Using something called homomorphic encryption. If you are interested in the technical aspect of it you can read more about it here:",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "mr9ccsl": {
+    "persona": "Technical Explainer",
+    "text": "All of the communication, decryption and processing of the data is done by the OS and not by the app.",
+    "quotes": [],
+    "parent_text": "Sooo if the phone is decrypting it locally you could in theory send that decrypted result back to your own servers... Unless Apple has some way of preventing that."
+  },
+  "mr4mw0u": {
+    "persona": "Solution Provider",
+    "text": "When screening a call that might be legit, Google Assistant answers the call and asks what they want, then forwards on what they say as a text if someone actually leaves a message. May not be the best for a business phone, but I never deal with spam and still get any calls I actually need. If an actual business, like the dentist, calls you, it goes through. It's only personal numbers that you don't have saved that it'll screen. Google Pixel screening is legit",
+    "quotes": [],
+    "parent_text": "That's pretty good, but it's still a hassle for real humans who actually want to talk to you. There's a better solution. p.s. I personally love answering and wasting their time - I mess with them and post the episodes on a podcast!"
+  },
+  "mr4verd": {
+    "persona": "Question Asker",
+    "text": "How would that stop spam calls? You'd then start receiving spam calls from the new area code.",
+    "quotes": [],
+    "parent_text": "Get a phone number whose area code is different from where you live. Almost local area code call you receive (other than contacts) is spam."
+  },
+  "mr4z8mz": {
+    "persona": "Critic",
+    "text": "Right, I get that. But the same logic applies regardless of your area code. You'll still get the same volume of spam calls regardless of what area code you use for your phone number. You don't have to change your phone number to avoid answering spam calls. Just don't answer if the area code matches yours but you don't recognize the number. If it's a real person they'll leave a voicemail.",
+    "quotes": [],
+    "parent_text": "Spam callers use your phone number's area code, presumably because you are more likely to pick up. Ignore numbers from that area code unless they are contacts and you almost never pick up spam calls."
+  },
+  "mr4w81k": {
+    "persona": "Technical Explainer",
+    "text": "It's not much different than how a spam filter works for email. Each number might have a \"trustworthiness\" score associated with it. New numbers would probably start with a low trust score and would drop if they started getting reports for that number. A number that's been around for a long time with no reports would likely get a higher score, though, if that number has a high call volume that could lower the score as well. This is all speculation, but that's how I'm guessing the system works in a nutshell.",
+    "quotes": [],
+    "parent_text": "Don’t spammers just spoof numbers?"
+  },
+  "mr4xcwr": {
+    "persona": "Critic",
+    "text": "IMO this is a risky approach in the long run. You'll capture market share but then frustrate/alienate your users when you eventually start hiding features behind a subscription. Better to start with charging from the start. If your product is really better than the competition or solves some unmet need, then people will be willing to pay for it. I probably wouldn't even offer a free tier since otherwise there will always be the concern that the app is selling your data to compensate.",
+    "quotes": [],
+    "parent_text": "Right now, we’re not making money from it - we honestly just think it’s a huge moment for iOS users to finally have this. In the future, we may offer a paid subscription for extra features, but the core Caller ID functionality will stay free."
+  },
+  "mra86u5": {
+    "persona": "Critic",
+    "text": "iPhone is in the stone ages.",
+    "quotes": [],
+    "parent_text": "Sorry if this is a stupid question, but how is that different from what your phone already does? I'm on Android, so maybe it's different - it warns me of spam callers before I answer. After taking calls I can report them as spam, block numbers, etc all from the default phone app."
+  },
+  "mr2c9yl": {
+    "persona": "Question Asker",
+    "text": "Hasn't TrueCaller been doing this for years?",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "mr2mnid": {
+    "persona": "None",
+    "text": "wow interesting, it's such a big company, perhaps its mainly based off of Android users",
+    "quotes": [],
+    "parent_text": "Not on iOS. Real-time caller ID on iPhone only became possible with iOS 18.2. Before that, all apps used workarounds. Now they support it too, but only with a paid subscription. Livecaller does it for free, with no account, and is fully privacy-first."
+  },
+  "mr2ms4y": {
+    "persona": "None",
+    "text": "I don’t have a question, I just want to give you applause and respect for being this determined and never giving up on your idea. That is inspiring and admirable. I wish you best of luck.",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "mr2nfvp": {
+    "persona": "None",
+    "text": "Dude, I think I used your original app with my first iPhone! To this day some random contacts in my phone still have their FB profile photo from 15 years ago! Loved it at the time - thanks!",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "mr2fqj3": {
+    "persona": "None",
+    "text": "Dude you must have gone crazy with excitement when you saw they opened it up. Congratulations!",
+    "quotes": [],
+    "parent_text": "Apple does have strict guidelines - but with iOS 18.2, they officially opened up real-time Caller ID functionality to third-party apps through a new API and system extension. We went through the full review process which took about 6 months. You just have to follow their rules carefully and design your implementation to align with their privacy model."
+  },
+  "mr1xly6": {
+    "persona": "Critic",
+    "text": "What the fuck is wrong with iPhones lmao I swear every day I learn about something incredibly basic that they don't have",
+    "quotes": [],
+    "parent_text": ""
+  }
+}

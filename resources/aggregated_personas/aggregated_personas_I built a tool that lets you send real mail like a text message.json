@@ -1,10 +1,7 @@
 {
     "users": {
         "60a19c772c9da99464a85d552aa79977": {
-            "Solution Provider (positive)": 9
-        },
-        "045875cb063606dbc7005400838a4f4a": {
-            "Question asker (positive)": 1
+            "Question asker (positive)": 5
         },
         "3e4ce20ec588600054f050310750c4ca": {
             "Question asker (positive)": 1,
@@ -57,12 +54,6 @@
         "391b0bfc665b3cc92c773f394f516da7": {
             "Question asker (neutral)": 1
         },
-        "0810b218d4f4dd6475174736f85227c6": {
-            "Question asker (neutral)": 1
-        },
-        "01a1c2204ea9056841d8ae515154d9d7": {
-            "Question asker (neutral)": 1
-        },
         "bf3aa7e5f83c562c9f644a5cf8016615": {
             "Question asker (neutral)": 1
         },
@@ -70,7 +61,7 @@
             "Question asker (neutral)": 1
         },
         "2813afbd8e34e041b0e5ae1db5c7dad2": {
-            "Question asker (neutral)": 2
+            "Question asker (neutral)": 1
         },
         "e09f4bc275b4f135d98f5c19ce35c8bb": {
             "Question asker (neutral)": 1
@@ -117,27 +108,20 @@
         "4406b477291a9d7e571ee248bc49889a": {
             "Solution Provider (positive)": 1
         },
-        "a64321ce987ac2959f3e77bc75699b62": {
-            "Solution Provider (positive)": 1
-        },
         "47bf3dc1ab86b0dc1dcdf43e4f817a88": {
             "Solution Provider (neutral)": 1
         },
         "69443460604f7903bd555d5b18f993dc": {
             "Solution Provider (neutral)": 1
-        },
-        "8d6f77ddd92f663c8a6f5b8186463710": {
-            "Solution Provider (negative)": 1
         }
     },
     "totals": {
-        "Question asker (positive)": 23,
-        "Question asker (neutral)": 15,
-        "Solution Provider (positive)": 17,
-        "Solution Provider (neutral)": 3,
+        "Question asker (positive)": 22,
+        "Solution Provider (positive)": 11,
         "Critic (positive)": 1,
         "Question asker (negative)": 6,
-        "Solution Provider (negative)": 2,
-        "Critic (negative)": 1
+        "Solution Provider (negative)": 1,
+        "Question asker (neutral)": 11,
+        "Solution Provider (neutral)": 2
     }
 }

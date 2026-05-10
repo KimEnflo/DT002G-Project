@@ -315,7 +315,7 @@
             },
             {
                 "term": "map based",
-                "weight": 1.0
+                "weight": 0.9872
             }
         ]
     },
@@ -454,32 +454,32 @@
                 "weight": 0.3
             },
             {
-                "term": "hello op's",
-                "weight": 0.9818
-            },
-            {
-                "term": "hello op's partner",
-                "weight": 1.1781
-            },
-            {
-                "term": "creator app",
-                "weight": 0.9818
-            },
-            {
-                "term": "op's partner",
-                "weight": 0.9818
+                "term": "partner creator",
+                "weight": 0.979
             },
             {
                 "term": "op's partner creator",
-                "weight": 1.1781
+                "weight": 1.1748
             },
             {
-                "term": "partner creator",
-                "weight": 0.9818
+                "term": "op's partner",
+                "weight": 0.979
+            },
+            {
+                "term": "creator app",
+                "weight": 0.979
+            },
+            {
+                "term": "hello op's partner",
+                "weight": 1.1748
+            },
+            {
+                "term": "hello op's",
+                "weight": 0.979
             },
             {
                 "term": "partner creator app",
-                "weight": 1.1781
+                "weight": 1.1748
             }
         ]
     }

@@ -315,7 +315,7 @@
             },
             {
                 "term": "head tracking",
-                "weight": 0.5839
+                "weight": 0.6168
             }
         ]
     },
@@ -455,11 +455,11 @@
             },
             {
                 "term": "3d effect",
-                "weight": 0.8886
+                "weight": 0.8834
             },
             {
                 "term": "does work",
-                "weight": 0.7977
+                "weight": 0.7954
             }
         ]
     }

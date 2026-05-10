@@ -28,9 +28,6 @@
         "4f41e5f1f363af709f9fdb9b4651cfa1": {
             "Solution Provider (neutral)": 3
         },
-        "5b2f5b9adc34ca2342ad1c623175d8da": {
-            "Question asker (neutral)": 1
-        },
         "20e162b02aaedcb53f8a77320b8eb09f": {
             "Question asker (neutral)": 1
         },
@@ -51,9 +48,6 @@
         },
         "5e4d24edac06fb0016ace3c6d6cae620": {
             "Question asker (negative)": 1
-        },
-        "e901c1b169458892410576eca9f3ce8e": {
-            "Solution Provider (positive)": 1
         },
         "b624836216e1f49194be9db4d04796b6": {
             "Solution Provider (positive)": 1
@@ -101,8 +95,8 @@
     },
     "totals": {
         "Question asker (positive)": 7,
-        "Solution Provider (positive)": 12,
-        "Question asker (neutral)": 7,
+        "Solution Provider (positive)": 11,
+        "Question asker (neutral)": 6,
         "Solution Provider (neutral)": 5,
         "Question asker (negative)": 3,
         "Technical explainer (positive)": 3,

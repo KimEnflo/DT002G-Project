@@ -1,11 +1,10 @@
 {
     "users": {
         "8bdab321d0b1bf65a578885b87ca5c16": {
-            "Solution Provider (positive)": 11
+            "Solution Provider (positive)": 9
         },
         "1d5ecb1edf279ae7d08fc70d60d05c21": {
-            "Question asker (positive)": 1,
-            "Technical explainer (positive)": 1
+            "Question asker (positive)": 1
         },
         "985ed67139677a21ef3c156732375007": {
             "Question asker (positive)": 1
@@ -29,8 +28,7 @@
             "Question asker (positive)": 1
         },
         "84e7ce7733991a3d363e0cb16babfb59": {
-            "Question asker (positive)": 1,
-            "Solution Provider (positive)": 1
+            "Question asker (positive)": 1
         },
         "ba7fc15d289f13fd11e43e3c5f5ec42d": {
             "Question asker (positive)": 1,
@@ -109,8 +107,7 @@
             "Question asker (negative)": 1
         },
         "3e4ce20ec588600054f050310750c4ca": {
-            "Solution Provider (positive)": 1,
-            "Solution Provider (neutral)": 1
+            "Solution Provider (positive)": 2
         },
         "064919e8aa8d4300283168b3e34c26d6": {
             "Critic (positive)": 2
@@ -153,19 +150,16 @@
         },
         "69a1eb07a3e0d7020cf0dd764e6947c6": {
             "Solution Provider (negative)": 1
-        },
-        "1c813f9800a7d24092bbc7e74d38bf50": {
-            "Technical explainer (positive)": 1
         }
     },
     "totals": {
         "Question asker (positive)": 20,
-        "Solution Provider (positive)": 25,
-        "Solution Provider (neutral)": 4,
+        "Solution Provider (positive)": 23,
         "Solution Provider (negative)": 2,
-        "Technical explainer (positive)": 6,
+        "Technical explainer (positive)": 4,
         "Question asker (neutral)": 8,
         "Question asker (negative)": 11,
+        "Solution Provider (neutral)": 2,
         "Critic (positive)": 2
     }
 }

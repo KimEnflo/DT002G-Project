@@ -1,0 +1,4275 @@
+{
+  "Question asker": {
+    "positive": [
+      {
+        "user": "d9db0260821f0522e1d0d5d94cd342d1",
+        "message_id": "mr1f2yc",
+        "comment": "Does it work in India as well OP? Also, thanks for being awesome and replying to everyone :) i wish you all the best!",
+        "polarity": 0.13,
+        "score": []
+      },
+      {
+        "user": "3fb8b5d6829c2744195cb784b182af68",
+        "message_id": "mr2r1tb",
+        "comment": "What are you talking about? I had it for like forever on my iPhone using apps like Yandex",
+        "polarity": 0.111,
+        "score": []
+      },
+      {
+        "user": "5c05f86da5b4f39707190c8332c3c02c",
+        "message_id": "mr2wy0d",
+        "comment": "Nice! Does it work for Spain?",
+        "polarity": 0.167,
+        "score": []
+      },
+      {
+        "user": "a3b5c3fa7bea5c220cd80489f936682b",
+        "message_id": "mr2468w",
+        "comment": "When iPhone starts to work like Android 😁",
+        "polarity": 0.143,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "3fe6c5703d38272f4e6217ee59478aed",
+        "message_id": "mr1d800",
+        "comment": "Sorry if this is a stupid question, but how is that different from what your phone already does? I'm on Android, so maybe it's different - it warns me of spam callers before I answer. After taking calls I can report them as spam, block numbers, etc all from the default phone app.",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr25v1a",
+        "comment": "Not yet, but that’s definitely something we can consider adding! Just curious - where would your list come from? (Always helpful to understand the use case!)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3qwle",
+        "comment": "What you’re seeing is likely Siri Suggestions or info from your carrier, which can show limited caller details. Livecaller takes it further - it uses Apple’s new real-time API to identify unknown numbers with wider global coverage and built-in spam protection, all as the phone rings.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mtfxjwd",
+        "comment": "Did you try Livecaller? Because it does not request any of these",
+        "polarity": -0.083,
+        "score": []
+      },
+      {
+        "user": "9d512a110be52b032ab3368096e00735",
+        "message_id": "mr1vwdu",
+        "comment": "Good questions. Also, if it goes viral would the service hold up? Would it become costly to operate?",
+        "polarity": 0.056,
+        "score": []
+      },
+      {
+        "user": "56a8ea0a388f74b357cde3dccfed8520",
+        "message_id": "mr838n1",
+        "comment": "Is it a carrier thing, I’m in the uk, and all the spam calls come through as “likely nuisance call” with numbers? I remember like 5-10 years ago it used to be more hit and miss as to whether the number is withheld, but now I rarely see them at all, likely being blocked before they get through?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "55b59a1bb58c4e39967e391fea844531",
+        "message_id": "mrbi16c",
+        "comment": "Yah someone has my dad's contact as a name he was called when he was like.... 10 and I was so confused because I had never heard it before. It came out as? (with the questionmark) when he called.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr4qw8f",
+        "comment": "Where do you think the requests to check if it is spam are going ?",
+        "polarity": -0.071,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr1bgvo",
+        "comment": "does it support european numbers too?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr1d9jw",
+        "comment": "Congratulations man, the part I don't understand is how you get 4 billion numbers from ? And if everything is local you should store all those numbers in a local db ? Meaning it's a fixed list and not updating?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr1qaoz",
+        "comment": "Can I block numbers with a certain number pattern ? Like a prefix match ?",
+        "polarity": 0.077,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr29dxs",
+        "comment": "15 years???",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr2kkqd",
+        "comment": "Question is who pays these companies to even make a phone call? Also as the receiver where’s the money for the call? (Questions big tech avoids on purpose)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr3x9cr",
+        "comment": "Operational in India? If yes then how accurate?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr79h47",
+        "comment": "Can you give a google sign in option? I use google for most third party apps",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr4teyu",
+        "comment": "Great idea keen to give this a try. Is this useful globally or only the US? & how do you make money to pay for it if it’s free? Also why is an account required to search a number?",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mrplha0",
+        "comment": "How does this prevent against caller ID spoofing & 3rd party meddling?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr1ny5t",
+        "comment": "love the idea, this was one of the thing i was missing on ios when i switched from android, but i have privacy concerns. can you opensource the code? or i would wait for truecaller to do it, coz why should i trust a random reddit post with my privacy.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "392b641d4a1afdab099dde9990f85075",
+        "message_id": "mr1lp0z",
+        "comment": "I’m confused, China has had a government app supplied by the police force that does this as well in iOS. Did they get special API permissions or something? Its used to try to stop telephone fraud which is also a major issue here. (in theory) the app I’m referring to is 国家反诈中心 translates to something anti national fraud center. I think it’s even preinstalled on iPhones sold in the country now.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "1f503e797a410b0871a05a31fb8e3371",
+        "message_id": "mro728o",
+        "comment": "Yea I was going to say I’ve had called ID as long as I can remember and I live in China. Is this a U.S. issue?",
+        "polarity": -0.036,
+        "score": []
+      },
+      {
+        "user": "94a83ff2439f394264fdbf2ce048703d",
+        "message_id": "mr2a7bz",
+        "comment": "Mines done that forever, you sure this isn’t a country dependent thing? I’m in US. Maybe it’s carrier dependent also",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "46ea34cc37d3f3c5e1776d8a57e7b8f5",
+        "message_id": "mr5tcrp",
+        "comment": "But where does the server receiving the request get \"asdasfG1423SDF\" from in the first place to be able to return the \"verified number\"?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "483fd876308cc9cf346375b571bbff33",
+        "message_id": "mr6hurs",
+        "comment": "So you built an app for something that willmost likelybe baked into the software in the near future?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "95c1ced454c1a09c9d7f14979246e6ed",
+        "message_id": "mr82zgs",
+        "comment": "Is that using a custom contact directory implementation?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2fe08a60a3d3ffb377b799524c54825b",
+        "message_id": "mr8c7vq",
+        "comment": "ya but who the hell uses Android in 2025? LOL ty man",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2579424ef34d2de06c3bcf5b82451e48",
+        "message_id": "mreg4pp",
+        "comment": "Lol who the hell wants to be locked into some overpriced, restrictive eco system like Apple in 2025?!",
+        "polarity": 0.059,
+        "score": []
+      },
+      {
+        "user": "ad6c9b9305629ba6ad0922afa6f4c2da",
+        "message_id": "mrd23n2",
+        "comment": "Follow up stupid question. My iPhone even the last few iOS versions have always said pretty much what your screenshot says. Are you saying your app will display a name even if they aren’t in your contacts? I ask because your screenshot doesn’t show that.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "bdaf0b83fb3d757b30808cdfb87d3b43",
+        "message_id": "mrf0df8",
+        "comment": "Wait, you guys used to not see the phone number of whoever is calling you?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "6114a84e17c88e4929bb0eaf1b811fa2",
+        "message_id": "mrhst02",
+        "comment": "Wait a minute, everything was \"unknown caller\" on iPhone in actual real life?? Maybe I'm resting on my android laurels too heavily after all..",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "300495970b804f55515352d1592faddf",
+        "message_id": "mriz7dy",
+        "comment": "Huh? I swear this has been native functionality on my iPhone for years. It always shows me the number and tells me when it’s potential spam.",
+        "polarity": -0.037,
+        "score": []
+      },
+      {
+        "user": "a315f2527f28697a2f562e6060c986b7",
+        "message_id": "msvpjxk",
+        "comment": "Does the app have to be \"open\" in the background to work, or can I force close it? Does background app refresh also have to be on?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1b99ec534d8d2de96747d5888b7b9ced",
+        "message_id": "mr4mw0u",
+        "comment": "When screening a call that might be legit, Google Assistant answers the call and asks what they want, then forwards on what they say as a text if someone actually leaves a message. May not be the best for a business phone, but I never deal with spam and still get any calls I actually need. If an actual business, like the dentist, calls you, it goes through. It's only personal numbers that you don't have saved that it'll screen. Google Pixel screening is legit",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "9fbc807cc37aa120c81326ac714592de",
+        "message_id": "mriaj7o",
+        "comment": "how do you get this on android? u/TheGeraltOf_Trivia",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr1bkiy",
+        "comment": "I really like the idea but that does mean your app will know about who calls me and when right? I’m not really a fan of that part",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr1f7fn",
+        "comment": "Thats not true, while they might give up data based on your actions they won’t tell the people buying ads who you called and when. I also don’t fool myself into thinking i have privacy but would you like to give anyone on reddit your exact data and phone contacts? If so feel free to send them below this",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "13f29a8ffe35c86699bfd8fb48bece06",
+        "message_id": "mr1z1rt",
+        "comment": "But the server still knows which record that query matches, right? If so, what is the point?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "13f29a8ffe35c86699bfd8fb48bece06",
+        "message_id": "mr226bn",
+        "comment": "> The server will return the correct data let's say it returns \"Verified number\" If server can know which result it returns, then that will mean it can know what number you queried, right? Apple docs mentions magic is behind a special server implementation named KPIR. It says it's a special server implementation that resolves a query without knowing the search keyword and what records it matches. I'm trying to understand how it works.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e7eb92a0e7ffb98851616c71a3c56c99",
+        "message_id": "mrdt5zk",
+        "comment": "So Truecaller also didn’t exist before ios 18.2?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1d0a614e5d8048663beb630cd1cbbe78",
+        "message_id": "mr23x3i",
+        "comment": "The server is what encrypted the data to begin with. They don’t need to decrypt it back to the number. They can just encrypt the billions of numbers again and see which is which… whenever they want…?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1d0a614e5d8048663beb630cd1cbbe78",
+        "message_id": "mr22y6i",
+        "comment": "Passwords are created by the user and immediately (should be) properly encrypted. Server side doesn’t know what the password is. In this case though the billions of numbers are from the company that does the encryption… they can easily find out which encrypted data is the phone number since they have the billions of numbers. Seems disingenuous to say “nah we’d never know” as if it’s technically not possible because of the encryption… it’s entirely possible. Unless I’m reading this wrong. If a company took your password and stored it separately in plaintext and also stored it encrypted - and the encrypted one is what they used for authentication - it would be same scenario as here. You think that encrypted data is safe?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "6628eed6c1779ae78b5048248170bcb6",
+        "message_id": "mr1tzut",
+        "comment": "You can keep a table of encrypted numbers? How do you think passwords get matched?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "aefc0f20a08df6191ce7530a5f28f2a8",
+        "message_id": "mr9pmov",
+        "comment": "What he was saying was that a company could store the unhashed plain password next to the hashed password if it enters their servers. That's why better services hash the password on the client side and only transfer the hash. Unfortunately still most services do it wrong.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "3106f39452de93d0904f54dd99acc2ca",
+        "message_id": "mr2w8ng",
+        "comment": "Thank you for this! I heard about HE before, but I never looked into it. Fascinating! Do you have to use a special database for this? Could you share what you are using or what you have tested?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "d336fc611dec81593a0fb1cf3b945040",
+        "message_id": "mrmg5ba",
+        "comment": "And some companies do just that. Ever wondered why some services are able to send your password? Gross practice but it exists",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "441aa80062db477c97195e918486999d",
+        "message_id": "mrmc345",
+        "comment": "And you just know what call is a robot robocall and which one isn't? You need a database to save the numbers of those callers, dude. You need to somehow validate if the call is a scam or not. You can't just know it out of nowhere...",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "fb8f4e6d4532d8ed20f7260e7ebdb604",
+        "message_id": "mr2rp8c",
+        "comment": "So, why according to the App Store privacy notices do you collect my contact info as well as usage data?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e1ea30ec32bba70fcfb8a76464f786ff",
+        "message_id": "mr3kvg3",
+        "comment": "Where is the data from?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ea7257f3d609e255d7ecace9a921cc9e",
+        "message_id": "mr46aec",
+        "comment": "The fact is: how do you create that database? Where do you get phone numbers tied to owner name?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2cc943808d6704a92f7b486767e26619",
+        "message_id": "mrponkg",
+        "comment": "So this means that I still cannot get the actual number? Is that part still closed? I wanted to do this for an integration with another app, but I need the actual number to do what I want 🤔",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "66118995d7d9a1afb880ecfba28c695b",
+        "message_id": "mr208ly",
+        "comment": "If you’re not in EU, every shit you poop is being logged. Why bother?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "4e90b994263e1399c49a920fe2c47b72",
+        "message_id": "mr2tjce",
+        "comment": "Don’t spammers just spoof numbers?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e7d5aafcbdae6c60ed67a8d26db12e04",
+        "message_id": "mrah4fm",
+        "comment": "Do you offer access to your spam detection service via API? For example, if i want to query if a number is legitimate or spam can I do that programmatically against your database?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "798099cded757712e31c196d779a9332",
+        "message_id": "mr1e5nz",
+        "comment": "Damn. In the UK I literally pay EE (My provider) to do this for me, and your app does it for free? Whats your business model? How you making money from it?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c30fd48925a1ac270a653145fdc035e1",
+        "message_id": "mr1gkvs",
+        "comment": "I have been waiting for this. But at the same time my initial thought is \"It's free? Why?\" It's frustrating to write that out - I don't want to pay, and I should be celebrating, but it might help take up if there's any way you can address privacy concerns like this in a solid way?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "3440aea1ab42ff3beef66425d9d236a8",
+        "message_id": "mr1dto4",
+        "comment": "how is it better than truecaller?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "86bea59f0fd68d698a24eec82897ea52",
+        "message_id": "mr1p8bd",
+        "comment": "If it’s free, how are you covering your expenses? Is there a trade off? For example, advertising? Selling our data to third parties?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4a4354d34c95c0d5fb6d067b0d9514bd",
+        "message_id": "mr4ishb",
+        "comment": "Well open-source is free, and since this is local app there is nothing to host on servers unless I'm missing something? On the sidenote, questions about monetization are valid, and I provided one perspective on making money.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "4a4354d34c95c0d5fb6d067b0d9514bd",
+        "message_id": "mr5q0is",
+        "comment": "Any example? AFAIK actual open source (OSI licences) don't allow for restrictions of use, redistribution or commercial freedom.",
+        "polarity": -0.056,
+        "score": []
+      },
+      {
+        "user": "4a4354d34c95c0d5fb6d067b0d9514bd",
+        "message_id": "mr5fij6",
+        "comment": "Spam database locally? By your logic, app won't work offline without WifI or Mobile data (hey a potential paid feature :D)",
+        "polarity": -0.048,
+        "score": []
+      },
+      {
+        "user": "33acd819ca2a22307b950ab1ec6068c3",
+        "message_id": "mr3wdt3",
+        "comment": "As opposed to altruistically developing apps and hosting their server costs for free?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "33acd819ca2a22307b950ab1ec6068c3",
+        "message_id": "mr3wq4w",
+        "comment": "Can you tell us more about the company? Are you venture funded? Independent? Sustainable?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "713b33a4211ec3a7515bd175355608e5",
+        "message_id": "mr1f16d",
+        "comment": "Sorry to bother you - dev here myself - is it possible now to block a specific range of numbers. Heavily boilerplate: if ( This would allow to block specific countries from spam calling. Or is it still just: you need to have the specific number in a catalog?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "6ede6a1a78fa7f591425bcb9ed3daec8",
+        "message_id": "mr1fqo5",
+        "comment": "Does it detect spoofed numbers? If not it’s much more dangerous if your app appears to underlines a spoofed banks number as legitimate for example",
+        "polarity": -0.077,
+        "score": []
+      },
+      {
+        "user": "05f24a1a13c21da7aa7392f5cb28b6f7",
+        "message_id": "mr1y0rk",
+        "comment": "Russian numbers?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "55ec26adc4ab2f15b5794d6da21f94ef",
+        "message_id": "mr1cvy0",
+        "comment": "can this thing detect new numbers of crazy exes ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7ccc7ae27febd7810da880f8582be04d",
+        "message_id": "mr1jrzw",
+        "comment": "how the caller knows your friends name?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7ccc7ae27febd7810da880f8582be04d",
+        "message_id": "mr2a3wt",
+        "comment": "damn how is that possible...which website?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7ccc7ae27febd7810da880f8582be04d",
+        "message_id": "mr2atxz",
+        "comment": "is this a normal thing there or a public data leaked 🥲",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0f8d820f148291a5a8adb36042e8ff8f",
+        "message_id": "mr1m1hj",
+        "comment": "do you need an internet access for that?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "265dec67e2db8377108ba9939dbe421c",
+        "message_id": "mr1dzk1",
+        "comment": "What does “covers 4b+ numbers globally” mean? You have identified 4b spam numbers? Or you’ve screened that many calls?",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "4f5e8560315b92864f93a62ee8009775",
+        "message_id": "mr1e0pt",
+        "comment": "The app seems free. How do you monetize?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1c89224fa570802f5d53c3360d90518a",
+        "message_id": "mr1f0y5",
+        "comment": "How does it differ from TrueCaller? Asking because I have an active subscription and may switch if worth it",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "86ace09bf3ff308190c6fe4e8f6ed52e",
+        "message_id": "mr1i383",
+        "comment": "I use ios 18.4 and it detects spam automatically (it shows me that it is a spamer and what city they are calling from). Do you use this feature as part of your functionality or your spam detection does not rely on the built in one?",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "4deee47ff9a94bff00df735dd00f03cb",
+        "message_id": "mrp9pso",
+        "comment": "So is the iOS 18.4 feature mentioned above essentially an Apple native version of what your app does, or is there something else to Livecaller? I just installed and tested, by getting someone already in my contacts to call me. Was hoping to see some sort of new label in my incoming calls list, to say the number had at least been been processed in some way by Livecaller but it seems in this instance you just let the number through and don’t mark the call list or do anything different. My point is that this made it hard to see if the app is installed and working, I guess I have to wait until I get my first call from an unknown number?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "ccffda8d0d30e325c2aef12003a2a836",
+        "message_id": "mr1myhw",
+        "comment": "Who is your carrier if you don’t mind me asking?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ccffda8d0d30e325c2aef12003a2a836",
+        "message_id": "mr1qxu6",
+        "comment": "Can I pay a fee to show either custom text or background image when I place a call? (Let’s say I’m a pizza restaurant with three phone lines - can I “register” the numbers +1 555 999 1000-1003 with your company, and pay monthly to control the image displayed? (Branded calling) need a partner in the US? in future versions, custom rules would be cool, i.e. let me block all calls from Florida’s 19 area codes)",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "02c0880b0cc35828f36e537a8a065ce8",
+        "message_id": "mr1ia85",
+        "comment": "Looks great! I cant wait to see how it works in action🙂 Does it support multiple SIM cards? I used similar app before but only calls to one SIM got recognized.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "eed01f173c1fee74e71f8d5ee1d43585",
+        "message_id": "mr1jfqz",
+        "comment": "How does this tell the difference between a real # and a spoofed #? If it even can",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "78975fb46d9474914c4100f5c3a43a80",
+        "message_id": "mr1jrnp",
+        "comment": "Why free?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c093f71a8cb77834ce3bf2dc5d427b5a",
+        "message_id": "mr1jvx5",
+        "comment": "My iPhones always done this, is that because i have call I’d through my phone plan, and this is targeted at people without? (I don’t know if this is a Canada thing, but call id is quite common for most plans)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d0544149f7039d00e3efba497f971096",
+        "message_id": "mr1k0o6",
+        "comment": "I am also looking to do something like for ios, we already do it for android Am I required to support spam blocking as well?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d0544149f7039d00e3efba497f971096",
+        "message_id": "mr1o02z",
+        "comment": "Thanks Is it possible to show custom ui on call events or can just show caller identification?",
+        "polarity": 0.059,
+        "score": []
+      },
+      {
+        "user": "a531b146cec7388a769a70a8c21e1807",
+        "message_id": "mr1ltfh",
+        "comment": "That's similar to True Caller, isn't it? My phone company has a similar service included for free. It can detect roughly 60-70% of the spam.",
+        "polarity": -0.042,
+        "score": []
+      },
+      {
+        "user": "8de7066caff3cb87246c72c0c4819524",
+        "message_id": "mr1nfvn",
+        "comment": "Looks pretty good however will it take the existing blocking numbers from iOS?",
+        "polarity": 0.077,
+        "score": []
+      },
+      {
+        "user": "8de7066caff3cb87246c72c0c4819524",
+        "message_id": "mr23brh",
+        "comment": "Thanks! One additional question when phone calls come in is there a log to your server(s) that houses this data? And does this data get erased when the call is ended? I’m trying to prevent PI information from getting out.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "966456ad2b4f0c26aae88a3d019bc6e3",
+        "message_id": "mr1nk11",
+        "comment": "Will give it a try, thx",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ad04f08d7fd14a7ba05a2f1121323a4e",
+        "message_id": "mr1nvfc",
+        "comment": "Amazing app! I’d love to hear more technical details about it, can you give an overview of the tech stack and what potential follow ups could be for the app? Like, if it detects spam, could it redirect to a pre-recorded voice saying “stop bothering me” or so? That would require the app to have permission to “answer” the phone call I guess",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "58ee4c7c229fc13215c22877f217a9e2",
+        "message_id": "mr1o576",
+        "comment": "This is neat! Though I've been getting something like this on my iPhone for a while just out of the box?",
+        "polarity": 0.048,
+        "score": []
+      },
+      {
+        "user": "20046a199760e01234800f7b1f8147d8",
+        "message_id": "mr1p5bb",
+        "comment": "I installed the app, tried to search for my family numbers, i was shocked they’re registered in your database THE SAME as my mum’s contacts-she does not have your app installed. Can you please share -if possible- the source of the app’s data, is it third-party? So I can be concerned for privacy or data leak from my mums phone. Great app though, best alternative for truecaller",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "4fbb5c9e17cb6ef18aae90c037c99c81",
+        "message_id": "mr1q6ia",
+        "comment": "OP - first, mad respect. Always wanted to build iOS apps but never had the energy to dive in. Second - to clarify, how is this any different from the vendor apps that you can download for free, like Verizon's Call Filter or ATT's ActiveArmor? They both show the caller ID and allow you to make spam decisions from there. (not bashing your app; trying to understand what I'm missing)",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "611d858625f9b87775dc50b40cbb487b",
+        "message_id": "mr1qaa4",
+        "comment": "How do you actually collect the data to identify? I sampled 2 numbers from family - fairly accurate. I didn’t even give access to my contact book.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "611d858625f9b87775dc50b40cbb487b",
+        "message_id": "mr2e4r6",
+        "comment": "Specific to India - TRAI (telecom regulatory authority India) allows people to send the message (for both call spams and message spams) following a specific pattern, that makes them penalise these operators who are spamming and not respecting DND policies of users. It will be huge if you (after taking my choice), also trigger these pre-formatted messages. Ensuring my call logs aren't shared with the dev is the utmost important for me. Other might think differently tho. Also, care to elaborate a bit around how you source info?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "193b105b0a7b01e6c7d7cf5c0b0d0733",
+        "message_id": "mr1rl7k",
+        "comment": "This looks great, but I’m always wary of free apps and services. Usually “your data” is the price of a free app/service. How do you earn revenue from this?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0e616b733825549ad653c0cd81c4b4b0",
+        "message_id": "mr1sv8p",
+        "comment": "Pretty cool. I get around 25 spam calls a day. I downloaded and followed the setup instructions but when I called from a friends phone it just showed the number of their cellphone not any messages like your screenshots. Is that normal or did I miss a step?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "95b17527acd499d51a12651d1cd59b38",
+        "message_id": "mr1ulgv",
+        "comment": "What makes your app different from True caller?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1c726317a5d78e0fa8345fde455eb13b",
+        "message_id": "mr1w4ub",
+        "comment": "How do you make money?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "48fd08cd7cf4518003c217e595011740",
+        "message_id": "mr1x3cl",
+        "comment": "How do you accurately classify 4 billion phone numbers?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "378731daf7b62f8f3f93d9621a575b83",
+        "message_id": "mr1z72x",
+        "comment": "Maybe a list of supported countries?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ae824711f5a747d4308c092fbdb55270",
+        "message_id": "mr2122v",
+        "comment": "Maybe you know the answer to this question - does the iOS APIs let you automatically decline calls if they're suspected spam?",
+        "polarity": -0.048,
+        "score": []
+      },
+      {
+        "user": "7f4795dbf0c7f36fb3bdc62799ee7efd",
+        "message_id": "mr22c5u",
+        "comment": "What is the difference between this and I already have a subscription on don’t want to have another one in the future. Plus also has live caller id for most numbers (at least in Portugal and Angola).",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ab53cf82b54626478e66b6768d58222a",
+        "message_id": "mr23lrg",
+        "comment": "Nice! Is it possible to import / export lists to avoid adding individual phone numbers manually?",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "98d58a64379bcb7d9af5e086584d1276",
+        "message_id": "mr242x5",
+        "comment": "Wait a minute you made sync me? A lot of people use it in Romania",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ce524cb795b38d5e93ce825b155a5c42",
+        "message_id": "mr249id",
+        "comment": "How is this different from CXCallDirectoryPhoneNumber ? Wasn't this for since long time on iOS ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6d51ad4ddf0ea736102fd06b1a65592f",
+        "message_id": "mr2c9yl",
+        "comment": "Hasn't TrueCaller been doing this for years?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "08e6c553e396c42bc5a7ec77e11ca288",
+        "message_id": "mr2ddd0",
+        "comment": "This sounds amazing. Does it work for Brazil? You don't seem to track the data and use the [ database as you explained, but is there any way I can report numbers as SPAM? (Here in Brazil there is a big problem with spam calls)",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "e0d4562fa89da78e28eb638ace62b3b2",
+        "message_id": "mr2iqoq",
+        "comment": "What counties do you cover?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "332614ba39db46827d6fbeb911defbb3",
+        "message_id": "mr2lmgf",
+        "comment": "Doesnt truecaller ID already do this?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4d3559aedc49497bb88e2b598e983747",
+        "message_id": "mr2mfll",
+        "comment": "What about TrueCaller? Isn't that exactly what they've offered for years on iPhone?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "b9d466b312b67aa8ed0a391b84b38565",
+        "message_id": "mr2mld6",
+        "comment": "Haven’t I been doing this with true caller for years? What did Apple just change that lets you do something new?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "bc48b5964f01628222a93252bd86c251",
+        "message_id": "mr2nw0d",
+        "comment": "I can’t enable Live Caller - Part 2, it just gives me a spinning wheel forever. Thoughts?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0701008179f6dc1a4405d3259de69049",
+        "message_id": "mr2pwyx",
+        "comment": "Definitely a need! I pay like $50/year for this through YouMail, but I’ve had it for years?",
+        "polarity": 0.056,
+        "score": []
+      },
+      {
+        "user": "a505cd2c6fb7838badf2301bd0bbee34",
+        "message_id": "mr3uaab",
+        "comment": "Tried that now and part 1 shows up but part 2 doesn’t even after enabling part 1. Why are both needed? What’s the difference?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "f046f24665f0f86728c62ec271aa0f87",
+        "message_id": "mr2qev8",
+        "comment": "I’m confused about what this is? Hasn’t Truecaller been doing this for years already?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2932790eb2f79cc625d955c300dc346f",
+        "message_id": "mr2r2sy",
+        "comment": "how did you manage to get those 4bn phone numbers ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d7e59cff6b2c85feb7cd59aa47dd5c20",
+        "message_id": "mr2w7qw",
+        "comment": "How does this work in terms of integration into the phone. Does this replace the built in incoming call screen or does it just add the caller ID info?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5c05f86da5b4f39707190c8332c3c02c",
+        "message_id": "mr31pax",
+        "comment": "Would it be possible to make the block of calls optional?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9f02c69495276a101899699624d49540",
+        "message_id": "mr2xzkk",
+        "comment": "Isn't Truecaller also gonna have similar functionality then?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "81040b3b8b90d0f5554a5fd830d4defd",
+        "message_id": "mr2y0ap",
+        "comment": "I can’t tell from the website or from your comments, but can it auto-block calls from spammers? I could block the numbers one by one as they come in but spammers will just switch to new numbers.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "39fd5e4a239493e558da8143748d1404",
+        "message_id": "mr31n04",
+        "comment": "My iphone has shown who is calling and identified spam calls for a good while now without any app installed. How is this different? What am I missing here?",
+        "polarity": -0.034,
+        "score": []
+      },
+      {
+        "user": "31781bb03dd4e438e1d876012f33e212",
+        "message_id": "mr383km",
+        "comment": "Can I download this in the UK?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "268a8f2cd5e40cdbd823f5978b348557",
+        "message_id": "mr3g8wn",
+        "comment": "How is the effect of this on battery life? Is it always running in the backend!l?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5ee06786d5334a7ce46a122251786bfd",
+        "message_id": "mr3jefx",
+        "comment": "What about an option to answer the call, but not by me, but by an AI assistant? Because there are often calls I receive that I don’t want to ignore necessarily, but still want to know what they are calling about. People don’t really leave voicemails anymore I believe Pixel phones have this already. Would LOVE something like this for iOS",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "aa929c297e5ce7147061fff606972b6a",
+        "message_id": "mr3kq9u",
+        "comment": "How fast I downloaded this was literally the definition of “say less”.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "cf8babaf9808e9019f4dccb7d33c27ac",
+        "message_id": "mr3n7gy",
+        "comment": "Your bulletpoints of features all look great except they are missing one key thing for me. Privacy. How are you handling caller ids that are sent via the api? How are logs managed? Are numbers sold to third parties etc?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d9e63b43e3afaf1ac68ce958446dcea4",
+        "message_id": "mr3n974",
+        "comment": "If Apple just opened up realtime caller id access, how have apps like Hiya been doing this for years now?",
+        "polarity": 0.05,
+        "score": []
+      },
+      {
+        "user": "b437dbeccf440626354f64fbd22db401",
+        "message_id": "mr3rhms",
+        "comment": "Does this work in India?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7d465f3fdd56a66d875ddd6385790022",
+        "message_id": "mr3sbj8",
+        "comment": "This is a decent app, but I went through your privacy policy and I have questions for you. Does this mean if one of my friends uploads their contact info list, which may have my info, my name and number may be made searchable or visible to others without consent? Is this you flat out telling us that you may monetize or syndicate our data and hand it off via API to carriers and unknown \"partners\" ? This sounds like data commodification. “The same information... may have already been provided by other users... or collected from other sources or publicly available data sources... such processing shall not be considered a breach...” Does this mean, even if I do opt out, my data might still show up again because it was sourced elsehwere? If so, this undermines true deletion and makes your opt out process a \"MAYBE\" in terms of action. Did you intend for your app to be a potential doxxing tool? Spam reports may be made public, what if someone weaponizes this to defame a number? Whats to stop me and 25 other people to label someone a spam risk?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "365b000efe330325f746080eeffba5a9",
+        "message_id": "mr3tjrm",
+        "comment": "Are you going to now pivot?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "aedf26f5bfe113d7ce79eb3898372f11",
+        "message_id": "mr3xyd9",
+        "comment": "I’ve been using Verizon Call Filter for a few years, how is this different? I understand that Verizon Call Filter doesn’t have Live Caller ID Lookup, only Call Identification. I was still able to block calls using VCF though. I’ve installed your app and disabled VCF to test it out.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0bb33c1310ab07e51568c835ec6d1c01",
+        "message_id": "mr3zydl",
+        "comment": "Where does your data come from? How do you populate your phone numbers database? Can I submit numbers?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6db04884d977b5b7737dd388928b64b2",
+        "message_id": "mr40vqh",
+        "comment": "How is this different from the TrueCaller app?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c95321fb357504182679207b91c74be1",
+        "message_id": "mr433uq",
+        "comment": "Hasn’t ”call blocking & identification” been around for a long time in the phone settings? Is this something different?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9503948ebdb211bb424c8032d7ea9275",
+        "message_id": "mr43s61",
+        "comment": "Will it block the call (or send to voicemail) if spam is suspected? I often get calls flagged as “Spam Risk” and I don’t want my phone to ring for those. Would this app do that?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "de0b91d7ccea6abf1ce622fb38ac6bb3",
+        "message_id": "mr46ctm",
+        "comment": "Noticed the Israeli 055 - many times that’s a local mobile virtual phone number. You local ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9a570b2bfac82e8e1e276078358cb02d",
+        "message_id": "mr46f1f",
+        "comment": "How is this different to Truecaller?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "fede22f1f862f3ab1468f2c419c53aa8",
+        "message_id": "mr47150",
+        "comment": "Why are phone numbers and Caller ID so spoofable? It seems like a major security flaw in the phone system. Does your app do anything to prevent that?",
+        "polarity": 0.036,
+        "score": []
+      },
+      {
+        "user": "533ba22e59a4f01de01c01228f43479c",
+        "message_id": "mr49qxp",
+        "comment": "Most of the time when someone call me I see their name or if it's a scam on Iphone. Cool ideas how did you get the database of 4 millions number? How secure is your app? Do you collect your user call logs?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e7555619cce8e7354887465429f5e8a8",
+        "message_id": "mr4fqki",
+        "comment": "Just tried it out using a number that messaged me today that was clearly spam. Alarmed at having to fill in a form for you to not sell my info - after creating the account. I can't find where to delete my account in its entirety. Please can you advise?",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "12841a984d266a6f116c8e987945bcfa",
+        "message_id": "mr4k87b",
+        "comment": "Does this work just for us numbers or also in europe?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "12841a984d266a6f116c8e987945bcfa",
+        "message_id": "msiq5ip",
+        "comment": "Is there a possibility of also getting profile pictures? Maybe having a siri shortcut, that takes as input a contact, and searches it’s database for social media profiles and takes a pic from there?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2aeb1fff4e2172c13130c8df5a4bbe1d",
+        "message_id": "mr4k8q4",
+        "comment": "Looks great, I just installed it and if it works as expected, I’ll be recommending it to friends as well. But one question: I’m from Germany. Will this work as well here?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "9a504bb06cd5ad8e326e4b92e0563bc6",
+        "message_id": "mr4kipj",
+        "comment": "Can you make one that sends your name or work to the number you’re dialing? That would be useful",
+        "polarity": 0.05,
+        "score": []
+      },
+      {
+        "user": "1bdb2e56e43fe34ea16d4a5bd16cd957",
+        "message_id": "mr4ky8e",
+        "comment": "Interesting So there are apps (famously Truecaller) and services by cell providers that do this already, or something to the same effect. Do you mind going through why your solution is different and what the technical limitation (that Truecaller didn’t have) was until recently? Edit: most call blockers now don’t work anymore bc these scammers/grifters simply spoof numbers now. Is there any solution to that?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "1324eb38e53c909ea06a24320babc4ca",
+        "message_id": "mr5b23q",
+        "comment": "Do you make any money from this work? If so, how much?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "feb2c3a8910f810b5aea43689a02a748",
+        "message_id": "mr5fyle",
+        "comment": "Is it possible to auto block / reject a call if detecetd as spam? Also, can i flag numbers as spam? I think they heavily use twilio API in my country for that",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "0a4bd2efae4f3ed51b3e5bac82e07896",
+        "message_id": "mr5uw05",
+        "comment": "Huh?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "b09f2c16dd277f44839bfc87d3bcb5e6",
+        "message_id": "mr63r9z",
+        "comment": "I have Truecaller and Hiya at the moment, is having more than one beneficial or do they all use the same spam numbers list?",
+        "polarity": -0.042,
+        "score": []
+      },
+      {
+        "user": "39c31c5077987d288cde00b6675752eb",
+        "message_id": "mr7l0d3",
+        "comment": "So your company built up this 4B phone number database since 2012? Or is your db data from open source? Congrats on the app!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ae46160e4a8af1a2a0e320b640847fa5",
+        "message_id": "mr5z1kj",
+        "comment": "How it’s different from truecaller ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6d3acff898f34c08ed3d3256416e8edd",
+        "message_id": "mr64qh3",
+        "comment": "I had truecaller for a while. How is that different? Also had Just downloaded livercaller. Can it coexist with truecaller?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "fb73fc7874cf5dd609cfaa8f36c84851",
+        "message_id": "mr65p3b",
+        "comment": "I don’t get it, why do this for free? How do you plan to monetize?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3c83f4d29b041f1801b737c5236f4149",
+        "message_id": "mr6wafj",
+        "comment": "Fantastic idea. Does it work in Sweden?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a21434d1a5be557baf5b67143a9df59a",
+        "message_id": "mr7n4si",
+        "comment": "I have an app that did that way before iOS 18. What exactly changed in iOS 18.2? Maybe I am wrong but there was an option in the past to say which app is used for call identification",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "0f1e5ae015d5b89ce19e19b58e119927",
+        "message_id": "mr7z9lt",
+        "comment": "is one of the first apps I always install in my android. It's great to know who is calling even if you don't have their number. The update about a year ago just blew, after the call that big banner with ads with so intrusive",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5b38934d477065bccc38fea5f908b046",
+        "message_id": "mr84ypo",
+        "comment": "\"Apple finally made it possible in iOS 18.2\" How come other apps had this feature for ages now?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "abb9c8d9856433248f269178c216207b",
+        "message_id": "mr8d41u",
+        "comment": "Will this work in the UK?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "db3a2f34f76c374f87e388998d0a2597",
+        "message_id": "mr94dn9",
+        "comment": "It’s free, what’s the catch?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "cba6c9f846819fe9db50fe9979883057",
+        "message_id": "mrch4jb",
+        "comment": "Is it multi-country? I have my phone in Italian, but I live in Spain. I have a dual SIM, an Italian number, and a Spanish one. None of the existing apps handle it right. Do yours support it?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2984e483c1e9647323ca5e3600b35d10",
+        "message_id": "mrczb14",
+        "comment": "How hard would it be to flag a text? I’m tired of receiving text about meeting some random person for lunch? Thanks for sharing your work.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "65be82bde79b9d253e58baf374da51b0",
+        "message_id": "mrrwwm3",
+        "comment": "Whats your business Model? and from where you get the spammer numbers lists?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1b7bb5887b2402a1612167ad60a4424c",
+        "message_id": "mr54cc1",
+        "comment": "Hey there, this sounds great. I’m currently using Hiya app to screen unknown calls or numbers I don’t recognize. Will your app help with this or can it replace Hiya? I guess what I really would like is to force screening for every call, is that possible?",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "84f4847c25c762750a046ab2b92e73ff",
+        "message_id": "mr65lk4",
+        "comment": "How is it different from what Truecaller already does?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1bf0ba4a905afaa2fb32ee5f875423e2",
+        "message_id": "mr6efg6",
+        "comment": "Will it work for India?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4f2e62b5b8b73b4d6ef1daf79365faeb",
+        "message_id": "mr88tg3",
+        "comment": "Which country is this relevant to? Just curious. Recently, Airtel in India released this feature and calls are marked as spam from the carrier itself - Apple or Android, it doesn't matter. Thanks!",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "6ecc330a2855ea1097b9cdeb0642467b",
+        "message_id": "mr8elfs",
+        "comment": "Why not make it open source if it was made with good intentions? So the community can contribute to it.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4918166a20f4f1c3f8cb8bf0a108d1ac",
+        "message_id": "mra93xa",
+        "comment": "i am on IOS 17.0 and have a free app that does exactly the same. How can this be new in IOS 18.2 ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "b55a242afad4ad8ac3bb9e8b7083f198",
+        "message_id": "mrlna3j",
+        "comment": "I don’t get it. What does „real time caller ID“ means? My phone has always shown who is calling… some don’t get the point",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9a4353ee2f7302981807d6964baa88d0",
+        "message_id": "mr8tc91",
+        "comment": "My iphone shows me this and I do not have an app running?",
+        "polarity": -0.077,
+        "score": []
+      },
+      {
+        "user": "94a1ff7a5e117e79ee1fc85c02b0ab51",
+        "message_id": "mr94r17",
+        "comment": "I want to stop people seeing my number when i call a business that will capture it for spam. Can this to call by call hide my number?",
+        "polarity": -0.036,
+        "score": []
+      },
+      {
+        "user": "f8dbf513a64a2ce64036aa2c56a0f16a",
+        "message_id": "mrby9pa",
+        "comment": "Great work! Just installed it. Does this work with all major carriers? At&t, Verizon, Tmobile, etc. Also is it separate from the caller id db of those carriers or work in tandem with them?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "ada6a840d06b5fb428b5bc34aa11b122",
+        "message_id": "mrd6ygp",
+        "comment": "TrueCaller, anyone?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "475cdd925ea0f770f9edb9f6175d4faa",
+        "message_id": "mrgzg94",
+        "comment": "Why do you want my contact information? Not interested in handing over PII.",
+        "polarity": -0.077,
+        "score": []
+      },
+      {
+        "user": "f4f68f335103ccf8ab1d1c85a53574b5",
+        "message_id": "mrjqmas",
+        "comment": "It would be really nice if Apple would support VOIP Calls as well. Unfortunately this only works for native calls. Or do you have a solution for this issue? I‘m looking for a solution to resolve my incoming MS Teams calls (PSTN) on my phone.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "302a7627d4a757560323861c1c58fc91",
+        "message_id": "mrkacif",
+        "comment": "Can we use the API to log the call into, for example a new reminder or even better, push it to N8N and dictate the whole call?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "b715713e95ae244fc4306a6d15bb8bfb",
+        "message_id": "mrq0f5d",
+        "comment": "The important questions first: how much did you make with android? (Some statistics and stuff would be interesting, congratulations btw!) Anyway, I’m installing it as a replacement for true caller, thanks!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "b8468d98d3d3bba17a37068e2172104d",
+        "message_id": "mu1yruf",
+        "comment": "Woah this is awesome! I'm super happy for you that you were able to build this app after 15 yrs of waiting LOL! Quick question, what type of website builder do you use for your landing page? It looks awesome! My friend and I are also developing an app and was thinking of building a landing page too :))",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "0b6286e870ae1d56f8a0e034db4b4219",
+        "message_id": "mr6khhl",
+        "comment": "How is this different from on iPhone, since also does caller id,s",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6cf232250adb958853ced8eda1287f98",
+        "message_id": "mr7xact",
+        "comment": "I've just downloaded it. I will give it a try. Another thing Android does it's when some business calls you it appears with the name. Does this app do it too?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a2cc512406ca85e1bffda2eefb7aee08",
+        "message_id": "mr83onp",
+        "comment": "Can i also see the Phone number when someone tries to call me with a Suppressed or “Anonymous” Number?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "95bae856ac09fc3a07daf1da524f1a42",
+        "message_id": "mrbnn6s",
+        "comment": "Can I activate both sync me and this without Error?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "09b99a16931f34f1904de6125d25c0ed",
+        "message_id": "mrct1t3",
+        "comment": "This reads like, \"finally my abusive partner said the loved me after 15yrs\" Dude what? You spent countless hours trying to develop something in iOS that they wouldnt allow, but was built into android years ago... because..... and now you're acting thankful to Apple? You could've spent that time learning react or kotlin, or fucking C if you really wanted to be an apple dev. What?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "5ff8bb334862b841e8f7b1861654d383",
+        "message_id": "mre1qc8",
+        "comment": "Is it still possible to see my friends photos when they call? or is it only possible to update my contacts with their picture?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4471364a5325d62f63d94fccadc0431e",
+        "message_id": "mrh229v",
+        "comment": "Apple did it finally??? I have suffered due to the lack of this feature so much i had to switch to android jist because i received so many spam calls.... let me check my iphone",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "aef6ed27e751f0574b9ba869a34ca4b2",
+        "message_id": "mrke1g4",
+        "comment": "Very cool. Just downloaded it. That is one of the few features I was missing coming from a Google Pixel. Is there a way to have it skim through my call log and add the info like in the screenshots or will it only work for future calls? Also it’s a very good thing to be able to suggest entries to the database. Will this be added immeadiatly or only after a certain amount of people submitted the same number?",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "5a2b48a8679f8ebf59447f89f34b47ad",
+        "message_id": "mrlbhge",
+        "comment": "I already have truecaller installed, will this conflict with truecaller?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1fcced0c438754fe34d9ec63b6beb65c",
+        "message_id": "mvx9wwi",
+        "comment": "what's the update on ios 18.5 ??",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a002f48db1f0a8fc154886ba2fb529a1",
+        "message_id": "neid8l7",
+        "comment": "Very nice! How does the flow work? On apple docs they mention a private pass with issuer url. Did you implement that as well?",
+        "polarity": 0.042,
+        "score": []
+      },
+      {
+        "user": "64d2010aa5607146a2ba8b67f04a61b7",
+        "message_id": "mr1dtz5",
+        "comment": "I didn't knew about this limitation, I came from Android recently (where this idea is already implemented) and didn't found any solutions. Great! I'm sure that I will use. One question, where you can get the 4 billion numbers reputation data?",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "1cd07541e311b1539f58cdaab7905d6d",
+        "message_id": "mr2mpx0",
+        "comment": "In the UK if I didn't recognise a number I would put it into Google. Sites like who called me are top and people comment saying the company. I have never heard of your site so what market are you popular in because surely it would have bias in that region. I imagine it's like antivirus, sure you can try heuristic detection but like a new phone number how would you know it IS spam until it gets an initial flag?",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "4c81b038529a456a70b74e0cc13679f6",
+        "message_id": "mr9vno0",
+        "comment": "There’s Truecaller. For years. What’s different about your app?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "29af6f2ffa86927fdca95cc5c61178d1",
+        "message_id": "mrknvqt",
+        "comment": "What does this bring to the table that Truecaller and Hiya/Mr Number doesn't?",
+        "polarity": -0.071,
+        "score": []
+      },
+      {
+        "user": "8f7dec721f45c986b0942d17df9cae2e",
+        "message_id": "mrpl5ac",
+        "comment": "In the future, could you update the blocking feature to allow blocking by prefix instead of having to specify an exact phone number? I know exactly which prefixes are really harassing me — they always start with certain numbers like 034, 033, etc., and the actual phone numbers change frequently (in the Vietnam region). I'm willing to pay a reasonable fee for this feature!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "97380d1565b963cd69aa0f606021726b",
+        "message_id": "mrq7cef",
+        "comment": "So does this mean you could make an app that declines any call that isn’t from a number in my contacts? can you make it add numbers to your blocked list?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c7b05e9a1a2e25c45f2b4e7431c3c9bc",
+        "message_id": "mrq9his",
+        "comment": "Do you have to integrade some third party API into the app or the Apple native Live Caller ID API does the job for you and returns all the metadata about the number?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "64d56ecaf2f7eb12218462cdaea00ffa",
+        "message_id": "mrt9qk7",
+        "comment": "What makes it better than TrueCaller? (Currently using that but willing to switch in no time ;))",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2cb210a0a28be54f229fcd016b8ecfdd",
+        "message_id": "mr1feki",
+        "comment": "In Russia we had such apps for years. Yandex for example can do that. How was that impossible?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2cb210a0a28be54f229fcd016b8ecfdd",
+        "message_id": "mr1gkbj",
+        "comment": "This is exactly what a lot of apps did (Yandex, T-Bank, Sber and all the provider apps). I don’t know how, but it works. I personally use my provider’s app (Megafon) and it tells me whether the call is spam in real time. Maybe I don’t get something and your app does something better than that?",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "2cb210a0a28be54f229fcd016b8ecfdd",
+        "message_id": "mr1gnz4",
+        "comment": "MAYBE it works only if iPhone is unlocked, I’m not completely sure. Is that the difference?",
+        "polarity": -0.059,
+        "score": []
+      },
+      {
+        "user": "d1337f4b240dd5b0515fec3e225d17df",
+        "message_id": "mr1eded",
+        "comment": "Will test.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1bf0cb4f1d850f3535ad7ea2cab6b71c",
+        "message_id": "mr1wmcv",
+        "comment": "I've had this for years on android, this really just arrived on iOS?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "475b40516a6ec981d359241b46dafe92",
+        "message_id": "mr1zpkv",
+        "comment": "Aren’t there tons of software that does the same thing?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "16d9f59133e465003a7aab90118c73da",
+        "message_id": "mr1d317",
+        "comment": "Doesn’t Apple restrict usage to that? How was it getting approved by Apple, what did you need to do?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2e30109f555ff901f1e81a5e7d05dde4",
+        "message_id": "mr1xly6",
+        "comment": "What the fuck is wrong with iPhones lmao I swear every day I learn about something incredibly basic that they don't have",
+        "polarity": -0.091,
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mrq8zdv",
+        "comment": "Doesn't TrueCaller have this?",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mv7l9yt",
+        "comment": "Are Indian spam contacts numbers updated in the database?",
+        "polarity": -0.111,
+        "score": []
+      },
+      {
+        "user": "46ea34cc37d3f3c5e1776d8a57e7b8f5",
+        "message_id": "mr5smix",
+        "comment": "This only add more questions. What do you mean by real-time Caller ID? If iOS can't identify them because they're not in our contacts. How does your app? And why would we trust your app? By trust in part I mean trust it to correctly flag the caller? Like If John smith is calling but I don't know a John smith well enough to not have them in my contacts, why would an app telling me that the number on my screen calling, belongs to John smith be beneficial? If I am not providing your app the information in some way like syncing my facebook friend list or whatever, how have you compile a database of legitimate callers? If I am doing that, are you telling me there isn't already a method inbuilt in iOS or an app that syncs my facebook friends info as contacts in my phone? The spam part make sense but I am really surprised if Apple isn't already using some kind of robocaller/spam caller database (it has flagged several calls as suspicious without your app), maybe your app has access to more comprehensive, up to date list of these kind of callers which would make sense Don't mean to be critical I am just trying to understand the use case of this app and how it works in practice.",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "c09b92b982f1a0000cdea75d6531c817",
+        "message_id": "mr4verd",
+        "comment": "How would that stop spam calls? You'd then start receiving spam calls from the new area code.",
+        "polarity": -0.118,
+        "score": []
+      },
+      {
+        "user": "f9d1c3f18c4214581e3a1feb81942055",
+        "message_id": "mrq44kq",
+        "comment": "Thats not built into ios?",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "dfd3206636b88042da95ea8a2f0d4ac2",
+        "message_id": "mr1cu0l",
+        "comment": "How does it know if it’s spam or not?",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "b3251cf6f58b98d3e1f1112184cd97f2",
+        "message_id": "mr1fz8x",
+        "comment": "Does it show people not in my contacts or only will show spam?",
+        "polarity": -0.154,
+        "score": []
+      },
+      {
+        "user": "4f5e8560315b92864f93a62ee8009775",
+        "message_id": "mr2gn9w",
+        "comment": "So you are not collecting and selling the data?",
+        "polarity": -0.111,
+        "score": []
+      },
+      {
+        "user": "c7ab9347ddde2b5967e68726c902ec51",
+        "message_id": "mrk3kgm",
+        "comment": "iPhones don't have caller id for numbers you don't have in your contacts?? That's crazy",
+        "polarity": -0.133,
+        "score": []
+      },
+      {
+        "user": "1f90a869bd2443a9eda2040d387faa1e",
+        "message_id": "nj77jzs",
+        "comment": "Why it is not working in india ?",
+        "polarity": -0.143,
+        "score": []
+      },
+      {
+        "user": "9b86860c7471dcfa2c06614daf02e858",
+        "message_id": "ms7lyld",
+        "comment": "How to ensure the accuracy of identifying suspected spam?",
+        "polarity": -0.111,
+        "score": []
+      },
+      {
+        "user": "b9a0ff651051cd335c61f82ab60bf814",
+        "message_id": "muqht7n",
+        "comment": "Stupid question, how it’s different from truecaller ?",
+        "polarity": -0.125,
+        "score": []
+      }
+    ]
+  },
+  "Solution Provider": {
+    "positive": [
+      {
+        "user": "43abe4fbe40b5e5c2fb66289b0caf8ad",
+        "message_id": "mr2hie4",
+        "comment": "man, this looks awesome, you should submit it to [",
+        "polarity": 0.111,
+        "score": []
+      },
+      {
+        "user": "1700d763e0d63268801f33d0e09bef2e",
+        "message_id": "mr2p57i",
+        "comment": "This is like truecaller, people use that in India",
+        "polarity": 0.111,
+        "score": []
+      },
+      {
+        "user": "e6e93e56f489ab3ac80b34d6f4022266",
+        "message_id": "mr5wkfa",
+        "comment": "I’ll try the app. Thanks.",
+        "polarity": 0.167,
+        "score": []
+      },
+      {
+        "user": "6e38875cc28cd468ce0ee097987db0d6",
+        "message_id": "mr90koz",
+        "comment": "Awesome! I'm giving it a try, love the concept.",
+        "polarity": 0.222,
+        "score": []
+      },
+      {
+        "user": "ccd0a971ce81aa9e7b56992baf2aae00",
+        "message_id": "mrp84d0",
+        "comment": "Am glad I encountered this, giving it a try. Thanks for this app. It probably needs better marketing.",
+        "polarity": 0.111,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1nyud",
+        "comment": "Using something called homomorphic encryption. If you are interested in the technical aspect of it you can read more about it here:",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1cm25",
+        "comment": "Totally fair point - but in this case, Apple implemented something pretty remarkable. Thanks to the encryption model they use, third-party developers (like Livecaller) never see the phone number being queried. The entire database is encrypted ahead of time, and Apple handles the lookup through a process called homomorphic encryption.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1mxgd",
+        "comment": "No, you’re not required to support spam blocking. You can just focus on Caller ID if that’s your goal",
+        "polarity": -0.095,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1nme2",
+        "comment": "Thanks! Truecaller used some workarounds in the past — like a local database of numbers or Siri Suggestions - but it wasn’t truly real-time Caller ID. Livecaller is the first to offer it using Apple’s real-time API for free.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1onwe",
+        "comment": "Yeah, it’s similar in concept, but there are a few key differences. Livecaller’s built natively for iOS using Apple’s new real-time API, doesn’t need any permissions or an account, and it’s completely free.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr22vux",
+        "comment": "It doesn’t import your existing iOS block list (Apple doesn’t allow access to that), but you can enable automatic spam blocking right from Livecaller’s settings. It works independently using our crowdsourced database of spammers and catches high-risk spam in real time.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr24v1s",
+        "comment": "Thanks! Really appreciate that 🙏 Yeah, carrier apps like Verizon Call Filter or AT&T ActiveArmor are solid, but they’re tied to your carrier and limited in scope. Livecaller works globally, doesn’t need your contacts or account info, and uses a much bigger, crowdsourced database. Plus, it’s fully native on iOS using Apple’s new real-time Caller ID API - and totally free.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr25546",
+        "comment": "Unfortunately, Apple doesn’t allow third-party apps to block numbers based on patterns or prefixes. But we do let you adjust the level of spam blocking in the app settings - so you can control how aggressive it is.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2aseu",
+        "comment": "Livecaller is built specifically for iOS 18.2+ using Apple’s new real-time Caller ID API - so it feels truly native. It’s also 100% free, requires no account, no access to contacts, and puts privacy first. Truecaller works, but on iPhone it needs a paid subscription for real-time ID.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr26mxe",
+        "comment": "Absolutely. iOS does allow this, and it’s part of what we offer! In Livecaller, you can choose how aggressive you want the spam protection to be, including automatically blocking high-risk calls.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr26cq7",
+        "comment": "First of all, thank you so much for supporting [ - really appreciate it! 🙏 You can absolutely keep using [ - you don't need both. Livecaller is more of a lightweight version built specifically for the new iOS 18.2 API. Think of it as Caller ID without the contact sync — fast, native, and super simple to set up.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr27kal",
+        "comment": "Appreciate that and totally agree, there’s huge potential in those regions!Livecaller has solid coverage there too. Give it a try and let me know how it works for you!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2c9qe",
+        "comment": "You can block spam calls automatically - follow the instructions here:",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2c38h",
+        "comment": "Wow - that’s amazing to hear, thank you for being a longtime supporter! 🙏 [ has been on quite a journey, and now with Livecaller, we’re bringing that vision to iOS in a whole new way. Would love for you to give it a try!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2dwqg",
+        "comment": "Thanks! Yep, it works in Brazil, and you can report spam numbers right from the app. We already have good coverage there, and user reports help keep it accurate :) Especially in places with lots of spam like Brazil.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3u77d",
+        "comment": "Wow - thank you so much, that really means a lot 🙏 It’s been a long road, but messages like this make it all worth it. Appreciate the support more than you know!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3ty2f",
+        "comment": "Make sure you're internet connection works properly. If that does not work, try restarting the phone.",
+        "polarity": -0.062,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3tlkb",
+        "comment": "Try reinstalling - and please make sure you are running the latest version of iOS. If that does not work please contact our support team - support at [",
+        "polarity": -0.038,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3rtjf",
+        "comment": "It doesn’t replace the incoming call screen - it just adds the caller ID info right on top of the default iOS call screen, using Apple’s new Live Caller ID extension in iOS 18.2. It looks and feels totally native.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3ro3g",
+        "comment": "Sure! We have solid coverage in Spain. Give it a try :)",
+        "polarity": 0.091,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3r9ls",
+        "comment": "Yep, Livecaller can automatically block spam calls - no need to do it manually. You can choose how aggressive you want the spam blocking to be in the settings, see here:",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3qn49",
+        "comment": "Yes, absolutely -- call blocking is optional in Livecaller. You can choose the level of spam protection you want, or turn it off completely if you prefer. See here our instructions:",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3pitn",
+        "comment": "Privacy is at the heart of how Livecaller works. We use Apple’s new Live Caller ID API, which is designed with homomorphic encryption, meaning: - Incoming numbers are encrypted before they’re sent - We perform lookups without ever seeing the actual number - The response is also encrypted and only decrypted on your device No call logs and no contact access. Everything happens in real time, and we’re fully audited by Apple as part of the App Store approval process.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4a9mb",
+        "comment": "Yes, Livecaller works in India and has strong coverage there. It uses a mix of crowdsourced data and AI to provide accurate real-time Caller ID and spam detection. Give it a try and let us know how it works for you!",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4a3q0",
+        "comment": "The data comes from crowdsourced reports by millions of [ users over the years, plus public and business info. And yes - you can report numbers directly in the Livecaller app to help improve accuracy!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr49i58",
+        "comment": "Awesome - really appreciate you giving it a try! 🙌 Looking forward to hearing how it goes, and thanks in advance for the review! Let us know if you have any feedback.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr49ems",
+        "comment": "Yes, exactly - Livecaller can automatically block high-risk spam calls, so your phone won’t even ring for them. You can adjust how aggressive the blocking is in the app’s settings, totally up to you!",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4bb12",
+        "comment": "We use crowdsourced data from [ built over 10+ years - over 4B numbers and spammers worldwide. No call logs, no contact access, and all lookups are encrypted and handled privately through Apple’s system.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4h2ij",
+        "comment": "Thanks for the feedback - and totally understand your concern. Just to clarify: the Livecaller app does not collect any personal information about you. If you signed in with Apple, it was only to use the manual search feature - and that’s just to prevent abuse (like bots or scraping), not to track or sell your data. If you’d like to delete your account completely, just email us at [support@ and we’ll take care of it.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7ngf4",
+        "comment": "Great question - you’re right that iOS had a Call Identification option before, but here’s the key difference: Before iOS 18.2, apps could only use static, preloaded lists of known popular numbers (especially businesses and spam) - no real-time lookups. What changed in iOS 18.2 is that Apple finally introduced a new Live Caller ID API, which allows apps like Livecaller to identify any number in real time as the phone rings, without needing to preload massive databases.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1ptu5",
+        "comment": "Totally fair concern. Livecaller is built on Apple’s privacy-first API. We never access your contacts or call logs, and all lookups are encrypted end-to-end so we don’t even see who’s calling you. We’re also fully audited by Apple, and if you’re curious, you can find more technical info here: 🔗",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mskrokz",
+        "comment": "You can download the app for syncing contacts with their social profile pictures ✨",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1g3c1",
+        "comment": "It was not possible to have real-time caller ID on iOS. So now you can identify any number that is calling you from the incoming call screen",
+        "polarity": -0.036,
+        "score": []
+      },
+      {
+        "user": "d4cabdb5f08fe7028e9243b684708ff7",
+        "message_id": "mr1ti9m",
+        "comment": "I’m using iPhone and when numbers not in my contacts call me Isometimessee who it is.",
+        "polarity": -0.059,
+        "score": []
+      },
+      {
+        "user": "d64c6f0cb935e0e085e07bd10b6d3857",
+        "message_id": "mr7p9of",
+        "comment": "I'm using Android, but haven't noticed such an app. Sometimes, right after a spammer is called me, I get an automated SMS or call from the police or phone provider (not sure) letting me know that my last call was probably a spam call.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "71fdf363673424f824425b1d3d277f1c",
+        "message_id": "mrks6rn",
+        "comment": "Samsung does it, you can also use truecaller",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr4pzpz",
+        "comment": "Yep it's the least-bad thing so far. A ton better than those giant red plastic \"BLOCK\" buttons that make people feel good about themselves, until the next day when the scammer gets a new number!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0fda2e15f671aa2af22cb9803267bd36",
+        "message_id": "mr4wfss",
+        "comment": "Spam callers use your phone number's area code, presumably because you are more likely to pick up. Ignore numbers from that area code unless they are contacts and you almost never pick up spam calls.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "d71597e85b0649ae8e37f31702f2e4ad",
+        "message_id": "mr48pmd",
+        "comment": "Apparently you can also search for numbers natively in the dialer. So if you type in a phone number it will do a search and natively show it to you in the dialer",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "679ef860b36cfb2e64033e75c7ee668e",
+        "message_id": "mr1vwnk",
+        "comment": "You can only match encrypted data to encrypted data, Iphone automatically encrypts the number before it sends it to the server, Then the server tries to match an encrypted number with another encrypted number to get the results needed",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "679ef860b36cfb2e64033e75c7ee668e",
+        "message_id": "mr21fp8",
+        "comment": "let's say the number that called you is 123456 Iphone will encrypt that to let's say \"asdasfG1423SDF\" The server will recieve \"asdasfG1423SDF\" The server will try to find if they have something like \"asdasfG1423SDF\" The server will return the correct data let's say it returns \"Verified number\" your iphone will recieve \"Verified number\" and it will display it Now can the server decrypt \"asdasfG1423SDF\" to 123456 Short answer: no, because he needs a secret key that he doesn't know This is a simplification but i want to tell you that it is safe and the server cannot know who you are calling, also, i recommend you learn more about encryption algorithms and api's it will make the image much clearer",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1d0a614e5d8048663beb630cd1cbbe78",
+        "message_id": "mrlsad5",
+        "comment": "Exactly. So it would be trivial if you had the raw passwords to just figure out which entry belongs to which password. Same with phone numbers. The server side has all the numbers which it validates against. So they would be able to tell - under this scenario OP mentioned - to see who you called. However there’s a misunderstanding about how Homomorphic encryption is working. It really should be impossible for either side to know each others data here and the data is compared encrypted. Which is novel. I am curious though how this would work on the business side. Would seem hard to have metrics to market the value of the product without knowing “we blocked 500k spam calls last year.” “Users that use our service rarely have calls come through which are not in our database” etc. wonder if those are possible to capture.",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "790cbcb39ba3e249873cc9d60ee586ae",
+        "message_id": "mr2im0i",
+        "comment": "That's not what happens with private keyword retrieval though. With homomorphic encryption it's possible to do operations on encrypted data directly and output the still encrypted result. Simple example would be User encrypts number A => enc(A) Sends enc(A) to server Server adds enc(A) to another server held enc(B) => enc(A + B) => enc(C) User receives enc(C) and decrypts => C Note the special thing here different to normal encryption is that one it's possible to do this operation using encrypted values and still get the correct C and that you can do that without the server ever knowing either A or C.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "1f7ded030d6460e9989b0106bab55ca2",
+        "message_id": "ms8lmlx",
+        "comment": "No company worth their salt would store passwords as plaintext. Also, your second statement is absolutely wrong. If you hash your password client side what you are essentially doing is making your hash your password, so It's the same as storing it as plain text. So let's say an attacker breaches the database , they could just use the hash password to login .",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "f6965643807c01195e63d9abac5b3404",
+        "message_id": "mr487gb",
+        "comment": "It's pretty neat. we use homomorphic encryption in our protocols too.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7b973bdd85383ed450e97cf9faeda940",
+        "message_id": "mr9c3mm",
+        "comment": "Sooo if the phone is decrypting it locally you could in theory send that decrypted result back to your own servers... Unless Apple has some way of preventing that.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "22d7e740c7abe9da764bb4d39b69616c",
+        "message_id": "mr5ndxi",
+        "comment": "I know this seems nip picking but open-source doesn’t mean something is free. It just means the source code is available for you to check yourself. And depending on the open source license what you can do with the available source code. It’s completely possible to be open source and still sell the app or sell services related to the app.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ed56c43c8f897f0a3848f7b718448f98",
+        "message_id": "ms7tj5u",
+        "comment": "I use truecaller and it is all free for me since",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d8d2badcb8bf830822d9206345ea9c34",
+        "message_id": "mr1grqa",
+        "comment": "Recently was in Sweden seeing some friends and one of them got a cold call from someone who knew their full name. You can just type a number in to Google and it's all there I know the comment was a joke but it seems like in some places, it's an opt out thing, you're in by default. If you have scraping capabilities, depending on where - this could be implemented with the user adding a blacklist of names. It wouldn't catch it everywhere and all the time, but it would probably get some. e: awesome project btw, the commitment is very inspiring e2: entirely missed the point of what I was saying lol",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "ccffda8d0d30e325c2aef12003a2a836",
+        "message_id": "mr1nq51",
+        "comment": "I’m on iOS 18.5, but my guess is this isn’t new - swipe down from the top and then press and hold the Bluetooth icon and it’ll show a list of devices to connect to - and also has a link to Bluetooth Settings, where you can turn it off, without any conditions (it won’t turn back on in an hour - however I do think it may turn on with a reboot)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "820b7dc5b0d26088ddbf0dfc3feb9515",
+        "message_id": "mr1kemv",
+        "comment": "well, it takes Apple forever to do anything good in my opinion. I still will never get over why they force you to use Bluetooth though. But like why can’t you go into the settings toggle and just turn it off, instead it will tell you oh will turn it back on Bluetooth tomorrow.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "4dc0c6a9df21b74f0ac7f2dba7885e1e",
+        "message_id": "mr1ldpq",
+        "comment": "I think this is a great app. I'll try this weekend, so there is something called Truecaller, which did the same thing. I'm using it from last seven years. Just curious, I just want to know how did they do it without any Apple real time API",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "317972d80d5973047667eb7fbd4377ee",
+        "message_id": "mr1rwxy",
+        "comment": "Good luck. Apple will no doubt do this for all users at some point so hope you can make some money before it’s implemented by Apple.",
+        "polarity": 0.037,
+        "score": []
+      },
+      {
+        "user": "e3108e8db7000655c5a89971ac12ff3f",
+        "message_id": "mr1vk26",
+        "comment": "Sync me was yours. Damn. Used that back in time. Will surely use.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "dbd0cacbb6ada8a06195769e53c32d27",
+        "message_id": "mr200xa",
+        "comment": "im using similar app in Russia, from ios 16...",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d587b6ed9ad5b882dbb11823092c1d87",
+        "message_id": "mr2xsvo",
+        "comment": "Been looking for this, will try. Congrat OP!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "268a8f2cd5e40cdbd823f5978b348557",
+        "message_id": "mr47epv",
+        "comment": "Thanks for the quick response. I will try it out.",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "cf8babaf9808e9019f4dccb7d33c27ac",
+        "message_id": "mr3t675",
+        "comment": "Ah that is great and thank you for explaining it, I wasn't aware of the encryption level in place. My concern would have been if you sent a plain text number, while the app is audited you could store it however you like on a server.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "cf8babaf9808e9019f4dccb7d33c27ac",
+        "message_id": "mtfv2g6",
+        "comment": "That’s a shame I came back to this to check out your app. I didn’t even make it through the intro before uninstalling. Requesting contacts, my phone number, requiring sign up and then it’s a paid subscription. Shame.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "06664c27e6bb142ea91baeffe9205be7",
+        "message_id": "mr3xg6u",
+        "comment": "Really cool! Been using since it came out - looking forward to trying this.",
+        "polarity": 0.077,
+        "score": []
+      },
+      {
+        "user": "1ade061b92ef3ff6d7ab15315d7b0b89",
+        "message_id": "mr48gse",
+        "comment": "Just downloaded it. Havnt got any calls yet but I will leave a review once I know it works. THANK YOU in advance. If you ever make it paid in the future, please please please please please please grandfather in those that signed up early. Please.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "acf64dcc979a1e86505b555364950d16",
+        "message_id": "mr4az35",
+        "comment": "I’ll give it a try in Mexico, congratulations!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4c9716671c39319928565fe81b5ee48d",
+        "message_id": "mr4omqb",
+        "comment": "Wow! 15 YEARS!!! No wonder you Apple people are so behind technology. I've had this feature for almost 10 years now. Although I'm not surprised, since the passing of Steve Jobs, Apple has only innovated how to make fools out of people while making more money.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "6d3acff898f34c08ed3d3256416e8edd",
+        "message_id": "mraao78",
+        "comment": "Ok. Lets try livecaller then. Uninstalled truecaller.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c079cfce5d4d2078548aafdc6b8d9672",
+        "message_id": "mr6o02u",
+        "comment": "I have been a great fan of sync me when i was using android. I have been using it mostly in all of my android devices i owned so far until i completely switched to apple. Really missed sync me during this time. Happy that you have brought in something new. Will really check if out.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "128f41348cffc75d87d7e6f5c6ae8706",
+        "message_id": "mr98tuj",
+        "comment": "I don’t usually comment but I downloaded your app. Looking forward to using it! Great idea & execution. Easy to setup for sure!",
+        "polarity": 0.043,
+        "score": []
+      },
+      {
+        "user": "128f41348cffc75d87d7e6f5c6ae8706",
+        "message_id": "mr98v1e",
+        "comment": "I don’t usually comment but I downloaded your app. Looking forward to using it! Great idea & execution. Easy to setup for sure!",
+        "polarity": 0.043,
+        "score": []
+      },
+      {
+        "user": "43445a46847a8cd51ca95413d7cfcdd4",
+        "message_id": "mrnc5x8",
+        "comment": "cheers mate, I’ll try this out on my iPhone 🙏",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a1504ada4eb10f0acffcc29d7a5c4a80",
+        "message_id": "mreah8j",
+        "comment": "No questions from me, I just want to say THANK YOU for this. I am downloading this right now and if it works even 10% as good as similar Android apps I'll be happy. My personal phone is Android but my employer provided us with an iPhone for work, and the amount of spam calls I'm getting is absurd. Unfortunately I cannot just block all unknown numbers as sometimes clients that I do not have saved in my Contacts call me. EDIT: I have to add, I have already tried other similar iOS apps that have been on the iOS app store for much longer, and they have been all borderline useless. I am hoping the experience you built with on Android will carry over to iOS. We'll see.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "1e80c9b5df2635aaeb78c5daa937853e",
+        "message_id": "mrkf0fy",
+        "comment": "I tried this, but the numbers it identified were all garbage random words that don’t make sense. Even numbers that are top search results on Google for known businesses aren’t correctly identified. Perhaps my country (the Netherlands) is not properly represented yet…",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "271b0a987f58757b4bc6da79552bcdb7",
+        "message_id": "mrsdkak",
+        "comment": "Didn't realize there was a public db for suspected spam callers you could grab the API. Nice work.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e10ea53227cd5faf1919763dc636cdd6",
+        "message_id": "mryvu5o",
+        "comment": "This is extremely useful in situations when someone might use your voice clone to impersonate you, and if you don’t pay attention, think they’re the actual person. I’m going to recommend this app. Thanks for making it!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "ba0d504afe412b118347c45261d280a2",
+        "message_id": "mrh36eh",
+        "comment": "Oh this is awesome! thank you I've strugged with spam calls for years. Just wondering, how do you make money from this since it doesn't seem like there is currently a way.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "9ef43762172e8569c67b6bec1dd2c2cf",
+        "message_id": "mrmxfbv",
+        "comment": "Top, I'll try that and I'll come here and tell you again what I think u/SlightAd53 ! Just looking at the ergonomics, the app is nice and very similar to the Apple ecosystem. This app should change my life, I can’t stand spam anymore!",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "94c09a7331bbed7dd0159d339cb783a8",
+        "message_id": "mrtigd2",
+        "comment": "I downloaded and will write a review after getting to use it a few times.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "475b40516a6ec981d359241b46dafe92",
+        "message_id": "mr26zpy",
+        "comment": "We have apps that do this on iOS for years in Hong Kong. Check out “Whoscall”",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "12afd2aa8b7083cb44c5e556749fc37e",
+        "message_id": "mrr7zjl",
+        "comment": "On Android you can’t copy something from your pc and paste it on your Android in 2 seconds and vice versa. I’ve been able to do that for years on iPhone. Android bois in shambles.",
+        "polarity": 0.0,
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "c09b92b982f1a0000cdea75d6531c817",
+        "message_id": "mr4z8mz",
+        "comment": "Right, I get that. But the same logic applies regardless of your area code. You'll still get the same volume of spam calls regardless of what area code you use for your phone number. You don't have to change your phone number to avoid answering spam calls. Just don't answer if the area code matches yours but you don't recognize the number. If it's a real person they'll leave a voicemail.",
+        "polarity": -0.167,
+        "score": []
+      },
+      {
+        "user": "9aed6749cb7de403b8a841a073a6764b",
+        "message_id": "mr6bq8g",
+        "comment": "No it does not. Been using it for years.",
+        "polarity": -0.111,
+        "score": []
+      },
+      {
+        "user": "498aaba0b46b1f6243fb313f90d1aa40",
+        "message_id": "mr223zo",
+        "comment": "I use an app called CallHound which allows to block phone number ranges. I've used this for a couple years now as telemarketing spam is an issue here. It appears to have a 4 digit wildcard limit so blocking a whole country doesn't fit that format. I don't know if that is a hard limit set by some iOS API, an Apple rule or something the dev chose to keep it performant. However, the spam calls I (used to) get is most of the time from the same range e.g. 23204#### . Once in a while they seem to get a new range, I get a few calls in one week and I add a new range for the silence to return. tldr; the app CallHound has partial range blocking. I'm still going to try this one out though!",
+        "polarity": -0.2,
+        "score": []
+      }
+    ]
+  },
+  "Technical explainer": {
+    "positive": [
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1f0t8",
+        "comment": "Yessss thanks for your support!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1fksn",
+        "comment": "Yesss thank you!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1n0ua",
+        "comment": "So glad to hear that - same here! Enjoy Livecaller!",
+        "polarity": 0.111,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr22n13",
+        "comment": "Thank you for your support!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2atph",
+        "comment": "Thanks a lot!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3rjs7",
+        "comment": "Thank you!!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3ve09",
+        "comment": "Thank you for very much!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3po8g",
+        "comment": "Amazing, looking forward to hearing feedback!",
+        "polarity": 0.167,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3pk00",
+        "comment": "Yesss thank you!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7ir20",
+        "comment": "Thanks!!! Hope it will block them all!",
+        "polarity": 0.143,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1m7d7",
+        "comment": "Thanks for your support!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "3af3d99bc1a5ee2ea106a0b808b7c16c",
+        "message_id": "mr3ewvy",
+        "comment": "Good question. I would also like to know the truthful answer to this",
+        "polarity": 0.154,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr1c8kw",
+        "comment": "I doubt single 3rd party entities like you do",
+        "polarity": 0.111,
+        "score": []
+      },
+      {
+        "user": "3440aea1ab42ff3beef66425d9d236a8",
+        "message_id": "mr1f39x",
+        "comment": "I see, thanks.",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "da339b1f66cf93fcafb7f6b4c40901f9",
+        "message_id": "mrra6km",
+        "comment": "Sounds like a paid feature opportunity here OP!!",
+        "polarity": 0.125,
+        "score": []
+      },
+      {
+        "user": "193b105b0a7b01e6c7d7cf5c0b0d0733",
+        "message_id": "mr2el7g",
+        "comment": "Thanks for the explanation. Just downloaded it 😁",
+        "polarity": 0.143,
+        "score": []
+      },
+      {
+        "user": "5c05f86da5b4f39707190c8332c3c02c",
+        "message_id": "mr3wagb",
+        "comment": "Found it! Thanks 🙏",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "b78ffc74d828a5bd39347b34ee3e1c2d",
+        "message_id": "mr4be9j",
+        "comment": "Amazing",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "b9b296083ea661b90fe81bfba0dea8d2",
+        "message_id": "mr4e1nr",
+        "comment": "Thanks for making it free!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "73e40322ba38d9162522a081083f091b",
+        "message_id": "mr82ryg",
+        "comment": "Installed. Thanks 😊",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "47271f404c124c8482491e5c9f76c665",
+        "message_id": "mra5gq2",
+        "comment": "Truecaller 2.0 for ios :D nice!! Welldone!",
+        "polarity": 0.167,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "3fe6c5703d38272f4e6217ee59478aed",
+        "message_id": "mrk1us6",
+        "comment": "You don't get this app. You rely on the default caller app. It does it by default, out of the box.",
+        "polarity": -0.048,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1dmkn",
+        "comment": "Not a stupid question at all, and you’re totally right: Android has had this kind of functionality for years. The big difference is that until iOS 18.2, iPhones didn’t support real-time Caller ID at all. You couldn’t see who was calling while the phone was ringing unless they were in your contacts",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2nsgw",
+        "comment": "Totally fair take - and honestly, if Apple eventually builds it in, that’s still a win for users. In the meantime, we’re focused on building the best experience possible, and yeah… an Apple acquisition wouldn’t be the worst outcome 😄",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2o8cr",
+        "comment": "Yeah, sometimes Apple shows info from Siri Suggestions or Mail, and some carriers return basic caller details - but it’s all pretty limited.",
+        "polarity": -0.043,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2nm8h",
+        "comment": "Some carriers in the U.S. do offer basic caller ID, but it’s limited to their own data. With iOS 18.2, apps like Livecaller can now offer real-time caller ID with much broader global coverage, and it works regardless of your carrier.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1c7e1",
+        "comment": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr9ccsl",
+        "comment": "All of the communication, decryption and processing of the data is done by the OS and not by the app.",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1d4xk",
+        "comment": "Spam detection is something I’ve been working on for the past 15 years. It’s powered by a combination of community-based reports from millions of users (through and AI-based analysis that looks at call behavior patterns. Since [ already has a large global user base, we’ve built up a rich, continuously updated spam database that Livecaller taps into - so most spam calls are flagged in real time.",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1ev8g",
+        "comment": "Right now, we’re not making money from it - we honestly just think it’s a huge moment for iOS users to finally have this. In the future, we may offer a paid subscription for extra features, but the core Caller ID functionality will stay free.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1e9g0",
+        "comment": "The big difference is that Livecaller is completely free, while Truecaller requires a paid subscription for real-time Caller ID on iPhone. We also built it to feel as native as possible on iPhone - setup takes about 30 seconds, no account needed, and we don’t ask for your contacts.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1fddu",
+        "comment": "Not possible in iOS, only in Android. The only way I can think of is to generate all the numbers in the range and put them in a CallDirectory extension (which has limited number of records - like 100k records)",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1grgs",
+        "comment": "We flag known spoofed numbers and patterns, but like any system, it’s not 100%. We’re always updating to catch more.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1bo6v",
+        "comment": "Yes of course",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1lzpq",
+        "comment": "It shows both - spam callers and people who aren’t in your contacts, as long as we have info on the number.",
+        "polarity": -0.045,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1dgrx",
+        "comment": "Lol, sorry that's a different project that will take an additional 15 years :)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1dwc1",
+        "comment": "The 4B+ numbers aren’t stored on the device. When a call comes in, iOS sends an encrypted query to our server, we return an encrypted response, and only your phone decrypts it, so it stays private and up to date. The data comes from crowdsourced reports by millions of [ users over the years (it’s community-driven and constantly updated).",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1eoip",
+        "comment": "It will offer additional features in future versions under a paid subscription. But we plan to keep the core functionality for free.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1f7ip",
+        "comment": "The key difference is Livecaller is 100% free, while Truecaller charges for real-time Caller ID on iPhone. It’s built to feel native - setup takes 30 seconds, no account, no contact access needed.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1fhz5",
+        "comment": "Yes — it works in India too, including spam detection and Caller ID. Appreciate the kind words and support!",
+        "polarity": -0.056,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1h87f",
+        "comment": "I feel you. My wife has it on Android as well and I was jealous! Let me know what you think :)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1mduz",
+        "comment": "We actually don’t rely on Apple’s built-in spam detection. Livecaller uses its own system, based on community reports and AI. That way, we can spot more spam numbers (and even legit callers) with broader and more accurate coverage.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1mgvf",
+        "comment": "Yes, it should work. Also, it detects WhatsApp calls, etc.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1moxh",
+        "comment": "We just really wanted iPhone users to finally have this. We’ll offer extra features later, but the core Caller ID will stay free.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1mtc7",
+        "comment": "Yep, that’s likely from your carrier’s built-in Caller ID. Livecaller is for showing names and spam info for numbers not in your contacts - something iPhones couldn’t do natively until now.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1ogyw",
+        "comment": "Thank you so much - that really means a lot! 🙏 And yes - love that idea! Auto-rejecting high-probability spam is definitely something we’re exploring as a future paid feature. Appreciate the support",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr241lv",
+        "comment": "Thanks! Glad you like it. Happy to share more. Tech stack: - Native Swift app for iOS 18.2+ - Uses Apple’s new Live Caller ID app extension → Apple Docs - Backend built with Swift, Redis, MongoDB - Spam detection combines crowdsourced reports + ML models Your idea is awesome. Redirecting spam calls to a pre-recorded message is definitely something we’re exploring for a future paid plan. We are also looking into more advanced AI spam blocking methods to offer in our future updates.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1p5fe",
+        "comment": "Haha amazing! that’s the first time I’ve seen someonelook forwardto a spam call! 😄",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1q7rr",
+        "comment": "Thanks! You'll need to download it from the App Store here:",
+        "polarity": 0.091,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2bj09",
+        "comment": "Love it! and honestly, same energy 😄 SMS protection and reporting is definitely on our radar, and left-swipe to report is a great idea. iOS does support some of that, and we’re exploring how to bring it into Livecaller in the smoothest way possible. Keep the ideas coming!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2bcur",
+        "comment": "Totally get that - we’ll offer optional paid features later, but core Caller ID will stay free.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2b4b6",
+        "comment": "Fair point - and if Apple eventually builds it in, that’s still a win for users. Until then, we’re focused on making it great and have some premium features coming soon. Thanks for the support! 🙌",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2ayfh",
+        "comment": "That’s awesome to hear - so glad it worked for you! 🙌 We built Livecaller exactly for that moment. Bringing the Caller ID experience Android users had to iPhone, finally. Thanks for the kind words!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2alqi",
+        "comment": "Haha yes, that was me! 😄 Really glad to hear you used it - hope you’ll love Livecaller just as much!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2aid9",
+        "comment": "Right now, we don’t - we just wanted iPhone users to finally have this. We’ll offer premium features later on, but the core Caller ID will stay free.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr25yoh",
+        "comment": "We plan to offer really cool premium features in the future under a paid subscription, but the core Caller ID functionality will stay free.",
+        "polarity": 0.042,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr25mdc",
+        "comment": "Yep, that’s me 🙂 - built it together with some amazing people on my team!",
+        "polarity": 0.071,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr27rjj",
+        "comment": "Great question! The older CXCallDirectory API only supported static, preloaded lists - No real-time lookups. What’s new in iOS 18.2 is the Live Caller ID extension, which lets us do real-time, encrypted number lookups as calls come in, so coverage is in another level.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2bti3",
+        "comment": "Yep - started back in 2009 with MyPhone+, then [ in 2012. Been waiting ever since for Apple to open things up… and now with iOS 18.2, it finally happened 😄",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2bpad",
+        "comment": "Haha yep, I know - Android users have been enjoying this forever 😅 Finally, iPhone users get to catch up!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2bxbg",
+        "comment": "Really glad you’ve installed it. We’ve got solid UK coverage, especially for mobile spam numbers, so hopefully you’ll start seeing a big difference soon. Let me know how it works for you!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2cq4q",
+        "comment": "Not on iOS. Real-time caller ID on iPhone only became possible with iOS 18.2. Before that, all apps used workarounds. Now they support it too, but only with a paid subscription. Livecaller does it for free, with no account, and is fully privacy-first.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2mgr8",
+        "comment": "We cover over 4 billion phone numbers across 175 countries. Some of our strongest regions include the U.S., Europe, South America, India, and Brazil. If spam’s a problem where you are then we’re on it! 🌍📱",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2mqoh",
+        "comment": "Not for free on iOS - real-time Caller ID only became possible with iOS 18.2. They support it now too, but with a paid plan. Livecaller does it for free, no account, and privacy-first.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3u2s1",
+        "comment": "Haha that’s amazing - love hearing that! 😄 Those old Facebook photos really had staying power! Thanks so much for the kind words and for being part of the journey from the very beginning 🙏",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3tray",
+        "comment": "Haha fair enough - honestly, that might be the best spam protection out there 😄",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3teql",
+        "comment": "Truecaller’s been around, but on iPhone it used workarounds like static lists of popular numbers. Real-time Caller ID only became possible with iOS 18.2. Truecaller now supports it too - but only with a paid plan. Livecaller does it for free, with no account and full privacy.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3susw",
+        "comment": "Apps like Yandex did offer caller ID before, but they used local databases of popular numbers that needed to be updated manually and weren’t real-time. With iOS 18.2, Apple finally introduced a proper real-time Caller ID API, and that’s what Livecaller is built on - so the info is fresher, more accurate, and way broader.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3si7g",
+        "comment": "Great question! The 4 billion number coverage comes from over a decade of running [ which has a huge global user base. People have reported spam and identified numbers over the years, and that crowdsourced data is what powers Livecaller today.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3ry5f",
+        "comment": "Haha love that idea - definitely sounds like a fun premium feature in the making! 😄 Imagine an AI just politely wasting spammers’ time all day… I’m in!",
+        "polarity": 0.074,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3rh3v",
+        "comment": "Yeah, Truecaller does support real-time Caller ID on iOS now — but only if you’re on a paid subscription. Livecaller offers the same functionality for free, with no account needed, and we built it to be as native and privacy-friendly as possible.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3q58x",
+        "comment": "Sure! Coverage is worldwide.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3q1pj",
+        "comment": "Nope. Livecaller doesn’t run in the background, so there’s zero impact on battery life. It works through a lightweight iOS extension that only activates briefly when a call comes in. Super efficient and fully handled by the system.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3pwp0",
+        "comment": "Right now, Apple doesn’t allow third-party apps to answer or screen calls, so we’re limited there. But if they ever open that up (like Google did with Pixel), it’s definitely something we’re excited to explore!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3p14c",
+        "comment": "Apps like Hiya used workarounds before - like static lists of popular numbers stored locally or Siri Suggestions. Real-time Caller ID only became possible with iOS 18.2, and that’s what Livecaller is built on.",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr3vcip",
+        "comment": "Sure!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr49vms",
+        "comment": "Truecaller requires a paid subscription on iPhone for real-time Caller ID. Livecaller is free, works natively with iOS 18.2, doesn’t need an account.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr49o3l",
+        "comment": "Yeah, that’s been around, but it only worked with static block lists. What’s new in iOS 18.2 is real-time Caller ID. So apps like Livecaller can now show who’s calling as the phone rings, even if the number isn’t preloaded.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr498vb",
+        "comment": "Hopefully it helps cut down that spam fast. Let me know how it works for you! 💪",
+        "polarity": -0.062,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr494dq",
+        "comment": "Yeah, totally agree. It’s kind of wild how easy it is to spoof numbers. The phone system was built decades ago without much thought for security or verification. Livecaller can’t block spoofing at the network level, but we do help by spotting known spoof patterns, flagging suspicious numbers, and letting users report them.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4oktb",
+        "comment": "Both 💪",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4oozf",
+        "comment": "Sure, it works worldwide in most countries.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7jpj9",
+        "comment": "It might conflict, we are seeing that sometimes when multiple apps are installed, iOS is not bringing the Caller ID results.",
+        "polarity": -0.048,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7jlnf",
+        "comment": "That’s amazing to hear — thank you! 🙌 Yep, this is the moment we’ve been waiting for! Hope you love Livecaller, and can’t wait to hear how it works for you! 😄📱",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7j73l",
+        "comment": "Thank you! 🙌 Really great to hear you’ve been a longtime [ user. [ actually available on iOS too — but Livecaller is our new take, built just for the iPhone experience. Hope you love it!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7iplm",
+        "comment": "Sure! It works in most countries worldwide.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7nphd",
+        "comment": "Truecaller now supports real-time Caller ID on iOS too, but only as a paid feature. Livecaller offers the same functionality for free, with no account, no contact access, and built specifically for iOS 18.2+.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr4h8se",
+        "comment": "You’re very welcome! 😊 Happy to finally bring this to iPhone and keep the core experience free for everyone! 🙌",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7jggy",
+        "comment": "Sure! it has a very large coverage in India",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr8c597",
+        "comment": "That's great. The difference is that Livecaller identifies the caller name of both spammers and non-spammers, so basically anyone who's calling you",
+        "polarity": 0.043,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7jha3",
+        "comment": "SMS filtering is in the roadmap :)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr7jeqz",
+        "comment": "Both Livecaller and [ offer the same level of Caller ID on iPhone. The difference is: [ is more feature-rich (like contact sync, social profiles, etc.), while Livecaller is lightweight and focused purely on real-time Caller ID and spam blocking.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mw3x4xa",
+        "comment": "Yes sure!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "n19jrf0",
+        "comment": "Hi everyone, we launched on Product Hunt! Your feedback and support is highly appreciated!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr26qn5",
+        "comment": "They don't offer real-time Caller ID on iOS. Only in Android.",
+        "polarity": -0.083,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr25dte",
+        "comment": "Yessss :)) closing the gaps",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1dd4j",
+        "comment": "Apple does have strict guidelines - but with iOS 18.2, they officially opened up real-time Caller ID functionality to third-party apps through a new API and system extension. We went through the full review process which took about 6 months. You just have to follow their rules carefully and design your implementation to align with their privacy model.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2gf7u",
+        "comment": "Haha absolutely - I was beyond excited when I saw they finally opened it up! 😄 Then it became a marathon to be the first to launch. We actually had it ready by the end of October last year, but it took Apple 6 more months to approve it! 🙈 Totally worth the wait though. Thanks so much!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "5d29cde5712fdbc65764f915c3a45f5e",
+        "message_id": "mr2ult7",
+        "comment": "Apple should buy you out for 1.5 million dollars.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d8b7bfdca5f466d77e09c98c98f1a1ae",
+        "message_id": "mzx2x6d",
+        "comment": "Hell I’d sale out for a flat million, or even $500k.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6e4eea2006ca38cd2516368cc9c4cd66",
+        "message_id": "mr85oup",
+        "comment": "Apple would acquire if you patented it. Playing devil's advocate, if you don't have any patents they will sidestep you.",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "bd569ef1c9c7b73f72d067a2b10a08c5",
+        "message_id": "mrhkpqv",
+        "comment": "Lol",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1da7a87c1fc307cd0bd149956b80e116",
+        "message_id": "mrdk29y",
+        "comment": "I always thought the telco companies should provide this service.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "91a3fefd06682f6a0a2148aadc56ac6d",
+        "message_id": "mr6bcru",
+        "comment": "Telecom side, caller ID. Common feature.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4d5e7b24c54bccc71d207de30ace4456",
+        "message_id": "mrbs7xj",
+        "comment": "That is done through your carrier",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mreaa0q",
+        "comment": "That’s probably a carrier feature.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mr2tya9",
+        "comment": "They jailbreak those things to hell",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mrqsxoi",
+        "comment": "Checking back in to bump my comment. Very curious!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "ms07zoi",
+        "comment": "I don’t want my contact info shared with applications. Neither does anyone I know.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "ms1vgqs",
+        "comment": "It states in the App Store contact info is shared. No thanks.",
+        "polarity": 0.083,
+        "score": []
+      },
+      {
+        "user": "ed82afdcdef8873231f7651ff0e2dd40",
+        "message_id": "mr3czhj",
+        "comment": "T-Mobile in the US has shown live caller on iPhone’s for all 4 years I’ve been with them. They also label things as ‘Likely SPAM’",
+        "polarity": -0.037,
+        "score": []
+      },
+      {
+        "user": "ed82afdcdef8873231f7651ff0e2dd40",
+        "message_id": "mr3cknr",
+        "comment": "I mean, depending on the carrier that’s simply not true. T-Mobile provides live caller ID on iPhones and has the 4 years I’ve been with them. 🤷🏻‍♂️",
+        "polarity": -0.036,
+        "score": []
+      },
+      {
+        "user": "2579424ef34d2de06c3bcf5b82451e48",
+        "message_id": "mrefq3t",
+        "comment": "Lifelong Android guy here, this blows my mind that you guys only just got caller ID... I thought this was a basic thing like 15 years ago lol. Good for you tho! Grats on the app",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "a37a4c089e79f3d5555ab46b32a54af4",
+        "message_id": "mrnsak9",
+        "comment": "I’ve had real time caller id on iPhone forever. And It pops up with images from my contacts.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr26859",
+        "comment": "I'm getting it from every area code now. Hilariously, since most have signed up for the gold star sticker, most of them come in as \"Verified!\" with a green checkmark. There needs to be something that actually protects people from being bothered.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr42s0e",
+        "comment": "That's pretty good, but it's still a hassle for real humans who actually want to talk to you. There's a better solution. p.s. I personally love answering and wasting their time - I mess with them and post the episodes on a podcast!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr4putu",
+        "comment": "That's fine for you, but other people do receive legitimate calls from new people often.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr1gmac",
+        "comment": "I've got another solution that avoids polluting the world with more complexity. It simply blocks any robocallers no matter what, and doesn't require any databases or validation schemes or anything. I'm launching it for landlines pretty soon, but OP feel free to DM me if you want to be the developer for the iOS version. Cheers",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "0fda2e15f671aa2af22cb9803267bd36",
+        "message_id": "mr2390c",
+        "comment": "Get a phone number whose area code is different from where you live. Almost local area code call you receive (other than contacts) is spam.",
+        "polarity": -0.04,
+        "score": []
+      },
+      {
+        "user": "f6eb581a99bf749aeba2d7b5dc781826",
+        "message_id": "mr2uzqv",
+        "comment": "Googles Call Screen on Pixels works wonders for me, probably receive 4-5 spam calls every day, never get bothered by any of them. 99% of spammers drop the call before call screen even finishes explaining how call screen works. I only notice later when I check the call history logs.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "f6eb581a99bf749aeba2d7b5dc781826",
+        "message_id": "mr4ltn5",
+        "comment": "LOL, I don't care about real people trying to call me. If they're someone I want to get calls from they're in my contacts list and don't have to deal with call screening.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "c09b92b982f1a0000cdea75d6531c817",
+        "message_id": "mr4w81k",
+        "comment": "It's not much different than how a spam filter works for email. Each number might have a \"trustworthiness\" score associated with it. New numbers would probably start with a low trust score and would drop if they started getting reports for that number. A number that's been around for a long time with no reports would likely get a higher score, though, if that number has a high call volume that could lower the score as well. This is all speculation, but that's how I'm guessing the system works in a nutshell.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "c09b92b982f1a0000cdea75d6531c817",
+        "message_id": "mr4xcwr",
+        "comment": "IMO this is a risky approach in the long run. You'll capture market share but then frustrate/alienate your users when you eventually start hiding features behind a subscription. Better to start with charging from the start. If your product is really better than the competition or solves some unmet need, then people will be willing to pay for it. I probably wouldn't even offer a free tier since otherwise there will always be the concern that the app is selling your data to compensate.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "d246fe99714ae34508f5fb4f4a2340d9",
+        "message_id": "mr4z4ki",
+        "comment": "Additionally, I get a lot of false positives on Android.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "dde1cfba496cc1560bd0d8b5c73ee279",
+        "message_id": "mra86u5",
+        "comment": "iPhone is in the stone ages",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "f9d1c3f18c4214581e3a1feb81942055",
+        "message_id": "mrq45ok",
+        "comment": "Thats a native Android feature but it seems ios doesnt have it (as usual)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "f9d1c3f18c4214581e3a1feb81942055",
+        "message_id": "mrq4a1b",
+        "comment": "It's built into Google's Phone app, no need to oy anything",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr22uqw",
+        "comment": "cuz i am in the eu, also check what i wrote down below. this is different. if you don’t bother at all feel free to send all your contacts with phone nums as a txt file below",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr23g8w",
+        "comment": "yes, this discussion is long over. read what op replied",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "13f29a8ffe35c86699bfd8fb48bece06",
+        "message_id": "mr20urk",
+        "comment": "Apple docs says that magic is in KPIR (which means Keyword Private Information Retrieval). I'm still trying to understand how it works but apparently a special server implementation returns the matched result without knowing keyword or what record it matches. Here is Apple's doc:",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e7eb92a0e7ffb98851616c71a3c56c99",
+        "message_id": "mrdssj9",
+        "comment": "The server knows the encrypted number is asdasfG1423SDF. But it doesn’t have the key so it can’t see that number is 123456.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2c1e2eed40050eddfb2ee9c5c9c1f27c",
+        "message_id": "mrf3zz6",
+        "comment": "I think what you are saying makes sense. It sounds like moreso what is happening is the server does not know who sent the request, not that it will never know what the number is. > The first relay removes the client’s IP address from the incoming request and can’t see the destination address. A third-party provider hosts the second relay. This removes the IP address before it reaches the server. Then, the Apple 3rd party services queries the phone number. Seems like the app creator just hosts a service that answers requests about a number, and does not know much of anything else",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "453536ad6d0fcc7f0d6ae6102777c01b",
+        "message_id": "mr2b0dd",
+        "comment": "The server doesn't have the encryption secret. It can't encrypt billions of numbers and then get the same encrypted result.",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "81cb1da9b5b2ab10423b19a374021e4a",
+        "message_id": "mr201gg",
+        "comment": "Not much. The gist of this thread is they know who you're calling.",
+        "polarity": -0.077,
+        "score": []
+      },
+      {
+        "user": "1f7ded030d6460e9989b0106bab55ca2",
+        "message_id": "mr2bb2f",
+        "comment": "Passwords aren't encrypted. They are hashed , which means there is no key to decrypt it. Passwords are only verified by comparing 2 different hashes. In a sense, there is no way to compare 2 different encrypted data. However, homomorphic encryptions seem to be able to compare 2 encrypted datas. Haven't read about it in detail, but that is what i seemed to get from the article OP posted.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5ff11188076c3fbcb5fc8e5fbc7583ac",
+        "message_id": "mr2xah8",
+        "comment": "Yeah looks like the client is blinding/unblinding the data like in OPRF PSI. This works if the server shares the HE set with all clients to evaluate client-side. If the client sends the unblinded HE value back to the server it is still possible to run a dictionary attack server side. Not possible with something like email, but there is a limited number of possible phone numbers. Only billions",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "3106f39452de93d0904f54dd99acc2ca",
+        "message_id": "mr2oh8e",
+        "comment": "",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c750ebcabad1311d65e5073f70022c96",
+        "message_id": "mr3eyzt",
+        "comment": "It’s PIR. But if you want to learn more about PSI, I co-authored a variant here",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d336fc611dec81593a0fb1cf3b945040",
+        "message_id": "mrlop9w",
+        "comment": "Passwords are hashed server side, which is why TLS exists",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4de95c7e5cc392d7ec8da901e5d235e0",
+        "message_id": "mr1o6c6",
+        "comment": "",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3c7bb77087c07c02ff59b7d64480f6b3",
+        "message_id": "mr2w9w5",
+        "comment": "I belive it's the same logic as comparing hashed passwords, the app will only known the value you send if it exists in the app database. If the number can't be identified or if it does not exist in the database then they don't know what value they received.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "66118995d7d9a1afb880ecfba28c695b",
+        "message_id": "mr23bop",
+        "comment": "Well. In this case you are in the most civilized spot on planet and should not care. Your data privacy is being secured by law enforcement. Expect no leaks and enjoy your app.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "07d0198f46717b5525eae62cd558295a",
+        "message_id": "mr1q254",
+        "comment": "Erm no.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ea9a6d119529f08b38889d6f3780979c",
+        "message_id": "mr1xcxw",
+        "comment": "\"trust me bro\"",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d3076649f5ceae3de2afae168ddc6154",
+        "message_id": "mr85gf8",
+        "comment": "._.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "42ad176ad5e7f09b5da427342d186712",
+        "message_id": "mr4sugg",
+        "comment": "Even if you do pay for something like Truecaller, you are never guaranteed that their practices will not involve some meddling with third parties, just like the VPN service providers.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "62205adf8a370294214da71d681ceb4e",
+        "message_id": "mro45lm",
+        "comment": "Been free on android for 6 years",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4a4354d34c95c0d5fb6d067b0d9514bd",
+        "message_id": "mr237h7",
+        "comment": "He answered below My guess is capture the market share, become widespread and popular and monetize later by moving some of the free stuff to paid and introduce \"plus\" plan or w/e just like every other app in existence.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "4a4354d34c95c0d5fb6d067b0d9514bd",
+        "message_id": "mrhjlgq",
+        "comment": "That's true, you would need \\~40GB at 10 digits len stored as strings. So the app won't work offline/locally either way... Interesting deductions :)",
+        "polarity": 0.043,
+        "score": []
+      },
+      {
+        "user": "37e83c943cb9b9cd0ecb4a5fb9e70920",
+        "message_id": "mr3ksx1",
+        "comment": "amen to this",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "22d7e740c7abe9da764bb4d39b69616c",
+        "message_id": "mr5scal",
+        "comment": "Well that’s a rabbit hole with nuances but if we’re saying OSI approved licenses then MIT, Apache2, BSD and GPL. each of these do have caveats to them and I don’t know the ins and outs of them nor am I a legal person 😜 As for examples of business RedHat, GitHub, Wordpress are examples. In these examples they are selling addons or services supporting the main app. Outside them there are many apps that also offer community editions with a limited feature set for small businesses or selfhosters and then a paid version for Prosumer and larger businesses. Though another trend being seen is switching to a Source Available license but that has restrictions like cannot resell, alter etc what ever that business deem. In those instances I think those are more to satisfy a requirement for their paid customer base",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "22d7e740c7abe9da764bb4d39b69616c",
+        "message_id": "mr5nt7z",
+        "comment": "Site says global coverage, I’ve installed will be interesting to see how it fairs in Australian market. Can’t be any worse than the TrueCaller paid option. I find that doesn’t seem to block / identify much. But not convinced it’s really supportive of external markets",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ccaf041f2e11d927fb617ecb0b9501b3",
+        "message_id": "mrhgfu5",
+        "comment": "They claim to cover over 4 billion numbers - you won't fit those into 50mb - it has to be a remote server.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7e99473962489b16460195a60a5c6c70",
+        "message_id": "mw0yrsk",
+        "comment": "I would imagine he's caching results so that any repeat lookups aren't having to go external every time",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6c064c10b14d8fad600a4292520faa7f",
+        "message_id": "mr24hll",
+        "comment": "Second this",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3d9ff7749eca47aa858ec5eb1fd0fb2d",
+        "message_id": "mr1dgwr",
+        "comment": "Nice, just downloaded! Samsung has this built in somewhat, but ever since switching to Apple I just never pick up random calls anymore. “If it’s important they’ll text me” has been my motto 😂",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "a3b693c4f7afb79fb84467b24b954ba8",
+        "message_id": "mr3wmm6",
+        "comment": "Just installed! Now to wait until I get a call",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d8d2badcb8bf830822d9206345ea9c34",
+        "message_id": "mr278e8",
+        "comment": "My friends phone provider just has a public database of phone numbers accessible by Google with names. You type the phone number in and it just gives you a name. Kinda freaky",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "489fc87fcb4948cf53077c54c391aa02",
+        "message_id": "mr3kkew",
+        "comment": "I can imagine doing this with some kind of AI receptionist type service. Unknown numbers get routed to an AI receptionist that asks who is calling and why, then can be “allowed” to talk to the real person. Name matching and voice matching could be used to block real people across different numbers.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "45cd68d44d53287f5e6a941e08011d40",
+        "message_id": "mr28gmd",
+        "comment": "Lmao",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9cceed470ad2f005a25dd5c913a46fb5",
+        "message_id": "mr1d7bp",
+        "comment": "Let me know if you do find a product like that lol",
+        "polarity": 0.083,
+        "score": []
+      },
+      {
+        "user": "bebf7072222fca369b9fa0942948fbbe",
+        "message_id": "mr1odvu",
+        "comment": "Yes you do need internet access for the query and answer.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9c12decfca841fd7171c3825d42f8014",
+        "message_id": "mr1ext1",
+        "comment": "I am a proud user",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9c12decfca841fd7171c3825d42f8014",
+        "message_id": "mr1fbhb",
+        "comment": "so I can DM you for feedbacks and suggestions 😁",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "376864967826479f53f8df6979688cfc",
+        "message_id": "mr1fdv1",
+        "comment": "Sounds gooooood!! Just downloaded it!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "86ace09bf3ff308190c6fe4e8f6ed52e",
+        "message_id": "mr286fx",
+        "comment": "T-mobile",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "906544edad52fbde16d77dd42a090a3e",
+        "message_id": "mr1jkna",
+        "comment": "Omg finally",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7159cbb4d1d9b036121c8d7753f3428a",
+        "message_id": "mr1k5lw",
+        "comment": "I was waiting for years to have Caller ID for iPhone and now finally it’s here, thank you!!!",
+        "polarity": 0.053,
+        "score": []
+      },
+      {
+        "user": "3fc02d62dbaec4c6fbb622804b1eeb6e",
+        "message_id": "mr1kuyn",
+        "comment": "Well done spending 15 years building these apps and finally able to build your dream solution for the iOS. Im sure many people will benefit from this and hopefully reduce unsuspecting people getting scammed, especially the elderly. A paid feature to automatically cut the call of 100% spam/scam probability is detected, will be cool and useful.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "4772b5a27810597e5e19ea9260636144",
+        "message_id": "mr1sux4",
+        "comment": "read the thread they explain multiple times how they got the data",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "611d858625f9b87775dc50b40cbb487b",
+        "message_id": "mr1qcwq",
+        "comment": "Similar experience here -",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "611d858625f9b87775dc50b40cbb487b",
+        "message_id": "mr1qsvm",
+        "comment": "I’m already here for feature request: do the same for SMS allow me to left swipe on calls and sms to report. iOS allows this. You’ll also build a good feedback system. And as a user, I can finally feel happy saying fuck you to spammers.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "317972d80d5973047667eb7fbd4377ee",
+        "message_id": "mr2bkir",
+        "comment": "Apple is slow as heck they can’t even get decent voice dictation with Siri. Meanwhile ChatGPT has near perfect voice dictation. You probably have more time than I think. They are slow to do anything but it will come at some point.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "ae8d0e5c81d2d30c59dcc82f76a7a318",
+        "message_id": "mr1tpi8",
+        "comment": "This is epic, tested it with a friend whose number I haven’t saved and it identified him. I missed the true caller identification from Android and this looks great. Thanks for making it!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "ab53cf82b54626478e66b6768d58222a",
+        "message_id": "mr58vv1",
+        "comment": "Cheers! From experience I have a list of blocked numbers as one contact number. I was thinking of adding them all to a CSV and exporting them to LiveCaller",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "703906aa3853cd5991a7d009e308ad69",
+        "message_id": "mr2u4qr",
+        "comment": "My bad 💁‍♂️🤦‍♂️ I didn’t see anything related to configuration in the “How it works” and somehow didn’t even notice the “Manage Spam Filter” button at all 🥲 So I guess you really made a killer app, OP.",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "8dfa3d381f4d7a1313d25f9571eca3a8",
+        "message_id": "mr29i1l",
+        "comment": "Hahaha they calling you from Azerbaijan",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d0f2a9f889c11544af3a5361e47c9222",
+        "message_id": "mr29i80",
+        "comment": "Lol Android has had this for years 😂",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c2ae4f02e4812d82928f2b6f79df6469",
+        "message_id": "mr29kgz",
+        "comment": "Thank you for making this. I’ve wanted this for years upon years. Installed on my phone here in the UK 🇬🇧 Get multiple spam calls from UK mobile numbers per day, so curious how this will help to identify them.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d59a72c208ba2ecd1d796351e9a92352",
+        "message_id": "mr29v6k",
+        "comment": "I've been a pro member of [ since it was released, i think is one of the oldest app that went through my various iphone. I haven’t used it much in recent years",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ea38340af08af9a53008f322bc02032d",
+        "message_id": "mr2bot8",
+        "comment": "Hey man Singapore has this government app called scamshield it literally allows anyone to report scam calls and sms and it will block such calls and sms from numbers that have been reported. I reckon it’s similar to what you developed",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "6d51ad4ddf0ea736102fd06b1a65592f",
+        "message_id": "mr2mnid",
+        "comment": "wow interesting, it's such a big company, perhaps its mainly based off of Android users",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "cec37294378fb5a4336049d3e6ed97cb",
+        "message_id": "mr2ms4y",
+        "comment": "I don’t have a question, I just want to give you applause and respect for being this determined and never giving up on your idea. That is inspiring and admirable. I wish you best of luck.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "3f0df90d4a10b18fe041f0a9b1a233bd",
+        "message_id": "mr2nfvp",
+        "comment": "Dude, I think I used your original app with my first iPhone! To this day some random contacts in my phone still have their FB profile photo from 15 years ago! Loved it at the time - thanks!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "33c4e432ac5877cf4e36f6dc2a89bd37",
+        "message_id": "mr2p6nn",
+        "comment": "Some telcos offer this service as well.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5db4adca7260391f6ae784c636afdab0",
+        "message_id": "mr2prul",
+        "comment": "Way ahead of you. I never answer my phone period!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a505cd2c6fb7838badf2301bd0bbee34",
+        "message_id": "mr2qcpm",
+        "comment": "Tried installing the app on my phone and can’t complete setup. The app doesn’t show in the phone’s list of call blocking and identification apps.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "73b84b94a92429a2355af26737f356a8",
+        "message_id": "mr2subc",
+        "comment": "now instead of spam call blocking send them to an AI agent to waste their time.",
+        "polarity": -0.062,
+        "score": []
+      },
+      {
+        "user": "5c05f86da5b4f39707190c8332c3c02c",
+        "message_id": "mr3vvlh",
+        "comment": "I already did! Can’t wait to get spam lol",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "fb43636532e43fa6a910ddd97b7496a3",
+        "message_id": "mr2xtqa",
+        "comment": "If Android has had this for like 5 years why is apple not playing catch up",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "39fd5e4a239493e558da8143748d1404",
+        "message_id": "mr3yxlq",
+        "comment": "That's cool there is an API for this now. I'd assume this is coming from the carrie so at least for AT&T customers in the US, this problem looks to already be solved. Now, if your app allowed for automatically sending those spam calls to voicemail and never ringing the phone then that might be useful. That may not be available thru the API though.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "8c15d40d7656e117f2a9c4b0b1d9b836",
+        "message_id": "mr33w9i",
+        "comment": "My Google Pixel handles this as well. It's just so convenient. As an added bonus, my Pixel also has a answering assistant that picks up the call for you and engages in a conversation with the person.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "484c16c00db1dbd454b0e5eadb5f745b",
+        "message_id": "mr36ak5",
+        "comment": "I'm confused with the somewhat rude replies - I used [ for years when I had android, and I missed it in iOS. Great to find you here and instant install!",
+        "polarity": 0.034,
+        "score": []
+      },
+      {
+        "user": "a80cc2ed275170b7bab8f1a8de4c6427",
+        "message_id": "mr3c1vr",
+        "comment": "Wait until bro knows about spoofing",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a424f27f72f4acb7cf6ba37fd0247358",
+        "message_id": "mr3k6gh",
+        "comment": "Persistence pays off. Congrats on the launch!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a6e06ed1bafd730784c4082fd7d97bf1",
+        "message_id": "mr3miy1",
+        "comment": "I downloaded the app",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "454ad4967978beb2a3011a6d9d49f5ac",
+        "message_id": "mr3n88b",
+        "comment": "Meanwhile my android ... 🤣🤣🤭 someone tell me why I got so much spam",
+        "polarity": -0.083,
+        "score": []
+      },
+      {
+        "user": "d9e63b43e3afaf1ac68ce958446dcea4",
+        "message_id": "mr3pyws",
+        "comment": "It sounds like you’re making a distinction on the back end - what they do with the number once they have it. But they had access to the caller’s number, and they compared it with their database of numbers when the call came in. The new implementation may be different, but the feature sounds the same.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "ae995c200ff232c95d4f7008ffa445e3",
+        "message_id": "mr3ua0f",
+        "comment": "Just pay for an ad next time mate",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5a9c942ad06a52ef810d7214621f66b0",
+        "message_id": "mr3vx4n",
+        "comment": "I really regret naming my side project SuspectedSpam. No one answers my calls.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2e071e912d88d950d8064daed3fd1209",
+        "message_id": "mr3y0r8",
+        "comment": "My default phone has this feature on iOS",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c95321fb357504182679207b91c74be1",
+        "message_id": "mraig3c",
+        "comment": "I’m pretty sure the app by did this. Looked up numbers from their database. But maybe it was a downloaded file then. They cancelled that functionality once gdpr kicked in.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "99f3c8efa00a04a6b7ae2924b1570c03",
+        "message_id": "mr43jo9",
+        "comment": "Installed it. My phone number gets lots of spam calls. Let me evaluate it. I will drop a review on App Store soon",
+        "polarity": -0.043,
+        "score": []
+      },
+      {
+        "user": "256a713de997e495d365d800d13b14cf",
+        "message_id": "mr470pq",
+        "comment": "Thanks, this is awesome! 🙌 My mobile number has been public due to being an entrepreneur in the Netherlands (they changed that now), but I’m being spammed an insane amount. This is what I need!",
+        "polarity": 0.067,
+        "score": []
+      },
+      {
+        "user": "533ba22e59a4f01de01c01228f43479c",
+        "message_id": "mr4cbr1",
+        "comment": "I see on your website you access access contact and offer contact backup.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "12841a984d266a6f116c8e987945bcfa",
+        "message_id": "msl61bh",
+        "comment": "I tried and the problem was it only uses contact’s name, so i have to do a lot of manual checking. Also, one other BIG problem was it was trying to match people who already had profile pictures, even if i didn’t enable that override setting",
+        "polarity": -0.067,
+        "score": []
+      },
+      {
+        "user": "37abdca3da6db0a6a9f9c374343baf0e",
+        "message_id": "mr4uyi3",
+        "comment": "Really looking forward to see how it performs, I got a phone number a month ago and it used to belong to someone who owes money to a bank and they spam-call me all day long. Hope this can tackle this calls down.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "37abdca3da6db0a6a9f9c374343baf0e",
+        "message_id": "mr53u86",
+        "comment": "Sadly I just got a call from them and didn’t see any difference on screen Edit: different -> difference",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebc1613a3a17cb287edaeb388cd57684",
+        "message_id": "mr5qh01",
+        "comment": "I just downloaded it and saw this post",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3feb4e8c6c0fa550e3dd36352d2fadc6",
+        "message_id": "mr4yrd0",
+        "comment": "Dude i have waited 15 years for this as well. I have used your previous apps as well, as they were the best available. Cheers for this, ive downloaded it and looking forward to test it out!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "f43b6f8dba565f0b9afc097792318e13",
+        "message_id": "mr516gi",
+        "comment": "I have TruCaller and just downloaded to give this a shot.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a975df3c7b59ae19dcd5a9d9923192c4",
+        "message_id": "mr69s47",
+        "comment": "Super hyped about this project! Just installed and looking forward to seeing it in action. I was a user back in the FB profile caller ID days, and about once a year I've always checked back to see if the functionality returned. Looks like this is on the right track!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "63a46ae3ad8fdc84d7766c48ac61239e",
+        "message_id": "mr6r2ft",
+        "comment": "I have installed it and will test - got huuuuge issues with spam callers in germany. Thanks a lot, hope apple will buy you and and it will change your life",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a21434d1a5be557baf5b67143a9df59a",
+        "message_id": "mr7nk2n",
+        "comment": "Oh didn’t knew, nice to know it’s finally possible. Great job by the way. Didn’t wanted to be a jerk, was just wondering what exactly changed",
+        "polarity": 0.069,
+        "score": []
+      },
+      {
+        "user": "2b3ddea5641ae1d30f3ae063e953a9a5",
+        "message_id": "mr87nsy",
+        "comment": "I’ve had this feature on my iPhone for a while - no apps - in the UK",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "892cce73de41d9e3001c8c1736473e23",
+        "message_id": "mrbqb14",
+        "comment": "so everycall i receive is being rooted through some third party software, no thanks",
+        "polarity": 0.071,
+        "score": []
+      },
+      {
+        "user": "d2fccec58829dfdf73bfff49504060c1",
+        "message_id": "mrejahb",
+        "comment": "Was looking for this about for a year ! thank you, hero",
+        "polarity": 0.091,
+        "score": []
+      },
+      {
+        "user": "a84899166c5bd0f3a56d901d8eeaba41",
+        "message_id": "mrjjc2c",
+        "comment": "I sweartruecallerhas had this functionality for ages. At least since pre iOS 16",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0b2cf769adcafaec2224f3b39907ab28",
+        "message_id": "mrm6q12",
+        "comment": "I think it could provide more value if the ability to block entire ranges of numbers was available.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "8d9d52050dec4bb67957d43f05d76d1d",
+        "message_id": "ms950as",
+        "comment": "You have got to stop with the daily “share it with friends” push notifications. Super annoying",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e8075534f35897b4e2090daa4208fb0",
+        "message_id": "msots6g",
+        "comment": "Agreed. Do not like that at all",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e8075534f35897b4e2090daa4208fb0",
+        "message_id": "ms1jxl1",
+        "comment": "That's not how this works exactly. it's iphone so you literally choose any permissions which this doesn't even ask for",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "22e54b5f7cece345bdf0edfdbc428600",
+        "message_id": "mr67gqp",
+        "comment": "Just installed it on my iPhone",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d56ee2f6cbbfc7b4b9313c917f59ba67",
+        "message_id": "mr7q1yv",
+        "comment": "I just downloaded it today, it is working great. I had used [ on android 10 years ago. Good to see this app also is from same compnay. When I was downloading the app from App Store I saw [ I thought it was strange. After seeing your post I felt good.",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "cc457fbf0f82b8a45af6139899c89e0f",
+        "message_id": "mr82eih",
+        "comment": "Trying to install this in Europe (Netherlands) however I don’t see the options for Call blocking in my phone settings!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "41db74f9ce3e15ebd2fda7a6d9a1fc30",
+        "message_id": "mr8qvnw",
+        "comment": "Wil download this and give a review on how it works for me",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "644bdc4073d2e74ee8789968587e2ce7",
+        "message_id": "mr91d05",
+        "comment": "Just suggested this app to 2 flight attendants and a pilot while waiting at my gate. They were sharing their frustration with scam callers and I had just saw this post last night.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "c18191b8baaeb8ba0687a400d491db75",
+        "message_id": "mreovtg",
+        "comment": "So you built",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ca11eeaf465679936be1ef0fe27e6844",
+        "message_id": "mrjx62z",
+        "comment": "I mean, this feature has been on android for almost a decade, nothing to write a post about.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "499185a28b42c4c377b91eae661a78ec",
+        "message_id": "mrnh2dq",
+        "comment": "Bro reinvented truecaller but worse",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "55f9858af92a0e119935711e7104f132",
+        "message_id": "mroxq65",
+        "comment": "Just downloaded. I’m just a shmoe that thinks tech is magic but it’s definitely easy to get up and running. Now we wait…",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d0427f9b0ba45fcc844d33ced6108609",
+        "message_id": "na50y3o",
+        "comment": "Just found your post and man GREAT idea of starting a PIP video when guiding the user to go the settings app. They're on the settings app but they can see what they have to do. Incredible simple solution to a complex problem, kudos from another UI dev",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "305e4ec5a5a1b31736797ce965e01fad",
+        "message_id": "mr6dxdh",
+        "comment": "Please tell me you are working on an SMS app",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3e813e40a8e3630adc0a39d6c53cf019",
+        "message_id": "mr86asj",
+        "comment": "Had this on the Droid for quite some time, innovation died at Apple a long time ago methinks",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "50404c170624f40f0b1b75aac49cde33",
+        "message_id": "mr8fydp",
+        "comment": "Very interesting. I hope Apple is smart enough to buy you guys soon and integrate you into iOS 19 before its October release 😊",
+        "polarity": 0.045,
+        "score": []
+      },
+      {
+        "user": "1e4358ffed2a340f4c0f88e2a3e945f8",
+        "message_id": "mr9346d",
+        "comment": "Heads up, the App Store subtitle in Spain is in Portuguese :)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "c9dbf80563135172656627d70877d9bf",
+        "message_id": "mr9ycp6",
+        "comment": "Hahahahahahaha wow Incan't even remember if this was included in the first edition of android or maybe the 2nd release or so",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "113a3ffd4b20e7459dd1a5f7b4722897",
+        "message_id": "mrbnd9t",
+        "comment": "Well done!! I have been building my dream for 16 years so this moment must feel fantastic for you!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4936793ee5e58b6895baea025da126e7",
+        "message_id": "mr6b7bc",
+        "comment": "I’ve used for years, have just installed",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7ccf1706c3e4cf6d5054a7fe1ee26f3f",
+        "message_id": "mr8qb5i",
+        "comment": "Installed! 👍",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0c6a9e8eee4f1b04967d312c265ecf95",
+        "message_id": "mra1imw",
+        "comment": "Hi there, great app! But I don’t think it’s working as expected. I’m South Africa based and it did not show the person’s details or identification. Maybe not working in this region. I even downloaded the app.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "99427707732e431e8318c303d95e35e2",
+        "message_id": "mrb797l",
+        "comment": "Just installed it. If this stops, or even reduce, the number of spam calls I receive DAILY, just know I will be thanking you from the bottom of my heart. I’ve set it to automatically block known spammers.",
+        "polarity": -0.033,
+        "score": []
+      },
+      {
+        "user": "287e00dc1ca8e8ea8ab9cce0a9f546c5",
+        "message_id": "mrdxytj",
+        "comment": "I want to block an entire area code. That would be amazing to have as 90% of my spam calls are from 1 Florida area code.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1e4a37596adf252a90d0733a5ba708d7",
+        "message_id": "mrlz2mb",
+        "comment": "This has been default on Android for the last 5 years. Lol Apple problems.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "3adfd0f75e5108ee15369d8889e3de81",
+        "message_id": "mrpdylp",
+        "comment": "Sorry to break it to ya, but in Switzerland, this feature exists as part of the [* (iPhone) app for like 10 years already.",
+        "polarity": 0.045,
+        "score": []
+      },
+      {
+        "user": "a6773694d3b10ca24359c264b3cf2d39",
+        "message_id": "mv7kbon",
+        "comment": "Great job! I find it absolutely baffling that Apple never built this already in iOS. Android has had this for years",
+        "polarity": 0.048,
+        "score": []
+      },
+      {
+        "user": "4f50fa2c4816cab5265b6cab98be8650",
+        "message_id": "mwjuelp",
+        "comment": "Dont know why but once i get of those spam calls, i start to get them like 20 straight...",
+        "polarity": -0.056,
+        "score": []
+      },
+      {
+        "user": "fd4ae74808387729dde3abec346ddcb3",
+        "message_id": "mrvyfpn",
+        "comment": "Just FYI: \" the caller ID app, is owned and operated by [**Technologies Ltd., a privately held company based in Israel\"",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "341fad1eb25b5276a17d6fde333c422a",
+        "message_id": "mrb6awb",
+        "comment": "amazing! cant wait to install it. Ive been getting so many scam calls recently (UK) and if i can filter out just half of them that would be ideal",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "341fad1eb25b5276a17d6fde333c422a",
+        "message_id": "mrk7443",
+        "comment": "I activated it, enabled the two toggles but it didn’t work in three phone calls yesterday, just was the normal standard display.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d645eca63c34da1fbbab592c475a2560",
+        "message_id": "mrjc1xn",
+        "comment": "Just installed it. I've been waiting for this. I have always thought Apple should have a default implementation of this. So much spam calls these days.",
+        "polarity": -0.038,
+        "score": []
+      },
+      {
+        "user": "e8173fde266ec7f8c1cfcb6039a7a009",
+        "message_id": "mrjm7nu",
+        "comment": "This looks fantastic. I just finished setup and I’m impressed. Also props for being the first to market on the API hooks, I’d never expect to see a feature like this on a mid-cycle iOS release.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "ed117356226f1da651b8af2c58264db4",
+        "message_id": "mrl02g4",
+        "comment": "Wow, I can’t believe I’m seeing this post! Man, this brings back memories. I used your app way back when it launched synced my Facebook friends’ birthdays and phone numbers, and it literally saved me. I’ve always been awful at remembering dates, but thanks to that sync, I still have all those contacts and birthdays on my SIM, carried across every phone since. You built something that stuck with me for over a decade , respect for that. Wishing you tons of success with Livecaller!",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "bca612eb7deaa04fc40d0e0f39826425",
+        "message_id": "mrl1yzx",
+        "comment": "well played bro",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "89dc7ab08525aef7340a1b6640f3460f",
+        "message_id": "mrqocrn",
+        "comment": "Omg I was a huge fan of myphone ++ and on my jailbreak iPhones thank you so much downloading asap. 🙏",
+        "polarity": 0.053,
+        "score": []
+      },
+      {
+        "user": "15eb4405cfab3ccd6fd0f7befaba8276",
+        "message_id": "mr1vxij",
+        "comment": "Wow, iPhone users really living in 2009 😅",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "07b15674a169bd4caae18900233ebdbb",
+        "message_id": "mregomz",
+        "comment": "Compared with my Pixel call screening, this shows me just how horrible the iPhones are.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "7613e910f4d89871c5eff2cf52803b88",
+        "message_id": "mr507e4",
+        "comment": "Right that feature was already were for a while, in iOS 17 it was already possible to do that:",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e7bc37716a0d0413a85e0c774026517f",
+        "message_id": "mr1ekdk",
+        "comment": "No-brainer install.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a3a79efd0d6d6c678395b167ab928d77",
+        "message_id": "mr26dd2",
+        "comment": "Just the 3rd party API arrived, detection has been stock for decades.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "b412dd08af992bbc071b70cbf9e8a4bd",
+        "message_id": "mro0u60",
+        "comment": "I shared it with my insane inlaws who actually answer calls from numbers they don't recognize",
+        "polarity": -0.062,
+        "score": []
+      },
+      {
+        "user": "f3ec49098ab067f3d34d55357fccb02f",
+        "message_id": "mr2fqj3",
+        "comment": "Dude you must have gone crazy with excitement when you saw they opened it up. Congratulations!",
+        "polarity": 0.0,
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "ab47c9b4c092c52a29daff29f4daa643",
+        "message_id": "mrhf6vv",
+        "comment": "there's nothing to patent, also it's not unique app",
+        "polarity": -0.111,
+        "score": []
+      },
+      {
+        "user": "46c3109c80b9b846022d003a17455fb9",
+        "message_id": "mrdpgih",
+        "comment": "In Canada I get the same but it says “Likely Spam” it’s pretty hit or miss here though if I’m being generous maybe 50% of spam calls are marked as spam. With different wording between Canada and UK I’d guess it’s a carrier thing but maybe it’s localization from apple.",
+        "polarity": -0.133,
+        "score": []
+      },
+      {
+        "user": "eed2cfbcc344dfb6e7ed3de14d0e5354",
+        "message_id": "mr1gpyq",
+        "comment": "Aha yea I was gonna say, my Androids have been doing this for a while. Either way, it doesn't actually put a stop to the problem. Bad guys just laugh and get a shaken/stir approved number like it's a star sticker on their forehead, and they scam on. I'm working to create something that definitively blocks anything that's innately a robocall, without adding complexity or gold-star-sticker schemes.",
+        "polarity": -0.133,
+        "score": []
+      }
+    ]
+  },
+  "Critic": {
+    "positive": [
+      {
+        "user": "78975fb46d9474914c4100f5c3a43a80",
+        "message_id": "mr1q93c",
+        "comment": "Nice nice. Just downloaded looking forward to trying it",
+        "polarity": 0.222,
+        "score": []
+      },
+      {
+        "user": "4fbb5c9e17cb6ef18aae90c037c99c81",
+        "message_id": "mr28hq0",
+        "comment": "Awesome... Downloading. Thanks, OP! Congrats.",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "f8d053340de57989f8b8570838f938c7",
+        "message_id": "mr1tsrn",
+        "comment": "Great website!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "464bf5dde6923652d454ab65958cca50",
+        "message_id": "mr1v1t5",
+        "comment": "Ok nice. I’ll give it a go. Looks great",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "d7e59cff6b2c85feb7cd59aa47dd5c20",
+        "message_id": "mr4mqei",
+        "comment": "Okay, that's pretty cool. Thank you for the reply",
+        "polarity": 0.222,
+        "score": []
+      },
+      {
+        "user": "d9c6f628cfcf804af1b018ae54129f0b",
+        "message_id": "mr3xd5q",
+        "comment": "Lovely app, congrats. Nice and simple",
+        "polarity": 0.167,
+        "score": []
+      },
+      {
+        "user": "4ee58a0d598c8964c1db5d96f3fabd66",
+        "message_id": "mr46hmo",
+        "comment": "Very cool, just downloaded thanks!",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "ec75d8a65dba81a3bd87f4ddfd3185be",
+        "message_id": "mr72p20",
+        "comment": "Very cool, just installed the app.",
+        "polarity": 0.167,
+        "score": []
+      },
+      {
+        "user": "70b4aa2c189d72ad00fc26f8c1853fdc",
+        "message_id": "mrgruxc",
+        "comment": "Thanks mate this is awesome",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "451d17f698164bd703f4dd468eace3b4",
+        "message_id": "ms59p43",
+        "comment": "This is great. My mom needs this.",
+        "polarity": 0.143,
+        "score": []
+      },
+      {
+        "user": "82f90f8cf0aac084c0283c7dae25e865",
+        "message_id": "mrn973a",
+        "comment": "This is awesome. Thank you!",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "e14f9d1e852377dea671fff430f10971",
+        "message_id": "mr5pdnz",
+        "comment": "Very cool. Just installed!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "e8b8e2eae5313d2f63d404beee73118c",
+        "message_id": "ms72464",
+        "comment": "That is amazing 😍 I'm truly impressed 😁",
+        "polarity": 0.167,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1eytg",
+        "comment": "The 4B+ numbers include both spam and regular phone numbers. We provide Caller ID for non-spam calls too, based on crowdsourced data, public records, and business info.",
+        "polarity": -0.071,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1mm3m",
+        "comment": "Spoofing is indeed a problem to detect. We look for patterns and reports linked to known spoofed numbers, but like any system, it’s not perfect. We’re always updating to catch more.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr2cwf2",
+        "comment": "Yeah, sounds pretty similar - really cool that it’s backed by the government!",
+        "polarity": 0.077,
+        "score": []
+      },
+      {
+        "user": "231d13728a1e7e244256c8215ffaae2f",
+        "message_id": "mr1efig",
+        "comment": "Awesome, looking forward for your feedback about it :) The 4B+ numbers and millions of spammers come from crowdsourced reports by millions of [ users over the years. It’s community-driven and constantly updated.",
+        "polarity": 0.033,
+        "score": []
+      },
+      {
+        "user": "9d512a110be52b032ab3368096e00735",
+        "message_id": "mr1vpbi",
+        "comment": "Same. This app seems cool but it’s one Apple update from becoming obsolete. For OP’s sake, I hope Apple acquires it or pays for the upstream service.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "6f22bb10a158b0b204a49a240330e31a",
+        "message_id": "mr3qhy0",
+        "comment": "Wtf!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ebbefbf52668fcd13c13cad5d0585e68",
+        "message_id": "mr1ei40",
+        "comment": "Oh ok, that makes sense. Not familiar enough with that to judge but I am going to take a look. Thank you",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "5ff11188076c3fbcb5fc8e5fbc7583ac",
+        "message_id": "mr267nr",
+        "comment": "OP may be leaving something out. My guess is this is some implementation of private set intersection",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "4599857747a43e3eb60d37df89123b10",
+        "message_id": "mr1fgcf",
+        "comment": "That is deanonymizing though",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "d8d2badcb8bf830822d9206345ea9c34",
+        "message_id": "mr2amj0",
+        "comment": "😂 I didn't look that deeply, just type a number into Google and see what comes back. It was specific to the phone provider",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ccffda8d0d30e325c2aef12003a2a836",
+        "message_id": "mr1nvos",
+        "comment": "This app is awesome, I can’t wait to receive my first spam call!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "9bdf9fd7827c22f9faa8bb18f811ce0c",
+        "message_id": "mr1meyp",
+        "comment": "This looks amazing! I never liked TrueCaller for several reasons but this app looks so much better. Thank you developer🙏",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "20046a199760e01234800f7b1f8147d8",
+        "message_id": "mr1ul31",
+        "comment": "\"crowdsourced data\" seems vague to me, none of us have used [ before.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "703906aa3853cd5991a7d009e308ad69",
+        "message_id": "mr291r3",
+        "comment": "Looks nice but as Begone user, I’m a bit sad to see your app doesn’t have an option to block spam calls automatically :\\",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "a65c96fc126cc157eaa803feeed4dbd0",
+        "message_id": "mr48hs0",
+        "comment": "congrats! this is cool, my friend started nomorobo which did the call hangups via twilio (if tis on the do not call list, just drop the call before it even hits your phone)",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "1fbf625c4377086075c0a67b53a24b2e",
+        "message_id": "mr4run7",
+        "comment": "This is everything I needed for my iphone honestly 😭",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "ae8ca9619edad18927e49be6e28b918d",
+        "message_id": "mr5iu7i",
+        "comment": "This is an amazing app. Got to get your parents to install it. Everyone should. Indian scam offices are in trouble now!",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "f463d6725fc69ff2963a5e41a030e1c5",
+        "message_id": "mr5kas4",
+        "comment": "Dude. Wtf. I literally was searching for a solution to this today and had to install :/",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "88031306d091c52ca2d3cc2220c38732",
+        "message_id": "mregh4b",
+        "comment": "It was possible before with workarounds. Look at the Robokiller, Trucaller etc.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "163d1b1a343259909db673b723ea42e9",
+        "message_id": "mr8781h",
+        "comment": "I’ve been looking for something like this for a while now. I’m hoping it’s as good as it looks, just downloaded!",
+        "polarity": 0.083,
+        "score": []
+      },
+      {
+        "user": "cc3dd5a4747d965db1c08baf8ed99c56",
+        "message_id": "mr8h0mx",
+        "comment": "This is sick! I just installed it, thanks for making it",
+        "polarity": 0.091,
+        "score": []
+      },
+      {
+        "user": "99127039abd2f86c54e41a2c569c9f0c",
+        "message_id": "mrexeco",
+        "comment": "Thank you. Any fight against spam callers is a great an under apprecaited effort",
+        "polarity": 0.071,
+        "score": []
+      },
+      {
+        "user": "14c9c734a98e74a5ca78cb03cca2ce11",
+        "message_id": "mrkppfe",
+        "comment": "This is already a thing in the US and Canada at the network level with no need to download any app. Has been for 5+ years.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "37155248e3ab77f4cf68f3fa46eed333",
+        "message_id": "mr34jqd",
+        "comment": "And Yes and No. Caller identification and Live caller ID lookup are not the same thing it seems. I can’t attach a screenshot but I have both.",
+        "polarity": -0.036,
+        "score": []
+      }
+    ],
+    "negative": []
+  }
+}

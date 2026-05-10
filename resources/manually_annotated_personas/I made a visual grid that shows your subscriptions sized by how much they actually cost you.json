@@ -1,0 +1,122 @@
+{
+  "nt9kfzw": {
+	"persona": "None",
+    "text": "I am afraid once I see it I cannot unsee it.. gonna face my streaming sins now!!!",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "nt9kqpv": {
+	"persona": "None",
+    "text": "You'd better face it, or else it might grow even bigger!!!!!!",
+    "quotes": [],
+    "parent_text": "I am afraid once I see it I cannot unsee it.. gonna face my streaming sins now!!!"
+  },
+  "nt9wqka": {
+	"persona": "None",
+    "text": "LMAO, I can't unsee it now",
+    "quotes": [],
+    "parent_text": "Real use case of bundle analyser xd Great work"
+  },
+  "ntaij08": {
+	"persona": "None",
+    "text": "This is nice. Thanks for not forcing signup.",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "ntnz7am": {
+	"persona": "Solution Provider",
+    "text": "Thank you, actually, I'm not going to do that. I already linked my product in the final step, where you can get more features (analytics, reminders, family sharing with cost splitting, and the grid, etc.). If it solves people's problems, they will eventually get it. But for this grid alone, I will keep it free, and no sign-up for people that doesn't actually need as many features to use it.",
+    "quotes": [],
+    "parent_text": "Force sign up, monitize this. Great and simple idea I bet people are willing to spend a couple bucks on. Could be enhanced to a full blown financial guide. Keep it up!"
+  },
+  "ntaovma": {
+	"persona": "Solution Provider",
+    "text": "I see, yeah I actually thought of providing a list of popular subscriptions so it fills faster. But they would still have to fill in their price cuz most subscriptions seem to have different pricing in different places? Yeah but CSV import is also a good way, I might implement that!",
+    "quotes": [],
+    "parent_text": "This is super cool... but I think it's asking for a lot of effort to get a one-time visualization. Main suggestion is to provide a quicker UI for entering these in. There's a fairly limited set of subscriptions that'll cover many for most users. Letting users select options would be much quicker than the hefty form you have. Perhaps keep that for adding additional options. Another possibility would be allowing a user to paste in a CSV export from a bank statement and then recognizing the recurring charges."
+  },
+  "ntahh7i": {
+	"persona": "Solution Provider",
+    "text": "Thank you. Maybe I should add a currency selector too! For the icon, I'm using [ API (I'm not affliate with them). But if you don't want to use their API, you can use some sort of favicon extractor (I think you can Google it), the reason why I didn't use it because I was too lazy to setup a server to get around the cors so I just use the [ API",
+    "quotes": [],
+    "parent_text": "Looks great. Wish I could select the currency displayed. Question. How do you make it so that it auto makes an icon if it's a real website? Almost any working link works."
+  },
+  "ntaaxmr": {
+	"persona": "None",
+    "text": "oh that's cool!",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "ntaeuvf": {
+	"persona": "None",
+    "text": "Thank you. I'm not sure if I should do that because it kinda yells \"this is a promotion xD\"",
+    "quotes": [],
+    "parent_text": "Well done. This is marketing done right. If I were you, I'd put this under the Vexly domain. Something like"
+  },
+  "ntdoov7": {
+	"persona": "Solution Provider",
+    "text": "LOL, well its not possible cuz i want to make it no sign up, pulling info from bank or mail is not easy",
+    "quotes": [],
+    "parent_text": "id prefer it to pull out these info from my personal details cuz i have no idea what subscriptions ive signed up for lol"
+  },
+  "ntbhjiq": {
+	"persona": "None",
+    "text": "a lot of people do unfortunately",
+    "quotes": [],
+    "parent_text": "Who pay YouTube premiun?"
+  },
+  "nwuywe4": {
+	"persona": "None",
+    "text": "check out",
+    "quotes": [],
+    "parent_text": "Looking forward to it"
+  },
+  "ntbhh9a": {
+	"persona": "None",
+    "text": "really, never seem to see anyone did this visualizer",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "ntdok1y": {
+	"persona": "None",
+    "text": "Sure its on my list",
+    "quotes": [],
+    "parent_text": "Thanks, this is great! I’m gonna check it out. Can I make a feature request 😁 Support for other currencies, not just $"
+  },
+  "nte5c5t": {
+	"persona": "None",
+    "text": "haha ikr",
+    "quotes": [],
+    "parent_text": "Nice work! Pretty cool (and a bit scary...) to see all these expenses visualized like that."
+  },
+  "ntgvvie": {
+	"persona": "Critic",
+    "text": "nope",
+    "quotes": [],
+    "parent_text": "you should put 10$ subscription on this now"
+  },
+  "ntikuw5": {
+	"persona": "Solution Provider",
+    "text": "well if I add AI I might need to do it BYOK or else I would go bankrupt",
+    "quotes": [],
+    "parent_text": "Amazing tool! But it takes quite a bit of manual effort, and I don’t think I’d personally go through all of that. If it had an AI feature where I could just paste my subscription emails/text and it automatically generated the cards, that would make it way more productive for me."
+  },
+  "ntdo21h": {
+	"persona": "None",
+    "text": "You know what, I'm adding it",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "ntc4vg5": {
+	"persona": "None",
+    "text": "This is super slick! Phenomenal!",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "ntcq37c": {
+	"persona": "None",
+    "text": "I'm afraid to use this and come face to face with my poor financial decisions.",
+    "quotes": [],
+    "parent_text": ""
+  }
+}

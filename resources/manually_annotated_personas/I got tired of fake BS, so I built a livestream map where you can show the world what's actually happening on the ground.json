@@ -1,0 +1,122 @@
+{
+  "nnz6zkj": {
+	"persona": "None",
+    "text": "Feel like this would be amazing for documenting civil unrest and protests",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "nnz9245": {
+	"persona": "Solution Provider",
+    "text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles",
+    "quotes": [],
+    "parent_text": "u/Jyriad thanks man! We thought the same thing so we made a protests layer"
+  },
+  "no6p3n6": {
+	"persona": "Solution Provider",
+    "text": "You should definitely try and get those data layers to a CDN cache and serve them for pennies on the Edge instead of serving everything from your main host. Highly distributed apps, especially ones like yours will demand a lot of data at critical mass, and that will be stupid money if you try and serve egress from a hosting provider. Checkout something like Cloudflare R2.",
+    "quotes": [],
+    "parent_text": "we're on digitalocean! so far just paying a few hundred bucks a month"
+  },
+  "nnz87hy": {
+	"persona": "None",
+    "text": "u/Jyriad thanks man! We thought the same thing so we made a protests layer",
+    "quotes": [],
+    "parent_text": "Feel like this would be amazing for documenting civil unrest and protests"
+  },
+  "no2ibpg": {
+	"persona": "Solution Provider",
+    "text": "Hey, honestly, we were worried about this too. That's why we allow people to create private communities on the map. You can choose to stream to only a dedicated audience if you want, ensuring that your data doesn't fall into the wrong hands",
+    "quotes": [],
+    "parent_text": "Hey dude please be careful with this. While it's great to show what protests really look like you're basically serving law enforcement the data they need to capture activists on a silver platter. Depending on the country this is downright dangerous for everyone in the protests."
+  },
+  "nnzn4db": {
+	"persona": "None",
+    "text": "I think this would be an easy change (the timestamp), great idea!",
+    "quotes": [],
+    "parent_text": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles"
+  },
+  "nnzm2rf": {
+	"persona": "Solution Provider",
+    "text": "we're hoping the aspect of communities / layers allows people to use the app for many different location-based needs. we allow anyone to create a layer on our map and invite users / moderate it and share it to other platforms",
+    "quotes": [],
+    "parent_text": "Did an entire startup on this years ago — the challenge is critical mass: It’s exceptionally difficult to get enough people to install / use an app that is so narrowly scoped while simultaneously keeping the content interesting Big triathalons are another opportunity"
+  },
+  "no01k0o": {
+	"persona": "Solution Provider",
+    "text": "it's a great idea -- users can browse content on layer communities already, so for example we have a layer here for protests you can check out and we'd love to expand this functionality, though for posting content it makes sense for people to use the app since posts are tied to locations",
+    "quotes": [],
+    "parent_text": "Can it be website based too? No idea how hard/different that is, but accessing a website would make it more accessible than downloading an app. Lots of people are fed up with additional apps.."
+  },
+  "nnzbboh": {
+	"persona": "None",
+    "text": "we might put ads eventually, kind of just feeling it out for now",
+    "quotes": [],
+    "parent_text": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?"
+  },
+  "nnzniod": {
+	"persona": "Critic",
+    "text": "I don't think I would feel comfortable selling people's location data to advertisers. that honestly sounds like a massive invasion of privacy tbh. in general selling user data isn't something we plan to do",
+    "quotes": [],
+    "parent_text": "Is location data particularly valuable to advertisers? Like if we have someone’s live location that’s prime advertising real estate no? “Let’s show them the McDonald’s ad now since they’re about to walk by one in 2 blocks” that was your mouth is already watering by the time you smell the fries"
+  },
+  "no0b85q": {
+	"persona": "Technical Explainer",
+    "text": "yep, just use two fingers to pinch and rotate and hold with two fingers and move them up and down to change the camera angle / pitch",
+    "quotes": [],
+    "parent_text": "Is there a way to change the orientation of the map? It seems locked in isometric."
+  },
+  "nnznyi8": {
+	"persona": "Technical Explainer",
+    "text": "great question. unlike snapchat maps, we show livestreams directly on the map. we also give users the ability to create communities so that you can actually find what you're looking for on the map discoverability is a big problem in snapchat because you're essentially tapping on random spots on the map and hoping to find what you're looking for.",
+    "quotes": [],
+    "parent_text": "This is really neat! I'm just wondering how this is different than Snapchat does already"
+  },
+  "no2i41i": {
+	"persona": "Technical Explainer",
+    "text": "We have a few general thoughts on spoofing: Spoofed content is generally fairly easy to verify and discard. If the content posted doesn't match the location/surroundings, it can be identified and removed We allow communities to appoint moderators and remove content which is clearly spoofed We might implement more stringent technical checks on location and IP matching, as well as aggressive banning of users who create spoofed content",
+    "quotes": [],
+    "parent_text": "Cool idea! Do you deal with GPS spoofing somehow?"
+  },
+  "nnz8sy6": {
+	"persona": "None",
+    "text": "Not sure. No ads - it's all free right now. We're funding the servers ourselves Maybe subscriptions to exclusive content in the future",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "nnzdt24": {
+	"persona": "Question Asker",
+    "text": "Pretty neat idea … can there be project files, like related to particular event, individual topic, anything ? Is there a possibility to work with you ? I myself have been wondering to build a truth , fact establisher platform for quite some time.",
+    "quotes": [],
+    "parent_text": ""
+  },
+  "nnzhn8y": {
+	"persona": "None",
+    "text": "we agree, we're still working on the branding, we just havent really had much time to get things right",
+    "quotes": [],
+    "parent_text": "Awesome concept, website looks nice. I think the brand name needs a little work, especially as it's more a live streaming platform. If you want to crunch names I'm down to help. Good job"
+  },
+  "nnzjubd": {
+	"persona": "None",
+    "text": "We would love that!!",
+    "quotes": [],
+    "parent_text": "Really crackin' idea. Would love to run an interview on this for We Are Founders if you're up for it?"
+  },
+  "nnzomc7": {
+	"persona": "Technical Explainer",
+    "text": "you can save 30 seconds videos in the app, but we don't currently save livestreams. we'd love to do this in the near future though",
+    "quotes": [],
+    "parent_text": "that's some unreal good anti biased media tool if the Videos would be saved over time"
+  },
+  "nnzqbyc": {
+	"persona": "None",
+    "text": "we're just 2 people lol and my mom. of course.",
+    "quotes": [],
+    "parent_text": "how big is your team for such nice Features ?"
+  },
+  "nnzpnyd": {
+	"persona": "None",
+    "text": "that really means a lot, seriously. we've been working on this for a long time",
+    "quotes": [],
+    "parent_text": "For the first time I find an app that could really make a difference! Congratulations indeed!"
+  }
+}

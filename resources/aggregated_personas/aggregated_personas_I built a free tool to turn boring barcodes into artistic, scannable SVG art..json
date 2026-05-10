@@ -54,7 +54,6 @@
         },
         "a1bce4a6e55df9ddcddb8574d8fbb997": {
             "Solution Provider (positive)": 1,
-            "Solution Provider (neutral)": 1,
             "Technical explainer (positive)": 1
         },
         "351fa57dc16b9a569b6342ee102005c4": {
@@ -80,7 +79,6 @@
         "Technical explainer (negative)": 1,
         "Question asker (neutral)": 2,
         "Question asker (negative)": 3,
-        "Solution Provider (neutral)": 1,
         "Critic (neutral)": 1,
         "Critic (negative)": 4
     }
