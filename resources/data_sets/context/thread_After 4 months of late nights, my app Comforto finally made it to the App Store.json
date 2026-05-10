@@ -1,0 +1,1324 @@
+{
+    "title": "After 4 months of late nights, my app Comforto finally made it to the App Store",
+    "comments": {
+        "9efd01d7ab51825136eaeb87525ae282": {
+            "nlgkg89": {
+                "text": "As a Senior level procastinator I feel you, congratulations man hope success",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "036e855d915a499d37dcbaad7c9cec62": {
+            "nll1p8i": null
+        },
+        "becbb1e19c597efa8b715e2ce2334136": {
+            "nlmau4h": {
+                "text": "Haha nice picture! Thanks mate ;)you will do it. Keep pushing",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlgn0hi": {
+                "text": "Thanks mate! Appreciate it",
+                "quotes": [],
+                "parent_text": "As a Senior level procastinator I feel you, congratulations man hope success"
+            },
+            "nlfti1c": {
+                "text": "Thank you! Appreciate it;)",
+                "quotes": [],
+                "parent_text": "that's fantastic wish you luck dude ❤️"
+            },
+            "nlfv7p1": {
+                "text": "Yes he’s totally, it is hard to start but the motivation early sign ups gave me push a little forward to launch. Appreciate your comments.",
+                "quotes": [],
+                "parent_text": "Hey this is soo cool! Can always relate to having a lot of ideas but poor throughput. All the best"
+            },
+            "nlg6lg5": {
+                "text": "Haha thank you for the concern! I’m alright it’s just that I woke up on a lazy Sunday late and I wanted to post the update without a makeup. Keeping it raw and real.",
+                "quotes": [],
+                "parent_text": "Bro looks like needs some sleep"
+            },
+            "nlg1p2f": {
+                "text": "Sure! Thanks mate. Here is thelinkto the app if you would like to try. It’s free",
+                "quotes": [],
+                "parent_text": "Great idea, hope that you can help many people"
+            },
+            "nlgmxft": {
+                "text": "Building apps is such an emotional rollercoaster — excitement, burnout, hope, repeat. What helped me this time was focusing on solving a real emotional moment instead of chasing trends. You got this too",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlfysfn": {
+                "text": "Thank you;) appreciate that..",
+                "quotes": [],
+                "parent_text": "Congratulations!!"
+            },
+            "nlfvt1c": {
+                "text": "Thanks mate! Means a lot",
+                "quotes": [],
+                "parent_text": "Congrats!"
+            },
+            "nlgmyk0": {
+                "text": "100%! 🙌 This one already feels special because people are reacting emotionally to it, not just functionally. Even if it’s a small win, it’s proof that those late nights are worth it. Appreciate the encouragement!",
+                "quotes": [],
+                "parent_text": "Very cool! The key is to never give up! If this one does not pan out, keep trying!"
+            },
+            "nlhu1u7": {
+                "text": "Thank you 🙏",
+                "quotes": [],
+                "parent_text": "congratulations 🙌"
+            },
+            "nlhtyo4": {
+                "text": "Thanks mate;)",
+                "quotes": [],
+                "parent_text": "Amazing congrats"
+            },
+            "nlhpug2": {
+                "text": "Oops! Thank you for brining this into my notice. I’m checking on it right away",
+                "quotes": [],
+                "parent_text": "Congrats! Trying to install it from Romania, but I get this error: “Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)”"
+            },
+            "nlhra61": {
+                "text": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
+                "quotes": [],
+                "parent_text": "Congrats! Trying to install it from Romania, but I get this error: “Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)”"
+            },
+            "nll3y5g": {
+                "text": "I have added Poland to the list. Please check now",
+                "quotes": [],
+                "parent_text": "Poland plase also, I cant register."
+            },
+            "nlobu7y": {
+                "text": "Done! Singapore activated. Please try the app now",
+                "quotes": [],
+                "parent_text": "Can you add Singapore to the list please"
+            },
+            "nll3wzj": {
+                "text": "Done fixed it. Please check now",
+                "quotes": [],
+                "parent_text": "Also getting this error in the US"
+            },
+            "nlfxbnf": {
+                "text": "Thank you;)",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlhu00a": {
+                "text": "Thanks mate;) appreciate it",
+                "quotes": [],
+                "parent_text": "Congratulations Chetan!"
+            },
+            "nlgnaft": {
+                "text": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner.",
+                "quotes": [],
+                "parent_text": "how is it going so far? What you could have done better if you start over?"
+            },
+            "nll43ci": {
+                "text": "The app is free. It offers in app purchases if you would need extra minutes of talk time",
+                "quotes": [],
+                "parent_text": "Wait I thought you said in another comment that it was free?"
+            },
+            "nlgnpug": {
+                "text": "For sure! Your first 3 minutes are free. Also please share how was your call experience. Don’t forget to try mom call haha.",
+                "quotes": [],
+                "parent_text": "This is super cool. I just downloaded it and gonna test it out"
+            },
+            "nlgqkj3": {
+                "text": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+                "quotes": [],
+                "parent_text": "Hey congratulations How are you going to market it to real users?"
+            },
+            "nlgqx9d": {
+                "text": "Sure! You can PM me",
+                "quotes": [],
+                "parent_text": "Can I PM you? I am looking for a co-founder."
+            },
+            "nlgwbeu": {
+                "text": "Sure I will.;) thank you",
+                "quotes": [],
+                "parent_text": "Interesting idea, all the best and keep us updated"
+            },
+            "nlgyhjh": {
+                "text": "Hey thanks, appreciate the curiosity! I built Comforto using + Supabase for the backend and auth, moshi for audio agents and llm model training. On the app side, it’s a React Native / Expo build (so I could ship to both iOS and Android later), with a light Firebase layer for analytics and push. Costs are actually minimal right now: • Hosting + Supabase → under $20/month • voice agents- upto $3 for 30 minutes of interaction. • Everything else (frontend hosting, analytics, etc.) is free or hobby-tier.",
+                "quotes": [],
+                "parent_text": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out."
+            },
+            "nlmavnk": {
+                "text": "Sure! Will update the progress",
+                "quotes": [],
+                "parent_text": "Amazing, thanks for your honest feedback, keep us posted on how you do. In terms of getting it out there, I would recommend posting your product to as many A-listers and celebs on TikTok, Instagram, and Twitter (can't use the word X). A free plug from a space with a huge following will help get your product to increase usage."
+            },
+            "nlhtwv1": {
+                "text": "Yes it is. And feels great when it happens. Thanks man;)",
+                "quotes": [],
+                "parent_text": "Great man! Seeing a dream become reality is very rare. Congrats..."
+            },
+            "nlhttv9": {
+                "text": "Thanks mate;) appreciate it",
+                "quotes": [],
+                "parent_text": "Congratulations"
+            },
+            "nls81fq": {
+                "text": "Thank you:))",
+                "quotes": [],
+                "parent_text": "Congratulations"
+            },
+            "nlhpwqo": {
+                "text": "Thank you mate;) please do and share your call experience",
+                "quotes": [],
+                "parent_text": "Congratulations buddy. I’ll be sure to give this a try."
+            },
+            "nlhpr79": {
+                "text": "Thank you mate;) appreciate that",
+                "quotes": [],
+                "parent_text": "Congratulations mate🦖"
+            },
+            "nlhp8a8": {
+                "text": "Thank you;) sure go ahead and finish the app. I’m glad this post motivates you. You never what’s on your laptop. May be a million dollar idea. Please do share your project once you release. Would support you.",
+                "quotes": [],
+                "parent_text": "Congrats Chetu! I feel you man. There are a few 'project' folders on my laptop with unfinished code. May be this post will be some motivation to pick one of those up"
+            },
+            "nlho5er": {
+                "text": "Thank you 🙏 yes please. Please share how was your call experience.",
+                "quotes": [],
+                "parent_text": "I think the idea is fantastic and the execution even better - inspiring job, friend! Downloading now🙏🏽"
+            },
+            "nlho7j2": {
+                "text": "Thanks mate ;) please go ahead try the app",
+                "quotes": [],
+                "parent_text": "interesting idea"
+            },
+            "nlho8er": {
+                "text": "Thanks mate;)",
+                "quotes": [],
+                "parent_text": "Congratulations 💪🏻"
+            },
+            "nlhozrk": {
+                "text": "Thank you mate;)",
+                "quotes": [],
+                "parent_text": "Congratulations 💪🏻"
+            },
+            "nlhoyno": {
+                "text": "Yes UI needs a redo. Any suggestions mate. Would be helpful",
+                "quotes": [],
+                "parent_text": "I like the idea but the UI is not"
+            },
+            "nlhow10": {
+                "text": "No it was the issue with ui. Actually the app is designed to be used only on phones. But the app was allowed to install on iPad. Also point to note that they do install on iPad and check thoroughly. So if someone planning to release iPhone only app then make sure you disable iPad to false in the plist. The other reason is the payment wasn’t integrated properly with revenue cat. After fixing both issues finally they approved the release.",
+                "quotes": [],
+                "parent_text": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?"
+            },
+            "nlhogxz": {
+                "text": "Yes haha. They rejected the app because of the ui issues on iPad.",
+                "quotes": [],
+                "parent_text": "The first time you submit the app for review, you have to be rejected twice to successfully put it on the App Store, hahaha"
+            },
+            "nlhoe29": {
+                "text": "Thanks mate;) I feel you I have been there. It’s hard initially to get the traction. But one day you will be there. Keep pushing. 💪",
+                "quotes": [],
+                "parent_text": "This is AMAZING congratulations!!...from the person whose idea is still in my head😔"
+            },
+            "nlhqcos": {
+                "text": "lol 😂! Sorry will try to clear that. Please please check the app. Please share your call experience. Thanks mate;)",
+                "quotes": [],
+                "parent_text": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats"
+            },
+            "nlhu5sk": {
+                "text": "Please use mindfulness call on the app. It will bring your anxiety down. Just kidding",
+                "quotes": [],
+                "parent_text": "lol 😂! Sorry will try to clear that. Please please check the app. Please share your call experience. Thanks mate;)"
+            },
+            "nli3vih": {
+                "text": "Thank you mate;) need it 💯",
+                "quotes": [],
+                "parent_text": "Good luck on getting paying customers🙌"
+            },
+            "nli3who": {
+                "text": "Thank you 🙏",
+                "quotes": [],
+                "parent_text": "Congratulations"
+            },
+            "nlmb1dz": {
+                "text": "I’m sure you will one day.",
+                "quotes": [],
+                "parent_text": "Looks really interesting!! Will try to use once I can afford an iPhone"
+            },
+            "nlmb2no": {
+                "text": "Thanks. Bro to bro feeling",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlmb505": {
+                "text": "You can now. I have enabled it",
+                "quotes": [],
+                "parent_text": "Such a good idea. Just a little bummed that I can’t use it here in the Philippines. But huge congrats on going live in the App Store!"
+            },
+            "nll32jk": {
+                "text": "Got few installs for now. But no in app purchase made yet. Hoping to get one",
+                "quotes": [],
+                "parent_text": "R u earning with this app ?"
+            },
+            "nll2zjq": {
+                "text": "Haha yes you are right. This is win ;))",
+                "quotes": [],
+                "parent_text": "First off, stop calling it a small win. A win is a win. Congratulations! Sending good wishes your way."
+            },
+            "nll2y48": {
+                "text": "Thanks mate 🙏 glad",
+                "quotes": [],
+                "parent_text": "Congratulations! That feeling is epic. You’ll do well"
+            },
+            "nll2w1k": {
+                "text": "Thank you mate ;)",
+                "quotes": [],
+                "parent_text": "Congratulations!"
+            },
+            "nll2vbe": {
+                "text": "Thank you 🙏",
+                "quotes": [],
+                "parent_text": "Cool stuff!"
+            },
+            "nll2u6u": {
+                "text": "I used Lottie free file graphic",
+                "quotes": [],
+                "parent_text": "The art looks great, where did you get it done?"
+            },
+            "nll2sji": {
+                "text": "Thanks! Glad it gave you some inspiration :))",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nll2qr1": {
+                "text": "Thanks mate:) appreciate that. Please do try the app",
+                "quotes": [],
+                "parent_text": "Buddy, well done! Congratulations on the launch! This is an awesome idea!"
+            },
+            "nll2lkg": {
+                "text": "Thanks mate;) keep pushing",
+                "quotes": [],
+                "parent_text": "Congratulations from Rio de Janeiro brow!!!!!! Same case here, lot of ideas but the execution is weak or null"
+            },
+            "nllb6zu": {
+                "text": "Thanks mate;) yes please do",
+                "quotes": [],
+                "parent_text": "Congrats! Really cool idea and I will definitely try it out. Seeing a project through is a big win in itself."
+            },
+            "nlmb5pt": {
+                "text": "Thanks man;)",
+                "quotes": [],
+                "parent_text": "I can relate and understand your situation. But good part, happiness is more as you broke that pattern of years of starting but not finishing. Best luck n congratulations."
+            },
+            "nllwfro": {
+                "text": "This is such a useful tip. I was actually analysing the numbers on App Store. Will definitely use your insights. Thanks mate 🙏",
+                "quotes": [],
+                "parent_text": "Congrats on the launch! Couple tips on App Store Optimization that will help with growth: Utilize all the space in your app name. These keywords hold the most weight and Apple will prioritize them when formulating keyword phrases Create organic keyword phrases that normal people would use. Nothing against your current subtitle, but my assumption is no one is searching for any of those words except for “support”. Use a keyword analysis tool like Apptweak to get a sense on the right keywords to target. Caption your screenshots. You don’t need anything fancy, but it will help potential users understand the core value promise that you are delivering on. Also, double dipping on keywords you use in your title and subtitle will further compound their impact. Best of luck out there! And keep launching :)"
+            },
+            "nlm2mc1": {
+                "text": "Hey Kandarp! How are you buddy? Wow;) we live in a small world. Sure, please try the app and do let me know how was your call experience.",
+                "quotes": [],
+                "parent_text": "Hi Chetan ... kandarp here from SAP.. glad/surprised and kind of proud to find u here . Great .. some one with multiple talent wow... will try this one .."
+            },
+            "nlmb69u": {
+                "text": "💯",
+                "quotes": [],
+                "parent_text": "Starting too many projects without following through is so me. Glad for the strides you've made"
+            },
+            "nlmb6ui": {
+                "text": "Thanks Sathish;)",
+                "quotes": [],
+                "parent_text": "Congrats on the launch Chetan."
+            },
+            "nlmodcp": {
+                "text": "Thanks mate;) appreciate it. Please check out the app.",
+                "quotes": [],
+                "parent_text": "Congratulations!"
+            },
+            "nln0pgw": {
+                "text": "That’s a big achievement and patience is the key. Sure mate;) Hope you like my app",
+                "quotes": [],
+                "parent_text": "Congrats.... I know the feeling well of finally getting accepted into the appstore. I built an App Elfmonn.... it took over 2 years to build and I'm only really beginning to market it now..... But when Google and Apple finally approved..... there was a great sense of accomplishment. Well done!! I'll try out your app today."
+            },
+            "nls8nj7": {
+                "text": "yes sure thanks, there is a marketing mountain way ahead of me now. started with tiktok lets see how it goes.",
+                "quotes": [],
+                "parent_text": "Cool man! Congratulations! Same way hope you see it through with marketing. Same grind there. Take a break and recharge."
+            },
+            "nls8lol": {
+                "text": "Thanks. it wasnt easy. there is a marketing mountain way ahead of me now.",
+                "quotes": [],
+                "parent_text": "Congratulations! Your persistence has paid off."
+            },
+            "nls8jm7": {
+                "text": "Haha thanks mate. I get this often because of the eyes.",
+                "quotes": [],
+                "parent_text": "Congrats , man you looks so much like telugu actor navdeep , i thought he got into app building first lol"
+            },
+            "nls8h5h": {
+                "text": "Thanks. All the best. please share it here. I will try it",
+                "quotes": [],
+                "parent_text": "Congrats! Im almost finishing my app as well!"
+            },
+            "nls8fo2": {
+                "text": "I used Expo to bundle the ios app. so definitely releasing the app to Android soon.",
+                "quotes": [],
+                "parent_text": "Great Job. Is it also available for Android phone? I would like to try it"
+            },
+            "nls8clo": {
+                "text": "Yes. I am a designer by profession and vibe coding tools are a boon, yes i vibe coded this project.",
+                "quotes": [],
+                "parent_text": "Congrats! Was this vibe coded or are you a coder?"
+            },
+            "nls8ada": {
+                "text": "100%",
+                "quotes": [],
+                "parent_text": "God speed 🔥"
+            },
+            "nls89yt": {
+                "text": "Thank you:) Please try the app. hope you like it.",
+                "quotes": [],
+                "parent_text": "Congrats, neat idea! :)"
+            },
+            "nls88fc": {
+                "text": "If I reach, mark my words definitely I will post the same picture with the numbers instead...",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nls864p": {
+                "text": "Thank you for the support!!!",
+                "quotes": [],
+                "parent_text": "Very nice! Good job!"
+            },
+            "nls85g7": {
+                "text": "Is it? Thank you so much. Feel free to try the app",
+                "quotes": [],
+                "parent_text": "It’s crazy how good of an idea this is. Good stuff man!"
+            },
+            "nls83z8": {
+                "text": "Yes yes 100%. we all have to jeep pushing the wagon forward. Thanks mate:)",
+                "quotes": [],
+                "parent_text": "Congrats mate! That last 1% is always where most people fall off the bandwagon."
+            },
+            "nls82k1": {
+                "text": "Thank you mate:)",
+                "quotes": [],
+                "parent_text": "Congrats 🙌"
+            },
+            "nls8038": {
+                "text": "Thanks man! appreciate that you reached me to wish me on this journey",
+                "quotes": [],
+                "parent_text": "I have no idea who you are. I am not in the sideprojects subreddit but hell yeah! Congrats man"
+            },
+            "nlsg1ui": {
+                "text": "Thank you mate;) glad you tried the app. Thats a good suggestion. Just to let you know. You can even switch languages on the call. Currently the app supports: Spanish Hindi additional automatic switch languages",
+                "quotes": [],
+                "parent_text": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better."
+            },
+            "nlxg49z": {
+                "text": "Hey thanks man, it’s already multilingual. The bot can auto switch languages depending on the speaker",
+                "quotes": [],
+                "parent_text": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place"
+            },
+            "nlypvyt": {
+                "text": "Thanks mate! yeah it costs much. Hoping to recover it soon. What do you think is the free minutes is fair. Hoping you will purchase it haha. but to be honest. this was my own problem and i was looking for an app and I buit it myself to scratch my own itch.",
+                "quotes": [],
+                "parent_text": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn’t able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no."
+            },
+            "nm4zjbt": {
+                "text": "Yes! Absolutely. I have added support to Japanese. What’s cool is that you can speak Japanese and the ai automatically detect and switch the language. Below are the languages supported : Hindi Japanese Spanish German French Go ahead speak mom call. And start changing the language in the middle of a call. And it works",
+                "quotes": [],
+                "parent_text": "Does it have multi language support, I think Japan really needs this"
+            },
+            "nlg6gti": {
+                "text": "That’s a good question actually! I wanted to go with real phone calls because the fake call screen trick doesn’t always hold up in real situations — people can notice the screen or timing feels off. A real call gives you that authentic ring tone, vibration, and interaction with your carrier’s call UI — it just feels real. Plus, since it’s an actual voice line, you can pick up, talk, and it sounds completely natural to anyone nearby. So yeah, the goal was to make it feel believable, not staged.",
+                "quotes": [],
+                "parent_text": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs"
+            },
+            "nlgbzbk": {
+                "text": "If anyone wants to try the app. Here is thedownloadlink. It’s free also share your thought here on how was your phone call experience!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlhpdbj": {
+                "text": "What’s this? Never heard of it",
+                "quotes": [],
+                "parent_text": "same [ ?"
+            },
+            "nnrife8": {
+                "text": "It is so true! Thats why I needed this app as well! Please give it a try and also spread the word",
+                "quotes": [],
+                "parent_text": "For me, it’s the perfect tool to simulate fake calls—like when I’m in a meeting and need a smooth way to leave, or if I know I’ll have to step out after 5 or 10 minutes for something important. It really acts as a kind of “call breaker” for awkward moments or when I need an excuse to exit gracefully. Thanks for creating something so practical!"
+            },
+            "nlmb434": {
+                "text": "Hey can you please let me know which country you are trying from. I will enable it in backend ?",
+                "quotes": [],
+                "parent_text": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD"
+            },
+            "nll2pam": {
+                "text": "Hey thanks mate;) sure please feel free to try the app and let me know how was your call experience",
+                "quotes": [],
+                "parent_text": "Love the idea. I've definitely wanted something like this to exist in multiple situations."
+            },
+            "nlmmuxm": {
+                "text": "Thanks mate;) Let me see how this first one goes",
+                "quotes": [],
+                "parent_text": "congrats i never knew how much actually goes into making an app until i started mine. LITRALLY EVERY CLICK OR TAP. any plans on doing another?"
+            },
+            "nprypvu": {
+                "text": "Thanks for the update. Will check on it",
+                "quotes": [],
+                "parent_text": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn’t able to access it. But I love the idea around it! Just have to fix some technical difficulties"
+            },
+            "npsh1dp": {
+                "text": "Hey the issue is resolved. You can try the app. It should work",
+                "quotes": [],
+                "parent_text": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn’t able to access it. But I love the idea around it! Just have to fix some technical difficulties"
+            },
+            "nllsjvc": {
+                "text": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)",
+                "quotes": [],
+                "parent_text": "Fully AI generated app? Check. Fully AI-typed post on Reddit? Check. Some bought reddit upvotes too I see. Not bad."
+            },
+            "nlltciy": {
+                "text": "The picture is also generated using AI. I usually dont wish to reply to negative people. Buying Reddit votes made me laugh though. I like your creativity even in your negative lens",
+                "quotes": [],
+                "parent_text": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao."
+            },
+            "nlltx9e": {
+                "text": "I kinda of analyzed your past comments going to your profile. I can’t even see one single positive comments from you in any of the posts. Hey redditors please check the man’s profile. Reddit would be a lot better please removing such people.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nllue89": {
+                "text": "Take care!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlltxl2": {
+                "text": "I kinda of analyzed your past comments going to your profile. I can’t even see one single positive comments from you in any of the posts. Hey redditors please check the man’s profile. Reddit would be a lot better please removing such people.",
+                "quotes": [],
+                "parent_text": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao."
+            },
+            "nlhpovv": {
+                "text": "Please goto TikTok and search safety call or mom call and see how many millions of the views they got. You may not be needing this. But I’m sure there are people out there who might find this app useful. Instead of using fake call screen or saved videos",
+                "quotes": [],
+                "parent_text": "Looks AI generated, no one gonna download it. I would just call a friend...lol..what's this bullishit. Lol"
+            },
+            "nlhpene": {
+                "text": "??",
+                "quotes": [],
+                "parent_text": "Bruh clean up your inbox!! emails?!"
+            },
+            "nlhq3v7": {
+                "text": "Haha yes yes, I will clear it. Never bothered it. Thanks though",
+                "quotes": [],
+                "parent_text": "Your gmail inbox is giving “Anxiety”"
+            }
+        },
+        "7f7323f886c9f96cff83891eb57d2040": {
+            "nlimbsw": {
+                "text": "Yep, I am strugling to ship my app as well. Already hard like 7 new shiny ideas, I am trying very hard to not abandom this project like many others. Need to cultivate the habit of starting AND finishing everything.",
+                "quotes": [],
+                "parent_text": "As a Senior level procastinator I feel you, congratulations man hope success"
+            }
+        },
+        "68b38de764af6ac0da5978cd3d1abd34": {
+            "nlftfo3": {
+                "text": "that's fantastic wish you luck dude ❤️",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9a85bdd0c0901245c18666e367d47ce4": {
+            "nlfv308": {
+                "text": "Hey this is soo cool! Can always relate to having a lot of ideas but poor throughput. All the best",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aa19427ae4f3e0dcde9eaa53230d1760": {
+            "nlg6f29": {
+                "text": "Bro looks like needs some sleep",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ac762165a1487ff17e61c9d6683927b4": {
+            "nlk7xck": {
+                "text": "Raw and real is the way to go! Congrats on getting the app out there, it takes guts to put yourself out like that.",
+                "quotes": [],
+                "parent_text": "Haha thank you for the concern! I’m alright it’s just that I woke up on a lazy Sunday late and I wanted to post the update without a makeup. Keeping it raw and real."
+            }
+        },
+        "148078fe359e9c5b9676820759c4ced8": {
+            "nlg1l6x": {
+                "text": "Great idea, hope that you can help many people",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c9508a2c171e57588a4c1bf358aaae61": {
+            "nlgitab": {
+                "text": "At least you went live wirh them",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0feef55adf9d130a6076afb8543c20d4": {
+            "nlfymj1": {
+                "text": "Congratulations!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c0a53cd02365823b7e2bdb304f530f1e": {
+            "nlfvs05": {
+                "text": "Congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fc9b96587bc386016fdd8651d6f178e3": {
+            "nlg8emz": {
+                "text": "Very cool! The key is to never give up! If this one does not pan out, keep trying!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ed576ec2e8e8bb31496ac5762bd07f91": {
+            "nlg9003": {
+                "text": "congratulations 🙌",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0840f859e12935461c7c82938950678c": {
+            "nlghex4": {
+                "text": "Amazing congrats",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "00c370532af83ea0e7a167301349429e": {
+            "nlh37cl": {
+                "text": "Congrats! Trying to install it from Romania, but I get this error: “Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)”",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d727cfb6faa76ddff9eee0835701c864": {
+            "nlk086n": {
+                "text": "Poland plase also, I cant register.",
+                "quotes": [],
+                "parent_text": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app."
+            }
+        },
+        "2ea3b87ef837c30d5e44d4e5a11c9c27": {
+            "nlnrf3z": {
+                "text": "Can you add Singapore to the list please",
+                "quotes": [],
+                "parent_text": "I have added Poland to the list. Please check now"
+            }
+        },
+        "1b83d5da74032b6a750ef12210642eea": {
+            "nll30rr": {
+                "text": "Also getting this error in the US",
+                "quotes": [],
+                "parent_text": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app."
+            },
+            "nll33vi": {
+                "text": "Wait I thought you said in another comment that it was free?",
+                "quotes": [],
+                "parent_text": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner."
+            }
+        },
+        "4b45d384a883b20512bee8209b29c446": {
+            "nlgeyco": {
+                "text": "Congratulations Chetan!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c30609bcb99c26b86171be248925d3d8": {
+            "nlgf9jt": {
+                "text": "how is it going so far? What you could have done better if you start over?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nli5k8b": {
+                "text": "Good luck",
+                "quotes": [],
+                "parent_text": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner."
+            }
+        },
+        "3e4ce20ec588600054f050310750c4ca": {
+            "nlgnmfs": {
+                "text": "This is super cool. I just downloaded it and gonna test it out",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlg206f": {
+                "text": "You might want some 'ANTIZEN VACCINE' my friend. You need it for your well being.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f9a63ae8d08408a4fb1a237f77e2ca10": {
+            "nlgqcy0": {
+                "text": "Hey congratulations How are you going to market it to real users?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlgqu41": {
+                "text": "Can I PM you? I am looking for a co-founder.",
+                "quotes": [],
+                "parent_text": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs."
+            },
+            "nlgr5d5": {
+                "text": "Sent you a PM",
+                "quotes": [],
+                "parent_text": "Sure! You can PM me"
+            }
+        },
+        "14d2521f0afde4d95a2abcd4e85e1068": {
+            "nlgrvke": {
+                "text": "Interesting idea, all the best and keep us updated",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b90238820761764d1d3fb7c0e94a3d0f": {
+            "nlgxtzw": {
+                "text": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlilgre": {
+                "text": "Amazing, thanks for your honest feedback, keep us posted on how you do. In terms of getting it out there, I would recommend posting your product to as many A-listers and celebs on TikTok, Instagram, and Twitter (can't use the word X). A free plug from a space with a huge following will help get your product to increase usage.",
+                "quotes": [],
+                "parent_text": "Hey thanks, appreciate the curiosity! I built Comforto using + Supabase for the backend and auth, moshi for audio agents and llm model training. On the app side, it’s a React Native / Expo build (so I could ship to both iOS and Android later), with a light Firebase layer for analytics and push. Costs are actually minimal right now: • Hosting + Supabase → under $20/month • voice agents- upto $3 for 30 minutes of interaction. • Everything else (frontend hosting, analytics, etc.) is free or hobby-tier."
+            }
+        },
+        "047ec4c1b8ad5cb427eb83004c3f9760": {
+            "nlh06bu": {
+                "text": "Great man! Seeing a dream become reality is very rare. Congrats...",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5f00e5d72ed8b4210959e20250a95f95": {
+            "nlh0czk": {
+                "text": "Congratulations",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c4c013ba305a1b1501b4573bf6a8221f": {
+            "nlh2bia": {
+                "text": "Congratulations buddy. I’ll be sure to give this a try.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2b4d98d30116b735ce5caca0ef47b384": {
+            "nlh3dyl": {
+                "text": "Congratulations mate🦖",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5b04354e238f27c82fdaa48452e244a4": {
+            "nlh8t7q": {
+                "text": "Congrats Chetu! I feel you man. There are a few 'project' folders on my laptop with unfinished code. May be this post will be some motivation to pick one of those up",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b5b75537e2d5c922792b6d4f1a627e75": {
+            "nlha3tw": {
+                "text": "I think the idea is fantastic and the execution even better - inspiring job, friend! Downloading now🙏🏽",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "31aea94cdb67aecedf85227a5d4d67e7": {
+            "nlham8k": {
+                "text": "interesting idea",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6cfd0ce0452bed37405e1d96fb88500a": {
+            "nlhdqpw": {
+                "text": "Congratulations 💪🏻",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e7620f5ae45e8b4ebb6e370d7739addd": {
+            "nlhg113": {
+                "text": "I like the idea but the UI is not",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d5dffc3c6a42fef481aaf862d157492c": {
+            "nlhjtf4": {
+                "text": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d050e683372085677e5820c851f44785": {
+            "nlhlte5": {
+                "text": "The first time you submit the app for review, you have to be rejected twice to successfully put it on the App Store, hahaha",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f64af7a549769f4cbe67233fa79d7d64": {
+            "nlhnqsk": {
+                "text": "This is AMAZING congratulations!!...from the person whose idea is still in my head😔",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fbf8c613adf7fe65c47ac73063936cb2": {
+            "nlhp7zl": {
+                "text": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d8648dc9d6c2ccd03e7d99d0c17bdb59": {
+            "nlhwuez": {
+                "text": "Good luck on getting paying customers🙌",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "76aa510e7f5cd5a2ee6a205a0014ae0f": {
+            "nlhzgcc": {
+                "text": "Congratulations",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ea0bddb06261e66f7b507ef095e6bedf": {
+            "nli425f": {
+                "text": "Looks really interesting!! Will try to use once I can afford an iPhone",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "38684fa45ea5fe0a75114265d0100385": {
+            "nlic6aj": {
+                "text": "Such a good idea. Just a little bummed that I can’t use it here in the Philippines. But huge congrats on going live in the App Store!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e0b6845d3981a7bb22dda5c86128fc19": {
+            "nliqncr": {
+                "text": "R u earning with this app ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5052f3fc3c8fcf9553f7f729a0e18e22": {
+            "nliu925": {
+                "text": "First off, stop calling it a small win. A win is a win. Congratulations! Sending good wishes your way.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2f6951247df7bed3c0adc7bcf13d0baa": {
+            "nlivzgv": {
+                "text": "Congratulations! That feeling is epic. You’ll do well",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "no0u2dt": {
+                "text": "How’s it going? Any update.",
+                "quotes": [],
+                "parent_text": "Thanks mate 🙏 glad"
+            }
+        },
+        "0bb3e2497729ba9140569ea6b903f999": {
+            "nljbnm9": {
+                "text": "Congratulations!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d48bee1d3554b7e338cc824082c83ef2": {
+            "nljg6xg": {
+                "text": "Cool stuff!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "661811af803daf924e3fb21ed6c985d7": {
+            "nljiyk6": {
+                "text": "The art looks great, where did you get it done?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e892bfcc5f031390fcb7e349671cc8ef": {
+            "nlkg8vo": {
+                "text": "Buddy, well done! Congratulations on the launch! This is an awesome idea!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1787f6de32a9f384a6600d2cd098437d": {
+            "nll1egk": {
+                "text": "Congratulations from Rio de Janeiro brow!!!!!! Same case here, lot of ideas but the execution is weak or null",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "64b3661b00b2bd3e5eeecf67faa0043d": {
+            "nllayu4": {
+                "text": "Congrats! Really cool idea and I will definitely try it out. Seeing a project through is a big win in itself.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "72a3bfc452c83ba53c9afc1ebffb6c24": {
+            "nlls6im": {
+                "text": "I can relate and understand your situation. But good part, happiness is more as you broke that pattern of years of starting but not finishing. Best luck n congratulations.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c4c62366a3a9dfed39b5764c0ab2568b": {
+            "nllvwmv": {
+                "text": "Congrats on the launch! Couple tips on App Store Optimization that will help with growth: Utilize all the space in your app name. These keywords hold the most weight and Apple will prioritize them when formulating keyword phrases Create organic keyword phrases that normal people would use. Nothing against your current subtitle, but my assumption is no one is searching for any of those words except for “support”. Use a keyword analysis tool like Apptweak to get a sense on the right keywords to target. Caption your screenshots. You don’t need anything fancy, but it will help potential users understand the core value promise that you are delivering on. Also, double dipping on keywords you use in your title and subtitle will further compound their impact. Best of luck out there! And keep launching :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1fbc3fbefac5b95e854e02e021e5b50f": {
+            "nlm26qc": {
+                "text": "Hi Chetan ... kandarp here from SAP.. glad/surprised and kind of proud to find u here . Great .. some one with multiple talent wow... will try this one ..",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e6a03a59caf7b0bcb2f7995884cca821": {
+            "nlm6siq": {
+                "text": "Starting too many projects without following through is so me. Glad for the strides you've made",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "203f5cb846e0b675cf6aab546070b624": {
+            "nlm7a4p": {
+                "text": "Congrats on the launch Chetan.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "40b13d45c3be088d00fe30e055764e07": {
+            "nlmobns": {
+                "text": "Congratulations!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f94fb9ab22c3a20fe10c0909301af43d": {
+            "nln0fhy": {
+                "text": "Congrats.... I know the feeling well of finally getting accepted into the appstore. I built an App Elfmonn.... it took over 2 years to build and I'm only really beginning to market it now..... But when Google and Apple finally approved..... there was a great sense of accomplishment. Well done!! I'll try out your app today.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "faaeb7ac683f9aa73c660355a30ac2f7": {
+            "nlncb3f": {
+                "text": "Cool man! Congratulations! Same way hope you see it through with marketing. Same grind there. Take a break and recharge.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "216e1c3f8bf3384efd91d6d80416bc00": {
+            "nlnle4n": {
+                "text": "Congratulations! Your persistence has paid off.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "802868ba4d3a0bacb27d929f647704b4": {
+            "nlnwjio": {
+                "text": "Congrats , man you looks so much like telugu actor navdeep , i thought he got into app building first lol",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e2e6d516025e11544c69af821a8466e9": {
+            "nloat3e": {
+                "text": "Congrats! Im almost finishing my app as well!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0a6ccc2c58189150911dc1124df9f133": {
+            "nloekic": {
+                "text": "Great Job. Is it also available for Android phone? I would like to try it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "de69d227258dbbc005d15cc54b7844c6": {
+            "nlofqp6": {
+                "text": "Congrats! Was this vibe coded or are you a coder?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "326e14ed99e7c6e8cf32c04d59fc1a17": {
+            "nlooi7t": {
+                "text": "God speed 🔥",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "16d9fdac446772f867fe354dd345efc6": {
+            "nlotnyt": {
+                "text": "Congrats, neat idea! :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "163b7c949a95529c2aa6ea96e82021f4": {
+            "nlp957k": {
+                "text": "I’m building an app that helps traders analyzed their trades and based on those to give a strategy. Is that something that will interests anyone?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "046bfd3d1d644179409a83150f8ae65e": {
+            "nlptu1w": {
+                "text": "Very nice! Good job!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "215ca26917e62f3c1433332759a6cb2a": {
+            "nlqq82y": {
+                "text": "It’s crazy how good of an idea this is. Good stuff man!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0d5ae0424c50ab00b980759d42d531cc": {
+            "nlr12ot": {
+                "text": "Congrats mate! That last 1% is always where most people fall off the bandwagon.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b537721f6d3fad6710de61c74a325744": {
+            "nlrucxt": {
+                "text": "Congrats 🙌",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "01807f17bf3b711b0f51cc6195b81433": {
+            "nlrz8ve": {
+                "text": "I have no idea who you are. I am not in the sideprojects subreddit but hell yeah! Congrats man",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a477a685bc7bf8c981606e94a5589fa7": {
+            "nlsfkzb": {
+                "text": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0712f469babe16e531a91636df6bbeb1": {
+            "nlw5dbu": {
+                "text": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlyottj": {
+                "text": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn’t able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no.",
+                "quotes": [],
+                "parent_text": "Hey thanks man, it’s already multilingual. The bot can auto switch languages depending on the speaker"
+            }
+        },
+        "cc011574a81815722ce3dfb10134a8c2": {
+            "nm4z02o": {
+                "text": "Does it have multi language support, I think Japan really needs this",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9463641cfa43384a9565250293462665": {
+            "nlg4qdz": {
+                "text": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ea08da2ffd37dd06977f7170bbc7f976": {
+            "nlgrvzy": {
+                "text": "I can tell you've been putting in the late nights 😂 Take care though, you've earned a break",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6ce71132602e50c5d8616ade1bcbf7c9": {
+            "nlh8b4o": {
+                "text": "same [ ?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nnqupte": {
+                "text": "For me, it’s the perfect tool to simulate fake calls—like when I’m in a meeting and need a smooth way to leave, or if I know I’ll have to step out after 5 or 10 minutes for something important. It really acts as a kind of “call breaker” for awkward moments or when I need an excuse to exit gracefully. Thanks for creating something so practical!",
+                "quotes": [],
+                "parent_text": "What’s this? Never heard of it"
+            }
+        },
+        "b0e2a10ba08ed6d9cf8844055bd8ed38": {
+            "nlhehyv": {
+                "text": "What did you use for voice api ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "810fca5e29c4d8462cd28cc502dd4637": {
+            "nlhvsuv": {
+                "text": "Congrats on the launch, Chetan. I launchedSoundSafealmost a year ago, a similar safety companion app for women that rings you an actual phone call to get out of uncomfortable situations. Looking back, it was hard to admit that the app wasn't getting many users. Still, seeing it go live and get approved on the App Store was an unreal feeling. Wish you luck and many users!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2163c1db4daefdfcd27d47e01d2697b8": {
+            "nlhwgmn": {
+                "text": "so awesome to see matey and having worked in a field that provides empathetic listening to reduce suicides, this is wonderful idea, wishing you success in growing it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "48d5eca6e0f046599e84c9d564e4b347": {
+            "nli5rxf": {
+                "text": "May I know what did you use to build the app on and what is the cost?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "afb5b8bfab9249f164a22f9bbe1ad8f1": {
+            "nlia143": {
+                "text": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlnff3a": {
+                "text": "Bosnia and Herzegovina",
+                "quotes": [],
+                "parent_text": "Hey can you please let me know which country you are trying from. I will enable it in backend ?"
+            }
+        },
+        "ca925718a08ea92ed4d63f74646edd46": {
+            "nlib88q": {
+                "text": "Congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8936ebe3cf3ac8889af8df974b2db579": {
+            "nlie94q": {
+                "text": "Congrats! All the best!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0d3db42176003c59d2b0f1d9a440a533": {
+            "nlihd39": {
+                "text": "You finally cracked the “viral post” code on Reddit after several posts. I am guessing showing your face in front of a Mac screen is the viral playbook. Congrats on your success!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "620ed1dc7819c546f95da3bcc1cea3fa": {
+            "nlixni6": {
+                "text": "Throw wisdom on us! What would you do to cut it down next time",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2c2b1c9e0655b5561fffde6b14ef1ab9": {
+            "nlk4xiz": {
+                "text": "You look like restless go have some sleep",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "dab84671679acd024064c7c6286af8aa": {
+            "nlkhnrp": {
+                "text": "Love the idea. I've definitely wanted something like this to exist in multiple situations.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ad91d4d4dfcc1efcefef42b81ff61629": {
+            "nlkzvrq": {
+                "text": "Congrats, now get some sleep",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f1b125335a717a9e09d938b8b41296ea": {
+            "nll9ef1": {
+                "text": "Congrats bro, and now please get some sleep",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "09aabd6788f6318f62bf6cf9ac507ef8": {
+            "nllfdsa": {
+                "text": "Hey! Congratulations. Could you please share the tech-stack ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a00d33c4a2827ed3b7dd478d65234433": {
+            "nlljcf4": {
+                "text": "Congrats 🎉",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "88cf5525c487a0fa2d49a5fc654bfc96": {
+            "nlm9wp3": {
+                "text": "Good Luck\\^\\^",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b3916fb6c80dd29c3368f3bc1b9eb371": {
+            "nlmgdp6": {
+                "text": "congrats i never knew how much actually goes into making an app until i started mine. LITRALLY EVERY CLICK OR TAP. any plans on doing another?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9ead496f0b2bba8077037e45ae3e31ae": {
+            "nlskx2r": {
+                "text": "sad no Android",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a40bd5c190a753295a09c93f00a52af3": {
+            "nlxqpxp": {
+                "text": "Bro has panda eyes. Congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e10ea53227cd5faf1919763dc636cdd6": {
+            "nm429z3": {
+                "text": "Can count the nights on your eyes, go to sleep now.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "20c36cdfef41d6847e4b5d33a96118b3": {
+            "nmecdi0": {
+                "text": "Good luck",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ef178a9c2c11a003a57696be9092b9ee": {
+            "npg61mx": {
+                "text": "Idea is great. Congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3200c9a82b2f937f0d60f320993674ab": {
+            "npo2zsb": {
+                "text": "My unofficial title is Chairman, Founder and Chief Procrastination Officer of Slacker Innovators...well done...please make a You Tube on how you to did it to get me motivated!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "63dfe067adab3259a9edea98637a0089": {
+            "nprxa3y": {
+                "text": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn’t able to access it. But I love the idea around it! Just have to fix some technical difficulties",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "71087c2c669498d505b9a682ec408395": {
+            "nllse21": {
+                "text": "Fully AI generated app? Check. Fully AI-typed post on Reddit? Check. Some bought reddit upvotes too I see. Not bad.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nllsuy8": {
+                "text": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
+                "quotes": [],
+                "parent_text": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)"
+            }
+        },
+        "8b9490fff2b6ff2004c1af3e458c3cd8": {
+            "nlgypzw": {
+                "text": "First of all congrats! I also love how when a man posts their project they’re celebrated, when a woman posts their project this sub harasses them. /s obviously",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "593d158567e830448f33ec31d4bb884e": {
+            "nlh41lt": {
+                "text": "Looks AI generated, no one gonna download it. I would just call a friend...lol..what's this bullishit. Lol",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nliijo4": {
+                "text": "Ok 😎 cool ...",
+                "quotes": [],
+                "parent_text": "Please goto TikTok and search safety call or mom call and see how many millions of the views they got. You may not be needing this. But I’m sure there are people out there who might find this app useful. Instead of using fake call screen or saved videos"
+            }
+        },
+        "518c3fae757d76faa02f2710ab9d51b9": {
+            "nlh756l": {
+                "text": "Bruh clean up your inbox!! emails?!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "nlhptd4": {
+                "text": "Your gmail inbox is giving “Anxiety”",
+                "quotes": [],
+                "parent_text": "??"
+            }
+        },
+        "f5ac04ee6295e9286e6cd062fee8bb4f": {
+            "nlhs3qp": {
+                "text": "Congratulations!! I've just built a platform for solodevs to receive real publicity faster with [ Receive live alerts from journalists, filter by niche, and pitch your story to the right media instantly. You may find us very useful in your marketing! 👍🏼",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "561673094a3d61eef93fb0eb4aa27c3c": {
+            "nllmje1": {
+                "text": "This subreddit is so much more wholesome and less gatekeep-y than the CompTIA or ITcareerquestions subreddits. So much less neckbeardery going on here.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f7cba2b13c53b0869a5c5fa8516323ab": {
+            "nlgg36h": {
+                "text": "Bruh 😭🥀",
+                "quotes": [],
+                "parent_text": ""
+            }
+        }
+    }
+}

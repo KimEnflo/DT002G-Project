@@ -1,0 +1,1798 @@
+{
+    "Question asker": {
+        "positive": [
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mohi0jh",
+                "comment": "Thank you so much and that is some awesome feedback! Will put this on the list. Your letter is printed almost immediately but it is indeed nice to know when your letter is send. Would you like to have your sender name on the back of the letter or how would you like to see that?",
+                "polarity": 1.3267,
+                "parent": "Very nice idea, and good execution! I sent to myself apple pie recipe, to test it out also to fill your empty spots in Eastern Europe 😂 From a user perspective will be nice somehow to track the orders or at least to see some history. Either sent confirmation by email or account with saved old letters data. Additionally, I do not know if it’s possible but will be cool if sender names can be mine. More over +1 for the idea about visuals of the real letter. Once again, good job on the project!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5519581103324891
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3690343874692917
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3433713901042938
+                    ],
+                    [
+                        "Critic",
+                        0.33951943755149844
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mok9nbl",
+                "comment": "Hi there! Thank you so much! - You mean the hyperlink on the around the world page? On the homepage there is a proper button? - Costs are calculated before you enter your creditcard details. Above you see total costs?",
+                "polarity": 0.88854,
+                "parent": "Very cool idea OP Few critical things: Hyperlink is NOT a good Call To Action button. The general public won't even notice it. You should add a clear button It won't let you calculate additional charges or choose location before inserting credit card? CC should mostly come last",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5219267362356186
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3575541806221008
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3328291261196136
+                    ],
+                    [
+                        "Critic",
+                        0.3275304824113846
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "momtpzn",
+                "comment": "Good to know! What made it unclear? :) Hmm good one, not sure FransBauer hehe.",
+                "polarity": 0.9170800000000001,
+                "parent": "First of all great idea! I saw some Instagram advertisements of this service, but that didn't make it clear for me what this service was for. Until this post ;) But isnt 'Pieter Post' a copyrighted name, or a name that can get you into some sort of legal trouble when using commercially? Just a heads up, since this is also used for the famous children cartoon (Dutch version of Postman Pat):))",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48883031547069555
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3930270743370057
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3482153451442718
+                    ],
+                    [
+                        "Critic",
+                        0.3151792812347412
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mpivjes",
+                "comment": "Like you have a handwriting robot? Show me!",
+                "polarity": 0.7947,
+                "parent": "Sure, and it would be nice to have the kind of robots that write by hand. I modded a 3d printer to do it. Could be a nice add to your product",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5197543734312058
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33189836561679836
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3198963701725006
+                    ],
+                    [
+                        "Critic",
+                        0.3124555838108063
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mogwg3w",
+                "comment": "I think it is on the first page or what do you mean? It's right below the letter. If you upload a photo or like a .pdf then there is an extra charge for more pages.",
+                "polarity": 0.65124,
+                "parent": "Please include pricing on the first page. I don't want to write a long letter only to see a high price at the end.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5335043627023698
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36750540554523464
+                    ],
+                    [
+                        "Solution Provider",
+                        0.34162766695022584
+                    ],
+                    [
+                        "Critic",
+                        0.3362474709749222
+                    ]
+                ]
+            },
+            {
+                "user": "045875cb063606dbc7005400838a4f4a",
+                "message_id": "mop89e6",
+                "comment": "Holy crap this is awesome!?!!!",
+                "polarity": 0.92874,
+                "parent": "It looks like this :)",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.418156350851059
+                    ],
+                    [
+                        "Solution Provider",
+                        0.25045471847057343
+                    ],
+                    [
+                        "Critic",
+                        0.24774173080921172
+                    ],
+                    [
+                        "Technical explainer",
+                        0.24180381119251249
+                    ]
+                ]
+            },
+            {
+                "user": "3e4ce20ec588600054f050310750c4ca",
+                "message_id": "mogeziy",
+                "comment": "Interesting idea, does this work globally?",
+                "polarity": 0.5626599999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.477072531580925
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31351896226406095
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3111718833446503
+                    ],
+                    [
+                        "Critic",
+                        0.30984112024307253
+                    ]
+                ]
+            },
+            {
+                "user": "1414136b6ef30ef549d83d6d99b552b8",
+                "message_id": "moi4vmg",
+                "comment": "This is a great idea. I'm thinking of doing a prank on my friend. That got me thinking, How well are you inspecting the letters? I guess it might create some opportunity for some malicious stuff. Not sure how tbh",
+                "polarity": 1.26966,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49294806182384493
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33240253031253814
+                    ],
+                    [
+                        "Critic",
+                        0.32297541201114655
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3223771005868912
+                    ]
+                ]
+            },
+            {
+                "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+                "message_id": "muuhhlq",
+                "comment": "Did you receive it ? Its been a month, I have not received anything yet lol",
+                "polarity": 0.62798,
+                "parent": "Not yet, hopefully Monday!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48425279438495633
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3228436625003815
+                    ],
+                    [
+                        "Critic",
+                        0.3140436738729477
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31235835909843446
+                    ]
+                ]
+            },
+            {
+                "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+                "message_id": "my9eu8o",
+                "comment": "Did your friend receive it? I have sent mine months ago, no update !",
+                "polarity": 0.44296,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4626454240083695
+                    ],
+                    [
+                        "Solution Provider",
+                        0.30246540904045105
+                    ],
+                    [
+                        "Critic",
+                        0.29086058735847475
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2824812650680542
+                    ]
+                ]
+            },
+            {
+                "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+                "message_id": "n90khsd",
+                "comment": "yeah very fishy, only two options credit card and...ideal? never heard of that 😭 unfortunately I was dumb enough to trust this site because their original post blew up, no idea what they're going to do with that address and credit card information now",
+                "polarity": 0.25,
+                "parent": "The payment page was also fishy, even though they claimed it was via stripe. I am still getting their fake emails lol. I knew this can’t be real, thank god I didn’t put and sensitive info, but I used my personal image 😭",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4990755933523179
+                    ],
+                    [
+                        "Solution Provider",
+                        0.4109212547540665
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3751475703716278
+                    ],
+                    [
+                        "Critic",
+                        0.3349819352892633
+                    ]
+                ]
+            },
+            {
+                "user": "a22b8ec37d012933c333e504dd2bbbfd",
+                "message_id": "mol53uv",
+                "comment": "honestly pretty cool idea, would you be interested in opening an API? I think I could use this for my ai agent.",
+                "polarity": 1.23298,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48986961603164675
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32968557476997373
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3143001884222031
+                    ],
+                    [
+                        "Critic",
+                        0.31360950171947477
+                    ]
+                ]
+            },
+            {
+                "user": "e2c77e688f724b28ad7c181bb8197cbc",
+                "message_id": "moggecd",
+                "comment": "Fabulous idea, where are the letters sent from?",
+                "polarity": 0.7373799999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4499677306413651
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3031915813684464
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2961456090211868
+                    ],
+                    [
+                        "Critic",
+                        0.28807124197483064
+                    ]
+                ]
+            },
+            {
+                "user": "458eaaafb9bc295fc78a5d6f676882b9",
+                "message_id": "mohuvw0",
+                "comment": "French post does this as a service (focusing mostly on administrative stuff, many thigns still require actual mail with proof of delivery rather than a simple email), interesting that this was an open space in the US !",
+                "polarity": 0.64036,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4698011285066605
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32925336360931395
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32352129817008973
+                    ],
+                    [
+                        "Critic",
+                        0.3214877066795004
+                    ]
+                ]
+            },
+            {
+                "user": "814285a55af5ee2e494ebc988e2f7060",
+                "message_id": "moke2je",
+                "comment": "I like this idea. I probably use it. Is it live?",
+                "polarity": 0.50568,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48549553811550145
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3222643226385117
+                    ],
+                    [
+                        "Critic",
+                        0.3099049985408783
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30963853299617766
+                    ]
+                ]
+            },
+            {
+                "user": "93676e6d5ba42c599f656ae25c9f6e01",
+                "message_id": "mokjy5t",
+                "comment": "Curious to know how you got this unique idea, and did you validate the idea if so how?",
+                "polarity": 0.82026,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49781854212284093
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3349996149539948
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3214675962924957
+                    ],
+                    [
+                        "Critic",
+                        0.316847226023674
+                    ]
+                ]
+            },
+            {
+                "user": "d83f0ad82a8aff082bdd32af8e257503",
+                "message_id": "molj9e1",
+                "comment": "The address doesn't adapt to regional address standards. While in Belgium and the Netherlands, the building number follows the street, in North America, the custom is that the number precedes the street in the first line of the address. This might cause some small confusion and would help if remedied.",
+                "polarity": 0.38248,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4589186406135559
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3279098331928253
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31317278444767
+                    ],
+                    [
+                        "Critic",
+                        0.30767983496189116
+                    ]
+                ]
+            },
+            {
+                "user": "e14f9d1e852377dea671fff430f10971",
+                "message_id": "moru4vs",
+                "comment": "Really cool. Who did you partner with to print, stamp, fold the paper and put in envelope?",
+                "polarity": 0.53256,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.458801127076149
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3106799453496933
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30484173595905306
+                    ],
+                    [
+                        "Critic",
+                        0.29068962633609774
+                    ]
+                ]
+            },
+            {
+                "user": "8ccec6db41862ce15db0efb82fffd10f",
+                "message_id": "motzxqm",
+                "comment": "This is so simple and amazing… is this really being done for the first time in 2025??? Love the UI and easy payment too.",
+                "polarity": 1.15402,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4774602866172791
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32466126084327696
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3236148416996002
+                    ],
+                    [
+                        "Critic",
+                        0.3142117142677307
+                    ]
+                ]
+            },
+            {
+                "user": "c686e78b889696a2ff449afd6bc66da5",
+                "message_id": "mou2z1h",
+                "comment": "Such a cool and unique concept, well done! Love the look of it too! An idea that may have already popped up in your head too: being able to “hand write the text” and have that printed on the letter? Would that be possible? That might already come quite close for people that want to give it a more personal touch! Keep it up!",
+                "polarity": 1.2413800000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49468715846538547
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3328514933586121
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32964191138744353
+                    ],
+                    [
+                        "Critic",
+                        0.3181731700897217
+                    ]
+                ]
+            },
+            {
+                "user": "e97c0d2fef1b2945187b562576cd69b5",
+                "message_id": "mp4o1jf",
+                "comment": "Love it. Curious - how did you integrate Apple Pay payment into it?",
+                "polarity": 1.01766,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4795950150489807
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3218943625688553
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3078494191169739
+                    ],
+                    [
+                        "Critic",
+                        0.3041282057762146
+                    ]
+                ]
+            },
+            {
+                "user": "e97c0d2fef1b2945187b562576cd69b5",
+                "message_id": "mqlf8gu",
+                "comment": "How did you add Apple Pay button to the page? Is it a stripe integration or another way? Thanks 🙏",
+                "polarity": 0.60606,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47604401171207433
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32831050157547
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3169692039489746
+                    ],
+                    [
+                        "Critic",
+                        0.3083673924207687
+                    ]
+                ]
+            },
+            {
+                "user": "898e8927729e487e89f4cd14c71e23e9",
+                "message_id": "mpiqbf3",
+                "comment": "Looks pretty cool. I have a question though, how are you able to afford this around the world?",
+                "polarity": 0.9387,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5044030576944352
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3317573845386505
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3205356657505035
+                    ],
+                    [
+                        "Critic",
+                        0.3168251544237137
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mohdvb3",
+                "comment": "are you serious? :0",
+                "polarity": -0.0772,
+                "parent": "Can I Invest in this?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4571774005889893
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3628477662801743
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3141787767410278
+                    ],
+                    [
+                        "Critic",
+                        0.2897413116693497
+                    ]
+                ]
+            },
+            {
+                "user": "391b0bfc665b3cc92c773f394f516da7",
+                "message_id": "mogvht6",
+                "comment": "Which map library did you use?",
+                "polarity": 0.0,
+                "parent": "Okay, shall we try to bring PieterPost to every country in the world? :D We are so far right now. We can do this Reddit right? EDIT: Okay Reddit! I integrated a world map: Will refund your letter if it is for a new country, would that be nice? :)",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5156598830223084
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34172686994075774
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32645356297492983
+                    ],
+                    [
+                        "Critic",
+                        0.313412264585495
+                    ]
+                ]
+            },
+            {
+                "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+                "message_id": "n8zqlp8",
+                "comment": "hey, did you receive anything:? i havent received anything either and im starting to think itll never arrive",
+                "polarity": 0.0,
+                "parent": "Did you receive it ? Its been a month, I have not received anything yet lol",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49426039636135105
+                    ],
+                    [
+                        "Solution Provider",
+                        0.4002616941928864
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34947121918201446
+                    ],
+                    [
+                        "Critic",
+                        0.3131050848960876
+                    ]
+                ]
+            },
+            {
+                "user": "0810b218d4f4dd6475174736f85227c6",
+                "message_id": "moje3qw",
+                "comment": "But who actually sends it?",
+                "polarity": 0.0,
+                "parent": "Different locations worldwide, to deliver fast and sustainable. Working with different companies.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4771200376749039
+                    ],
+                    [
+                        "Critic",
+                        0.30900181114673614
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3088443350791931
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3050035512447357
+                    ]
+                ]
+            },
+            {
+                "user": "01a1c2204ea9056841d8ae515154d9d7",
+                "message_id": "moigh68",
+                "comment": "how/why?",
+                "polarity": 0.0,
+                "parent": "The concept is cool man but u know this is a downhill market right",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49953552305698395
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30596776127815245
+                    ],
+                    [
+                        "Solution Provider",
+                        0.30158734023571016
+                    ],
+                    [
+                        "Critic",
+                        0.28125179827213287
+                    ]
+                ]
+            },
+            {
+                "user": "bf3aa7e5f83c562c9f644a5cf8016615",
+                "message_id": "ms9xuou",
+                "comment": "How long did it take you to arrive?",
+                "polarity": 0.0,
+                "parent": "Really nice. I just sent a test letter to myself with an image attached. The mobile experience was great, and payment was effortless. I'm keen to see what the physical quality is like.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.533569592833519
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3481846570968628
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3359934967756271
+                    ],
+                    [
+                        "Critic",
+                        0.32354605793952945
+                    ]
+                ]
+            },
+            {
+                "user": "b32fa1040bcc262eeafdbc4e1098b912",
+                "message_id": "moocd7r",
+                "comment": "2 dollars for what? Sending email?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4343045508861542
+                    ],
+                    [
+                        "Solution Provider",
+                        0.27553855776786806
+                    ],
+                    [
+                        "Critic",
+                        0.2674071967601776
+                    ],
+                    [
+                        "Technical explainer",
+                        0.26441338658332825
+                    ]
+                ]
+            },
+            {
+                "user": "2813afbd8e34e041b0e5ae1db5c7dad2",
+                "message_id": "mowbo9p",
+                "comment": "I'm not getting any order confirmation emails...is that expected",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47932014226913455
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31869552433490755
+                    ],
+                    [
+                        "Critic",
+                        0.3171002149581909
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31006776094436644
+                    ]
+                ]
+            },
+            {
+                "user": "2813afbd8e34e041b0e5ae1db5c7dad2",
+                "message_id": "mp0d68p",
+                "comment": "Any way to track order?",
+                "polarity": 0.0,
+                "parent": "We don't send order confirmation by email, yet!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4602556079626084
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31516927540302275
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3039316016435623
+                    ],
+                    [
+                        "Critic",
+                        0.29378207445144655
+                    ]
+                ]
+            },
+            {
+                "user": "e09f4bc275b4f135d98f5c19ce35c8bb",
+                "message_id": "moy9r02",
+                "comment": "what tech stack did you use ?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47647770404815676
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31493961811065674
+                    ],
+                    [
+                        "Critic",
+                        0.29706448018550874
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2947191119194031
+                    ]
+                ]
+            },
+            {
+                "user": "e97c0d2fef1b2945187b562576cd69b5",
+                "message_id": "mp4s3cp",
+                "comment": "It loads in EUR for me. If in UK can it show in GBP, or just a set currency? Do you have a printer that can print, stamp and send from anywhere to anywhere in the world, single letters at consistent prices?",
+                "polarity": 0.0,
+                "parent": "It was really important for me that I would use it myself. And since Apple Pay works so good, it was an easy choice to integrate it.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5185807150602342
+                    ],
+                    [
+                        "Technical explainer",
+                        0.35791857481002803
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33226164400577546
+                    ],
+                    [
+                        "Critic",
+                        0.32496697247028355
+                    ]
+                ]
+            },
+            {
+                "user": "5d9fcdd53450d9c9c652012e40d1c932",
+                "message_id": "mogrisp",
+                "comment": "Presumably you're wrapping a letter sending API? I see some with pricing for a postcard a bit under $1.",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4569245195388794
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31313406527042387
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30505694448947906
+                    ],
+                    [
+                        "Critic",
+                        0.2960586577653885
+                    ]
+                ]
+            },
+            {
+                "user": "15e5a4c6c0713ff46953cacb5682c451",
+                "message_id": "mol1qf0",
+                "comment": "second that. I'll invest. DM me?",
+                "polarity": 0.0,
+                "parent": "are you serious? :0",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4759230983257294
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3869535332918167
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3345151525735855
+                    ],
+                    [
+                        "Critic",
+                        0.29747333943843846
+                    ]
+                ]
+            },
+            {
+                "user": "385d0cb43b80e7ef22267eeb20e5b466",
+                "message_id": "mohjk5s",
+                "comment": "They might mean its not on the landing page. Maybe a version of the logo stamped with a round \"€2\" label somewhere on the page would be enough to communicate it earlier?",
+                "polarity": 0.0,
+                "parent": "I think it is on the first page or what do you mean? It's right below the letter. If you upload a photo or like a .pdf then there is an extra charge for more pages.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4806122452020645
+                    ],
+                    [
+                        "Solution Provider",
+                        0.40286147832870484
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37600652694702147
+                    ],
+                    [
+                        "Critic",
+                        0.3199820822477341
+                    ]
+                ]
+            },
+            {
+                "user": "43ad43cf4c48d4cb47cd769f2f5c815a",
+                "message_id": "mohiom9",
+                "comment": "How does this compare to sending a telegram?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47311689615249636
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31252104640007017
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30543445646762846
+                    ],
+                    [
+                        "Critic",
+                        0.3031895160675049
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "96c659e99703ced8fb106af388249eb4",
+                "message_id": "mogpqcr",
+                "comment": "Say what API do you use to send the mail. I doubt you do it manually?",
+                "polarity": -0.50568,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48399623394012453
+                    ],
+                    [
+                        "Solution Provider",
+                        0.327083483338356
+                    ],
+                    [
+                        "Critic",
+                        0.30613922476768496
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30204108357429504
+                    ]
+                ]
+            },
+            {
+                "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+                "message_id": "mpenvn3",
+                "comment": "Did you receive it? There no update on my order page",
+                "polarity": -0.51796,
+                "parent": "So cool, tried sending the apple pie recipe first to myself!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47361143767833713
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3202718037366867
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3075469881296158
+                    ],
+                    [
+                        "Critic",
+                        0.30570108056068424
+                    ]
+                ]
+            },
+            {
+                "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+                "message_id": "n90iqpt",
+                "comment": "Aw man. Well I'd demand proof of it being sent out or else a refund, their costumer service was really sketchy and the no tracking is also pretty weird :/ even though initially on their website it said there's international tracking, when I contacted their support about it they said it was \"lost in translation\". The person who built this website has built another site just for the money, a \"pay to message\" site. Starting to think that's how they profit, by making people believe the \"cheap 3£ letters\" are worth it since some of us can't send it out and this service does it for you...and then boom, collects 3£ from thousands of people, easy money. Idk what I expected but I'm not surprised, this is the third letter service I've seen scamming. The pictures look fake too.",
+                "polarity": -0.7912399999999999,
+                "parent": "Same. It was scam",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4959867835044861
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3905300199985504
+                    ],
+                    [
+                        "Critic",
+                        0.37298492908477776
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34933645963668825
+                    ]
+                ]
+            },
+            {
+                "user": "8ecb696c591c15a6ee71b6e6f13acc4a",
+                "message_id": "mokqoc0",
+                "comment": "Love the idea, but I can't send a mail. I get error \"Error creating payment: The string did not match the expected pattern\" on two different cards with apple pay + one card with just the credit card numbers.",
+                "polarity": -0.50568,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4680553025007248
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3185380816459656
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3149652570486069
+                    ],
+                    [
+                        "Critic",
+                        0.3089700430631638
+                    ]
+                ]
+            },
+            {
+                "user": "287100e843dfd9ddfee02a211ca3c52b",
+                "message_id": "mom8ks1",
+                "comment": "First of all great idea! I saw some Instagram advertisements of this service, but that didn't make it clear for me what this service was for. Until this post ;) But isnt 'Pieter Post' a copyrighted name, or a name that can get you into some sort of legal trouble when using commercially? Just a heads up, since this is also used for the famous children cartoon (Dutch version of Postman Pat):))",
+                "polarity": -0.6027,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48331199347972875
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3308586239814758
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3299933046102524
+                    ],
+                    [
+                        "Critic",
+                        0.3208881437778473
+                    ]
+                ]
+            },
+            {
+                "user": "b1f5cdb0d1c6b55cdfe1c0dd979e5055",
+                "message_id": "monnf4x",
+                "comment": "Also I sent one. Payment has been taken but no email receipt?",
+                "polarity": -0.4215,
+                "parent": "Good luck. We launched this many years back in Royal Mail. It was built in partnership with Microsoft as a printer driver that could mail out. It failed miserably",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5091499334573747
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33946306645870206
+                    ],
+                    [
+                        "Critic",
+                        0.320742751955986
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3155119115114212
+                    ]
+                ]
+            }
+        ]
+    },
+    "Solution Provider": {
+        "positive": [
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "moqjf11",
+                "comment": "Thank you so much!!!",
+                "polarity": 0.85318,
+                "parent": "Holy crap this is awesome!?!!!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3460875487327576
+                    ],
+                    [
+                        "Technical explainer",
+                        0.29327988386154175
+                    ],
+                    [
+                        "Question asker",
+                        0.2774989253282547
+                    ],
+                    [
+                        "Critic",
+                        0.25776144087314606
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mogfrl2",
+                "comment": "Yes it works globally! :) EDIT: Feel free to try. Would be cool if we could fill the worldmap with Reddit?",
+                "polarity": 1.26868,
+                "parent": "Interesting idea, does this work globally?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5658768969774246
+                    ],
+                    [
+                        "Question asker",
+                        0.4891084718704224
+                    ],
+                    [
+                        "Technical explainer",
+                        0.35698073267936703
+                    ],
+                    [
+                        "Critic",
+                        0.3154691827297211
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mohj8m3",
+                "comment": "Totally fair! And yes there's something magical about a handwritten note. I think with PieterPostreal mailis more accessible and easy to use. You can always personalize it with pictures or a .pdf. But the I think receiving a letter from a friend or family always gives that little bit of extra joy, and with PieterPost its easier then ever.",
+                "polarity": 1.352,
+                "parent": "Although this is cool and well designed Im a bit skeptical that a person who prefers to send mail would want it printed with no personal touch. To me the handwriting is what makes the difference. Isn’t this just a text message/email delivered via mail? Maybe I’m just not thinking of other case scenarios where this would be helpful.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5105174154043198
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3677915463447571
+                    ],
+                    [
+                        "Question asker",
+                        0.36073180258274073
+                    ],
+                    [
+                        "Critic",
+                        0.325700466632843
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mogp1gr",
+                "comment": "Thank you so much! Feel free to try :)",
+                "polarity": 1.19546,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4653116023540497
+                    ],
+                    [
+                        "Question asker",
+                        0.29842317700386045
+                    ],
+                    [
+                        "Critic",
+                        0.2748528152704239
+                    ],
+                    [
+                        "Technical explainer",
+                        0.272522383928299
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mokdkq1",
+                "comment": "Awesome compliment! Thanks",
+                "polarity": 1.26224,
+                "parent": "This reminds me of really cool!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3132066059112549
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2613286185264587
+                    ],
+                    [
+                        "Question asker",
+                        0.239208642244339
+                    ],
+                    [
+                        "Critic",
+                        0.22431918263435363
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "mokne41",
+                "comment": "Thank you so much! Feel free to try :)",
+                "polarity": 1.2275800000000001,
+                "parent": "This is so cool!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4692773014307023
+                    ],
+                    [
+                        "Question asker",
+                        0.30182904183864595
+                    ],
+                    [
+                        "Critic",
+                        0.280211728811264
+                    ],
+                    [
+                        "Technical explainer",
+                        0.27873760879039766
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "molafbg",
+                "comment": "Thanks! Fixed :)",
+                "polarity": 0.8783000000000001,
+                "parent": "Love the idea, but I can't send a mail. I get error \"Error creating payment: The string did not match the expected pattern\" on two different cards with apple pay + one card with just the credit card numbers.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3139021575450897
+                    ],
+                    [
+                        "Technical explainer",
+                        0.260956346988678
+                    ],
+                    [
+                        "Question asker",
+                        0.2341089051961899
+                    ],
+                    [
+                        "Critic",
+                        0.22837100684642792
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "moofyru",
+                "comment": "Thank you so much! :)",
+                "polarity": 1.0955,
+                "parent": "I really like this, cool website too!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3615343934297562
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30489655911922453
+                    ],
+                    [
+                        "Question asker",
+                        0.29347514629364013
+                    ],
+                    [
+                        "Critic",
+                        0.27098766565322874
+                    ]
+                ]
+            },
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "moxh91a",
+                "comment": "There is no waitlist anymore! You can send immediately :)",
+                "polarity": 0.6542,
+                "parent": "I'd love to try sending one to my friends overseas! Just joined the waitlist. Super excited for this!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4777036172151566
+                    ],
+                    [
+                        "Question asker",
+                        0.3571508884429932
+                    ],
+                    [
+                        "Technical explainer",
+                        0.326301274895668
+                    ],
+                    [
+                        "Critic",
+                        0.3138129162788391
+                    ]
+                ]
+            },
+            {
+                "user": "3e4ce20ec588600054f050310750c4ca",
+                "message_id": "mogjkrq",
+                "comment": "You should definitely go all in on this, your website looks very polished and it’s a unique idea",
+                "polarity": 0.7783800000000001,
+                "parent": "Yes it works globally! :) EDIT: Feel free to try. Would be cool if we could fill the worldmap with Reddit?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49893352985382083
+                    ],
+                    [
+                        "Question asker",
+                        0.3672554171085357
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36261171042919155
+                    ],
+                    [
+                        "Critic",
+                        0.3302820473909378
+                    ]
+                ]
+            },
+            {
+                "user": "044d168e6681698ae7d72711f1a23068",
+                "message_id": "monqwqi",
+                "comment": "haha :D “PieterPost is not (yet) featured in” congrats! Great idea, might try it!",
+                "polarity": 1.3220200000000002,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4559573537111283
+                    ],
+                    [
+                        "Question asker",
+                        0.29702486395835875
+                    ],
+                    [
+                        "Critic",
+                        0.2850559026002884
+                    ],
+                    [
+                        "Technical explainer",
+                        0.28444421887397764
+                    ]
+                ]
+            },
+            {
+                "user": "c13e15d5e4ed3f4c88186b786e7ddab1",
+                "message_id": "mok1h5j",
+                "comment": "I do not know if it’s country specific thing but in Bulgaria when you send letters, the sender names and addresses are in top left corner and the recipient is in the bottom right, stamp is on top right of the envelope. Additionally the name of the sender and address is put in the first sheet of the letter itself again in the top left corner. Nevertheless, maybe not necessarily needed but it’s adding personal touch to it. One more suggestion, you can experiment with handwriting fonts customisations, will be not the same as the personal handwriting but still is getting close to the overall idea of the letters :) Map page is a bit hard to navigate (personally) and to check which countries are filled. Maybe will be good addition to add country list and count of sent letters (something like leaderboard) Good luck with it!",
+                "polarity": 1.3731,
+                "parent": "Thank you so much and that is some awesome feedback! Will put this on the list. Your letter is printed almost immediately but it is indeed nice to know when your letter is send. Would you like to have your sender name on the back of the letter or how would you like to see that?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.570192222409512
+                    ],
+                    [
+                        "Technical explainer",
+                        0.383536918759346
+                    ],
+                    [
+                        "Critic",
+                        0.34955501675813455
+                    ],
+                    [
+                        "Question asker",
+                        0.3289098024368286
+                    ]
+                ]
+            },
+            {
+                "user": "b3a135bbf76d76f16873f2adafca6018",
+                "message_id": "mohnms2",
+                "comment": "Ahaha this is amazing! As long as you can't just scape all my messages then yea I'll def try this out",
+                "polarity": 0.87346,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4796656107902527
+                    ],
+                    [
+                        "Question asker",
+                        0.3221034586429596
+                    ],
+                    [
+                        "Critic",
+                        0.30598741471767427
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30136366486549376
+                    ]
+                ]
+            },
+            {
+                "user": "6b539253e7079a79fe6446d05077c1c4",
+                "message_id": "mok868b",
+                "comment": "Great idea! I'll try it out, I definitely see the benefit of not dealing with the physical stamp and paper",
+                "polarity": 1.22878,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4901221668720246
+                    ],
+                    [
+                        "Technical explainer",
+                        0.326172748208046
+                    ],
+                    [
+                        "Question asker",
+                        0.32203816175460814
+                    ],
+                    [
+                        "Critic",
+                        0.3144625335931778
+                    ]
+                ]
+            },
+            {
+                "user": "f9d40b3c7cbfe6a687d6770e7e6e9bb7",
+                "message_id": "moxdl90",
+                "comment": "I'd love to try sending one to my friends overseas! Just joined the waitlist. Super excited for this!",
+                "polarity": 1.30858,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47084614992141727
+                    ],
+                    [
+                        "Question asker",
+                        0.30344094038009645
+                    ],
+                    [
+                        "Technical explainer",
+                        0.292156720161438
+                    ],
+                    [
+                        "Critic",
+                        0.28553209006786345
+                    ]
+                ]
+            },
+            {
+                "user": "4406b477291a9d7e571ee248bc49889a",
+                "message_id": "mpm59cp",
+                "comment": "This is a really cool idea, hey if you want help with adding features like a more customizable text editor and themes and all, you can dm me, this seems like a great ideaand would love to team up.",
+                "polarity": 1.34078,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4906553274393082
+                    ],
+                    [
+                        "Question asker",
+                        0.3205742806196213
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31773693263530733
+                    ],
+                    [
+                        "Critic",
+                        0.308900260925293
+                    ]
+                ]
+            },
+            {
+                "user": "a64321ce987ac2959f3e77bc75699b62",
+                "message_id": "mohessh",
+                "comment": "Yes DM me",
+                "polarity": 0.64166,
+                "parent": "are you serious? :0",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3218569248914719
+                    ],
+                    [
+                        "Question asker",
+                        0.2665123003721237
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2619497692584991
+                    ],
+                    [
+                        "Critic",
+                        0.24564921438694
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "moxh6yt",
+                "comment": "We don't send order confirmation by email, yet!",
+                "polarity": 0.0,
+                "parent": "I'm not getting any order confirmation emails...is that expected",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.38341687440872196
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3330300760269165
+                    ],
+                    [
+                        "Question asker",
+                        0.3065473538637161
+                    ],
+                    [
+                        "Critic",
+                        0.2970850795507431
+                    ]
+                ]
+            },
+            {
+                "user": "47bf3dc1ab86b0dc1dcdf43e4f817a88",
+                "message_id": "moggfgo",
+                "comment": "Hey just wanted to let you know that there's a \"[Insert Your Country]\" in the terms & conditions, near the bottom.",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48015450298786166
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31864485144615173
+                    ],
+                    [
+                        "Question asker",
+                        0.3109714865684509
+                    ],
+                    [
+                        "Critic",
+                        0.30399093627929685
+                    ]
+                ]
+            },
+            {
+                "user": "69443460604f7903bd555d5b18f993dc",
+                "message_id": "mogyw31",
+                "comment": "Your addresses in the UK are putting the number at the end of the street name which is not typical for letters here, it should be at the start.",
+                "polarity": 0.0772,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47436458826065064
+                    ],
+                    [
+                        "Technical explainer",
+                        0.329592427611351
+                    ],
+                    [
+                        "Critic",
+                        0.3066893458366394
+                    ],
+                    [
+                        "Question asker",
+                        0.2999307632446289
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+                "message_id": "n90ks2q",
+                "comment": "Mods should ban them & delete their posts and let other people know",
+                "polarity": -0.5574,
+                "parent": "yeah very fishy, only two options credit card and...ideal? never heard of that 😭 unfortunately I was dumb enough to trust this site because their original post blew up, no idea what they're going to do with that address and credit card information now",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5468717139959336
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3463588440418244
+                    ],
+                    [
+                        "Question asker",
+                        0.3133043801784515
+                    ],
+                    [
+                        "Critic",
+                        0.3098640561103821
+                    ]
+                ]
+            },
+            {
+                "user": "8d6f77ddd92f663c8a6f5b8186463710",
+                "message_id": "mrg3fq4",
+                "comment": "Had a similar idea. But the issue was that our country takes terrorism related things very seriously and it is a non-bailable offense here. If someone sends a message to those people through us, we will obviously be the sender and could be linked. This could be like an undetected mode of communication. But you could end up being a part of it unknowingly.",
+                "polarity": -1.00108,
+                "parent": "this is my question too! i didn't see anything in the terms and conditions but hopefully OP can still update it",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.571104440689087
+                    ],
+                    [
+                        "Critic",
+                        0.5181713357237574
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3843503177165985
+                    ],
+                    [
+                        "Question asker",
+                        0.3360782829523087
+                    ]
+                ]
+            }
+        ]
+    },
+    "Technical explainer": {
+        "positive": [],
+        "neutral": [],
+        "negative": []
+    },
+    "Critic": {
+        "positive": [
+            {
+                "user": "60a19c772c9da99464a85d552aa79977",
+                "message_id": "moh0azl",
+                "comment": "Good one! The adress is processed in the end and then it's correct. We successfully send some letters to the UK now. But might be weird now that the preview is not correct. Add it to my TODO's. Thanks for the feedback.",
+                "polarity": 1.07848,
+                "parent": "Your addresses in the UK are putting the number at the end of the street name which is not typical for letters here, it should be at the start.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5357676958539346
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36799729764461514
+                    ],
+                    [
+                        "Question asker",
+                        0.36709252536296844
+                    ],
+                    [
+                        "Solution Provider",
+                        0.339945130944252
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": [
+            {
+                "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+                "message_id": "n90arzc",
+                "comment": "Same. It was scam",
+                "polarity": -0.6902999999999999,
+                "parent": "hey, did you receive anything:? i havent received anything either and im starting to think itll never arrive",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.4917455285787583
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3779592937231064
+                    ],
+                    [
+                        "Technical explainer",
+                        0.347538623213768
+                    ],
+                    [
+                        "Question asker",
+                        0.30813008785247803
+                    ]
+                ]
+            }
+        ]
+    }
+}

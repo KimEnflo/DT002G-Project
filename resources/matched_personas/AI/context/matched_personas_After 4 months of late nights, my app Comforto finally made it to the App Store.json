@@ -1,0 +1,761 @@
+{
+  "Question asker": {
+    "positive": [
+      {
+        "user": "c30609bcb99c26b86171be248925d3d8",
+        "message_id": "nlgf9jt",
+        "comment": "how is it going so far? What you could have done better if you start over?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "b90238820761764d1d3fb7c0e94a3d0f",
+        "message_id": "nlgxtzw",
+        "comment": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out.",
+        "polarity": 0.15,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
+        "message_id": "nlgqcy0",
+        "comment": "Hey congratulations How are you going to market it to real users?",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
+        "message_id": "nlgqu41",
+        "comment": "Can I PM you? I am looking for a co-founder.",
+        "polarity": 0.0,
+        "parent": "Thanks much' yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "09aabd6788f6318f62bf6cf9ac507ef8",
+        "message_id": "nllfdsa",
+        "comment": "Hey! Congratulations. Could you please share the tech-stack ?",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "b3916fb6c80dd29c3368f3bc1b9eb371",
+        "message_id": "nlmgdp6",
+        "comment": "congrats i never knew how much actually goes into making an app until i started mine. LITRALLY EVERY CLICK OR TAP. any plans on doing another?",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "48d5eca6e0f046599e84c9d564e4b347",
+        "message_id": "nli5rxf",
+        "comment": "May I know what did you use to build the app on and what is the cost?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "620ed1dc7819c546f95da3bcc1cea3fa",
+        "message_id": "nlixni6",
+        "comment": "Throw wisdom on us! What would you do to cut it down next time",
+        "polarity": 0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "b0e2a10ba08ed6d9cf8844055bd8ed38",
+        "message_id": "nlhehyv",
+        "comment": "What did you use for voice api ?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "661811af803daf924e3fb21ed6c985d7",
+        "message_id": "nljiyk6",
+        "comment": "The art looks great, where did you get it done?",
+        "polarity": 0.6,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d5dffc3c6a42fef481aaf862d157492c",
+        "message_id": "nlhjtf4",
+        "comment": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "9463641cfa43384a9565250293462665",
+        "message_id": "nlg4qdz",
+        "comment": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "163b7c949a95529c2aa6ea96e82021f4",
+        "message_id": "nlp957k",
+        "comment": "I'm building an app that helps traders analyzed their trades and based on those to give a strategy. Is that something that will interests anyone?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "cc011574a81815722ce3dfb10134a8c2",
+        "message_id": "nm4z02o",
+        "comment": "Does it have multi language support, I think Japan really needs this",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2f6951247df7bed3c0adc7bcf13d0baa",
+        "message_id": "no0u2dt",
+        "comment": "How's it going? Any update.",
+        "polarity": 0.0,
+        "parent": "Thanks mate 🙏 glad",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "e0b6845d3981a7bb22dda5c86128fc19",
+        "message_id": "nliqncr",
+        "comment": "R u earning with this app ?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "0a6ccc2c58189150911dc1124df9f133",
+        "message_id": "nloekic",
+        "comment": "Great Job. Is it also available for Android phone? I would like to try it",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "0712f469babe16e531a91636df6bbeb1",
+        "message_id": "nlyottj",
+        "comment": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn't able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no.",
+        "polarity": 0.3,
+        "parent": "Hey thanks man, it's already multilingual. The bot can auto switch languages depending on the speaker",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "1b83d5da74032b6a750ef12210642eea",
+        "message_id": "nll30rr",
+        "comment": "Also getting this error in the US",
+        "polarity": 0.0,
+        "parent": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "1b83d5da74032b6a750ef12210642eea",
+        "message_id": "nll33vi",
+        "comment": "Wait I thought you said in another comment that it was free?",
+        "polarity": 0.0,
+        "parent": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhoyno",
+        "comment": "Yes UI needs a redo. Any suggestions mate. Would be helpful",
+        "polarity": 0.0,
+        "parent": "I like the idea but the UI is not",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "6ce71132602e50c5d8616ade1bcbf7c9",
+        "message_id": "nlh8b4o",
+        "comment": "same [ ?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhpdbj",
+        "comment": "What's this? Never heard of it",
+        "polarity": 0.0,
+        "parent": "same [ ?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlmb434",
+        "comment": "Hey can you please let me know which country you are trying from. I will enable it in backend ?",
+        "polarity": 0.0,
+        "parent": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d727cfb6faa76ddff9eee0835701c864",
+        "message_id": "nlk086n",
+        "comment": "Poland plase also, I cant register.",
+        "polarity": 0.0,
+        "parent": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2ea3b87ef837c30d5e44d4e5a11c9c27",
+        "message_id": "nlnrf3z",
+        "comment": "Can you add Singapore to the list please",
+        "polarity": 0.0,
+        "parent": "I have added Poland to the list. Please check now",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "afb5b8bfab9249f164a22f9bbe1ad8f1",
+        "message_id": "nlia143",
+        "comment": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+        "polarity": -0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ]
+  },
+  "Solution Provider": {
+    "positive": [
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhra61",
+        "comment": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
+        "polarity": 0.3,
+        "parent": "Congrats! Trying to install it from Romania, but I get this error: Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nll3y5g",
+        "comment": "I have added Poland to the list. Please check now",
+        "polarity": 0.0,
+        "parent": "Poland plase also, I cant register.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlobu7y",
+        "comment": "Done! Singapore activated. Please try the app now",
+        "polarity": 0.4,
+        "parent": "Can you add Singapore to the list please",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nll3wzj",
+        "comment": "Done fixed it. Please check now",
+        "polarity": 0.3,
+        "parent": "Also getting this error in the US",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlmb505",
+        "comment": "You can now. I have enabled it",
+        "polarity": 0.2,
+        "parent": "Such a good idea. Just a little bummed that I can't use it here in the Philippines. But huge congrats on going live in the App Store!",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "npsh1dp",
+        "comment": "Hey the issue is resolved. You can try the app. It should work",
+        "polarity": 0.3,
+        "parent": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn't able to access it. But I love the idea around it! Just have to fix some technical difficulties",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlglbzr",
+        "comment": "Sure! Thanks mate. Here is thelinkto the app if you would like to try. It's free",
+        "polarity": 0.3,
+        "parent": "Great idea, hope that you can help many people",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlgqkj3",
+        "comment": "Thanks much' yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+        "polarity": 0.2,
+        "parent": "Hey congratulations How are you going to market it to real users?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "c4c62366a3a9dfed39b5764c0ab2568b",
+        "message_id": "nllvwmv",
+        "comment": "Congrats on the launch! Couple tips on App Store Optimization that will help with growth: Utilize all the space in your app name. These keywords hold the most weight and Apple will prioritize them when formulating keyword phrases Create organic keyword phrases that normal people would use. Nothing against your current subtitle, but my assumption is no one is searching for any of those words except for support. Use a keyword analysis tool like Apptweak to get a sense on the right keywords to target. Caption your screenshots. You don't need anything fancy, but it will help potential users understand the core value promise that you are delivering on. Also, double dipping on keywords you use in your title and subtitle will further compound their impact. Best of luck out there! And keep launching :)",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "b90238820761764d1d3fb7c0e94a3d0f",
+        "message_id": "nlilgre",
+        "comment": "Amazing, thanks for your honest feedback, keep us posted on how you do. In terms of getting it out there, I would recommend posting your product to as many A-listers and celebs on TikTok, Instagram, and Twitter (can't use the word X). A free plug from a space with a huge following will help get your product to increase usage.",
+        "polarity": 0.5,
+        "parent": "Hey thanks, appreciate the curiosity! I built Comforto using + Supabase for the backend and auth, moshi for audio agents and llm model training. On the app side, it's a React Native / Expo build (so I could ship to both iOS and Android later), with a light Firebase layer for analytics and push. Costs are actually minimal right now: • Hosting + Supabase → under $20/month • voice agents- upto $3 for 30 minutes of interaction. • Everything else (frontend hosting, analytics, etc.) is free or hobby-tier.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f5ac04ee6295e9286e6cd062fee8bb4f",
+        "message_id": "nlhs3qp",
+        "comment": "Congratulations!! I've just built a platform for solodevs to receive real publicity faster with [ Receive live alerts from journalists, filter by niche, and pitch your story to the right media instantly. You may find us very useful in your marketing! 👍🏼",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "a477a685bc7bf8c981606e94a5589fa7",
+        "message_id": "nlsfkzb",
+        "comment": "Hey, i tried your app it's awesome. but don't you think you should add some realistic voice's and also option to choose voice's that will be much better.",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "0712f469babe16e531a91636df6bbeb1",
+        "message_id": "nlw5dbu",
+        "comment": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlmavnk",
+        "comment": "Sure! Will update the progress",
+        "polarity": 0.2,
+        "parent": "Amazing, thanks for your honest feedback, keep us posted on how you do. In terms of getting it out there, I would recommend posting your product to as many A-listers and celebs on TikTok, Instagram, and Twitter (can't use the word X). A free plug from a space with a huge following will help get your product to increase usage.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhpovv",
+        "comment": "Please goto TikTok and search safety call or mom call and see how many millions of the views they got. You may not be needing this. But I'm sure there are people out there who might find this app useful. Instead of using fake call screen or saved videos",
+        "polarity": 0.2,
+        "parent": "Looks AI generated, no one gonna download it. I would just call a friend...lol..what's this bullishit. Lol",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlgqx9d",
+        "comment": "Sure! You can PM me",
+        "polarity": 0.0,
+        "parent": "Can I PM you? I am looking for a co-founder.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
+        "message_id": "nlgr5d5",
+        "comment": "Sent you a PM",
+        "polarity": 0.0,
+        "parent": "Sure! You can PM me",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nll43ci",
+        "comment": "The app is free. It offers in app purchases if you would need extra minutes of talk time",
+        "polarity": 0.0,
+        "parent": "Wait I thought you said in another comment that it was free?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nls8fo2",
+        "comment": "I used Expo to bundle the ios app. so definitely releasing the app to Android soon.",
+        "polarity": 0.0,
+        "parent": "Great Job. Is it also available for Android phone? I would like to try it",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nll2u6u",
+        "comment": "I used Lottie free file graphic",
+        "polarity": 0.0,
+        "parent": "The art looks great, where did you get it done?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhow10",
+        "comment": "No it was the issue with ui. Actually the app is designed to be used only on phones. But the app was allowed to install on iPad. Also point to note that they do install on iPad and check thoroughly. So if someone planning to release iPhone only app then make sure you disable iPad to false in the plist. The other reason is the payment wasn't integrated properly with revenue cat. After fixing both issues finally they approved the release.",
+        "polarity": 0.1,
+        "parent": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nprypvu",
+        "comment": "Thanks for the update. Will check on it",
+        "polarity": 0.1,
+        "parent": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn't able to access it. But I love the idea around it! Just have to fix some technical difficulties",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nls8clo",
+        "comment": "Yes. I am a designer by profession and vibe coding tools are a boon, yes i vibe coded this project.",
+        "polarity": 0.0,
+        "parent": "Congrats! Was this vibe coded or are you a coder?",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Technical explainer": {
+    "positive": [
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlgyhjh",
+        "comment": "Hey thanks, appreciate the curiosity! I built Comforto using + Supabase for the backend and auth, moshi for audio agents and llm model training. On the app side, it's a React Native / Expo build (so I could ship to both iOS and Android later), with a light Firebase layer for analytics and push. Costs are actually minimal right now: • Hosting + Supabase → under $20/month • voice agents- upto $3 for 30 minutes of interaction. • Everything else (frontend hosting, analytics, etc.) is free or hobby-tier.",
+        "polarity": 0.3,
+        "parent": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlg6gti",
+        "comment": "That's a good question actually! I wanted to go with real phone calls because the fake call screen trick doesn't always hold up in real situations — people can notice the screen or timing feels off. A real call gives you that authentic ring tone, vibration, and interaction with your carrier's call UI — it just feels real. Plus, since it's an actual voice line, you can pick up, talk, and it sounds completely natural to anyone nearby. So yeah, the goal was to make it feel believable, not staged.",
+        "polarity": 0.4,
+        "parent": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlsg1ui",
+        "comment": "Thank you mate;) glad you tried the app. Thats a good suggestion. Just to let you know. You can even switch languages on the call. Currently the app supports: Spanish Hindi additional automatic switch languages",
+        "polarity": 0.4,
+        "parent": "Hey, i tried your app it's awesome. but don't you think you should add some realistic voice's and also option to choose voice's that will be much better.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlxg49z",
+        "comment": "Hey thanks man, it's already multilingual. The bot can auto switch languages depending on the speaker",
+        "polarity": 0.3,
+        "parent": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nm4zjbt",
+        "comment": "Yes! Absolutely. I have added support to Japanese. What's cool is that you can speak Japanese and the ai automatically detect and switch the language. Below are the languages supported : Hindi Japanese Spanish German French Go ahead speak mom call. And start changing the language in the middle of a call. And it works",
+        "polarity": 0.5,
+        "parent": "Does it have multi language support, I think Japan really needs this",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlgmxft",
+        "comment": "Building apps is such an emotional rollercoaster — excitement, burnout, hope, repeat. What helped me this time was focusing on solving a real emotional moment instead of chasing trends. You got this too",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlypvyt",
+        "comment": "Thanks mate! yeah it costs much. Hoping to recover it soon. What do you think is the free minutes is fair. Hoping you will purchase it haha. but to be honest. this was my own problem and i was looking for an app and I buit it myself to scratch my own itch.",
+        "polarity": 0.2,
+        "parent": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free...",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "6ce71132602e50c5d8616ade1bcbf7c9",
+        "message_id": "nnqupte",
+        "comment": "For me, it's the perfect tool to simulate fake calls—like when I'm in a meeting and need a smooth way to leave, or if I know I'll have to step out after 5 or 10 minutes for something important. It really acts as a kind of call breaker for awkward moments or when I need an excuse to exit gracefully. Thanks for creating something so practical!",
+        "polarity": 0.5,
+        "parent": "What's this? Never heard of it",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlhogxz",
+        "comment": "Yes haha. They rejected the app because of the ui issues on iPad.",
+        "polarity": 0.0,
+        "parent": "The first time you submit the app for review, you have to be rejected twice to successfully put it on the App Store, hahaha",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlgnaft",
+        "comment": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner.",
+        "polarity": 0.05,
+        "parent": "how is it going so far? What you could have done better if you start over?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nll32jk",
+        "comment": "Got few installs for now. But no in app purchase made yet. Hoping to get one",
+        "polarity": 0.05,
+        "parent": "R u earning with this app ?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d050e683372085677e5820c851f44785",
+        "message_id": "nlhlte5",
+        "comment": "The first time you submit the app for review, you have to be rejected twice to successfully put it on the App Store, hahaha",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nllsjvc",
+        "comment": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)",
+        "polarity": -0.05,
+        "parent": "Fully AI generated app? Check. Fully AI-typed post on Reddit? Check. Some bought reddit upvotes too I see. Not bad.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "afb5b8bfab9249f164a22f9bbe1ad8f1",
+        "message_id": "nlnff3a",
+        "comment": "Bosnia and Herzegovina",
+        "polarity": 0.0,
+        "parent": "Hey can you please let me know which country you are trying from. I will enable it in backend ?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "810fca5e29c4d8462cd28cc502dd4637",
+        "message_id": "nlhvsuv",
+        "comment": "Congrats on the launch, Chetan. I launchedSoundSafealmost a year ago, a similar safety companion app for women that rings you an actual phone call to get out of uncomfortable situations. Looking back, it was hard to admit that the app wasn't getting many users. Still, seeing it go live and get approved on the App Store was an unreal feeling. Wish you luck and many users!",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Critic": {
+    "positive": [
+      {
+        "user": "8b9490fff2b6ff2004c1af3e458c3cd8",
+        "message_id": "nlgypzw",
+        "comment": "First of all congrats! I also love how when a man posts their project they're celebrated, when a woman posts their project this sub harasses them. /s obviously",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlltciy",
+        "comment": "The picture is also generated using AI. I usually dont wish to reply to negative people. Buying Reddit votes made me laugh though. I like your creativity even in your negative lens",
+        "polarity": 0.2,
+        "parent": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "0d3db42176003c59d2b0f1d9a440a533",
+        "message_id": "nlihd39",
+        "comment": "You finally cracked the viral post code on Reddit after several posts. I am guessing showing your face in front of a Mac screen is the viral playbook. Congrats on your success!",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "e7620f5ae45e8b4ebb6e370d7739addd",
+        "message_id": "nlhg113",
+        "comment": "I like the idea but the UI is not",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlltx9e",
+        "comment": "I kinda of analyzed your past comments going to your profile. I can't even see one single positive comments from you in any of the posts. Hey redditors please check the man's profile. Reddit would be a lot better please removing such people.",
+        "polarity": -0.05,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "becbb1e19c597efa8b715e2ce2334136",
+        "message_id": "nlltxl2",
+        "comment": "I kinda of analyzed your past comments going to your profile. I can't even see one single positive comments from you in any of the posts. Hey redditors please check the man's profile. Reddit would be a lot better please removing such people.",
+        "polarity": -0.05,
+        "parent": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "561673094a3d61eef93fb0eb4aa27c3c",
+        "message_id": "nllmje1",
+        "comment": "This subreddit is so much more wholesome and less gatekeep-y than the CompTIA or ITcareerquestions subreddits. So much less neckbeardery going on here.",
+        "polarity": 0.05,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "9ead496f0b2bba8077037e45ae3e31ae",
+        "message_id": "nlskx2r",
+        "comment": "sad no Android",
+        "polarity": -0.05,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "71087c2c669498d505b9a682ec408395",
+        "message_id": "nllse21",
+        "comment": "Fully AI generated app? Check. Fully AI-typed post on Reddit? Check. Some bought reddit upvotes too I see. Not bad.",
+        "polarity": -0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "71087c2c669498d505b9a682ec408395",
+        "message_id": "nllsuy8",
+        "comment": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
+        "polarity": -0.5,
+        "parent": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "593d158567e830448f33ec31d4bb884e",
+        "message_id": "nlh41lt",
+        "comment": "Looks AI generated, no one gonna download it. I would just call a friend...lol..what's this bullishit. Lol",
+        "polarity": -0.6,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "518c3fae757d76faa02f2710ab9d51b9",
+        "message_id": "nlh756l",
+        "comment": "Bruh clean up your inbox!! emails?!",
+        "polarity": -0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "518c3fae757d76faa02f2710ab9d51b9",
+        "message_id": "nlhptd4",
+        "comment": "Your gmail inbox is giving Anxiety",
+        "polarity": -0.3,
+        "parent": "??",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "63dfe067adab3259a9edea98637a0089",
+        "message_id": "nprxa3y",
+        "comment": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn't able to access it. But I love the idea around it! Just have to fix some technical difficulties",
+        "polarity": -0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2c2b1c9e0655b5561fffde6b14ef1ab9",
+        "message_id": "nlk4xiz",
+        "comment": "You look like restless go have some sleep",
+        "polarity": -0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "e10ea53227cd5faf1919763dc636cdd6",
+        "message_id": "nm429z3",
+        "comment": "Can count the nights on your eyes, go to sleep now.",
+        "polarity": -0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,458 @@
+{
+    "Question asker": {
+        "keywords": [
+            {
+                "term": "how do i",
+                "weight": 1.0
+            },
+            {
+                "term": "what is the best",
+                "weight": 1.0
+            },
+            {
+                "term": "can someone explain",
+                "weight": 1.0
+            },
+            {
+                "term": "does anyone know",
+                "weight": 1.0
+            },
+            {
+                "term": "why is it",
+                "weight": 1.0
+            },
+            {
+                "term": "how does this work",
+                "weight": 1.0
+            },
+            {
+                "term": "what does this mean",
+                "weight": 1.0
+            },
+            {
+                "term": "any idea why",
+                "weight": 1.0
+            },
+            {
+                "term": "question",
+                "weight": 0.6
+            },
+            {
+                "term": "anyone know",
+                "weight": 0.9
+            },
+            {
+                "term": "how can i",
+                "weight": 1.0
+            },
+            {
+                "term": "is there a way",
+                "weight": 0.9
+            },
+            {
+                "term": "what should i",
+                "weight": 0.9
+            },
+            {
+                "term": "confused about",
+                "weight": 0.8
+            },
+            {
+                "term": "not sure why",
+                "weight": 0.8
+            },
+            {
+                "term": "wondering if",
+                "weight": 0.7
+            },
+            {
+                "term": "asking",
+                "weight": 0.5
+            },
+            {
+                "term": "why does",
+                "weight": 0.8
+            },
+            {
+                "term": "how would",
+                "weight": 0.7
+            },
+            {
+                "term": "hasn't",
+                "weight": 0.7
+            },
+            {
+                "term": "doesn't",
+                "weight": 0.6
+            },
+            {
+                "term": "isn't this",
+                "weight": 0.8
+            },
+            {
+                "term": "already",
+                "weight": 0.5
+            }
+        ]
+    },
+    "Solution Provider": {
+        "keywords": [
+            {
+                "term": "you could try",
+                "weight": 1.0
+            },
+            {
+                "term": "one way to",
+                "weight": 1.0
+            },
+            {
+                "term": "a good approach is",
+                "weight": 1.0
+            },
+            {
+                "term": "you might want to",
+                "weight": 1.0
+            },
+            {
+                "term": "i would suggest",
+                "weight": 1.0
+            },
+            {
+                "term": "you can use",
+                "weight": 1.0
+            },
+            {
+                "term": "implement this",
+                "weight": 0.8
+            },
+            {
+                "term": "another option is",
+                "weight": 1.0
+            },
+            {
+                "term": "alternative approach",
+                "weight": 1.0
+            },
+            {
+                "term": "try using",
+                "weight": 0.9
+            },
+            {
+                "term": "have you tried",
+                "weight": 0.9
+            },
+            {
+                "term": "just use",
+                "weight": 0.8
+            },
+            {
+                "term": "i use",
+                "weight": 0.5
+            },
+            {
+                "term": "works well",
+                "weight": 0.6
+            },
+            {
+                "term": "worked for me",
+                "weight": 0.9
+            },
+            {
+                "term": "fixed it by",
+                "weight": 0.9
+            },
+            {
+                "term": "the fix is",
+                "weight": 0.9
+            },
+            {
+                "term": "solution is",
+                "weight": 0.9
+            },
+            {
+                "term": "here is how",
+                "weight": 0.9
+            },
+            {
+                "term": "here's how",
+                "weight": 0.9
+            },
+            {
+                "term": "what worked",
+                "weight": 0.8
+            },
+            {
+                "term": "recommend",
+                "weight": 0.6
+            },
+            {
+                "term": "suggest",
+                "weight": 0.6
+            }
+        ]
+    },
+    "Technical explainer": {
+        "keywords": [
+            {
+                "term": "this works because",
+                "weight": 1.0
+            },
+            {
+                "term": "the reason is",
+                "weight": 1.0
+            },
+            {
+                "term": "in other words",
+                "weight": 1.0
+            },
+            {
+                "term": "for example",
+                "weight": 0.7
+            },
+            {
+                "term": "for instance",
+                "weight": 0.7
+            },
+            {
+                "term": "this means that",
+                "weight": 1.0
+            },
+            {
+                "term": "the idea behind",
+                "weight": 1.0
+            },
+            {
+                "term": "in practice",
+                "weight": 0.8
+            },
+            {
+                "term": "based on this",
+                "weight": 0.8
+            },
+            {
+                "term": "essentially",
+                "weight": 0.5
+            },
+            {
+                "term": "technically",
+                "weight": 0.6
+            },
+            {
+                "term": "under the hood",
+                "weight": 1.0
+            },
+            {
+                "term": "what happens is",
+                "weight": 0.9
+            },
+            {
+                "term": "what this does",
+                "weight": 0.9
+            },
+            {
+                "term": "the way it works",
+                "weight": 1.0
+            },
+            {
+                "term": "think of it as",
+                "weight": 0.9
+            },
+            {
+                "term": "basically",
+                "weight": 0.4
+            },
+            {
+                "term": "to clarify",
+                "weight": 0.8
+            },
+            {
+                "term": "put simply",
+                "weight": 0.9
+            },
+            {
+                "term": "the difference is",
+                "weight": 0.8
+            },
+            {
+                "term": "the reason",
+                "weight": 0.8
+            },
+            {
+                "term": "which means",
+                "weight": 0.9
+            },
+            {
+                "term": "the difference",
+                "weight": 0.8
+            },
+            {
+                "term": "unlike",
+                "weight": 0.7
+            },
+            {
+                "term": "meaning",
+                "weight": 0.6
+            },
+            {
+                "term": "specifically",
+                "weight": 0.6
+            },
+            {
+                "term": "limited to",
+                "weight": 0.7
+            },
+            {
+                "term": "regardless of",
+                "weight": 0.6
+            },
+            {
+                "term": "depending on",
+                "weight": 0.7
+            },
+            {
+                "term": "works by",
+                "weight": 0.9
+            },
+            {
+                "term": "qr code",
+                "weight": 0.7742
+            }
+        ]
+    },
+    "Critic": {
+        "keywords": [
+            {
+                "term": "this is wrong",
+                "weight": 1.0
+            },
+            {
+                "term": "doesn't work",
+                "weight": 0.9
+            },
+            {
+                "term": "this fails",
+                "weight": 1.0
+            },
+            {
+                "term": "major issue",
+                "weight": 1.0
+            },
+            {
+                "term": "problem with",
+                "weight": 0.7
+            },
+            {
+                "term": "not correct",
+                "weight": 1.0
+            },
+            {
+                "term": "this is unclear",
+                "weight": 0.8
+            },
+            {
+                "term": "needs fixing",
+                "weight": 1.0
+            },
+            {
+                "term": "bug in",
+                "weight": 0.9
+            },
+            {
+                "term": "this is bad",
+                "weight": 1.0
+            },
+            {
+                "term": "terrible",
+                "weight": 0.9
+            },
+            {
+                "term": "broken",
+                "weight": 0.8
+            },
+            {
+                "term": "misleading",
+                "weight": 0.9
+            },
+            {
+                "term": "incorrect",
+                "weight": 0.9
+            },
+            {
+                "term": "downvote",
+                "weight": 0.7
+            },
+            {
+                "term": "disagree",
+                "weight": 0.8
+            },
+            {
+                "term": "that's not right",
+                "weight": 1.0
+            },
+            {
+                "term": "not how it works",
+                "weight": 1.0
+            },
+            {
+                "term": "actually wrong",
+                "weight": 1.0
+            },
+            {
+                "term": "bad advice",
+                "weight": 1.0
+            },
+            {
+                "term": "useless",
+                "weight": 0.8
+            },
+            {
+                "term": "pointless",
+                "weight": 0.7
+            },
+            {
+                "term": "waste of",
+                "weight": 0.7
+            },
+            {
+                "term": "awful",
+                "weight": 0.8
+            },
+            {
+                "term": "outdated",
+                "weight": 0.8
+            },
+            {
+                "term": "however",
+                "weight": 0.6
+            },
+            {
+                "term": "but the same",
+                "weight": 0.8
+            },
+            {
+                "term": "risky",
+                "weight": 0.8
+            },
+            {
+                "term": "concern",
+                "weight": 0.7
+            },
+            {
+                "term": "frustration",
+                "weight": 0.8
+            },
+            {
+                "term": "the problem is",
+                "weight": 0.9
+            },
+            {
+                "term": "worse",
+                "weight": 0.7
+            },
+            {
+                "term": "still",
+                "weight": 0.3
+            }
+        ]
+    }
+}

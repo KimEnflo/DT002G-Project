@@ -1,0 +1,1538 @@
+{
+    "Question asker": {
+        "positive": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlypvyt",
+                "comment": "Thanks mate! yeah it costs much. Hoping to recover it soon. What do you think is the free minutes is fair. Hoping you will purchase it haha. but to be honest. this was my own problem and i was looking for an app and I buit it myself to scratch my own itch.",
+                "polarity": 1.27478,
+                "parent": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn’t able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5351901406049728
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3576692909002304
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3412679749727249
+                    ],
+                    [
+                        "Critic",
+                        0.33628296911716465
+                    ]
+                ]
+            },
+            {
+                "user": "2ea3b87ef837c30d5e44d4e5a11c9c27",
+                "message_id": "nlnrf3z",
+                "comment": "Can you add Singapore to the list please",
+                "polarity": 0.54116,
+                "parent": "I have added Poland to the list. Please check now",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49840500295162204
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3247018724679947
+                    ],
+                    [
+                        "Solution Provider",
+                        0.317258734703064
+                    ],
+                    [
+                        "Critic",
+                        0.28954732000827793
+                    ]
+                ]
+            },
+            {
+                "user": "1b83d5da74032b6a750ef12210642eea",
+                "message_id": "nll33vi",
+                "comment": "Wait I thought you said in another comment that it was free?",
+                "polarity": 0.6280000000000001,
+                "parent": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5359768116474152
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3527002185583114
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3325897264480591
+                    ],
+                    [
+                        "Critic",
+                        0.3324749964475632
+                    ]
+                ]
+            },
+            {
+                "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
+                "message_id": "nlgqcy0",
+                "comment": "Hey congratulations How are you going to market it to real users?",
+                "polarity": 0.8391600000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4808221167325974
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3241643786430359
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3064237356185913
+                    ],
+                    [
+                        "Critic",
+                        0.30287803113460543
+                    ]
+                ]
+            },
+            {
+                "user": "b90238820761764d1d3fb7c0e94a3d0f",
+                "message_id": "nlgxtzw",
+                "comment": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out.",
+                "polarity": 0.8026200000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47535557806491857
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3267303168773651
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32258878350257875
+                    ],
+                    [
+                        "Critic",
+                        0.3105914294719696
+                    ]
+                ]
+            },
+            {
+                "user": "fbf8c613adf7fe65c47ac73063936cb2",
+                "message_id": "nlhp7zl",
+                "comment": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats",
+                "polarity": 1.24712,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45245174527168275
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2970977336168289
+                    ],
+                    [
+                        "Critic",
+                        0.2821701347827911
+                    ],
+                    [
+                        "Technical explainer",
+                        0.27636038064956664
+                    ]
+                ]
+            },
+            {
+                "user": "661811af803daf924e3fb21ed6c985d7",
+                "message_id": "nljiyk6",
+                "comment": "The art looks great, where did you get it done?",
+                "polarity": 0.87486,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4862129276990891
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32477220296859743
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3156834185123444
+                    ],
+                    [
+                        "Critic",
+                        0.30953080356121065
+                    ]
+                ]
+            },
+            {
+                "user": "de69d227258dbbc005d15cc54b7844c6",
+                "message_id": "nlofqp6",
+                "comment": "Congrats! Was this vibe coded or are you a coder?",
+                "polarity": 0.79898,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45904967248439793
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3023352950811386
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2911220878362656
+                    ],
+                    [
+                        "Critic",
+                        0.2888488590717316
+                    ]
+                ]
+            },
+            {
+                "user": "163b7c949a95529c2aa6ea96e82021f4",
+                "message_id": "nlp957k",
+                "comment": "I’m building an app that helps traders analyzed their trades and based on those to give a strategy. Is that something that will interests anyone?",
+                "polarity": 0.78036,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4785726493597031
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3314357399940491
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33035882115364074
+                    ],
+                    [
+                        "Critic",
+                        0.31545667350292206
+                    ]
+                ]
+            },
+            {
+                "user": "cc011574a81815722ce3dfb10134a8c2",
+                "message_id": "nm4z02o",
+                "comment": "Does it have multi language support, I think Japan really needs this",
+                "polarity": 0.5626599999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48380215823650363
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3191345989704132
+                    ],
+                    [
+                        "Critic",
+                        0.31063818037509916
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30884247422218325
+                    ]
+                ]
+            },
+            {
+                "user": "620ed1dc7819c546f95da3bcc1cea3fa",
+                "message_id": "nlixni6",
+                "comment": "Throw wisdom on us! What would you do to cut it down next time",
+                "polarity": 0.53228,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47839893460273747
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3225405514240265
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3102186322212219
+                    ],
+                    [
+                        "Critic",
+                        0.30262041091918945
+                    ]
+                ]
+            },
+            {
+                "user": "09aabd6788f6318f62bf6cf9ac507ef8",
+                "message_id": "nllfdsa",
+                "comment": "Hey! Congratulations. Could you please share the tech-stack ?",
+                "polarity": 1.1575199999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.44823865652084355
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2893799334764481
+                    ],
+                    [
+                        "Critic",
+                        0.2690563291311264
+                    ],
+                    [
+                        "Technical explainer",
+                        0.26716474294662473
+                    ]
+                ]
+            },
+            {
+                "user": "b3916fb6c80dd29c3368f3bc1b9eb371",
+                "message_id": "nlmgdp6",
+                "comment": "congrats i never knew how much actually goes into making an app until i started mine. LITRALLY EVERY CLICK OR TAP. any plans on doing another?",
+                "polarity": 0.7373799999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48345399856567384
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32470321357250215
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31219483315944674
+                    ],
+                    [
+                        "Critic",
+                        0.310036364197731
+                    ]
+                ]
+            },
+            {
+                "user": "71087c2c669498d505b9a682ec408395",
+                "message_id": "nllsuy8",
+                "comment": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
+                "polarity": 1.1869800000000001,
+                "parent": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5208301901817322
+                    ],
+                    [
+                        "Technical explainer",
+                        0.358355513215065
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3496626019477844
+                    ],
+                    [
+                        "Critic",
+                        0.3251734685897827
+                    ]
+                ]
+            },
+            {
+                "user": "518c3fae757d76faa02f2710ab9d51b9",
+                "message_id": "nlh756l",
+                "comment": "Bruh clean up your inbox!! emails?!",
+                "polarity": 0.77532,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.3877048110961914
+                    ],
+                    [
+                        "Solution Provider",
+                        0.23114472627639768
+                    ],
+                    [
+                        "Critic",
+                        0.2200025528669357
+                    ],
+                    [
+                        "Technical explainer",
+                        0.207486891746521
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhpdbj",
+                "comment": "What’s this? Never heard of it",
+                "polarity": 0.0,
+                "parent": "same [ ?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4934224891662598
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3927438360452652
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3645028632879257
+                    ],
+                    [
+                        "Critic",
+                        0.32070261359214786
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhpene",
+                "comment": "??",
+                "polarity": 0.0,
+                "parent": "Bruh clean up your inbox!! emails?!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.3899141997098923
+                    ],
+                    [
+                        "Solution Provider",
+                        0.28421369433403015
+                    ],
+                    [
+                        "Technical explainer",
+                        0.24127730429172517
+                    ],
+                    [
+                        "Critic",
+                        0.21459395170211795
+                    ]
+                ]
+            },
+            {
+                "user": "f9a63ae8d08408a4fb1a237f77e2ca10",
+                "message_id": "nlgqu41",
+                "comment": "Can I PM you? I am looking for a co-founder.",
+                "polarity": 0.0,
+                "parent": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49633388936519623
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31779761612415314
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3171469229316961
+                    ],
+                    [
+                        "Critic",
+                        0.2802898645401001
+                    ]
+                ]
+            },
+            {
+                "user": "e0b6845d3981a7bb22dda5c86128fc19",
+                "message_id": "nliqncr",
+                "comment": "R u earning with this app ?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4313806062936783
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2701621621847153
+                    ],
+                    [
+                        "Technical explainer",
+                        0.25764773190021517
+                    ],
+                    [
+                        "Critic",
+                        0.2556940406560898
+                    ]
+                ]
+            },
+            {
+                "user": "2f6951247df7bed3c0adc7bcf13d0baa",
+                "message_id": "no0u2dt",
+                "comment": "How’s it going? Any update.",
+                "polarity": 0.0,
+                "parent": "Thanks mate 🙏 glad",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4782751500606537
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31829155564308165
+                    ],
+                    [
+                        "Critic",
+                        0.31040580689907077
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3064404332637787
+                    ]
+                ]
+            },
+            {
+                "user": "b0e2a10ba08ed6d9cf8844055bd8ed38",
+                "message_id": "nlhehyv",
+                "comment": "What did you use for voice api ?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4736292576789856
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3150626182556152
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2966778725385666
+                    ],
+                    [
+                        "Critic",
+                        0.2927535712718964
+                    ]
+                ]
+            },
+            {
+                "user": "48d5eca6e0f046599e84c9d564e4b347",
+                "message_id": "nli5rxf",
+                "comment": "May I know what did you use to build the app on and what is the cost?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49231770694255833
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3381150275468826
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32882058918476104
+                    ],
+                    [
+                        "Critic",
+                        0.315749529004097
+                    ]
+                ]
+            },
+            {
+                "user": "afb5b8bfab9249f164a22f9bbe1ad8f1",
+                "message_id": "nlia143",
+                "comment": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+                "polarity": -0.0258,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45742757678031926
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31791947185993197
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3138935327529907
+                    ],
+                    [
+                        "Critic",
+                        0.3002051770687103
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "d5dffc3c6a42fef481aaf862d157492c",
+                "message_id": "nlhjtf4",
+                "comment": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+                "polarity": -0.8316,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47345041096210483
+                    ],
+                    [
+                        "Critic",
+                        0.3172518163919449
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3164540886878967
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31420124173164365
+                    ]
+                ]
+            }
+        ]
+    },
+    "Solution Provider": {
+        "positive": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlg1p2f",
+                "comment": "Sure! Thanks mate. Here is thelinkto the app if you would like to try. It’s free",
+                "polarity": 1.26872,
+                "parent": "Great idea, hope that you can help many people",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4981211698055268
+                    ],
+                    [
+                        "Question asker",
+                        0.3686807000637054
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3503177917003631
+                    ],
+                    [
+                        "Critic",
+                        0.3243549507856369
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhra61",
+                "comment": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
+                "polarity": 0.7263,
+                "parent": "Congrats! Trying to install it from Romania, but I get this error: “Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)”",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49165173768997195
+                    ],
+                    [
+                        "Question asker",
+                        0.3576301884651184
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3410340595245361
+                    ],
+                    [
+                        "Critic",
+                        0.314908339381218
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlobu7y",
+                "comment": "Done! Singapore activated. Please try the app now",
+                "polarity": 0.6195200000000001,
+                "parent": "Can you add Singapore to the list please",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.54441113114357
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3330867654085159
+                    ],
+                    [
+                        "Question asker",
+                        0.29765831112861635
+                    ],
+                    [
+                        "Critic",
+                        0.28704888939857487
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nll3wzj",
+                "comment": "Done fixed it. Please check now",
+                "polarity": 0.23487999999999998,
+                "parent": "Also getting this error in the US",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4907165908813477
+                    ],
+                    [
+                        "Question asker",
+                        0.3370935904979706
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33288716495037074
+                    ],
+                    [
+                        "Critic",
+                        0.3050929981470108
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlgnpug",
+                "comment": "For sure! Your first 3 minutes are free. Also please share how was your call experience. Don’t forget to try mom call haha.",
+                "polarity": 1.26802,
+                "parent": "This is super cool. I just downloaded it and gonna test it out",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49167815685272215
+                    ],
+                    [
+                        "Question asker",
+                        0.3621045398712158
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3410489672422409
+                    ],
+                    [
+                        "Critic",
+                        0.3158432698249817
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlgqx9d",
+                "comment": "Sure! You can PM me",
+                "polarity": 0.53228,
+                "parent": "Can I PM you? I am looking for a co-founder.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5366578078269959
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31637185931205747
+                    ],
+                    [
+                        "Question asker",
+                        0.3072827762365341
+                    ],
+                    [
+                        "Critic",
+                        0.2750114643573761
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlho7j2",
+                "comment": "Thanks mate ;) please go ahead try the app",
+                "polarity": 1.0595400000000001,
+                "parent": "interesting idea",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4551939100027085
+                    ],
+                    [
+                        "Question asker",
+                        0.28294728457927704
+                    ],
+                    [
+                        "Critic",
+                        0.2675390756130218
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2671965777873993
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhqcos",
+                "comment": "lol 😂! Sorry will try to clear that. Please please check the app. Please share your call experience. Thanks mate;)",
+                "polarity": 1.34644,
+                "parent": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5466709625720978
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3318547737598419
+                    ],
+                    [
+                        "Question asker",
+                        0.30805295407772065
+                    ],
+                    [
+                        "Critic",
+                        0.2927824693918228
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nll2y48",
+                "comment": "Thanks mate 🙏 glad",
+                "polarity": 1.07496,
+                "parent": "Congratulations! That feeling is epic. You’ll do well",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.3152845698595047
+                    ],
+                    [
+                        "Technical explainer",
+                        0.25834888577461246
+                    ],
+                    [
+                        "Question asker",
+                        0.24858008503913878
+                    ],
+                    [
+                        "Critic",
+                        0.23133266508579256
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nll2qr1",
+                "comment": "Thanks mate:) appreciate that. Please do try the app",
+                "polarity": 1.16754,
+                "parent": "Buddy, well done! Congratulations on the launch! This is an awesome idea!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4682180815935135
+                    ],
+                    [
+                        "Question asker",
+                        0.30159745275974276
+                    ],
+                    [
+                        "Technical explainer",
+                        0.283054763674736
+                    ],
+                    [
+                        "Critic",
+                        0.2823221117258072
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nls8h5h",
+                "comment": "Thanks. All the best. please share it here. I will try it",
+                "polarity": 1.27068,
+                "parent": "Congrats! Im almost finishing my app as well!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47677744388580323
+                    ],
+                    [
+                        "Question asker",
+                        0.3063720238208771
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30000379145145417
+                    ],
+                    [
+                        "Critic",
+                        0.29344341933727264
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nls89yt",
+                "comment": "Thank you:) Please try the app. hope you like it.",
+                "polarity": 1.23118,
+                "parent": "Congrats, neat idea! :)",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47223891794681555
+                    ],
+                    [
+                        "Question asker",
+                        0.3042395567893982
+                    ],
+                    [
+                        "Technical explainer",
+                        0.28583046555519104
+                    ],
+                    [
+                        "Critic",
+                        0.28325864851474764
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nls85g7",
+                "comment": "Is it? Thank you so much. Feel free to try the app",
+                "polarity": 1.0709,
+                "parent": "It’s crazy how good of an idea this is. Good stuff man!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5689856547117234
+                    ],
+                    [
+                        "Question asker",
+                        0.49099384129047396
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3631470495462418
+                    ],
+                    [
+                        "Critic",
+                        0.3178547638654709
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlsg1ui",
+                "comment": "Thank you mate;) glad you tried the app. Thats a good suggestion. Just to let you know. You can even switch languages on the call. Currently the app supports: Spanish Hindi additional automatic switch languages",
+                "polarity": 1.23072,
+                "parent": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5015334705641522
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37151430303137956
+                    ],
+                    [
+                        "Question asker",
+                        0.36668579459190365
+                    ],
+                    [
+                        "Critic",
+                        0.325253598690033
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nm4zjbt",
+                "comment": "Yes! Absolutely. I have added support to Japanese. What’s cool is that you can speak Japanese and the ai automatically detect and switch the language. Below are the languages supported : Hindi Japanese Spanish German French Go ahead speak mom call. And start changing the language in the middle of a call. And it works",
+                "polarity": 1.21156,
+                "parent": "Does it have multi language support, I think Japan really needs this",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5603837096691132
+                    ],
+                    [
+                        "Question asker",
+                        0.4810468637943268
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37025395452976223
+                    ],
+                    [
+                        "Critic",
+                        0.315555437207222
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlg6gti",
+                "comment": "That’s a good question actually! I wanted to go with real phone calls because the fake call screen trick doesn’t always hold up in real situations — people can notice the screen or timing feels off. A real call gives you that authentic ring tone, vibration, and interaction with your carrier’s call UI — it just feels real. Plus, since it’s an actual voice line, you can pick up, talk, and it sounds completely natural to anyone nearby. So yeah, the goal was to make it feel believable, not staged.",
+                "polarity": 0.81616,
+                "parent": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49894855022430423
+                    ],
+                    [
+                        "Question asker",
+                        0.3851591336727142
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36529998540878295
+                    ],
+                    [
+                        "Critic",
+                        0.33825770139694217
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlgbzbk",
+                "comment": "If anyone wants to try the app. Here is thedownloadlink. It’s free also share your thought here on how was your phone call experience!",
+                "polarity": 0.9794400000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4900098478794098
+                    ],
+                    [
+                        "Question asker",
+                        0.32098913490772246
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31714006066322326
+                    ],
+                    [
+                        "Critic",
+                        0.30829078853130343
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nnrife8",
+                "comment": "It is so true! Thats why I needed this app as well! Please give it a try and also spread the word",
+                "polarity": 1.20402,
+                "parent": "For me, it’s the perfect tool to simulate fake calls—like when I’m in a meeting and need a smooth way to leave, or if I know I’ll have to step out after 5 or 10 minutes for something important. It really acts as a kind of “call breaker” for awkward moments or when I need an excuse to exit gracefully. Thanks for creating something so practical!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5037066906690597
+                    ],
+                    [
+                        "Question asker",
+                        0.3769053041934967
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36618292450904844
+                    ],
+                    [
+                        "Critic",
+                        0.3365495431423187
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlmb434",
+                "comment": "Hey can you please let me know which country you are trying from. I will enable it in backend ?",
+                "polarity": 0.4366,
+                "parent": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5703286343812942
+                    ],
+                    [
+                        "Question asker",
+                        0.49385892689228056
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3621283638477325
+                    ],
+                    [
+                        "Critic",
+                        0.31669327199459074
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nll2pam",
+                "comment": "Hey thanks mate;) sure please feel free to try the app and let me know how was your call experience",
+                "polarity": 1.2527,
+                "parent": "Love the idea. I've definitely wanted something like this to exist in multiple situations.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4948169678449631
+                    ],
+                    [
+                        "Question asker",
+                        0.37044198453426364
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34072902500629426
+                    ],
+                    [
+                        "Critic",
+                        0.31911086797714233
+                    ]
+                ]
+            },
+            {
+                "user": "148078fe359e9c5b9676820759c4ced8",
+                "message_id": "nlg1l6x",
+                "comment": "Great idea, hope that you can help many people",
+                "polarity": 1.21212,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4834083324670792
+                    ],
+                    [
+                        "Question asker",
+                        0.31954605281353
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30784785449504853
+                    ],
+                    [
+                        "Critic",
+                        0.3010344058275223
+                    ]
+                ]
+            },
+            {
+                "user": "3e4ce20ec588600054f050310750c4ca",
+                "message_id": "nlg206f",
+                "comment": "You might want some 'ANTIZEN VACCINE' my friend. You need it for your well being.",
+                "polarity": 0.95312,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4867705172300339
+                    ],
+                    [
+                        "Question asker",
+                        0.31680097579956057
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3107361674308777
+                    ],
+                    [
+                        "Critic",
+                        0.3071291923522949
+                    ]
+                ]
+            },
+            {
+                "user": "c4c013ba305a1b1501b4573bf6a8221f",
+                "message_id": "nlh2bia",
+                "comment": "Congratulations buddy. I’ll be sure to give this a try.",
+                "polarity": 1.02914,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47807595491409305
+                    ],
+                    [
+                        "Question asker",
+                        0.3092986553907394
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2895789533853531
+                    ],
+                    [
+                        "Critic",
+                        0.2880453109741211
+                    ]
+                ]
+            },
+            {
+                "user": "ea0bddb06261e66f7b507ef095e6bedf",
+                "message_id": "nli425f",
+                "comment": "Looks really interesting!! Will try to use once I can afford an iPhone",
+                "polarity": 0.7756000000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4881554788351059
+                    ],
+                    [
+                        "Question asker",
+                        0.3195898413658142
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3011226922273636
+                    ],
+                    [
+                        "Critic",
+                        0.2984693020582199
+                    ]
+                ]
+            },
+            {
+                "user": "64b3661b00b2bd3e5eeecf67faa0043d",
+                "message_id": "nllayu4",
+                "comment": "Congrats! Really cool idea and I will definitely try it out. Seeing a project through is a big win in itself.",
+                "polarity": 1.2810000000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48335492670536045
+                    ],
+                    [
+                        "Question asker",
+                        0.31672038733959196
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3141312301158905
+                    ],
+                    [
+                        "Critic",
+                        0.3064007043838501
+                    ]
+                ]
+            },
+            {
+                "user": "1fbc3fbefac5b95e854e02e021e5b50f",
+                "message_id": "nlm26qc",
+                "comment": "Hi Chetan ... kandarp here from SAP.. glad/surprised and kind of proud to find u here . Great .. some one with multiple talent wow... will try this one ..",
+                "polarity": 1.29654,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47800275146961213
+                    ],
+                    [
+                        "Question asker",
+                        0.3134834557771683
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3028456121683121
+                    ],
+                    [
+                        "Critic",
+                        0.29693482518196107
+                    ]
+                ]
+            },
+            {
+                "user": "f94fb9ab22c3a20fe10c0909301af43d",
+                "message_id": "nln0fhy",
+                "comment": "Congrats.... I know the feeling well of finally getting accepted into the appstore. I built an App Elfmonn.... it took over 2 years to build and I'm only really beginning to market it now..... But when Google and Apple finally approved..... there was a great sense of accomplishment. Well done!! I'll try out your app today.",
+                "polarity": 1.33364,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48393688261508944
+                    ],
+                    [
+                        "Critic",
+                        0.3251462008791103
+                    ],
+                    [
+                        "Question asker",
+                        0.31836995780467986
+                    ],
+                    [
+                        "Technical explainer",
+                        0.314743185043335
+                    ]
+                ]
+            },
+            {
+                "user": "a477a685bc7bf8c981606e94a5589fa7",
+                "message_id": "nlsfkzb",
+                "comment": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better.",
+                "polarity": 1.05084,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4943530923128128
+                    ],
+                    [
+                        "Question asker",
+                        0.3287414610385895
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3159941524267197
+                    ],
+                    [
+                        "Critic",
+                        0.31268894076347353
+                    ]
+                ]
+            },
+            {
+                "user": "0712f469babe16e531a91636df6bbeb1",
+                "message_id": "nlw5dbu",
+                "comment": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+                "polarity": 0.7698600000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4967486119270325
+                    ],
+                    [
+                        "Question asker",
+                        0.328899884223938
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32876655757427214
+                    ],
+                    [
+                        "Critic",
+                        0.31888188123703004
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlmb505",
+                "comment": "You can now. I have enabled it",
+                "polarity": 0.0,
+                "parent": "Such a good idea. Just a little bummed that I can’t use it here in the Philippines. But huge congrats on going live in the App Store!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49408067345619205
+                    ],
+                    [
+                        "Question asker",
+                        0.366006218791008
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34370393872261046
+                    ],
+                    [
+                        "Critic",
+                        0.32050541758537293
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "9463641cfa43384a9565250293462665",
+                "message_id": "nlg4qdz",
+                "comment": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+                "polarity": -0.6673800000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4734390205144883
+                    ],
+                    [
+                        "Question asker",
+                        0.3053186535835266
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30200799703598025
+                    ],
+                    [
+                        "Critic",
+                        0.29826613068580626
+                    ]
+                ]
+            }
+        ]
+    },
+    "Technical explainer": {
+        "positive": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlgqkj3",
+                "comment": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+                "polarity": 0.8562400000000001,
+                "parent": "Hey congratulations How are you going to market it to real users?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.5385068453393062
+                    ],
+                    [
+                        "Solution Provider",
+                        0.4029040277004242
+                    ],
+                    [
+                        "Question asker",
+                        0.33001163840293884
+                    ],
+                    [
+                        "Critic",
+                        0.32217216908931734
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlxg49z",
+                "comment": "Hey thanks man, it’s already multilingual. The bot can auto switch languages depending on the speaker",
+                "polarity": 0.7086,
+                "parent": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.5428290462960627
+                    ],
+                    [
+                        "Question asker",
+                        0.363208504319191
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32442581713199614
+                    ],
+                    [
+                        "Critic",
+                        0.32122550249099735
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": []
+    },
+    "Critic": {
+        "positive": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhow10",
+                "comment": "No it was the issue with ui. Actually the app is designed to be used only on phones. But the app was allowed to install on iPad. Also point to note that they do install on iPad and check thoroughly. So if someone planning to release iPhone only app then make sure you disable iPad to false in the plist. The other reason is the payment wasn’t integrated properly with revenue cat. After fixing both issues finally they approved the release.",
+                "polarity": 0.7227,
+                "parent": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5079119575023652
+                    ],
+                    [
+                        "Solution Provider",
+                        0.4090418893098831
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37689984261989595
+                    ],
+                    [
+                        "Question asker",
+                        0.32394085109233856
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": []
+    }
+}

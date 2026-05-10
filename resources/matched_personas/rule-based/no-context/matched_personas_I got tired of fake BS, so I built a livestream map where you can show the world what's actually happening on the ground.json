@@ -1,0 +1,1904 @@
+{
+    "Question asker": {
+        "positive": [
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnztop0",
+                "comment": "what can i say, i love pepe",
+                "polarity": 0.6369,
+                "parent": "Cant take you seriously with that pfp 😆",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46162174403667455
+                    ],
+                    [
+                        "Solution Provider",
+                        0.28357312083244324
+                    ],
+                    [
+                        "Critic",
+                        0.2669897139072418
+                    ],
+                    [
+                        "Technical explainer",
+                        0.25514611005783083
+                    ]
+                ]
+            },
+            {
+                "user": "1d5ecb1edf279ae7d08fc70d60d05c21",
+                "message_id": "no2m7oo",
+                "comment": "In another comment you're telling someone that you're using AI to code. Honestly what is your security background? If you reliably want to create a platform for activists and your answer is vibe coding and not at least a master in that field with a lot of experience and a team of seasoned pentesters.. well then your app is nothing but a good looking Honeypot",
+                "polarity": 0.2122,
+                "parent": "Hey, honestly, we were worried about this too. That's why we allow people to create private communities on the map. You can choose to stream to only a dedicated audience if you want, ensuring that your data doesn't fall into the wrong hands",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48350081205368045
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3359773367643356
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33000809550285337
+                    ],
+                    [
+                        "Critic",
+                        0.3211044788360596
+                    ]
+                ]
+            },
+            {
+                "user": "985ed67139677a21ef3c156732375007",
+                "message_id": "no0bhrx",
+                "comment": "It's a great idea. I imagine plenty of data storage is needed. Can I ask what service does your app use and how much do they charge?",
+                "polarity": 0.6249,
+                "parent": "good point! there are a lot of avenues to monetizing and paying the cost of the servers -- we're just still trying to figure out what works, we released the app a few days ago",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49009535968303686
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33555837273597716
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32387490272521974
+                    ],
+                    [
+                        "Critic",
+                        0.3208171308040619
+                    ]
+                ]
+            },
+            {
+                "user": "cfcccc31bf7188540bff9ee049dcdf6f",
+                "message_id": "nnzj8gj",
+                "comment": "Is location data particularly valuable to advertisers? Like if we have someone’s live location that’s prime advertising real estate no? “Let’s show them the McDonald’s ad now since they’re about to walk by one in 2 blocks” that was your mouth is already watering by the time you smell the fries",
+                "polarity": 0.7394,
+                "parent": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48810651481151585
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3277297765016556
+                    ],
+                    [
+                        "Solution Provider",
+                        0.326323139667511
+                    ],
+                    [
+                        "Critic",
+                        0.3198161065578461
+                    ]
+                ]
+            },
+            {
+                "user": "16164a55a66624d542c1be5667d12c5f",
+                "message_id": "no0c482",
+                "comment": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!",
+                "polarity": 0.8122,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48199787795543675
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32880531847476957
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3220976799726486
+                    ],
+                    [
+                        "Critic",
+                        0.32105082273483276
+                    ]
+                ]
+            },
+            {
+                "user": "d116d824c90a12b48239da431fe0af0f",
+                "message_id": "nnzp9ab",
+                "comment": "I love the idea of opening up a map and seeing what is going on around me, especially with live-streaming capabilities. Crowdsourcing location data is kinda genius, good luck!",
+                "polarity": 0.8705,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4733843004703522
+                    ],
+                    [
+                        "Solution Provider",
+                        0.320178160071373
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31929811239242556
+                    ],
+                    [
+                        "Critic",
+                        0.31171426475048064
+                    ]
+                ]
+            },
+            {
+                "user": "b0d4da554831f5845adc4071e3d9be06",
+                "message_id": "no2h00d",
+                "comment": "Cool idea! Do you deal with GPS spoofing somehow?",
+                "polarity": 0.3802,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4700917309522629
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3059295654296875
+                    ],
+                    [
+                        "Critic",
+                        0.30006166994571687
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2858848810195923
+                    ]
+                ]
+            },
+            {
+                "user": "75e5bae678484694d1e0e822d01a6c16",
+                "message_id": "nnzcszu",
+                "comment": "Do you support multi story buildings?",
+                "polarity": 0.4019,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4547468787431717
+                    ],
+                    [
+                        "Solution Provider",
+                        0.29836430549621584
+                    ],
+                    [
+                        "Technical explainer",
+                        0.28550111055374144
+                    ],
+                    [
+                        "Critic",
+                        0.2838467419147491
+                    ]
+                ]
+            },
+            {
+                "user": "6769e0e700c61410300427a482623ac8",
+                "message_id": "nnzdt24",
+                "comment": "Pretty neat idea … can there be project files, like related to particular event, individual topic, anything ? Is there a possibility to work with you ? I myself have been wondering to build a truth , fact establisher platform for quite some time.",
+                "polarity": 0.885,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48659515440464024
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3344569832086563
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32765842974185944
+                    ],
+                    [
+                        "Critic",
+                        0.32149792909622193
+                    ]
+                ]
+            },
+            {
+                "user": "84e7ce7733991a3d363e0cb16babfb59",
+                "message_id": "nnzjd2e",
+                "comment": "Really crackin' idea. Would love to run an interview on this for We Are Founders if you're up for it?",
+                "polarity": 0.6369,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4864960199594498
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33030814826488497
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3193968921899796
+                    ],
+                    [
+                        "Critic",
+                        0.3143800050020218
+                    ]
+                ]
+            },
+            {
+                "user": "ba7fc15d289f13fd11e43e3c5f5ec42d",
+                "message_id": "nnzpnux",
+                "comment": "how big is your team for such nice Features ?",
+                "polarity": 0.4215,
+                "parent": "you can save 30 seconds videos in the app, but we don't currently save livestreams. we'd love to do this in the near future though",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46431460440158845
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3136566698551178
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31071839332580564
+                    ],
+                    [
+                        "Critic",
+                        0.3028637200593948
+                    ]
+                ]
+            },
+            {
+                "user": "43398e9d04ad8fd461f7e2dc11585eae",
+                "message_id": "nnzt2sg",
+                "comment": "Man this is so awesome! It could literally change the world with its potential for showing what events unfolded and where with pin point accuracy. Could you also share what went into making this project, the tech, challenges, early intuition, and most of all was it solo project or a team collaboration?",
+                "polarity": 0.8415,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.475391418337822
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3307719439268112
+                    ],
+                    [
+                        "Solution Provider",
+                        0.324210524559021
+                    ],
+                    [
+                        "Critic",
+                        0.3178308933973312
+                    ]
+                ]
+            },
+            {
+                "user": "509aa23bdaa9ca1b7c4f690f04961efd",
+                "message_id": "no0nw3i",
+                "comment": "Cool app! My question would be, how are you going to compete with current live streaming services like Twitch and Kick? What stops people from going to those already established platforms that have more of a community?",
+                "polarity": 0.593,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5014825656414033
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32914968132972716
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3235999047756195
+                    ],
+                    [
+                        "Critic",
+                        0.3145869106054306
+                    ]
+                ]
+            },
+            {
+                "user": "efd50a47ea5c21fee1b81d047e8381a6",
+                "message_id": "no0tgb0",
+                "comment": "This is exactly what Snap Maps was made for but truly has lost their way…love this man, what’s the vision for this, will it be a non profit?",
+                "polarity": 0.8047,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4851994073390961
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3315996706485748
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3277741283178329
+                    ],
+                    [
+                        "Critic",
+                        0.3227689862251282
+                    ]
+                ]
+            },
+            {
+                "user": "a4eb72daf4cb4463ded9fa5b911c61f2",
+                "message_id": "no2hysm",
+                "comment": "Love it! What map ate you using? looks better than google maps :)",
+                "polarity": 0.8858,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46474034845829015
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3045006901025772
+                    ],
+                    [
+                        "Critic",
+                        0.2912923604249954
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2862750142812729
+                    ]
+                ]
+            },
+            {
+                "user": "672f6740236c9cb3e8a20c1088fd859d",
+                "message_id": "no2zg7q",
+                "comment": "Love this! Very relevant nowadays. I'm sure people still would find a way to fake it somehow (i.e. pointing the camera at a display or something?). But very good idea. Love it!",
+                "polarity": 0.9357,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4854717975854874
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3280946671962738
+                    ],
+                    [
+                        "Critic",
+                        0.32226981100436325
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3212237447500229
+                    ]
+                ]
+            },
+            {
+                "user": "b9d8b7f8d6d1fdbc014855bd09c1efb0",
+                "message_id": "no6he7h",
+                "comment": "Amazing! What is the tech stack used? I already installed it",
+                "polarity": 0.6239,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4828502404689789
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3165349692106247
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3079976409673691
+                    ],
+                    [
+                        "Critic",
+                        0.3068762242794037
+                    ]
+                ]
+            },
+            {
+                "user": "c38852befdc5601328ce05d579b5c2e3",
+                "message_id": "noafzhc",
+                "comment": "Doesn't seem to work. Only showing the same few people from months ago in New York. Is this only opt-in for certain streamers?",
+                "polarity": 0.2732,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4750067508220673
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3272619754076004
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3237971723079681
+                    ],
+                    [
+                        "Critic",
+                        0.3133779585361481
+                    ]
+                ]
+            },
+            {
+                "user": "8a401569a8e30c789716e7b1ced0b70a",
+                "message_id": "non27sf",
+                "comment": "Would it be possible to allow people to send request to go live to users at a specific location? May be a request with small charge out of which you share the revenue with the user who is providing the feed?",
+                "polarity": 0.5362,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4651437497138977
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32643858790397645
+                    ],
+                    [
+                        "Technical explainer",
+                        0.324134087562561
+                    ],
+                    [
+                        "Critic",
+                        0.3044463872909546
+                    ]
+                ]
+            },
+            {
+                "user": "8936ebe3cf3ac8889af8df974b2db579",
+                "message_id": "nnze8ug",
+                "comment": "Looks good. Do you know about the Citizen app? How is this different?",
+                "polarity": 0.504,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4943990504741669
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3267984509468079
+                    ],
+                    [
+                        "Critic",
+                        0.32010593712329866
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31881028413772583
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "e9a98ec3b0723445d2da8e3381e83c54",
+                "message_id": "no90dw8",
+                "comment": "that is always an interesting problem. what did you do in the end with the application?",
+                "polarity": 0.0,
+                "parent": "We honestly never got that far — Periscope came out around the same time and sucked all the wind out of the sails. We pivoted to a communication platform for local newsrooms, enabling producers and editors (i.e., people in the building) to geospatially understand where their crews were and communicate with them more effectively. Local news is a pretty shitty market, though 😅 not awash in cash",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4904620027542115
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3360047280788422
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3340197652578354
+                    ],
+                    [
+                        "Critic",
+                        0.324945729970932
+                    ]
+                ]
+            },
+            {
+                "user": "47174ed2a3a36bf896626e863a9f6ad0",
+                "message_id": "no07zzk",
+                "comment": "Is there a way to change the orientation of the map? It seems locked in isometric.",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48154227733612065
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3286824017763138
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31629401743412017
+                    ],
+                    [
+                        "Critic",
+                        0.30872681736946106
+                    ]
+                ]
+            },
+            {
+                "user": "503bdee654654f13bf99246aa8895c5c",
+                "message_id": "no05s7b",
+                "comment": "What map setup are you using for this?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4685120260715485
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3234639078378677
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31131806075572965
+                    ],
+                    [
+                        "Critic",
+                        0.29881785809993744
+                    ]
+                ]
+            },
+            {
+                "user": "c75698ce5d6ea31cfbdbf1d065c26632",
+                "message_id": "nnzk0p0",
+                "comment": "Is this 3D map from Apple Maps?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.40089102745056154
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2539442300796509
+                    ],
+                    [
+                        "Solution Provider",
+                        0.24892502725124357
+                    ],
+                    [
+                        "Critic",
+                        0.2471747577190399
+                    ]
+                ]
+            },
+            {
+                "user": "ba7fc15d289f13fd11e43e3c5f5ec42d",
+                "message_id": "nnzs0ot",
+                "comment": "how long did it take to code all this ?",
+                "polarity": 0.0,
+                "parent": "we're just 2 people lol and my mom. of course.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4890695935487748
+                    ],
+                    [
+                        "Solution Provider",
+                        0.330088871717453
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3186117231845856
+                    ],
+                    [
+                        "Critic",
+                        0.31332255005836485
+                    ]
+                ]
+            },
+            {
+                "user": "159b44d4c62872828d159d9334819d83",
+                "message_id": "nokm2ra",
+                "comment": "This reminds me of periscope from back in the day. How is the data pulled and positioned? Does it aggregate other streaming services or is this its own platform?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46932898819446567
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3329889506101608
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3209522306919098
+                    ],
+                    [
+                        "Critic",
+                        0.3146362274885178
+                    ]
+                ]
+            },
+            {
+                "user": "f3026390664fd8c6aaff80a25d7e59c8",
+                "message_id": "np4gs9y",
+                "comment": "how did you implement the 3d map?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4587102121114731
+                    ],
+                    [
+                        "Solution Provider",
+                        0.30448372960090636
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2915036678314209
+                    ],
+                    [
+                        "Critic",
+                        0.2856868624687195
+                    ]
+                ]
+            },
+            {
+                "user": "532e1a9f81de0ea8474137e7f4e05492",
+                "message_id": "ns76nm2",
+                "comment": "This reminds me of periscope, can you see past streams?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47304970085620884
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31296815276145934
+                    ],
+                    [
+                        "Technical explainer",
+                        0.307347509264946
+                    ],
+                    [
+                        "Critic",
+                        0.2982215702533722
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "4ca56c6c27b704e5a3d02b3e317276c0",
+                "message_id": "nnzx3in",
+                "comment": "Can it be website based too? No idea how hard/different that is, but accessing a website would make it more accessible than downloading an app. Lots of people are fed up with additional apps..",
+                "polarity": -0.1531,
+                "parent": "Snap doesnt do that unfortunately also, we haven't revealed the app to anyone outside of the beta testers in the past few days so maybe it was a different post you saw :D",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47800398230552676
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3306529700756073
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3263659685850143
+                    ],
+                    [
+                        "Critic",
+                        0.3177260845899582
+                    ]
+                ]
+            },
+            {
+                "user": "4ca56c6c27b704e5a3d02b3e317276c0",
+                "message_id": "no033tm",
+                "comment": "Even for posting, can't browsers capture location information? Again, not a specialist.. great idea though.",
+                "polarity": -0.5096,
+                "parent": "it's a great idea -- users can browse content on layer communities already, so for example we have a layer here for protests you can check out and we'd love to expand this functionality, though for posting content it makes sense for people to use the app since posts are tied to locations",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4754762208461762
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3239443302154541
+                    ],
+                    [
+                        "Critic",
+                        0.31526578962802887
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3140026181936264
+                    ]
+                ]
+            },
+            {
+                "user": "e9a98ec3b0723445d2da8e3381e83c54",
+                "message_id": "no64kuk",
+                "comment": "how did you avoid explicit content? did you have moderation?",
+                "polarity": -0.3736,
+                "parent": "Did an entire startup on this years ago — the challenge is critical mass: It’s exceptionally difficult to get enough people to install / use an app that is so narrowly scoped while simultaneously keeping the content interesting Big triathalons are another opportunity",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48305622994899755
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3184468746185303
+                    ],
+                    [
+                        "Critic",
+                        0.31066532135009767
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30026494562625883
+                    ]
+                ]
+            },
+            {
+                "user": "e9a98ec3b0723445d2da8e3381e83c54",
+                "message_id": "noa3ili",
+                "comment": "and the code with it? I always hoped that somehow that work would be open sourced. not necessarily yours just in general. there is so much software out there that was abandoned that could have been reused, repurposed etc.",
+                "polarity": -0.1027,
+                "parent": "We shut it down",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4833610183000565
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3282488137483597
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32677583694458007
+                    ],
+                    [
+                        "Critic",
+                        0.3215139925479889
+                    ]
+                ]
+            },
+            {
+                "user": "0cf49bca8f62d99f9172f5c6f1ab5034",
+                "message_id": "nnz948s",
+                "comment": "great idea, back in the days Periscope app had the same concept, but they failed to monetize it and closed the project. How will you handle all the potential traffic?",
+                "polarity": -0.4404,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47583844125270847
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3302217602729797
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3276294946670532
+                    ],
+                    [
+                        "Critic",
+                        0.3173772364854813
+                    ]
+                ]
+            },
+            {
+                "user": "93aa63b82737d6c5638c1cdfca28856c",
+                "message_id": "nnzaq1a",
+                "comment": "Just put ads on it perhaps. Since your cost is so much much lower than it was for them, perhaps it can be enough?",
+                "polarity": -0.3535,
+                "parent": "We’re considering adding private Layers, exclusive communities where creators can share members-only content and earn from user subscriptions",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48165476679801944
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3283196806907654
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3259994715452194
+                    ],
+                    [
+                        "Critic",
+                        0.3175039291381836
+                    ]
+                ]
+            },
+            {
+                "user": "3cbccddf34e3d2c7154b3f9fdfc97381",
+                "message_id": "no3f8ti",
+                "comment": "Could you explain to me what it is? Genuinely asking. I've looked at this post, the whole website and I still cannot figure out the problem it's trying to solve.",
+                "polarity": -0.2263,
+                "parent": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!",
+                "quotes": [
+                    "solving a real pain point"
+                ],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49635987639427187
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33702196180820465
+                    ],
+                    [
+                        "Critic",
+                        0.32875596162673115
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3248796403408051
+                    ]
+                ]
+            },
+            {
+                "user": "74b763cc2941f9feb65c2dfb89bceb88",
+                "message_id": "no2i4ui",
+                "comment": "So, can we watch school assassinations live?",
+                "polarity": -0.5719,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45497328996658326
+                    ],
+                    [
+                        "Solution Provider",
+                        0.29110233187675477
+                    ],
+                    [
+                        "Technical explainer",
+                        0.27987641990184786
+                    ],
+                    [
+                        "Critic",
+                        0.2772541344165802
+                    ]
+                ]
+            },
+            {
+                "user": "dc05accb79c8beaa1c5c1a55fdbdfaad",
+                "message_id": "no5qikg",
+                "comment": "I like the camera only idea, but what stops me from using my phone to record a screen showing an AI generated video of a protest?",
+                "polarity": -0.3919,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47235425770282746
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3201778680086136
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31996355652809144
+                    ],
+                    [
+                        "Critic",
+                        0.31244235634803774
+                    ]
+                ]
+            },
+            {
+                "user": "4c4a68cbbf645c24c2be35da567e5313",
+                "message_id": "nocm1zf",
+                "comment": "Are you concerned about authorities misusing the app to break up protests?",
+                "polarity": -0.2263,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4619681096076966
+                    ],
+                    [
+                        "Solution Provider",
+                        0.30777077078819276
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3056207299232483
+                    ],
+                    [
+                        "Critic",
+                        0.30189346021302466
+                    ]
+                ]
+            },
+            {
+                "user": "a01f067b85773078591a3d84731c8833",
+                "message_id": "nnzj9co",
+                "comment": "So you invited map that facebook killed in 2019?",
+                "polarity": -0.6705,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4569340950250626
+                    ],
+                    [
+                        "Solution Provider",
+                        0.293305903673172
+                    ],
+                    [
+                        "Critic",
+                        0.28779626488685606
+                    ],
+                    [
+                        "Technical explainer",
+                        0.28741620779037474
+                    ]
+                ]
+            }
+        ]
+    },
+    "Solution Provider": {
+        "positive": [
+            {
+                "user": "3e4ce20ec588600054f050310750c4ca",
+                "message_id": "nnz9245",
+                "comment": "Very cool! Might even be more useful with time-stamping and geometry data. Then news organisations and civil rights groups could identify events from different angles",
+                "polarity": 0.7251,
+                "parent": "u/Jyriad thanks man! We thought the same thing so we made a protests layer",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47045086383819584
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31267172992229464
+                    ],
+                    [
+                        "Critic",
+                        0.29682225584983823
+                    ],
+                    [
+                        "Question asker",
+                        0.29399498403072355
+                    ]
+                ]
+            },
+            {
+                "user": "3e4ce20ec588600054f050310750c4ca",
+                "message_id": "no6p3n6",
+                "comment": "You should definitely try and get those data layers to a CDN cache and serve them for pennies on the Edge instead of serving everything from your main host. Highly distributed apps, especially ones like yours will demand a lot of data at critical mass, and that will be stupid money if you try and serve egress from a hosting provider. Checkout something like Cloudflare R2.",
+                "polarity": 0.197,
+                "parent": "we're on digitalocean! so far just paying a few hundred bucks a month",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48689639627933506
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32352440655231474
+                    ],
+                    [
+                        "Critic",
+                        0.3070828378200531
+                    ],
+                    [
+                        "Question asker",
+                        0.3065547257661819
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzmzp7",
+                "comment": "Love this idea! We will try to implement very soon",
+                "polarity": 0.6696,
+                "parent": "Showing other available streams as overlays (i.e., enable a viewer to tap and shift over to another user’s perspective) is something we always wanted to do",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48752712666988374
+                    ],
+                    [
+                        "Question asker",
+                        0.31427390277385714
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3030698120594025
+                    ],
+                    [
+                        "Critic",
+                        0.29926579892635347
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no01k0o",
+                "comment": "it's a great idea -- users can browse content on layer communities already, so for example we have a layer here for protests you can check out and we'd love to expand this functionality, though for posting content it makes sense for people to use the app since posts are tied to locations",
+                "polarity": 0.8658,
+                "parent": "Can it be website based too? No idea how hard/different that is, but accessing a website would make it more accessible than downloading an app. Lots of people are fed up with additional apps..",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4924972003698349
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3387711840085201
+                    ],
+                    [
+                        "Question asker",
+                        0.3236326348781586
+                    ],
+                    [
+                        "Critic",
+                        0.3124225586652756
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no129mc",
+                "comment": "totally valid concern. in fact this was something that worried us as well. that's why we've created layers - map based communities that can be private / invite only. if you don't want to make your stream public and only available to a community you trust, you can do that too",
+                "polarity": 0.6786,
+                "parent": "It is neat, but consider the privacy and security concerns of individuals whose locations you’re doxxing. We’re in strange times here in the States and personally this would creep me out if I were at a protest and someone was broadcasting who is where to possible bad actors or others with bad intentions.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49519085347652436
+                    ],
+                    [
+                        "Technical explainer",
+                        0.344504553975335
+                    ],
+                    [
+                        "Question asker",
+                        0.3285203486680984
+                    ],
+                    [
+                        "Critic",
+                        0.3267437558669976
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no0gfdu",
+                "comment": "great question. first, we do allow non-livestream posts direct from your camera so you can create 30 second video clips on the map to help people discover your content and make the app to be useful in a standalone way, we created layer communities to help you group content on the map and invite your friends and share it directly to other platforms we also have a popular feed in the app, which will show your posts to more people if it gets a lot of engagement, helping reward people who make content that sticks",
+                "polarity": 0.9864,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48973570525646215
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32573874294757843
+                    ],
+                    [
+                        "Question asker",
+                        0.3216869708299637
+                    ],
+                    [
+                        "Critic",
+                        0.3094048410654068
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzomc7",
+                "comment": "you can save 30 seconds videos in the app, but we don't currently save livestreams. we'd love to do this in the near future though",
+                "polarity": 0.666,
+                "parent": "that's some unreal good anti biased media tool if the Videos would be saved over time",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48657552361488343
+                    ],
+                    [
+                        "Question asker",
+                        0.3190906852483749
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31491796374320985
+                    ],
+                    [
+                        "Critic",
+                        0.3067093938589096
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no03t4m",
+                "comment": "Hey, thank you so much for the feedback! we will try to fix all of these in the next release. Lots of little bugs and some questionable UI UX decisions but we're trying rly hard to get this right. Feedback like this really, really helps I appreciate it. Also, added a discord server to the top of the post just now, feel free to join!",
+                "polarity": 0.9551,
+                "parent": "Some feedback: When searching for layers, that notification is in the middle of the screen, put it to the top and maybe a notch smaller. It's blocking the view on the map. Live Chat? I see comments but no idea if the creator sees them. Consider automatically adding publicly accessible cameras including traffic and weather cams. Mark them differently so people know there is nobody behind them. Probably just suggesting it because I like it but: Maybe a Discord server for the app to directly communicate with you guys? Or a subreddit? Idk. Would help with either of em.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4922082042694092
+                    ],
+                    [
+                        "Question asker",
+                        0.3221262812614441
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32112819850444796
+                    ],
+                    [
+                        "Critic",
+                        0.31765569746494293
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no2k0v2",
+                "comment": "Actually really appreciate feedback like this. We're going to try harder to make the ux a lot better",
+                "polarity": 0.8251,
+                "parent": "Too generic and unfocussed experience right now from a fresh install. Needs a quick tutorial on first use or to just work more like the Snapchat stories map out if the box.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4935468322038651
+                    ],
+                    [
+                        "Question asker",
+                        0.32520389258861543
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31280660033226015
+                    ],
+                    [
+                        "Critic",
+                        0.3101819157600403
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzh7i3",
+                "comment": "thanks. we felt like the world needs a bit more real stuff in it, and location makes that easier to verify imo since you can just go and check the place",
+                "polarity": 0.802,
+                "parent": "this looks like it could help a lot rn",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4935560739040375
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32839169502258303
+                    ],
+                    [
+                        "Question asker",
+                        0.32388700246810914
+                    ],
+                    [
+                        "Critic",
+                        0.3181629478931427
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzb3od",
+                "comment": "LMAO you can make your own communities just like reddit. It's all free :D share some good UFO content pls",
+                "polarity": 0.9631,
+                "parent": "How about a UFO comunity?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4741890376806259
+                    ],
+                    [
+                        "Question asker",
+                        0.31052586138248445
+                    ],
+                    [
+                        "Critic",
+                        0.30226878821849823
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2969986617565155
+                    ]
+                ]
+            },
+            {
+                "user": "064919e8aa8d4300283168b3e34c26d6",
+                "message_id": "no35e66",
+                "comment": "Hello! I am OP's partner/co-creator of this app. We'd love to see some content out of Karachi! Matter of fact, you could be Pakistan's layer founder, imagine that! :)",
+                "polarity": 0.8472,
+                "parent": "There are SO many skeptical points I can think of rn, especially the comment on how you achieve critical mass etc. but for now, ROOTING for this to be a success, so I'm in. Signing up, and will try to stream something live over the week all the way over from Karachi, Pakistan :PP San Diego seems to be the only place rn.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47649426817893986
+                    ],
+                    [
+                        "Critic",
+                        0.32334449322795267
+                    ],
+                    [
+                        "Question asker",
+                        0.31543998420238495
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30632299482822417
+                    ]
+                ]
+            },
+            {
+                "user": "855bc08eeef0ff751f03cc7697384bba",
+                "message_id": "nnztzbg",
+                "comment": "Instead of adding on-screen ads, you can have promoted locations on the map. That would be less intrusive I think.",
+                "polarity": 0.4215,
+                "parent": "we might put ads eventually, kind of just feeling it out for now",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48301627993583685
+                    ],
+                    [
+                        "Technical explainer",
+                        0.320570233464241
+                    ],
+                    [
+                        "Question asker",
+                        0.3103170782327652
+                    ],
+                    [
+                        "Critic",
+                        0.30776250958442686
+                    ]
+                ]
+            },
+            {
+                "user": "a506e7fc9378df5076b74f41a34c26c2",
+                "message_id": "nofcusi",
+                "comment": "There's a difference between doing an app for the money or for the service Seems like a server light app, specially if you don't handle uploads but only stream routing. Maybe you can setup a patreon or a account to let the user base fund your app without adding a tracking pixel for ads Good solid work btw",
+                "polarity": 0.7579,
+                "parent": "we might put ads eventually, kind of just feeling it out for now",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4908259755373001
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3273136451177257
+                    ],
+                    [
+                        "Critic",
+                        0.3170919746160507
+                    ],
+                    [
+                        "Question asker",
+                        0.31247625648975375
+                    ]
+                ]
+            },
+            {
+                "user": "ece43c28b4e708a24a76217950934533",
+                "message_id": "nnzvqtp",
+                "comment": "If the goal is truly a public service in the aim of doing good, I would suggest bulletproofing yourself and the site against things that could sway or make you fragile. For example, adding ads means that you are now working for advertisers and won’t want to upset them. There are some really nifty open source libraries out there that can run live streams in almost decentralized fashions. Then, I think you can host the streams for a small amount of time before ejecting them or database dumping them somewhere where other people can torrent them The name of the game is keeping your hosting costs low and renaming anti-fragile in the face of adversity if you’re building a site around free speech and accountability I’m a senior software engineer in California. Happy to help if you’d like",
+                "polarity": 0.9099,
+                "parent": "We’re considering adding private Layers, exclusive communities where creators can share members-only content and earn from user subscriptions",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5226636162019854
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3430707859210186
+                    ],
+                    [
+                        "Question asker",
+                        0.3191171377897263
+                    ],
+                    [
+                        "Critic",
+                        0.3181310296058655
+                    ]
+                ]
+            },
+            {
+                "user": "2f40d0615be16a10302e1a400b245023",
+                "message_id": "nnzvqqp",
+                "comment": "I think this is a great idea and should be given a shot. If it doesn't seem to be enough, then can switch to a subscription or private room model",
+                "polarity": 0.6249,
+                "parent": "Could always go the non-profit donation/fundraising route if you really want to middle finger big cap. If this got traction I would certainly donate in app. Though transparency of how donations are used would help too.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49623743951320654
+                    ],
+                    [
+                        "Question asker",
+                        0.3275616317987442
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32683126628398895
+                    ],
+                    [
+                        "Critic",
+                        0.3183566689491272
+                    ]
+                ]
+            },
+            {
+                "user": "4a29403da057a51a6cf3ab20e94f24e6",
+                "message_id": "no1s0wg",
+                "comment": "You should have some sort of karma or points. And filming at important areas or times gets you more (to incentivize filming).",
+                "polarity": 0.2023,
+                "parent": "great question. first, we do allow non-livestream posts direct from your camera so you can create 30 second video clips on the map to help people discover your content and make the app to be useful in a standalone way, we created layer communities to help you group content on the map and invite your friends and share it directly to other platforms we also have a popular feed in the app, which will show your posts to more people if it gets a lot of engagement, helping reward people who make content that sticks",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47419289708137513
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31514164209365847
+                    ],
+                    [
+                        "Question asker",
+                        0.30309113264083865
+                    ],
+                    [
+                        "Critic",
+                        0.3004190921783447
+                    ]
+                ]
+            },
+            {
+                "user": "7c49e1fbf8ca52b11146ebac64120a74",
+                "message_id": "nnzlu7e",
+                "comment": "Something you can try is, Tell ChatGPT about your product and ask it to generate 50 at a time, brandable .com domain name ideas. Aim for no longer than 10 characters. under 8 is better. Then you can use a tool like bulk domain search, and just see what options you have. Probably most of the .com domain names with \"live\" keywords are taken, but maybe you can be a little more creative.",
+                "polarity": 0.716,
+                "parent": "we agree, we're still working on the branding, we just havent really had much time to get things right",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5115413158652771
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3236853539943695
+                    ],
+                    [
+                        "Question asker",
+                        0.31807165741920473
+                    ],
+                    [
+                        "Critic",
+                        0.31087794303894045
+                    ]
+                ]
+            },
+            {
+                "user": "f57e0eb348b51a5a98a8cec07f68c230",
+                "message_id": "nnzzc9i",
+                "comment": "Appreciate it, you should add these links in your post directly. Or some mod could pin it.",
+                "polarity": 0.4019,
+                "parent": "so sorry about that! here's a link to android and a link to ios if anyone needs",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48502189576625826
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31330521404743195
+                    ],
+                    [
+                        "Question asker",
+                        0.3105460971593857
+                    ],
+                    [
+                        "Critic",
+                        0.3046658307313919
+                    ]
+                ]
+            },
+            {
+                "user": "26e32af588810d9b80c920081b6d6712",
+                "message_id": "no3mtwv",
+                "comment": "That’s amazing. It should fill the void that Periscope & Meerkat left.",
+                "polarity": 0.5859,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4662647074460984
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3071519106626511
+                    ],
+                    [
+                        "Question asker",
+                        0.30147686004638674
+                    ],
+                    [
+                        "Critic",
+                        0.3003088593482971
+                    ]
+                ]
+            },
+            {
+                "user": "e533ecea3b2a6b465834a22b25b2c4c4",
+                "message_id": "no3v3do",
+                "comment": "you should better ai-generated pictures on the website",
+                "polarity": 0.4404,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.46963020920753484
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3021111786365509
+                    ],
+                    [
+                        "Question asker",
+                        0.30155346393585203
+                    ],
+                    [
+                        "Critic",
+                        0.29431535601615905
+                    ]
+                ]
+            },
+            {
+                "user": "31d756530ec0e1da4fe923748f58eb20",
+                "message_id": "nnzhzxd",
+                "comment": "YES, most def. It reminds me of pokemon go when you go to a certain stop and you can scan the place or whatever it was lol but this is GOOD",
+                "polarity": 0.8408,
+                "parent": "thanks. we felt like the world needs a bit more real stuff in it, and location makes that easier to verify imo since you can just go and check the place",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4923454529047013
+                    ],
+                    [
+                        "Question asker",
+                        0.3294431626796722
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32589276432991027
+                    ],
+                    [
+                        "Critic",
+                        0.3210101217031479
+                    ]
+                ]
+            },
+            {
+                "user": "c00d04a8b8dc0787941d5425b2a2b74f",
+                "message_id": "nnzzkux",
+                "comment": "There are SO many skeptical points I can think of rn, especially the comment on how you achieve critical mass etc. but for now, ROOTING for this to be a success, so I'm in. Signing up, and will try to stream something live over the week all the way over from Karachi, Pakistan :PP San Diego seems to be the only place rn.",
+                "polarity": 0.5044,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4879339492321015
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3250661015510559
+                    ],
+                    [
+                        "Question asker",
+                        0.3190569937229156
+                    ],
+                    [
+                        "Critic",
+                        0.3130881905555725
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "064919e8aa8d4300283168b3e34c26d6",
+                "message_id": "no34ttb",
+                "comment": "Hello! I am OP's partner/co-creator of this app. In short, we do not collect any data that is not strictly necessary for the correct functioning of the app. When creating an account, all we ask for is an email and username/password; no gender/birthday/country/etc. When posting, we obviously need location permission to be able to show the location of the event/point of interest. But we do not care about your location otherwise (we do not track continuously). So, in theory, one could remain anonymous if taking the right precautions (we allow signing up with google, so if anonymity is a priority, maybe don't use this method.)",
+                "polarity": -0.0987,
+                "parent": "Can you prevent certain agencies from using this as self collected data on the protest layer?The news does a great job picking and choosing video bites to show a narrative with 1 or 2 cameras covering the events… can you ensure that our own videos won’t be clipped down to tell the news narrative? If so, you’ve broken away from the BS that you were sick of. If not, you’ve given them more ammunition to pick through. What data is collected? Can a user remain anonymous while streaming so no data collected can be associated with a single person if their face is never shown?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4896648800373078
+                    ],
+                    [
+                        "Critic",
+                        0.33260240346962366
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32756985127925875
+                    ],
+                    [
+                        "Question asker",
+                        0.31877127289772034
+                    ]
+                ]
+            },
+            {
+                "user": "fcea5489931cb296c6d2520a03860c36",
+                "message_id": "nsvlue0",
+                "comment": "This is really valuable - if you can make an app that people can pop open that IMMEDIATELY starts recording that could really capture a lot of crime.",
+                "polarity": -0.0276,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49302264213562014
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32879476249217987
+                    ],
+                    [
+                        "Question asker",
+                        0.3253717452287674
+                    ],
+                    [
+                        "Critic",
+                        0.3198342978954315
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzysjq",
+                "comment": "so sorry about that! here's a link to android and a link to ios if anyone needs",
+                "polarity": -0.2228,
+                "parent": "Uuh I got a problem. When I try to open the website it shows something for a split second and then gives me the whitescreen... Is there an android app?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4853190487623215
+                    ],
+                    [
+                        "Question asker",
+                        0.32076182663440705
+                    ],
+                    [
+                        "Critic",
+                        0.31482033133506776
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3103304713964462
+                    ]
+                ]
+            },
+            {
+                "user": "69a1eb07a3e0d7020cf0dd764e6947c6",
+                "message_id": "no0wyej",
+                "comment": "Should had a distress beacon which gets broadcast to all drone operators in the area and they get coordinates to you.",
+                "polarity": -0.5267,
+                "parent": "Feel like this would be amazing for documenting civil unrest and protests",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.47383528709411626
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3162850052118301
+                    ],
+                    [
+                        "Critic",
+                        0.29831158816814424
+                    ],
+                    [
+                        "Question asker",
+                        0.29810487031936644
+                    ]
+                ]
+            }
+        ]
+    },
+    "Technical explainer": {
+        "positive": [
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "no0fncj",
+                "comment": "thank you so much! I am handling the engineering and my cofounder is helping with product direction / business / marketing / and more we may need more ppl in near future depending on traction lol",
+                "polarity": 0.7777,
+                "parent": "The idea is amazing and actually stands out of all social BS. Is this a team/cooperative work or just you? Im an iOS developer and I love the idea, solving a real pain point, not another emotion/gym tracking project. If you guys need another dev, hit me up!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.48239261738578604
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3201112776994705
+                    ],
+                    [
+                        "Question asker",
+                        0.3085270881652832
+                    ],
+                    [
+                        "Critic",
+                        0.30733359456062315
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzdpjw",
+                "comment": "our map does have elevation / terrain built into it, but we don't have anything specifically built for multi story buildings. What use case were you thinking, happy to add it to our big to do list",
+                "polarity": 0.7227,
+                "parent": "Do you support multi story buildings?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.4922514095894619
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3324466943740845
+                    ],
+                    [
+                        "Question asker",
+                        0.32223319709300996
+                    ],
+                    [
+                        "Critic",
+                        0.31127393841743467
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnztefb",
+                "comment": "about 3 years of very intense effort lol. the first year or two i was building this i was regularly staying up until 6-7am working on it and then waking up at 930 for my regular engineering job ive basically had no life for the past 3 years so im super glad we released finally :D",
+                "polarity": 0.9317,
+                "parent": "how long did it take to code all this ?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.4739078166082253
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3127436816692352
+                    ],
+                    [
+                        "Question asker",
+                        0.3064073175191879
+                    ],
+                    [
+                        "Critic",
+                        0.30223743319511415
+                    ]
+                ]
+            },
+            {
+                "user": "8bdab321d0b1bf65a578885b87ca5c16",
+                "message_id": "nnzwqdg",
+                "comment": "so our team consistents of myself and my partner. i handle all the engineering, partner handles product direction / marketing / business / etc and he had the idea of doing a map based app. he's one of the smartest & wisest people ive ever worked with. from the engineering perspective i can say this was the most intense thing ive ever worked on. around 3 yrs of effort, i regularly stayed up until 7am working on it and woke up 930am for my regular engineering job multiple times a week. basically have had not much of a life for several years now but this was highly collaborative - my partner and i would bounce ideas off each other all the time, and refine how we did things. tech stack is python & react native early intuition was that we wanted to crowdsource location data to inform people. we thought it would be nice to go out and be notified about stuff your vicinity. the ideas evolved rather radically from there, into the concept of map-based communities and livestreaming",
+                "polarity": 0.8199,
+                "parent": "Man this is so awesome! It could literally change the world with its potential for showing what events unfolded and where with pin point accuracy. Could you also share what went into making this project, the tech, challenges, early intuition, and most of all was it solo project or a team collaboration?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.5089664112539551
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3294830501079559
+                    ],
+                    [
+                        "Question asker",
+                        0.318242347240448
+                    ],
+                    [
+                        "Critic",
+                        0.31807883381843566
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": []
+    },
+    "Critic": {
+        "positive": [
+            {
+                "user": "064919e8aa8d4300283168b3e34c26d6",
+                "message_id": "no352tj",
+                "comment": "Hello! I am OP's partner/co-creator of this app. I am sure people will find ways, geospoofing is still a concern, but we hope more people will use the app in legitimate ways and help police bad actors. Users can report offensive/graphic posts, and these get blurred out automatically once a reasonable threshold of reports is reached.",
+                "polarity": 0.636,
+                "parent": "Love this! Very relevant nowadays. I'm sure people still would find a way to fake it somehow (i.e. pointing the camera at a display or something?). But very good idea. Love it!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5256513764636018
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3295750290155411
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3234305292367935
+                    ],
+                    [
+                        "Question asker",
+                        0.3212339460849762
+                    ]
+                ]
+            },
+            {
+                "user": "064919e8aa8d4300283168b3e34c26d6",
+                "message_id": "nonpci8",
+                "comment": "Hello! I am OP's partner/co-creator of this app. We have features in the roadmap that would meet this need in a way. Requesting livestreams for money could be a sensitive issue since it borders on “pay-per-surveillance”, which is not something we want to do. If the app continues to gain traction, we want to introduce features that would allow for better organization around events, but right now we have our hands full. Thank you for your suggestion!",
+                "polarity": 0.8163,
+                "parent": "Would it be possible to allow people to send request to go live to users at a specific location? May be a request with small charge out of which you share the revenue with the user who is providing the feed?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5105744442520082
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3355030833692407
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3271614223718643
+                    ],
+                    [
+                        "Question asker",
+                        0.3225802510976791
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": []
+    }
+}

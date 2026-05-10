@@ -1,0 +1,574 @@
+{
+    "comments": {
+        "63a0208dddd9d8887cbae5f0df8976e7": {
+            "ntrzk8d": {
+                "text": "does the subscription tracker have a tracker for the subscription of the subscription tracker itself? /s"
+            },
+            "ntrztzs": {
+                "text": "awesome!"
+            }
+        },
+        "4f41e5f1f363af709f9fdb9b4651cfa1": {
+            "ntrzmo9": {
+                "text": "yes, you need a subscription tracker to track subscription trackers that track subscriptions"
+            },
+            "nts67up": {
+                "text": "wdym? in the bank statement import?"
+            },
+            "ntse8ji": {
+                "text": "Oh thank you! I'll look more into it."
+            },
+            "ntsdip2": {
+                "text": "I agree, thank you"
+            },
+            "nts2zz0": {
+                "text": "wow thats really look similar"
+            },
+            "ntrz1vf": {
+                "text": "All good, actually the font in the website looks better, but I just can't figure out how to use the font with the modern screenshot library, the image just doesn't want to use the font."
+            },
+            "ntrzjx1": {
+                "text": "I mean you were right, it would be cool if someone could actually found the solution to this xD"
+            },
+            "ntsdymt": {
+                "text": "I mean you can but an export button would be more convenient, especially for mobile users where they have to do multiple steps if doing screenshots"
+            },
+            "ntrxk97": {
+                "text": "its mock data!"
+            },
+            "ntsqsyk": {
+                "text": "It's already open source, I forgot to add a license, though, it's MIT. Feel free to do anything with the code"
+            },
+            "ntt65uc": {
+                "text": "simple option would be using live-server (via npm or vscode's one), or you must setup a http server yourself."
+            },
+            "nts2yfy": {
+                "text": "OOF, sorry should have a toggle or something to not converting the prices"
+            },
+            "ntsoqog": {
+                "text": "glad that it helps you"
+            },
+            "ntu3w5r": {
+                "text": "thanks for telling me"
+            },
+            "ntstsud": {
+                "text": "thank you!"
+            },
+            "ntsojn2": {
+                "text": "I'm using cloudflare to host it. seems to work fine for me"
+            },
+            "ntszpap": {
+                "text": "thank you!"
+            },
+            "ntt031s": {
+                "text": "haha thank you!"
+            },
+            "ntt1kg4": {
+                "text": "Thank you!"
+            },
+            "nttwopn": {
+                "text": "ty!"
+            },
+            "ntu4kz8": {
+                "text": "thank you!"
+            },
+            "ntu9inv": {
+                "text": "lol thank you"
+            },
+            "ntuss1s": {
+                "text": "thank you!"
+            },
+            "ntvrqwk": {
+                "text": "ita dynamically"
+            },
+            "ntw3ywk": {
+                "text": "there is a button to add custom"
+            },
+            "ntzgk0o": {
+                "text": "thank you, ill consider this. its called treemaps btw"
+            },
+            "nu0k6cn": {
+                "text": "thanks, its"
+            },
+            "nui9wih": {
+                "text": "no its just a visualizer"
+            },
+            "nut7w0e": {
+                "text": "yes once I get a Mac. but you can use Vexly perfectly fine in mobile!"
+            },
+            "ntu4321": {
+                "text": "thats actually good!"
+            }
+        },
+        "ac62daf77291f241814670b00e48efd9": {
+            "nts65i6": {
+                "text": "a \"add all\" button would be nice to see how much money i don't spend"
+            }
+        },
+        "a376c4ff0c2db410c658b6f2928776fb": {
+            "ntsfe4c": {
+                "text": "No, he means a button to invers the selection. e.g. you add netflix and apple tv and the button removes those two and adds all other services ;P"
+            }
+        },
+        "a97ab04cb524a9e870a03fb3eb1d62b2": {
+            "nttdusw": {
+                "text": "Yo dawg!"
+            }
+        },
+        "f4ba5745ff4a201b9e61f510379e300a": {
+            "nwubjre": {
+                "text": "Inception (2010)"
+            },
+            "nwubl5e": {
+                "text": "Great idea!"
+            }
+        },
+        "e8ab79ce8d6c6afccdf63acb502abaf8": {
+            "nts0hr9": {
+                "text": "😂"
+            }
+        },
+        "5b2f5b9adc34ca2342ad1c623175d8da": {
+            "ntzs71j": {
+                "text": "Who will track the Trackers?"
+            }
+        },
+        "3e4ce20ec588600054f050310750c4ca": {
+            "nty91c2": {
+                "text": "This should be a pro feature"
+            },
+            "ntyc78o": {
+                "text": "seems cool, gj."
+            }
+        },
+        "08042fdc49866b57f96ea4e4b7983ea1": {
+            "ntse57h": {
+                "text": "This is a really nice tool. Spotted a small bug though. It only accepts entry in USD, you can convert it later but it presume the entry price is in USD not the local currency. The need for conversion is probably slim, all you need to do is change the currency symbol"
+            }
+        },
+        "e901c1b169458892410576eca9f3ce8e": {
+            "ntvrrxg": {
+                "text": "I see you updated with currency support but there's a bug, If I choose Euro and then set a subscription I get the amount in dollar. For example, input 90 (euro) > got Euro in the page."
+            }
+        },
+        "596966890b69e3117c507083ce442086": {
+            "nty06aq": {
+                "text": "It’s really cool, would also be very interesting to see actual usage of each subscription. Adobe might be the biggest one but if you’re using it every day, then you’re extracting value from that. What is the actual usage of the gym membership? 😂"
+            }
+        },
+        "b624836216e1f49194be9db4d04796b6": {
+            "ntz01r0": {
+                "text": "The conversion feature is a nice bonus. Ideally you could choose the currency when entering each price, default the selected currency in settings, (like Euro) but can also enter a service in USD for example and only those will be converted. Anyway great tool, very intuitive and great design 👏"
+            }
+        },
+        "341eb2f4eeb235a079b6eaf5924c45b2": {
+            "ntsjif6": {
+                "text": "I agree with this. Some of my subscriptions are in euro, some in dollar etc. But can all be converted myself to my own currency."
+            }
+        },
+        "4a8321e6acab48a0e7f69ef635a5b109": {
+            "ntsbw3o": {
+                "text": "this is a great visualization, I wonder why more budget apps dont use this. I allways get a pie or arc wich is hard to intuitivly read \"Your Rent is 152 deg of the arc\". Great job."
+            }
+        },
+        "3aad7dbdbb343288f7b63cd7fb95df98": {
+            "ntuthym": {
+                "text": "My cynical take is that if things like that actually work really well you end up not needing them anymore and that's bad for business."
+            }
+        },
+        "8c33e8d1922e4be1a8b4b32ad6928941": {
+            "nts0dbg": {
+                "text": "Reminds me of WinDirStat"
+            }
+        },
+        "20e162b02aaedcb53f8a77320b8eb09f": {
+            "ntsdutl": {
+                "text": "Can't you just take a normal screenshot?"
+            }
+        },
+        "a622a55e52ce6435f1d71d3888832994": {
+            "ntufe9e": {
+                "text": "Doesn't youtube premium come with a music service? Why pay for spotify?"
+            }
+        },
+        "ef4bf394dcaeef22e94ce52ced9addc2": {
+            "ntwszk3": {
+                "text": "i think spotify is longer in the business and has more benefits , but i like yt music more too"
+            },
+            "ntwuxfb": {
+                "text": "nice but i would like to have a option sscale it better"
+            }
+        },
+        "a4e97d0aa4948566628192dce3ded4fc": {
+            "ntrxelk": {
+                "text": "Disney 8? Apple 3? NordVPN? Omg!"
+            },
+            "nts372d": {
+                "text": "Yet Adobe/Netflix/ChatGPT are accurate"
+            }
+        },
+        "c299cbcbe42299f3a687b1d6e4ba1c9f": {
+            "ntsq3co": {
+                "text": "Cool idea. Are you going to open source it (there’s no license on the GitHub)? I know it’s source available but I’d like to try the bank import on some ideas, I love the cleanup it does because of “ugly statements”"
+            }
+        },
+        "7877a66a8a1d1dd221c7b9106a3a51e8": {
+            "ntt5oam": {
+                "text": "Haven't looked at the code yet but wanted to ask, any special instructions on how to deploy it locally?"
+            },
+            "nttbobb": {
+                "text": "Ah ok, I thought maybe I needed some kind of webpack voodoo thing. I'll try with the good ol' ``` python3 -m 8000 ``` Appreciated man!"
+            }
+        },
+        "980d1d98358b6c813efb853f40f11d7d": {
+            "nts2rkd": {
+                "text": "Look is awesome, everything is easy to understand ! The struggle for me was to enter all my subs, hit generate, to discover its USD, change to EUR And now my prices are converted to EUR and not the same amount as input"
+            }
+        },
+        "98b1e6bc08e908813980f8d738717b94": {
+            "nty9fq7": {
+                "text": "This is one of those tools that feels harmless until you actually use it and immediately regret it. Seeing subscriptions as a list is fine. Seeing them as big angry boxes competing for space in your budget hits different. Also respect for no signup and local-only data. Anything that touches money instantly gets more trust when it doesn’t ask for an email first. Out of curiosity, did you consider adding a “hide this one because I’m not ready emotionally” toggle? Asking for a friend."
+            }
+        },
+        "fcd7c3eb026cd0aa9b2087cce41012e1": {
+            "ntsoha5": {
+                "text": "This grid is a game changer, finally a way to visualize how much I'm really bleeding every month."
+            }
+        },
+        "046a20819959e7b03bb8b98b63c8a017": {
+            "ntyo8zl": {
+                "text": "Really nice! Well done!"
+            }
+        },
+        "df725871532e36972a0d0d3ccd67d311": {
+            "ntu3s9w": {
+                "text": "i have not subscribed to anything."
+            }
+        },
+        "2af94dc7c941e35c9582e258859af8f4": {
+            "ntsuu2o": {
+                "text": "not doubting you, but wtf is the relationship to tree's in these? :D I get that you would have the large block with the next largest next to it, which is tree'ish I guess."
+            }
+        },
+        "c5572b8c64b49808a7fe415a35a9ea49": {
+            "ntu5xa0": {
+                "text": "Full tree maps are nested. So the most common usecase in computing is a program like WinDirStat that essentially shows you which folders are taking up the most space on a drive. So you take your tree C:\\ 129 GB ├─ Windows 39 GB │ ├─ Drivers 15 GB │ ├─ DLLs 10 GB │ └─ Bins 14 GB │ └─ Program Files 80 GB ├─ Photoshop 40 GB ├─ Chrome 1 GB └─ Steam 39 GB Which as a tree map looks a bit like this C:\\ 129 GB ┌─────────────────────────────────────────────────────────────┐ │ │ │ │ WINDOWS 39 GB │ PROGRAM FILES 80 GB │ │ │ │ │ ┌────────────────┐ │ ┌────────────────────────────────┐ │ │ │ Drivers 15 GB │ │ │ Photoshop 40 GB │ │ │ └────────────────┘ │ └────────────────────────────────┘ │ │ ┌──────────────┐ │ ┌──────────┐ ┌──────────────────┐ │ │ │ DLLs 10 GB │ │ │ Chrome │ │ Steam 39 GB │ │ │ └──────────────┘ │ │ 1 GB │ └──────────────────┘ │ │ ┌────────────────┐ │ └──────────┘ │ │ │ Bins 14 GB │ │ │ │ └────────────────┘ │ │ └─────────────────────────────────────────────────────────────┘"
+            },
+            "ntu60z6": {
+                "text": "Copy pasting because this was too much effort to only show once: Full tree maps are nested. So the most common usecase in computing is a program like WinDirStat that essentially shows you which folders are taking up the most space on a drive. So you take your tree C:\\ 129 GB ├─ Windows 39 GB │ ├─ Drivers 15 GB │ ├─ DLLs 10 GB │ └─ Bins 14 GB │ └─ Program Files 80 GB ├─ Photoshop 40 GB ├─ Chrome 1 GB └─ Steam 39 GB Which as a tree map looks a bit like this C:\\ 129 GB ┌─────────────────────────────────────────────────────────────┐ │ │ │ │ WINDOWS 39 GB │ PROGRAM FILES 80 GB │ │ │ │ │ ┌────────────────┐ │ ┌────────────────────────────────┐ │ │ │ Drivers 15 GB │ │ │ Photoshop 40 GB │ │ │ └────────────────┘ │ └────────────────────────────────┘ │ │ ┌──────────────┐ │ ┌──────────┐ ┌──────────────────┐ │ │ │ DLLs 10 GB │ │ │ Chrome │ │ Steam 39 GB │ │ │ └──────────────┘ │ │ 1 GB │ └──────────────────┘ │ │ ┌────────────────┐ │ └──────────┘ │ │ │ Bins 14 GB │ │ │ │ └────────────────┘ │ │ └─────────────────────────────────────────────────────────────┘"
+            }
+        },
+        "e0086354213b45a4555c6f038d5f9609": {
+            "ntsdsnq": {
+                "text": "I would group streaming, AI, creative etcetera."
+            }
+        },
+        "0178ab6a1dff44becd95962e9bd4caa1": {
+            "ntsnrnr": {
+                "text": "I think you've got an issue with your cdn, every few page refreshes the css fails to load"
+            },
+            "ntsr9yy": {
+                "text": "I tried it on my mobile data and home network, both seemed to have the same issue"
+            }
+        },
+        "b756ad24e1f8aed6a45088833549973c": {
+            "ntszmz8": {
+                "text": "Very nice! keep up the good work!"
+            }
+        },
+        "1490563217923c866f552f56961ebb0f": {
+            "ntszyas": {
+                "text": "Nice! I really liked how it automatically fetches the website’s icon when you enter the URL pretty cool stuff."
+            }
+        },
+        "031b36762071c7bf33d38fc7739ea176": {
+            "ntt1ddd": {
+                "text": "Great UI and concept"
+            }
+        },
+        "ca491415a8a46decb5c41b99a659dbcd": {
+            "ntt27wa": {
+                "text": "Niceeee"
+            }
+        },
+        "5129fb9d07674607897408f845910d5a": {
+            "nttaqbz": {
+                "text": "If you want to make the plot even better, group by category."
+            }
+        },
+        "8db8be2badf551c0f353ef04f435731e": {
+            "nttvnbt": {
+                "text": "Exactly why I dropped Adobe products a decade ago"
+            }
+        },
+        "a5e21a4d72dfdf792283e746c0de5075": {
+            "nttwmww": {
+                "text": "this is exactly what I was planning to build to keep an eye on my own expenses. With boxes and all. Great job !"
+            }
+        },
+        "a039a2071c6eda6c3e3b6084a5e321c2": {
+            "ntu4e2p": {
+                "text": "Love this!! Amazing work"
+            }
+        },
+        "4e1165d9c36224c380615760e28cc83e": {
+            "ntu908l": {
+                "text": "Great app but more importantly nice silent witch pfp"
+            }
+        },
+        "ba81c28a50ee0db61e35351c10f6d2bc": {
+            "ntuhiow": {
+                "text": "This is beautiful!"
+            }
+        },
+        "684ccff1e9ffa883d73888bb5103afb9": {
+            "ntujo9g": {
+                "text": "Im only subscribed to my gym (thats only 17EUR per month) and surfshark (4EUR per month), dont know about you guys :P"
+            }
+        },
+        "66c3318421529e1e7aad14e5c395da7c": {
+            "ntusnpr": {
+                "text": "damn bro that actually looks useful, its like those few utility tools that you rarely use but always appreciate having them around, good stuff Also just checked your github, holy moly, gave you a well deserved follow"
+            },
+            "ntvbp7z": {
+                "text": "are you on twitter/X by any means ? would be amazing if you could drop your handle"
+            }
+        },
+        "360919e748076903f2c2d9c94e03640d": {
+            "ntuxt58": {
+                "text": "I'm here with my gym subscription only 😁 Great solution by the way, it will give you a good reason to cancel the non essential."
+            }
+        },
+        "f901ab4cf07ad4957af4a005efd916b8": {
+            "ntva01w": {
+                "text": "This feels like one of those problems that’s technically solved, yet somehow never actually gone."
+            }
+        },
+        "de9c782d741cfc42c5ab4405fc3f86be": {
+            "ntvbu6z": {
+                "text": "A noob question. Do you dynamically retrieve the subscription icons in some way, or you have them stored?"
+            }
+        },
+        "f29508052f833e0182d66f726f9d8f68": {
+            "ntvesom": {
+                "text": "Looks awesome! Would've been nice to see where I was 3-4 years ago, but today I've cut most of the subs. I'm only left with Netflix and iCloud which I got for my mom for a few months, and that goes away after this month."
+            }
+        },
+        "880975c2a3641efc1411c44403844c8b": {
+            "ntvqau6": {
+                "text": "They should be weighted against how much you gain from them. Not just money but the health part also"
+            }
+        },
+        "214cde910bb2da3a8b5dc05561c7873c": {
+            "ntvvqtg": {
+                "text": "Where the heck are you finding such a cheap gym? Even the YMCA wants ~$100 near me."
+            }
+        },
+        "35705eacae4037113605bcefe771806c": {
+            "ntw18o2": {
+                "text": "Funny how you can save a lot buy just actually paying for what you cannot get any other way, like the gym/vpn/amazon"
+            }
+        },
+        "87da2de062689618bcb8258e13348e55": {
+            "ntw1unh": {
+                "text": "there should be an option for custom item. mine was not on the predefined list"
+            }
+        },
+        "5fba28d9362fa8da9c955b95f72ab5e2": {
+            "ntwrdi0": {
+                "text": "cool app, i know it’s a stretch but if you can add the option to connect to a persistent database (something like supabase) it would be great!"
+            }
+        },
+        "7006c56a1b1c016450b8c0d78c952bb9": {
+            "ntyfi74": {
+                "text": "People still pay for Adobe Creative Cloud? We just put this into an end of long years subscription and never been this good."
+            }
+        },
+        "944a47f5e698c3bf67672daf18ca9b45": {
+            "ntypyvs": {
+                "text": "Cool idea!"
+            }
+        },
+        "1d913c45d8e7123fcd998a86cba7011e": {
+            "ntysc2y": {
+                "text": "Thanks this is really good, one note though: no need to convert the prices from USD to other currencies. If I set “50” in a subscription I am assuming it to be 50 of the currency I selected. What is this type of view called? It’s similar to WinDirStat"
+            }
+        },
+        "05dd7ab70927597292c9e68a3d0f6076": {
+            "ntzp58o": {
+                "text": "Damn, I could save at least $360 by cutting out the gym."
+            }
+        },
+        "6b43daecefba466578e2a11be4bba88f": {
+            "nu0i1e4": {
+                "text": "Nice design! Can you share please your portofolio website?"
+            }
+        },
+        "b36a0e5f6e4dea1082fddff17fafbfc3": {
+            "nu0luhi": {
+                "text": "What approach or idea to make the layout fill out? i'm also implementing a start menu windows phone like."
+            }
+        },
+        "74baa1791ce7284067a48ef93cfa6a3f": {
+            "nu0s0in": {
+                "text": "may I ask how the layout algorithm works?"
+            }
+        },
+        "dc31a06883a9115830e74c23c5514b3a": {
+            "nu26adg": {
+                "text": "Upvoted cuz its open source"
+            }
+        },
+        "4113d575705d288e9befbe275297b5a1": {
+            "nu3c35i": {
+                "text": "wow. looks nice"
+            }
+        },
+        "9d557567939d8920d4b791598b41cd88": {
+            "nu42td9": {
+                "text": "cool"
+            }
+        },
+        "2fdcbe86e29b92855120e5bd5f698dc7": {
+            "nu4gvv8": {
+                "text": "That's creative. Looks awesome."
+            }
+        },
+        "8b23b49e781da807f785155ee36bc33b": {
+            "nu4kg9t": {
+                "text": "As a backend developer I only need the Netflix subscription an no tracker"
+            }
+        },
+        "b693a090651b8951900ab71c3dede330": {
+            "nu5ccvf": {
+                "text": "I'm newbie to Web Dev. This looks very interesting as a project. I'll give a try! Great work OP!"
+            }
+        },
+        "8c2589ef2d1e74b68958654d773e0eb6": {
+            "nu7dmzd": {
+                "text": "clever design!"
+            }
+        },
+        "aab607782e1d2ef4812f9081bcd815d3": {
+            "nu7gl36": {
+                "text": "Man this is a cool concept! Good work!"
+            }
+        },
+        "65631e3a8252ffb8dfcc4e7e3dea6ad5": {
+            "nu7n0no": {
+                "text": "Oh this must have been fun maths man! Jealous. Hope you enjoyed the ride!"
+            }
+        },
+        "c12d5697586482ddd6e12409862570dc": {
+            "nuar2jx": {
+                "text": "This is great! Easy to visualise which services take up more budget."
+            }
+        },
+        "66d65b3da50697177f55e68199d0d9e6": {
+            "nudrsst": {
+                "text": "That's a killer idea! You should try to sell it to Rocket Money or a company like that, it'd be an awesome feature in an already established finance tracking app"
+            }
+        },
+        "3d91ccba41df4a553dcf89a3461d0bea": {
+            "nuejcp6": {
+                "text": "Beautifully designed and super useful :) well done"
+            }
+        },
+        "9340425c45cd7d24a2c1f58dac9a1596": {
+            "nugbfh7": {
+                "text": "Nice, well I guess you can now add sections, so that you can add other expenses You have a nice presentation already."
+            }
+        },
+        "12adc9e4402a933695f5cb33e189759c": {
+            "nuhgh94": {
+                "text": "Looks nice. But I rather would have a nose in which I can set a own value for my subscriptions. Some of the most expensive ones would still yield the cheapest to me"
+            }
+        },
+        "5e4d24edac06fb0016ace3c6d6cae620": {
+            "nui9iof": {
+                "text": "Can this tool send notification when users choose to renew or cancel their subscription?"
+            },
+            "nvd1iy9": {
+                "text": "oh"
+            }
+        },
+        "32c09104c88360c0bbe4d21798da921d": {
+            "nuj1l99": {
+                "text": "Duolingo?"
+            }
+        },
+        "15d696c0d16e91ac84f79f68cd96f7f3": {
+            "nut4omt": {
+                "text": "Nice! Any plans to make vexly a mobile app"
+            },
+            "nuun8ji": {
+                "text": "Alright will check it out!"
+            }
+        },
+        "1051467cf80fbd6997c3d5ce93053d75": {
+            "nuzptuk": {
+                "text": "thats sickkk"
+            }
+        },
+        "a2c5ed5960c86a6b169b76f1ba3dcc5a": {
+            "nuzxp0e": {
+                "text": "Didn’t expect a UI to expose me like this. Nicely done."
+            }
+        },
+        "3b445113e5f991ec14e2c55b4dacc608": {
+            "nv3ebwk": {
+                "text": "That looks very clean! Which tools did you use?"
+            }
+        },
+        "b78ffc74d828a5bd39347b34ee3e1c2d": {
+            "nvhbuzy": {
+                "text": "Nice"
+            }
+        },
+        "f2704ce4c3f61abae0c32bd310b4a1e8": {
+            "nw288pi": {
+                "text": "Love the overview, puts it in perspective. Apple feels so small compared to the rest. But considering that probably every apple user has one it adds up."
+            }
+        },
+        "b90cfba76471c269db6d3c376ec372a5": {
+            "nwdvmyb": {
+                "text": "Clean idea. The treemap makes the pain instantly visible, and no signup + local data is a huge trust win. This feels like one of those tools people try “just to look” and then actually rethink a few subscriptions."
+            }
+        },
+        "3e57efe4084c0b9db6f36c3ad776fdf8": {
+            "nwjdnso": {
+                "text": "good looking"
+            }
+        },
+        "f962bd7a8f0048ecb8cd7f62e0ac33b8": {
+            "nxaaul8": {
+                "text": "Oh thats really goood! :D"
+            }
+        },
+        "d243b1ea91df4d00156c1d7ef93b6eb3": {
+            "nyhsj6e": {
+                "text": "Cool"
+            }
+        },
+        "e222bc009594444fb0e1350e2bb966a6": {
+            "nyurzc1": {
+                "text": "Woah, this is a great visualizer, I feel like for some reason there really hasn't been many of these, so seeing this in this subreddit is great! I would just make the cards a bit more consistent: logo shape & placeholder, cards gradient, but looks nice!"
+            }
+        },
+        "4b82c0448507f47a437f7c70cb03d82a": {
+            "oaa9w2s": {
+                "text": "This is such a cool tool! I write a newsletter that has some personal finance tips and I included your site. Thank you for making it!"
+            }
+        },
+        "32b6dcb52b2d693499248ec84e53dea1": {
+            "ntu407l": {
+                "text": "Never bought any subscription, and never will. Ever. Am I morally wrong, that my only subscription is for Internet itself ? Sail the seas 🏴‍☠️"
+            }
+        },
+        "55aab9cefe2282c366abceed97f3568f": {
+            "ntuybkj": {
+                "text": "There are some that are worth it like Jetbrains products where you get a perpetual licence for the years you've paid for, so you can cancel and use that version forever. Media ones are dog shit though, I buy music but films and TV are impossible to find DRM free."
+            }
+        }
+    }
+}

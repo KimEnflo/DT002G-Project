@@ -1,0 +1,2269 @@
+{
+    "Question asker": {
+        "positive": [
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7x4ft",
+                "comment": "that could actually be interesting. What kind of game do you have in mind?",
+                "polarity": 0.5626599999999999,
+                "parent": "make it into a video game",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49167788505554205
+                    ],
+                    [
+                        "Solution Provider",
+                        0.328671378493309
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32493786096572874
+                    ],
+                    [
+                        "Critic",
+                        0.31948227882385255
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "ofx9wux",
+                "comment": "would you like to have it on steam?",
+                "polarity": 0.68356,
+                "parent": "This is really cool. Thanks for showing and providing link.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5298310351371766
+                    ],
+                    [
+                        "Technical explainer",
+                        0.35402817368507383
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33749921798706056
+                    ],
+                    [
+                        "Critic",
+                        0.3258110421895981
+                    ]
+                ]
+            },
+            {
+                "user": "61768e4dbbcb6618db118445c90c621d",
+                "message_id": "ocmjhvf",
+                "comment": "I was thinking.. would it be somehow good for compensating person with vision problems forcing the focus outside the video plane and thus allowing the text in the foreground to be read (or the opposite) ?",
+                "polarity": 0.4144,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4716462349891663
+                    ],
+                    [
+                        "Technical explainer",
+                        0.336282479763031
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3237201929092407
+                    ],
+                    [
+                        "Critic",
+                        0.3196286022663116
+                    ]
+                ]
+            },
+            {
+                "user": "8d469ff122b487907bb8396a9e4c4d17",
+                "message_id": "oa5x7is",
+                "comment": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+                "polarity": 0.8573600000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5033285981416702
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3204603552818298
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3176300168037415
+                    ],
+                    [
+                        "Critic",
+                        0.3123729079961777
+                    ]
+                ]
+            },
+            {
+                "user": "446ddeedd76160b19637f2c95430afa2",
+                "message_id": "oa5apo9",
+                "comment": "That is cool. How can I get it?",
+                "polarity": 0.44548,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5126844799518586
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32436782121658325
+                    ],
+                    [
+                        "Critic",
+                        0.30859705805778503
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3077416062355042
+                    ]
+                ]
+            },
+            {
+                "user": "fc2a8a718cefa2f8c038adbb7ff0a7ed",
+                "message_id": "oad6vyo",
+                "comment": "something where you peak around corners irl and it does it in-game lol",
+                "polarity": 0.6897,
+                "parent": "that could actually be interesting. What kind of game do you have in mind?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4858322286605835
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3929410284757614
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36262379825115204
+                    ],
+                    [
+                        "Critic",
+                        0.31745001494884495
+                    ]
+                ]
+            },
+            {
+                "user": "7d73626b2e953d59f3cf389f739a3b78",
+                "message_id": "oack920",
+                "comment": "Ohh, okay so this is still under develepment, but I registered my email already. Thank man. I like it. Would you be able to share it as well to [ so other users can also give their feedback?",
+                "polarity": 1.27134,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4942596828937531
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32904691696166993
+                    ],
+                    [
+                        "Critic",
+                        0.3164007804999893
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3157312750816345
+                    ]
+                ]
+            },
+            {
+                "user": "8d04391aef0cd9fc2b7e482d43dc6ee4",
+                "message_id": "oa6jx3g",
+                "comment": "Awesome, what tools did you use for this?",
+                "polarity": 0.87486,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47902382373809815
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32652672827243806
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30889160335063937
+                    ],
+                    [
+                        "Critic",
+                        0.3027265965938568
+                    ]
+                ]
+            },
+            {
+                "user": "d189c7817490668b33648dece76763c4",
+                "message_id": "oa70bau",
+                "comment": "maybe because its fun? Not every project needs a purpose.",
+                "polarity": 0.8543600000000001,
+                "parent": "Cool. But why? Could it be updated to work like a 3d vision? Looking at a car render in 3d by bending around?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4876858967542648
+                    ],
+                    [
+                        "Solution Provider",
+                        0.40324898302555084
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37362375795841213
+                    ],
+                    [
+                        "Critic",
+                        0.32681605041027073
+                    ]
+                ]
+            },
+            {
+                "user": "5285c80be2df16e82bcc08047fddfff8",
+                "message_id": "oa7ux01",
+                "comment": "This is genuinely clever. The parallax-through-a-window effect is something I have seen done in mobile wallpapers but rarely pulled off well on desktop. Have you considered using facial landmark detection instead of just head position? It might give you smoother tracking since you would have more stable reference points to work with.",
+                "polarity": 0.7525,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4778795635700226
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33313235342502595
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3302063226699829
+                    ],
+                    [
+                        "Critic",
+                        0.3205468267202377
+                    ]
+                ]
+            },
+            {
+                "user": "94e1c0bb1078c58a3f53617d858cd431",
+                "message_id": "oa80wq7",
+                "comment": "This is a really cool idea. That kind of interactive, 3D effect is always satisfying to see. Reminds me of those old-school holographic trading cards, but way more advanced. As someone building I'm always fascinated by how interfaces can change our perception and behavior. You're literally changing how someone sees their environment with a head movement. In trading, the problem is often that our perception of the chart gets distorted by our own psychology, and we need tools to help us see it clearly again. What was the biggest technical hurdle you ran into while getting the motion tracking to feel responsive and natural?",
+                "polarity": 1.32538,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48110124528408055
+                    ],
+                    [
+                        "Critic",
+                        0.34929010246163034
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3347871587815279
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3304761677980423
+                    ]
+                ]
+            },
+            {
+                "user": "7301d94c7acb09be8934eaf3159e2c63",
+                "message_id": "oadrcfn",
+                "comment": "This is using the webcam? i always wondered what would it be like for multiple people to watch this",
+                "polarity": 0.50568,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49291147053241735
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3360385447740555
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32802978754043577
+                    ],
+                    [
+                        "Critic",
+                        0.3198309808969498
+                    ]
+                ]
+            },
+            {
+                "user": "e0086354213b45a4555c6f038d5f9609",
+                "message_id": "oadsmk4",
+                "comment": "Only shifts perspective when you’re looking for feedback? Nifty.",
+                "polarity": 0.5626599999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46342863202095036
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31389904022216797
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3050491213798523
+                    ],
+                    [
+                        "Critic",
+                        0.2997248381376266
+                    ]
+                ]
+            },
+            {
+                "user": "f42de01e6e8c80c2103ca49ccff0c643",
+                "message_id": "oaendoa",
+                "comment": "Et tu penses quoi de tes shoes du coup ? 😁",
+                "polarity": 0.64232,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.2358857645094395
+                    ],
+                    [
+                        "Solution Provider",
+                        0.06813440844416618
+                    ],
+                    [
+                        "Critic",
+                        0.06778017282485962
+                    ],
+                    [
+                        "Technical explainer",
+                        0.06044363453984261
+                    ]
+                ]
+            },
+            {
+                "user": "5d52c0f76891048e9d81c8009742855a",
+                "message_id": "oaeulw8",
+                "comment": "Sign me up! I love it! Does it work for Linux/OSX?",
+                "polarity": 0.97832,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4610546624660492
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2987750083208084
+                    ],
+                    [
+                        "Critic",
+                        0.2843522191047668
+                    ],
+                    [
+                        "Technical explainer",
+                        0.27913695871829985
+                    ]
+                ]
+            },
+            {
+                "user": "a672913a87a95c25582a4b2d318b59ad",
+                "message_id": "oag0sdo",
+                "comment": "This is really impressive technical work! The head-tracking parallax effect is incredibly smooth. Using WebGL/ for this kind of head-pose estimation + perspective manipulation is the right call performance-wise. A few questions that might help as you develop HollowScope further: - Performance on lower-end devices? Head tracking + rendering effects can get heavy - Mobile support? Phone gyroscope for mobile devices could be next frontier - Battery drain on the device running this? The polish is genuinely impressive for a side project. The transitions are buttery and the effect is mesmerizing. Definitely has commercial potential if you lean into VR/AR experiences.",
+                "polarity": 1.29878,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.476640260219574
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33714136572527803
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3233069658279419
+                    ],
+                    [
+                        "Critic",
+                        0.3127846747636795
+                    ]
+                ]
+            },
+            {
+                "user": "cd0a8a3681d1b582d8dd1615036cdc56",
+                "message_id": "oah7bgl",
+                "comment": "Is this free?",
+                "polarity": 0.7829200000000001,
+                "parent": "It’s basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is. If you’re curious, I put a demo and more info here:",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49265068590641026
+                    ],
+                    [
+                        "Technical explainer",
+                        0.33656639094433727
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31716212928295134
+                    ],
+                    [
+                        "Critic",
+                        0.2990984350442887
+                    ]
+                ]
+            },
+            {
+                "user": "4c5f545fe62091893044ae51dac1ade7",
+                "message_id": "ob17uqp",
+                "comment": "This is awesome. Is it compatible with a dual screen setup?",
+                "polarity": 0.87486,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4466083204746247
+                    ],
+                    [
+                        "Solution Provider",
+                        0.30049561262130736
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2994942545890808
+                    ],
+                    [
+                        "Critic",
+                        0.29168382883071897
+                    ]
+                ]
+            },
+            {
+                "user": "e832914ad05f0f5ef9621e42410daea3",
+                "message_id": "oc65vfb",
+                "comment": "That is so cool! How long did it take you to build it?",
+                "polarity": 0.71106,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4896767503023148
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3302591025829315
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31524751484394076
+                    ],
+                    [
+                        "Critic",
+                        0.3123675674200058
+                    ]
+                ]
+            },
+            {
+                "user": "88c7c2e13a3f4c7820721fe09a4ab835",
+                "message_id": "ocbcr87",
+                "comment": "That's really cool!!! Can you make it work on the lock screen?",
+                "polarity": 0.75264,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46942182242870334
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31530991196632385
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3033352762460709
+                    ],
+                    [
+                        "Critic",
+                        0.29702346622943876
+                    ]
+                ]
+            },
+            {
+                "user": "2ffabf2349b3cec3fa1c5eb51ff05011",
+                "message_id": "ocqqfl8",
+                "comment": "How to use It??? I definitely wants that, I missed those kind of stuffs from old windows era",
+                "polarity": 0.36301999999999995,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4856400674581528
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32056891918182373
+                    ],
+                    [
+                        "Critic",
+                        0.31372901797294617
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3107211053371429
+                    ]
+                ]
+            },
+            {
+                "user": "664078de3a4d0009ce53c9ecc4bbab97",
+                "message_id": "oa60asj",
+                "comment": "Cool project. But it won't work for multiple people watching, right?",
+                "polarity": 0.1655,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47930572688579565
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3216832220554352
+                    ],
+                    [
+                        "Critic",
+                        0.31429716348648074
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31319116353988646
+                    ]
+                ]
+            },
+            {
+                "user": "c784d25a82e9de79b45f3ac3006375a9",
+                "message_id": "oa63hb1",
+                "comment": "Cool idea! Wouldn't it block the use of the camera for meetings or other purposes while the wallpaper is running?",
+                "polarity": 0.85694,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4696996158361435
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3314597517251968
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3238175332546234
+                    ],
+                    [
+                        "Critic",
+                        0.3127123475074768
+                    ]
+                ]
+            },
+            {
+                "user": "502551c4a2be4f28508d4f34fe46153f",
+                "message_id": "oa6h6aa",
+                "comment": "Yes Cool Maybe add a bit more of ambiance ? Like dust particle, blur, fog… Really really cool side project",
+                "polarity": 1.1963000000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45376805126667025
+                    ],
+                    [
+                        "Solution Provider",
+                        0.29807883501052856
+                    ],
+                    [
+                        "Critic",
+                        0.29126348793506623
+                    ],
+                    [
+                        "Technical explainer",
+                        0.29124402403831484
+                    ]
+                ]
+            },
+            {
+                "user": "2066b4562134fcc45b83612f7a9a792e",
+                "message_id": "oa85m29",
+                "comment": "Very impressive. What did you make this in? Was it vibe coded? Got a GitHub I can look at?",
+                "polarity": 0.88046,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4852966225147248
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32356118559837344
+                    ],
+                    [
+                        "Critic",
+                        0.3111415296792984
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3110077440738678
+                    ]
+                ]
+            },
+            {
+                "user": "c9e8c99c8e1e0f100cad3b040c819c5b",
+                "message_id": "oa8x9nr",
+                "comment": "Ooooh I wanted to build this too! Do you have it for Mac as well?",
+                "polarity": 0.47348,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4823656058311463
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32421254813671113
+                    ],
+                    [
+                        "Critic",
+                        0.30267091691493986
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30053981840610505
+                    ]
+                ]
+            },
+            {
+                "user": "30fc4b7d5b2549c3113287ce9409b78a",
+                "message_id": "oa9j1g8",
+                "comment": "Interesting idea. What was the hardest part of building it?",
+                "polarity": 0.5626599999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4736006146669388
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32371126413345336
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31294291019439696
+                    ],
+                    [
+                        "Critic",
+                        0.31273542046546937
+                    ]
+                ]
+            },
+            {
+                "user": "0b6f1d7a0d5a5d4996ccf772428fecd9",
+                "message_id": "oac5yeb",
+                "comment": "Can you take advantage of this illusion and make cool anime wallpapers or something",
+                "polarity": 0.7148400000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.46434560477733616
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3136448204517365
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3068165391683578
+                    ],
+                    [
+                        "Critic",
+                        0.29455559849739077
+                    ]
+                ]
+            },
+            {
+                "user": "bc593d2e61b380d0515275f5e5dd1c51",
+                "message_id": "oavcj2r",
+                "comment": "Awesome! im intrigued to know how it works, is it an actual illusion or does it use the laptops camera to track motion position?",
+                "polarity": 0.92232,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48530129551887513
+                    ],
+                    [
+                        "Solution Provider",
+                        0.33080225586891177
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3275200963020325
+                    ],
+                    [
+                        "Critic",
+                        0.3183039724826813
+                    ]
+                ]
+            },
+            {
+                "user": "4ac483cae7897f215ae2711c486ba198",
+                "message_id": "oeyqsj3",
+                "comment": "Awesome! How did you go about building it?",
+                "polarity": 0.92232,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4831762886047364
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3164591372013092
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2981747776269913
+                    ],
+                    [
+                        "Critic",
+                        0.29806784093379973
+                    ]
+                ]
+            },
+            {
+                "user": "81f53ebf64186abd22cd0890617950b8",
+                "message_id": "ofi2ru1",
+                "comment": "That's amazing! How did you do that?",
+                "polarity": 0.87346,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.48928167283535007
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31714204251766204
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3029709070920944
+                    ],
+                    [
+                        "Critic",
+                        0.3020167797803879
+                    ]
+                ]
+            },
+            {
+                "user": "60dc66d74774419b4cf8061a3238fbd1",
+                "message_id": "oewe9ed",
+                "comment": "Good execution on the webcam tracking. If you’re looking for real feedback: the tech is a 10, but the market fit is currently a question mark. You’ve got the 97% of people saying 'cool,' but have you found the 3% who would actually pay for an immersive desktop environment?",
+                "polarity": 1.0661,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4887080848217011
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32724319994449613
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3266933083534241
+                    ],
+                    [
+                        "Critic",
+                        0.31413148045539857
+                    ]
+                ]
+            },
+            {
+                "user": "60004ff10f3e1914f449b3956df48811",
+                "message_id": "oa633rr",
+                "comment": "Cool. But why? Could it be updated to work like a 3d vision? Looking at a car render in 3d by bending around?",
+                "polarity": 1.1018000000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4661128348112107
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3155145227909088
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3095346212387085
+                    ],
+                    [
+                        "Critic",
+                        0.30308839976787566
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "92456fee103f21fa075b95957d2af5e9",
+                "message_id": "oa7ydh1",
+                "comment": "how deep can we go? asking for inception 2 plot.",
+                "polarity": 0.0,
+                "parent": "This is a side to side project. It has actual depth.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.5122832614183426
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3488988131284714
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3378988564014435
+                    ],
+                    [
+                        "Critic",
+                        0.30982518255710606
+                    ]
+                ]
+            },
+            {
+                "user": "aa89ce9665ea78dda87cc6507f22123e",
+                "message_id": "oa6lmcz",
+                "comment": "just vibe code your own Edit: what did i do?",
+                "polarity": 0.0,
+                "parent": "That is cool. How can I get it?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49604845762252814
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3988579738140106
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3505913174152374
+                    ],
+                    [
+                        "Critic",
+                        0.3129963916540146
+                    ]
+                ]
+            },
+            {
+                "user": "052aacca066120c7e163092eb80f3b7d",
+                "message_id": "oa682yr",
+                "comment": "What if two person are staring at the screen, who will it track?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47865565776824953
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3225308507680893
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31852103769779205
+                    ],
+                    [
+                        "Critic",
+                        0.3103271543979645
+                    ]
+                ]
+            },
+            {
+                "user": "b16311b04c5245cedc27bda80bd60ac2",
+                "message_id": "oelmm35",
+                "comment": "Why would teh whole neighbourhood come to watch your screen?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4714879161119461
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3108632773160934
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30344298481941223
+                    ],
+                    [
+                        "Critic",
+                        0.2970263034105301
+                    ]
+                ]
+            },
+            {
+                "user": "c4125f31b3107db0ee81a8016c36f3c7",
+                "message_id": "oa5vvee",
+                "comment": "is it running with the camera on? if not, that's awesome. if it uses the camera that's cool as well",
+                "polarity": 0.0274,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.47772739887237553
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32838545739650726
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3231214851140976
+                    ],
+                    [
+                        "Critic",
+                        0.3163986176252365
+                    ]
+                ]
+            },
+            {
+                "user": "d45eeeb4bf9437e5bf0cbc74c81cec8d",
+                "message_id": "oa6lqf0",
+                "comment": "Doesn't this use the webcam all the time?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4808534926176071
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3237471044063568
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3235829442739487
+                    ],
+                    [
+                        "Critic",
+                        0.3139717638492584
+                    ]
+                ]
+            },
+            {
+                "user": "598e2a74f2a70b75b628fcfb85a72adc",
+                "message_id": "oa7sqlv",
+                "comment": "A câmera vai ficar filmado o tempo todo? Como você lida com privacidade e segurança?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.1951839113980532
+                    ],
+                    [
+                        "Solution Provider",
+                        0.023251249268651006
+                    ],
+                    [
+                        "Critic",
+                        0.01760249473154545
+                    ],
+                    [
+                        "Technical explainer",
+                        0.0038173942361027
+                    ]
+                ]
+            },
+            {
+                "user": "32528baccab67e4c53e2e71ba6c4bc72",
+                "message_id": "oag0z43",
+                "comment": "What happens when 2 people look at it and go opposite sides at the same time ?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4731615817546845
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3210151493549347
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3148358315229416
+                    ],
+                    [
+                        "Critic",
+                        0.30718618631362915
+                    ]
+                ]
+            },
+            {
+                "user": "b070eeb0b63df09d9598bed629c594fb",
+                "message_id": "oa9vxij",
+                "comment": "Quick Clarification: if 2 people look at the wallpaper at the same time, Both will see the illusion?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4682906842231751
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3211967498064041
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31750125885009767
+                    ],
+                    [
+                        "Critic",
+                        0.3048877567052841
+                    ]
+                ]
+            },
+            {
+                "user": "879755b80690bcbaff3f208e31a6706a",
+                "message_id": "oa9zrv7",
+                "comment": "I was looking for ti build me a webaite with this effect. Is it possible, or it needs camera acses for it?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4789139246940613
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3291933864355087
+                    ],
+                    [
+                        "Technical explainer",
+                        0.322461673617363
+                    ],
+                    [
+                        "Critic",
+                        0.31639997363090516
+                    ]
+                ]
+            },
+            {
+                "user": "96c659e99703ced8fb106af388249eb4",
+                "message_id": "oaa8owd",
+                "comment": "Does this Work on any Laptop what Laptop ist this?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4619312679767609
+                    ],
+                    [
+                        "Solution Provider",
+                        0.29962436854839325
+                    ],
+                    [
+                        "Critic",
+                        0.29952515065670016
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2970643550157547
+                    ]
+                ]
+            },
+            {
+                "user": "151aaa0ef84da8040e8c088849adcaef",
+                "message_id": "oadf9od",
+                "comment": "Going to release the source code as oss?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4385906344652176
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2958966255187988
+                    ],
+                    [
+                        "Solution Provider",
+                        0.2950302004814148
+                    ],
+                    [
+                        "Critic",
+                        0.28275918364524844
+                    ]
+                ]
+            },
+            {
+                "user": "41795f01065cbb8eb005c2b7427498ae",
+                "message_id": "obxhsyg",
+                "comment": "I've never understood how these work, on this or on iphone. Is it using the camera to see where I'm looking from?",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4876102811098099
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3322414577007294
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32407225370407106
+                    ],
+                    [
+                        "Critic",
+                        0.3162867993116379
+                    ]
+                ]
+            },
+            {
+                "user": "7077cf2fd8ffbe0de9c46880da8e9e06",
+                "message_id": "oa60gze",
+                "comment": "Buddy, are you planning on open sourcing the code??",
+                "polarity": 0.0,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.45430365264415745
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3076846539974213
+                    ],
+                    [
+                        "Technical explainer",
+                        0.29933941960334776
+                    ],
+                    [
+                        "Critic",
+                        0.2882517158985138
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "cd0a8a3681d1b582d8dd1615036cdc56",
+                "message_id": "oah4eu6",
+                "comment": "How did you do this? This is insane",
+                "polarity": -0.5626599999999999,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.49721184432506565
+                    ],
+                    [
+                        "Solution Provider",
+                        0.32385790050029756
+                    ],
+                    [
+                        "Critic",
+                        0.31950094997882844
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3122977018356323
+                    ]
+                ]
+            },
+            {
+                "user": "c999e87dd76c592719e621bb5fac154d",
+                "message_id": "oa6dg77",
+                "comment": "It is cool, but how much of the computer's resources does it take to keep it as a wallpaper? That scares me a little.",
+                "polarity": -0.49084000000000005,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4859119361639023
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3293205589056015
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32843298017978667
+                    ],
+                    [
+                        "Critic",
+                        0.32162468433380126
+                    ]
+                ]
+            },
+            {
+                "user": "5feba13f421480f90022bbc2f50b9438",
+                "message_id": "ocri43y",
+                "comment": "I feel trapped, can I at least get a gun or a grenade or something?",
+                "polarity": -0.9804200000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.4693550652265549
+                    ],
+                    [
+                        "Solution Provider",
+                        0.31189121305942535
+                    ],
+                    [
+                        "Technical explainer",
+                        0.29956580996513366
+                    ],
+                    [
+                        "Critic",
+                        0.2994692623615265
+                    ]
+                ]
+            }
+        ]
+    },
+    "Solution Provider": {
+        "positive": [
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7uzpm",
+                "comment": "Thanks! 😄 I'm turning it into a small project called HollowScope and working on a beta version. If you're curious or want to try it when it's ready: holoscape",
+                "polarity": 1.3057,
+                "parent": "That is a COOL side project! Finally a real side project :D Looks great!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4939897662401199
+                    ],
+                    [
+                        "Question asker",
+                        0.3229765659570694
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32123771369457244
+                    ],
+                    [
+                        "Critic",
+                        0.3117142730951309
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7v8i3",
+                "comment": "Haha yeah that scene was definitely part of the inspiration I'm turning this into a small project called HollowScope and working on a beta version. If you're curious to try it when it's ready:",
+                "polarity": 1.3081,
+                "parent": "It's like mission impossible ghost protocol scene...wow",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49167188942432405
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32669342100620274
+                    ],
+                    [
+                        "Question asker",
+                        0.325503426194191
+                    ],
+                    [
+                        "Critic",
+                        0.31606455624103547
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7vho4",
+                "comment": "Yeah exactly! Johnny Lee’s Wii remote demo was actually a big inspiration for this. I wanted to see if a similar effect could be done using just a webcam instead of IR tracking. I'm turning it into a small project called HollowScope and working on a beta version. If you're curious, you can join the waitlist here:",
+                "polarity": 1.19742,
+                "parent": "This reminds me of what Johnny Lee did using the Wii sensor bar...",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4933747780323029
+                    ],
+                    [
+                        "Question asker",
+                        0.3238071691989899
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3227792751789093
+                    ],
+                    [
+                        "Critic",
+                        0.31328327596187594
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7wzed",
+                "comment": "Yeah that’s a good idea. I should test something like that. It might feel like the person is inside the screen when you move around. Right now the demo is using a simple 3D scene",
+                "polarity": 1.21224,
+                "parent": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5729004263877869
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3798808270692825
+                    ],
+                    [
+                        "Question asker",
+                        0.33933713555336
+                    ],
+                    [
+                        "Critic",
+                        0.33002470195293426
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7vvfw",
+                "comment": "Thanks! I'm still polishing it. I'm turning it into a small project called HollowScope and preparing a beta version. If you want to try it when it's ready you can join the waitlist here:",
+                "polarity": 1.14512,
+                "parent": "That is cool. How can I get it?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5749669790267945
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3691514718532562
+                    ],
+                    [
+                        "Question asker",
+                        0.3388301867246628
+                    ],
+                    [
+                        "Critic",
+                        0.3244982169280594
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7xh3f",
+                "comment": "Thanks! I'm still polishing it and preparing a beta. I'm turning it into a small project called HollowScope. If you want to try it when it's ready you can join the waitlist here:",
+                "polarity": 1.1615600000000001,
+                "parent": "This is amazing. Do you have the copy or link so we can also try?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5052452981472015
+                    ],
+                    [
+                        "Question asker",
+                        0.37584491848945617
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3594570279121399
+                    ],
+                    [
+                        "Critic",
+                        0.3346449701200073
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7umfk",
+                "comment": "Haha thanks 😄 I'm preparing a beta version right now. You can join the early access list here:",
+                "polarity": 1.27852,
+                "parent": "Take my money!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48192867994308475
+                    ],
+                    [
+                        "Question asker",
+                        0.30908758163452144
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30391044378280635
+                    ],
+                    [
+                        "Critic",
+                        0.2947995460033417
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oah6nbj",
+                "comment": "Haha yeah the webcam needs to be on while it runs, but all the tracking happens locally , nothing gets recorded or sent anywhere. If you want to try it or see a demo:",
+                "polarity": 0.84632,
+                "parent": "So i have to keep my webcam on? Nice try goverment! Jk looks cool and definitely want to try it.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5005990844964981
+                    ],
+                    [
+                        "Question asker",
+                        0.3723915284872055
+                    ],
+                    [
+                        "Technical explainer",
+                        0.36342765033245084
+                    ],
+                    [
+                        "Critic",
+                        0.3352087873220444
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oamxa44",
+                "comment": "Thanks! Yeah, that’s exactly the idea — making it work with standard hardware so anyone can try it without special devices. I’m still improving the tracking and rendering, but if you’re curious you can join the waitlist here:",
+                "polarity": 1.21892,
+                "parent": "This is fantastic. I've heard there are Pinball trackers that use Kinect but if this can use standard equipment that would be fun!",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5062623816728592
+                    ],
+                    [
+                        "Question asker",
+                        0.3770384222269058
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3682651150226593
+                    ],
+                    [
+                        "Critic",
+                        0.3450488339076584
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "ob1am0y",
+                "comment": "Yep! You can choose your screen in the settings tab — it’s actually live right now:",
+                "polarity": 0.66526,
+                "parent": "This is awesome. Is it compatible with a dual screen setup?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.55957790017128
+                    ],
+                    [
+                        "Technical explainer",
+                        0.35917063176631925
+                    ],
+                    [
+                        "Question asker",
+                        0.3172166693210602
+                    ],
+                    [
+                        "Critic",
+                        0.30811223030090334
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7y737",
+                "comment": "Good point. Right now you can’t do a call and run the wallpaper at the same time. I’m working on making it automatically stop using the camera when another app (like a meeting app) needs it. I’ll try to send an update to the waitlist here when that’s implemented:",
+                "polarity": 0.8146599999999999,
+                "parent": "Cool idea! Wouldn't it block the use of the camera for meetings or other purposes while the wallpaper is running?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5756136310100556
+                    ],
+                    [
+                        "Technical explainer",
+                        0.37741902172565456
+                    ],
+                    [
+                        "Question asker",
+                        0.3312818443775177
+                    ],
+                    [
+                        "Critic",
+                        0.3257102966308594
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7yh79",
+                "comment": "Thanks! Glad you like it 😄I'm turning it into a small project called HollowScope. You can join the waitlist here if you're curious:",
+                "polarity": 1.33554,
+                "parent": "Whoa, that’s excellent",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49068768382072453
+                    ],
+                    [
+                        "Question asker",
+                        0.3254330784082413
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31472548604011535
+                    ],
+                    [
+                        "Critic",
+                        0.3065677058696747
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7z655",
+                "comment": "Good question! I actually put together a page where I replied to most of the common questions since a lot of them were similar. If you're interested you can check it out and join the waitlist here:",
+                "polarity": 0.9180600000000001,
+                "parent": "It is cool, but how much of the computer's resources does it take to keep it as a wallpaper? That scares me a little.",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5746913009881973
+                    ],
+                    [
+                        "Technical explainer",
+                        0.377377210855484
+                    ],
+                    [
+                        "Question asker",
+                        0.3509013086557388
+                    ],
+                    [
+                        "Critic",
+                        0.3265038770437241
+                    ]
+                ]
+            },
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oa7tzex",
+                "comment": "Wow I didn’t expect this to blow up 😅 For people asking: I'm turning it into a small project called HollowScope. I'm opening a small beta soon if people want to try it. You can join the waitlist here: holoscape Also curious what features you'd want next.",
+                "polarity": 1.2404000000000002,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.49436008095741274
+                    ],
+                    [
+                        "Question asker",
+                        0.32911121249198916
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31772324740886687
+                    ],
+                    [
+                        "Critic",
+                        0.31106843054294586
+                    ]
+                ]
+            },
+            {
+                "user": "893ef1973164b43e572db27fba45c0c3",
+                "message_id": "oa7k2uq",
+                "comment": "You can create a depth map of an image and use it to displace with the head movement, I think it would look like a person in a box.",
+                "polarity": 0.8864000000000001,
+                "parent": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5702975338697434
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3795284825563431
+                    ],
+                    [
+                        "Question asker",
+                        0.3283322149515152
+                    ],
+                    [
+                        "Critic",
+                        0.3208465045690536
+                    ]
+                ]
+            },
+            {
+                "user": "03b58a468ddaf63d91a772b6ce16e388",
+                "message_id": "oa6pmxx",
+                "comment": "Hey, GreatJob! I like it so cool. Althought its a amazing job indeed, but in my ways, a good desktop wallpaper for using only can in two sides. First, it make me feel joyful thus i can dive work easily. In breif expression, maybe visual-enjoyment. Another cast, i like wallpapers which make my desktop icons more distinguishable. So the work maybe not common for daily use. But you can got this more attractive, inserting images or controlling smaller amplitude of movement. Maybe useful in daily work.",
+                "polarity": 1.3732600000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48626668810844426
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32223384380340575
+                    ],
+                    [
+                        "Critic",
+                        0.31347678005695345
+                    ],
+                    [
+                        "Question asker",
+                        0.31347204446792604
+                    ]
+                ]
+            },
+            {
+                "user": "003f74db724d088449100d25b8fed7fa",
+                "message_id": "oa7cg20",
+                "comment": "I’ve had this idea for well over twenty years and never had the gumption to actually try it — this is so cool!",
+                "polarity": 0.92106,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.48614777684211735
+                    ],
+                    [
+                        "Question asker",
+                        0.32166834771633146
+                    ],
+                    [
+                        "Technical explainer",
+                        0.318537226319313
+                    ],
+                    [
+                        "Critic",
+                        0.31227093636989595
+                    ]
+                ]
+            },
+            {
+                "user": "4af5dfacc89436c9015ebc9040a55220",
+                "message_id": "oa804kz",
+                "comment": "The illusion definitely works, we did something like this using wiimotes back in the day. At the time head tracking worked but it wasn't really fast enough for what we wanted. I thought about doing this a hundred times and then I came to the reality that I'm never on my desktop. But the illusion works. The software is really cool. Good work! Now instead of doing this on your desktop, maybe you should put this in a frame and hang it on your wall and make the picture change perspective as you walk by and nobody realizes it's a display. Maybe you can introduce a raspberry pi with an integrated web camera. Something really flat and simple.",
+                "polarity": 1.2455800000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4952846056222916
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3427608632090089
+                    ],
+                    [
+                        "Question asker",
+                        0.3256641626358032
+                    ],
+                    [
+                        "Critic",
+                        0.32082927227020264
+                    ]
+                ]
+            },
+            {
+                "user": "7322a22215fce02b690376494be00b91",
+                "message_id": "oabmecl",
+                "comment": "Wow cool Maybe you can show this to the developers at r/wallpaperengine Maybe they can help you implement this in their software if you want.",
+                "polarity": 1.18188,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5117360016778486
+                    ],
+                    [
+                        "Question asker",
+                        0.3221201479434967
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3152396708726883
+                    ],
+                    [
+                        "Critic",
+                        0.30663135051727297
+                    ]
+                ]
+            },
+            {
+                "user": "90e91003d8ac46575307d82b83016e2a",
+                "message_id": "od5yplv",
+                "comment": "\"using a webcam\" sounds creepy, I wonder if there's a different way to do it because the effect is cool",
+                "polarity": 0.44548,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4888966089487076
+                    ],
+                    [
+                        "Question asker",
+                        0.3271855592727661
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3252646207809448
+                    ],
+                    [
+                        "Critic",
+                        0.3187422752380371
+                    ]
+                ]
+            },
+            {
+                "user": "938bce816b7cd4d1ed5c1272278f54b0",
+                "message_id": "oa8f81n",
+                "comment": "I wish I could try it but I don’t have a Windows machine at the moment.",
+                "polarity": 0.60568,
+                "parent": "Thanks! Glad you like it 😄I'm turning it into a small project called HollowScope. You can join the waitlist here if you're curious:",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4962465524673462
+                    ],
+                    [
+                        "Question asker",
+                        0.37384363532066345
+                    ],
+                    [
+                        "Technical explainer",
+                        0.34557246446609496
+                    ],
+                    [
+                        "Critic",
+                        0.3266479188203812
+                    ]
+                ]
+            },
+            {
+                "user": "ddf5adc7e9c0e0a36da27a03090afe84",
+                "message_id": "oa9sk1m",
+                "comment": "Looks amazing, if you look for feedback, my feedback would be to look into instruments and make sure you can reduce battery usage and memory/ CPU usage ... maybe it's already good, but you asked feedback :)",
+                "polarity": 1.17628,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4911622858047486
+                    ],
+                    [
+                        "Question asker",
+                        0.3307551383972168
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31614658832550047
+                    ],
+                    [
+                        "Critic",
+                        0.31297960579395295
+                    ]
+                ]
+            },
+            {
+                "user": "3608e2a3cc7c3aded4daf24ea12e3c4f",
+                "message_id": "oas50dx",
+                "comment": "Phase 2 Ideas - I know it will be difficult. But do you think you can extend it to multi monitor setups. That would be neat Another thing that can be done is if you can extend it as a framework so that anyone can convert maybe a 360 image or a 3d render into this kind of wallpaper.",
+                "polarity": 1.04566,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4983408546447754
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32834486067295077
+                    ],
+                    [
+                        "Question asker",
+                        0.32739325761795046
+                    ],
+                    [
+                        "Critic",
+                        0.3200513631105423
+                    ]
+                ]
+            },
+            {
+                "user": "4c512f9f4915c33e3236ed9cc12b77bb",
+                "message_id": "odg48rd",
+                "comment": "Woah that looks insanely smooth... wish I could try it on Mac! I did a similar thing with an eye-tracking A/B testing app I just released for iPhone a few weeks ago () that leverages ARKit. What a world we're living in....",
+                "polarity": 0.64036,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4857544726133347
+                    ],
+                    [
+                        "Question asker",
+                        0.3187236040830612
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31528458595275877
+                    ],
+                    [
+                        "Critic",
+                        0.3092663615942001
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "6e7ea06e0bce834b365fc54d9d5af94f",
+                "message_id": "oadd3rd",
+                "comment": "You can do it , any image, any model. Even interact with it",
+                "polarity": 0.0,
+                "parent": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5657618325948716
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3683133101463318
+                    ],
+                    [
+                        "Question asker",
+                        0.32935483932495113
+                    ],
+                    [
+                        "Critic",
+                        0.3195072466135025
+                    ]
+                ]
+            },
+            {
+                "user": "86b3f721bdf34c03e90b4b3f0bf6cabd",
+                "message_id": "oa6xb9c",
+                "comment": "Actually… try googling Parallel Reality by Delta",
+                "polarity": 0.0,
+                "parent": "This will work only for one person. Always will be, you can't solve it",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.46758443534374244
+                    ],
+                    [
+                        "Question asker",
+                        0.3387287586927414
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3310400307178497
+                    ],
+                    [
+                        "Critic",
+                        0.3054444628953934
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "1e20524a6f6897d54c2eeef5330b9611",
+                "message_id": "oa6o8ym",
+                "comment": "This will work only for one person. Always will be, you can't solve it",
+                "polarity": -0.1511,
+                "parent": "What if two person are staring at the screen, who will it track?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.5746454429626465
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3747725659608841
+                    ],
+                    [
+                        "Question asker",
+                        0.33893160641193393
+                    ],
+                    [
+                        "Critic",
+                        0.32937154948711395
+                    ]
+                ]
+            },
+            {
+                "user": "bbfd5379afa2babaccc87e5d6275e476",
+                "message_id": "od08txc",
+                "comment": "You should be on Steam. Just like wallpaper engine this would destroy the market there",
+                "polarity": -0.35,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Solution Provider",
+                        0.4837752884626389
+                    ],
+                    [
+                        "Technical explainer",
+                        0.32039822936058043
+                    ],
+                    [
+                        "Question asker",
+                        0.3141449153423309
+                    ],
+                    [
+                        "Critic",
+                        0.31092014610767366
+                    ]
+                ]
+            }
+        ]
+    },
+    "Technical explainer": {
+        "positive": [
+            {
+                "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+                "message_id": "oah6j5u",
+                "comment": "It’s basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is. If you’re curious, I put a demo and more info here:",
+                "polarity": 0.3182,
+                "parent": "How did you do this? This is insane",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.5432054651632273
+                    ],
+                    [
+                        "Solution Provider",
+                        0.4074932390451431
+                    ],
+                    [
+                        "Question asker",
+                        0.32660664558410646
+                    ],
+                    [
+                        "Critic",
+                        0.32379009664058683
+                    ]
+                ]
+            }
+        ],
+        "neutral": [
+            {
+                "user": "1fbea7355ba6630d2518df4f0aa7cec5",
+                "message_id": "oa6vq5f",
+                "comment": "Would it be basically it’s a zoomed in image that moves according to your positioning from the webcam? What software do you use and what language do you need to code this in?",
+                "polarity": 0.0,
+                "parent": "just vibe code your own Edit: what did i do?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.54890221187019
+                    ],
+                    [
+                        "Question asker",
+                        0.495431234240532
+                    ],
+                    [
+                        "Solution Provider",
+                        0.41619413495063784
+                    ],
+                    [
+                        "Critic",
+                        0.32909014701843264
+                    ]
+                ]
+            }
+        ],
+        "negative": [
+            {
+                "user": "c0f864bc88bc1a81f8bf44633efe8286",
+                "message_id": "oa6lm7b",
+                "comment": "Basically when two guards look at the statue in ghost protocol scene",
+                "polarity": -0.44548,
+                "parent": "What if two person are staring at the screen, who will it track?",
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.5232859838857615
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3706957596540451
+                    ],
+                    [
+                        "Critic",
+                        0.2987274569272995
+                    ],
+                    [
+                        "Question asker",
+                        0.29518617928028107
+                    ]
+                ]
+            }
+        ]
+    },
+    "Critic": {
+        "positive": [
+            {
+                "user": "c999e87dd76c592719e621bb5fac154d",
+                "message_id": "oaaaric",
+                "comment": "That doesn’t look entirely bad. Very cool project, keep it up, and thank you!",
+                "polarity": 0.5509,
+                "parent": "Good question! I actually put together a page where I replied to most of the common questions since a lot of them were similar. If you're interested you can check it out and join the waitlist here:",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5130776429176331
+                    ],
+                    [
+                        "Question asker",
+                        0.37300580358505253
+                    ],
+                    [
+                        "Technical explainer",
+                        0.35343992590904233
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3340338432788849
+                    ]
+                ]
+            },
+            {
+                "user": "50604d02dc4295e86f3f7d2d31e04922",
+                "message_id": "oadq9tq",
+                "comment": "I love it and would immediately hate it. Great work ❤️",
+                "polarity": 0.95312,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.4765621531009674
+                    ],
+                    [
+                        "Question asker",
+                        0.3134147793054581
+                    ],
+                    [
+                        "Solution Provider",
+                        0.309424889087677
+                    ],
+                    [
+                        "Technical explainer",
+                        0.2959843069314957
+                    ]
+                ]
+            },
+            {
+                "user": "00d6b1f3d68d1ee97b590a598494f4b5",
+                "message_id": "oaptbdh",
+                "comment": "I wanted to do exactly that 3 months ago but gave up when i realized that the 3d effect doesn't work with both eyes open so i gave up really quickly before having a finished product. Seeing this excited me again and I eagerly signed up for testing, very excited to test it.",
+                "polarity": 1.24614,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5180568054712358
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3268134295940399
+                    ],
+                    [
+                        "Question asker",
+                        0.32245512306690216
+                    ],
+                    [
+                        "Technical explainer",
+                        0.31759175658226013
+                    ]
+                ]
+            }
+        ],
+        "neutral": [],
+        "negative": [
+            {
+                "user": "1e20524a6f6897d54c2eeef5330b9611",
+                "message_id": "oa6xpz7",
+                "comment": "Cool, but absolutely useless",
+                "polarity": -0.75698,
+                "parent": "Actually… try googling Parallel Reality by Delta",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.5077695706712262
+                    ],
+                    [
+                        "Question asker",
+                        0.3398888528347015
+                    ],
+                    [
+                        "Technical explainer",
+                        0.3208646935224533
+                    ],
+                    [
+                        "Solution Provider",
+                        0.29659093022346494
+                    ]
+                ]
+            },
+            {
+                "user": "340d617fa3686d0f0f9bdd7fae8edf28",
+                "message_id": "oa7qxtf",
+                "comment": "Cam always on… what could possibly go wrong.",
+                "polarity": -0.6673800000000001,
+                "parent": "",
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.49011242568492897
+                    ],
+                    [
+                        "Question asker",
+                        0.3209773898124695
+                    ],
+                    [
+                        "Solution Provider",
+                        0.3174787491559982
+                    ],
+                    [
+                        "Technical explainer",
+                        0.30524841248989104
+                    ]
+                ]
+            }
+        ]
+    }
+}

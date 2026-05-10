@@ -1,0 +1,1621 @@
+{
+    "title": "I built a wallpaper that shifts perspective when you move your head  looking for feedback",
+    "comments": {
+        "32312a61fd70fffcf15956f763b12fd3": {
+            "oa5r0zf": {
+                "text": "That is a COOL side project! Finally a real side project :D Looks great!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7ace45c31d7ea64d9ec5247df5199181": {
+            "oa6uc76": {
+                "text": "This is a side to side project. It has actual depth.",
+                "quotes": [],
+                "parent_text": "That is a COOL side project! Finally a real side project :D Looks great!"
+            }
+        },
+        "92456fee103f21fa075b95957d2af5e9": {
+            "oa7ydh1": {
+                "text": "how deep can we go? asking for inception 2 plot.",
+                "quotes": [],
+                "parent_text": "This is a side to side project. It has actual depth."
+            }
+        },
+        "85c3a7fb0eb6a17ba3ec1e6467f40b5e": {
+            "oa7uzpm": {
+                "text": "Thanks! 😄 I'm turning it into a small project called HollowScope and working on a beta version. If you're curious or want to try it when it's ready: holoscape",
+                "quotes": [],
+                "parent_text": "That is a COOL side project! Finally a real side project :D Looks great!"
+            },
+            "oa7v8i3": {
+                "text": "Haha yeah that scene was definitely part of the inspiration I'm turning this into a small project called HollowScope and working on a beta version. If you're curious to try it when it's ready:",
+                "quotes": [],
+                "parent_text": "It's like mission impossible ghost protocol scene...wow"
+            },
+            "oa7vho4": {
+                "text": "Yeah exactly! Johnny Lee’s Wii remote demo was actually a big inspiration for this. I wanted to see if a similar effect could be done using just a webcam instead of IR tracking. I'm turning it into a small project called HollowScope and working on a beta version. If you're curious, you can join the waitlist here:",
+                "quotes": [],
+                "parent_text": "This reminds me of what Johnny Lee did using the Wii sensor bar..."
+            },
+            "oa7wzed": {
+                "text": "Yeah that’s a good idea. I should test something like that. It might feel like the person is inside the screen when you move around. Right now the demo is using a simple 3D scene",
+                "quotes": [],
+                "parent_text": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?"
+            },
+            "oa7vvfw": {
+                "text": "Thanks! I'm still polishing it. I'm turning it into a small project called HollowScope and preparing a beta version. If you want to try it when it's ready you can join the waitlist here:",
+                "quotes": [],
+                "parent_text": "That is cool. How can I get it?"
+            },
+            "oa7w8rc": {
+                "text": "Good question! I actually answered this in the FAQ on the landing page. Short version: the perspective can only be correct for one viewpoint at a time, so it tracks a single viewer. More details here:",
+                "quotes": [],
+                "parent_text": "What if two person are staring at the screen, who will it track?"
+            },
+            "oa7xlnh": {
+                "text": "Drop your card details XD",
+                "quotes": [],
+                "parent_text": "Nah this is cool as shit. Drop the git bro."
+            },
+            "oa831cm": {
+                "text": "i have another demo posted on the page here",
+                "quotes": [],
+                "parent_text": "Hey man! To take a look at this code, I would gladly :D Super excited man!"
+            },
+            "oa7x4ft": {
+                "text": "that could actually be interesting. What kind of game do you have in mind?",
+                "quotes": [],
+                "parent_text": "make it into a video game"
+            },
+            "oa7zxip": {
+                "text": "Totally fair concern. All the head tracking runs locally on the computer. No video is stored or sent anywhere. The webcam is only used to estimate the head position for the perspective effect.",
+                "quotes": [],
+                "parent_text": "This is badass. I however do not think many people want their video streaming into a random app unless it's open source / guaranteed to be secure."
+            },
+            "oa7x8ve": {
+                "text": "For now yes, I'm focusing on Windows first. If it works well I'd love to add Mac later.link",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa7xh3f": {
+                "text": "Thanks! I'm still polishing it and preparing a beta. I'm turning it into a small project called HollowScope. If you want to try it when it's ready you can join the waitlist here:",
+                "quotes": [],
+                "parent_text": "This is amazing. Do you have the copy or link so we can also try?"
+            },
+            "oa7zq86": {
+                "text": "It tracks your head position with the webcam and adjusts the camera of a small 3D scene accordingly. So when you move left/right the perspective shifts, which creates the depth illusion. I explained it a bit more here:",
+                "quotes": [],
+                "parent_text": "How does it work tho?"
+            },
+            "oa7zsuh": {
+                "text": "Yes, the demo is a small 3D scene and the camera moves based on your head position.",
+                "quotes": [],
+                "parent_text": "Is it a 3D scene?"
+            },
+            "oa80aja": {
+                "text": "Haha thanks, glad you like it!link",
+                "quotes": [],
+                "parent_text": "fuckin awesome is my feed back!"
+            },
+            "oa80bwb": {
+                "text": "yup",
+                "quotes": [],
+                "parent_text": "Does it use the camera?"
+            },
+            "oa80f49": {
+                "text": "Thanks!link",
+                "quotes": [],
+                "parent_text": "This looks great from all sides!"
+            },
+            "oa80gvs": {
+                "text": "thanks !",
+                "quotes": [],
+                "parent_text": "That is very cool!"
+            },
+            "oa80il9": {
+                "text": "thanks !link",
+                "quotes": [],
+                "parent_text": "That is very cool!"
+            },
+            "oa80lns": {
+                "text": "thanks man, if intrested :",
+                "quotes": [],
+                "parent_text": "awesome job. many a times I have attempted to do this without success."
+            },
+            "oa80mr6": {
+                "text": "thanks a lot!",
+                "quotes": [],
+                "parent_text": "That’s sick!!"
+            },
+            "oa80nyt": {
+                "text": "thanks a lot!",
+                "quotes": [],
+                "parent_text": "I’ve had this idea for well over twenty years and never had the gumption to actually try it — this is so cool!"
+            },
+            "oa7umfk": {
+                "text": "Haha thanks 😄 I'm preparing a beta version right now. You can join the early access list here:",
+                "quotes": [],
+                "parent_text": "Take my money!"
+            },
+            "oa80yz6": {
+                "text": "Fair point , The head tracking runs locally and no video is stored or sent anywhere it only estimates the head position for the effect",
+                "quotes": [],
+                "parent_text": "Cam always on… what could possibly go wrong."
+            },
+            "oaazfw9": {
+                "text": "thanks !!link",
+                "quotes": [],
+                "parent_text": "Very cool! Good luck with the project ⭐️"
+            },
+            "oadr0ux": {
+                "text": "thanks!! im working on it",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oaeqakt": {
+                "text": "mashallah les shoes akhy",
+                "quotes": [],
+                "parent_text": "Et tu penses quoi de tes shoes du coup ? 😁"
+            },
+            "oaeuoci": null,
+            "oah31bt": null,
+            "oah7ai5": {
+                "text": "Thanks, I appreciate it! Performance on lower-end machines is something I’m actively testing and optimizing. Mobile/gyro support is also something I’d love to experiment with later. If you’re curious there’s a demo and some details here:",
+                "quotes": [],
+                "parent_text": "This is really impressive technical work! The head-tracking parallax effect is incredibly smooth. Using WebGL/ for this kind of head-pose estimation + perspective manipulation is the right call performance-wise. A few questions that might help as you develop HollowScope further: - Performance on lower-end devices? Head tracking + rendering effects can get heavy - Mobile support? Phone gyroscope for mobile devices could be next frontier - Battery drain on the device running this? The polish is genuinely impressive for a side project. The transitions are buttery and the effect is mesmerizing. Definitely has commercial potential if you lean into VR/AR experiences."
+            },
+            "oah76z9": {
+                "text": "Right now it tracks a single face, so if two people move in opposite directions it will usually follow whichever face gets detected first. If you’re curious I put a demo and some details here:",
+                "quotes": [],
+                "parent_text": "What happens when 2 people look at it and go opposite sides at the same time ?"
+            },
+            "oah6qld": {
+                "text": "Thanks, I appreciate it! Still refining it , there’s a demo and more info here if you're curious:",
+                "quotes": [],
+                "parent_text": "One of the best implementations of this I've seen. Kudos"
+            },
+            "oah6nbj": {
+                "text": "Haha yeah the webcam needs to be on while it runs, but all the tracking happens locally , nothing gets recorded or sent anywhere. If you want to try it or see a demo:",
+                "quotes": [],
+                "parent_text": "So i have to keep my webcam on? Nice try goverment! Jk looks cool and definitely want to try it."
+            },
+            "oah6j5u": {
+                "text": "It’s basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is. If you’re curious, I put a demo and more info here:",
+                "quotes": [],
+                "parent_text": "How did you do this? This is insane"
+            },
+            "oamxa44": {
+                "text": "Thanks! Yeah, that’s exactly the idea — making it work with standard hardware so anyone can try it without special devices. I’m still improving the tracking and rendering, but if you’re curious you can join the waitlist here:",
+                "quotes": [],
+                "parent_text": "This is fantastic. I've heard there are Pinball trackers that use Kinect but if this can use standard equipment that would be fun!"
+            },
+            "ob1am0y": {
+                "text": "Yep! You can choose your screen in the settings tab — it’s actually live right now:",
+                "quotes": [],
+                "parent_text": "This is awesome. Is it compatible with a dual screen setup?"
+            },
+            "obhw59e": {
+                "text": "yes sirHoloscape",
+                "quotes": [],
+                "parent_text": "Mona Lisa painting with this effect would be amazing!"
+            },
+            "obhvcdu": {
+                "text": "thanksHoloscape",
+                "quotes": [],
+                "parent_text": "This is awesome!"
+            },
+            "obnu6v8": null,
+            "od5nnnt": {
+                "text": "for the moment only on normal screen",
+                "quotes": [],
+                "parent_text": "That's really cool!!! Can you make it work on the lock screen?"
+            },
+            "od5nox9": null,
+            "od5nf6x": null,
+            "od5zej6": {
+                "text": "I understand, but it’s not really different from your phone constantly using its camera for things like face unlock.",
+                "quotes": [],
+                "parent_text": "\"using a webcam\" sounds creepy, I wonder if there's a different way to do it because the effect is cool"
+            },
+            "od6st11": {
+                "text": "Totally fair point; but just to reassure you, the app is now Microsoft-certified 😉 so it’s not just some random side project anymore.",
+                "quotes": [],
+                "parent_text": "maybe, but face unlock is quite secure, it's built in service, not someone's side project"
+            },
+            "ofx9wux": {
+                "text": "would you like to have it on steam?",
+                "quotes": [],
+                "parent_text": "This is really cool. Thanks for showing and providing link."
+            },
+            "oa7wd4i": {
+                "text": "the perspective can only be correct for one viewpoint at a time, so it tracks a single viewer. More details here:",
+                "quotes": [],
+                "parent_text": "Cool project. But it won't work for multiple people watching, right?"
+            },
+            "oa7y737": {
+                "text": "Good point. Right now you can’t do a call and run the wallpaper at the same time. I’m working on making it automatically stop using the camera when another app (like a meeting app) needs it. I’ll try to send an update to the waitlist here when that’s implemented:",
+                "quotes": [],
+                "parent_text": "Cool idea! Wouldn't it block the use of the camera for meetings or other purposes while the wallpaper is running?"
+            },
+            "oa7y83s": {
+                "text": "thanks!!",
+                "quotes": [],
+                "parent_text": "It’s amazing"
+            },
+            "oa7ya6l": {
+                "text": "yes it needs the face cam!",
+                "quotes": [],
+                "parent_text": "Here's what I think it works. It's using your face cam and tracking?"
+            },
+            "oa7yh79": {
+                "text": "Thanks! Glad you like it 😄I'm turning it into a small project called HollowScope. You can join the waitlist here if you're curious:",
+                "quotes": [],
+                "parent_text": "Whoa, that’s excellent"
+            },
+            "oa7z655": {
+                "text": "Good question! I actually put together a page where I replied to most of the common questions since a lot of them were similar. If you're interested you can check it out and join the waitlist here:",
+                "quotes": [],
+                "parent_text": "It is cool, but how much of the computer's resources does it take to keep it as a wallpaper? That scares me a little."
+            },
+            "oa7z8hq": {
+                "text": "Not open source right now, but I might share some technical details later once the beta is out.",
+                "quotes": [],
+                "parent_text": "Source code!!!!"
+            },
+            "oa7ze3v": {
+                "text": "Yeah that could look really cool actually. small effects could make the depth illusion even stronger.",
+                "quotes": [],
+                "parent_text": "Yes Cool Maybe add a bit more of ambiance ? Like dust particle, blur, fog… Really really cool side project"
+            },
+            "oa7zexm": null,
+            "oa7zkmp": {
+                "text": "Rendering the icons in actual 3D space is probably the hard part though. Right now it's just the wallpaper scene reacting to the head movement.",
+                "quotes": [],
+                "parent_text": "Now you just need to render the icons in 3d space!"
+            },
+            "oa7tzex": {
+                "text": "Wow I didn’t expect this to blow up 😅 For people asking: I'm turning it into a small project called HollowScope. I'm opening a small beta soon if people want to try it. You can join the waitlist here: holoscape Also curious what features you'd want next.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "obxmgn3": {
+                "text": "i gave more details here",
+                "quotes": [],
+                "parent_text": "I've never understood how these work, on this or on iphone. Is it using the camera to see where I'm looking from?"
+            },
+            "od5n4q5": {
+                "text": "Im going threw the validation process actually",
+                "quotes": [],
+                "parent_text": "You should be on Steam. Just like wallpaper engine this would destroy the market there"
+            }
+        },
+        "f5633a5c4f497a8daf5e1893f0f94ed5": {
+            "oa81y9p": {
+                "text": "Really super cool!",
+                "quotes": [],
+                "parent_text": "Thanks! 😄 I'm turning it into a small project called HollowScope and working on a beta version. If you're curious or want to try it when it's ready: holoscape"
+            }
+        },
+        "775e1793468c620ec702bbc88afe40fc": {
+            "oa5ajrx": {
+                "text": "It's like mission impossible ghost protocol scene...wow",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c007953a7fe6e33fa50dfa4f60e76646": {
+            "oa5vt7l": {
+                "text": "It works for me and I want it. The only improvement idea I can think of is to make it available :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b5dd4ef482305300cf9256a7c6b8001d": {
+            "oa7b3n5": {
+                "text": "I second that :)",
+                "quotes": [],
+                "parent_text": "It works for me and I want it. The only improvement idea I can think of is to make it available :)"
+            },
+            "oa7azoh": {
+                "text": "awesome job. many a times I have attempted to do this without success.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa81su2": {
+                "text": "great. added my email :)",
+                "quotes": [],
+                "parent_text": "thanks man, if intrested :"
+            }
+        },
+        "53743311d59e8b086d27246ecf3b360c": {
+            "oa8e4wl": {
+                "text": "yes , and make it so all the windows openbehindthe wallpaper because i only want to look at it whenever the laptop is open. /s",
+                "quotes": [],
+                "parent_text": "I second that :)"
+            }
+        },
+        "0349a84c4ff2960f2096978eef4836bf": {
+            "oa679ga": {
+                "text": "This reminds me of what Johnny Lee did using the Wii sensor bar...",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "61768e4dbbcb6618db118445c90c621d": {
+            "oa6ue0z": {
+                "text": "I'm here to read this ! Thank you. At first I tought this tecnology is going to be the nextgen standard on 3D filmmaking and TV. So many years has passed and nobody still cares.. This tech is so clever .... it can be also applied to 3D design, videogames... also a 3D desktop with icons behind others.",
+                "quotes": [],
+                "parent_text": "This reminds me of what Johnny Lee did using the Wii sensor bar..."
+            },
+            "oa6rhso": {
+                "text": "4th dimension turns on",
+                "quotes": [],
+                "parent_text": "What if two person are staring at the screen, who will it track?"
+            },
+            "oa6rezv": {
+                "text": "Of course no",
+                "quotes": [],
+                "parent_text": "Cool project. But it won't work for multiple people watching, right?"
+            },
+            "ocmjhvf": {
+                "text": "I was thinking.. would it be somehow good for compensating person with vision problems forcing the focus outside the video plane and thus allowing the text in the foreground to be read (or the opposite) ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2c1db6e65a407bd3e8335d250da731ee": {
+            "oaf8o91": {
+                "text": "That’s so cool. And almost twenty years ago!",
+                "quotes": [],
+                "parent_text": "This reminds me of what Johnny Lee did using the Wii sensor bar..."
+            },
+            "oaf8xht": {
+                "text": "This could be a fantastic wall display for those who don’t have windows in their homes.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ea86295fa25c150336e4acfe2a5f7ff9": {
+            "oa7918d": {
+                "text": "I knew this project looked familiar! But holy hell I can’t believe Johnny Lee’s video is from 18 years ago now",
+                "quotes": [],
+                "parent_text": "This reminds me of what Johnny Lee did using the Wii sensor bar..."
+            }
+        },
+        "a4d238c66f361e6887b9cd4a7b16fa1d": {
+            "oa8l4ab": {
+                "text": "Me sitting there as he is talking about mounting the sensor bar to a hat. “He out to just put a couple lights on the side of his glasses” literally 3 seconds later 😂",
+                "quotes": [],
+                "parent_text": "This reminds me of what Johnny Lee did using the Wii sensor bar..."
+            },
+            "oa8mcpo": {
+                "text": "I’m on Mac and don’t see myself using this in it’s wallpaper respect but super cool idea, they need to implement this for a billion other things, looking at 3D models (either for 3D printing or anatomy in medical education) and gaming (I’m saying this and I’ll probably get like 4 responses immediately that it’s probably already a thing, but I mean just in general being able to turn it on not needing special games etc, they are already 3D so it would be cool if an adjustment to the computer settings and they just worked that way) Yes lots of times you want to look around to a point that you’ll need to move things but for more subtle perspective shifts I think it would be nice and at the very least super cool. Good work, most of the time nowadays I just see a billion task management apps or voice to text all using whisper to run them 😂",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8d469ff122b487907bb8396a9e4c4d17": {
+            "oa5x7is": {
+                "text": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8e9b47f389047c2ddaf06cd0bd458b54": {
+            "oa9dja5": {
+                "text": "Eyes following you would be cool",
+                "quotes": [],
+                "parent_text": "Yeah that’s a good idea. I should test something like that. It might feel like the person is inside the screen when you move around. Right now the demo is using a simple 3D scene"
+            }
+        },
+        "893ef1973164b43e572db27fba45c0c3": {
+            "oa7k2uq": {
+                "text": "You can create a depth map of an image and use it to displace with the head movement, I think it would look like a person in a box.",
+                "quotes": [],
+                "parent_text": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?"
+            }
+        },
+        "6e7ea06e0bce834b365fc54d9d5af94f": {
+            "oadd3rd": {
+                "text": "You can do it , any image, any model. Even interact with it",
+                "quotes": [],
+                "parent_text": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?"
+            },
+            "oadd5yb": {
+                "text": "Check out my version.",
+                "quotes": [],
+                "parent_text": "Thanks! I'm still polishing it. I'm turning it into a small project called HollowScope and preparing a beta version. If you want to try it when it's ready you can join the waitlist here:"
+            },
+            "oadd0v7": {
+                "text": "I built a model viewer around the same concept ,",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "446ddeedd76160b19637f2c95430afa2": {
+            "oa5apo9": {
+                "text": "That is cool. How can I get it?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aa89ce9665ea78dda87cc6507f22123e": {
+            "oa6lmcz": {
+                "text": "just vibe code your own Edit: what did i do?",
+                "quotes": [],
+                "parent_text": "That is cool. How can I get it?"
+            }
+        },
+        "d384397ef83d04cafadbf6d755690d0b": {
+            "oa7hbrx": {
+                "text": "how bout you vibe the fuck outta here",
+                "quotes": [],
+                "parent_text": "just vibe code your own Edit: what did i do?"
+            }
+        },
+        "1fbea7355ba6630d2518df4f0aa7cec5": {
+            "oa6vq5f": {
+                "text": "Would it be basically it’s a zoomed in image that moves according to your positioning from the webcam? What software do you use and what language do you need to code this in?",
+                "quotes": [],
+                "parent_text": "just vibe code your own Edit: what did i do?"
+            },
+            "oaw7c9w": {
+                "text": "That’s why I was asking what it is",
+                "quotes": [],
+                "parent_text": "No, it’s not just a static image moving, that wouldn’t give the same illusion effect."
+            }
+        },
+        "3b68b0ba8d6d1428422d918273d8922a": {
+            "oa7yvqm": {
+                "text": "No, it’s not just a static image moving, that wouldn’t give the same illusion effect.",
+                "quotes": [],
+                "parent_text": "Would it be basically it’s a zoomed in image that moves according to your positioning from the webcam? What software do you use and what language do you need to code this in?"
+            }
+        },
+        "052aacca066120c7e163092eb80f3b7d": {
+            "oa682yr": {
+                "text": "What if two person are staring at the screen, who will it track?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c0f864bc88bc1a81f8bf44633efe8286": {
+            "oa6lm7b": {
+                "text": "Basically when two guards look at the statue in ghost protocol scene",
+                "quotes": [],
+                "parent_text": "What if two person are staring at the screen, who will it track?"
+            }
+        },
+        "1e20524a6f6897d54c2eeef5330b9611": {
+            "oa6o8ym": {
+                "text": "This will work only for one person. Always will be, you can't solve it",
+                "quotes": [],
+                "parent_text": "What if two person are staring at the screen, who will it track?"
+            },
+            "oa6xpz7": {
+                "text": "Cool, but absolutely useless",
+                "quotes": [],
+                "parent_text": "Actually… try googling Parallel Reality by Delta"
+            }
+        },
+        "86b3f721bdf34c03e90b4b3f0bf6cabd": {
+            "oa6xb9c": {
+                "text": "Actually… try googling Parallel Reality by Delta",
+                "quotes": [],
+                "parent_text": "This will work only for one person. Always will be, you can't solve it"
+            }
+        },
+        "c410b7e72b8230c30af397d314374405": {
+            "oa7sc0r": {
+                "text": "Just make it stop tracking (hold state) if there's more than one person detected. Might be pretty enough",
+                "quotes": [],
+                "parent_text": "This will work only for one person. Always will be, you can't solve it"
+            }
+        },
+        "b16311b04c5245cedc27bda80bd60ac2": {
+            "oelmm35": {
+                "text": "Why would teh whole neighbourhood come to watch your screen?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c4125f31b3107db0ee81a8016c36f3c7": {
+            "oa5vvee": {
+                "text": "is it running with the camera on? if not, that's awesome. if it uses the camera that's cool as well",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5f3ee6c41e5251a115a5da1ceb17a441": {
+            "oa5x344": {
+                "text": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is. The illusion wouldn't work for several people though I assume.",
+                "quotes": [],
+                "parent_text": "is it running with the camera on? if not, that's awesome. if it uses the camera that's cool as well"
+            }
+        },
+        "d83ecb65069a9b6a25d65f0bc60d61c7": {
+            "oa6aey7": {
+                "text": "It would be like that mission impossible ghost protocol scene",
+                "quotes": [],
+                "parent_text": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is. The illusion wouldn't work for several people though I assume."
+            }
+        },
+        "f551c481b1931bb5e795b62658ce5dae": {
+            "oa6ef9j": {
+                "text": "Gyroscope",
+                "quotes": [],
+                "parent_text": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is. The illusion wouldn't work for several people though I assume."
+            },
+            "oa6ejho": {
+                "text": "Source code!!!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ea3f5f708dfd3a6d23418fb694b93007": {
+            "oa6p7wl": {
+                "text": "The laptop isn’t moving.",
+                "quotes": [],
+                "parent_text": "Gyroscope"
+            }
+        },
+        "188566aa7a2cbed370ae988c9298eb03": {
+            "oa6dmxc": {
+                "text": "That’s actually not entirely true, but I also don’t really want to explain why",
+                "quotes": [],
+                "parent_text": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is. The illusion wouldn't work for several people though I assume."
+            }
+        },
+        "fce72b37c09ca760a59ed972816bbe3d": {
+            "oa69rmy": {
+                "text": "Nah this is cool as shit. Drop the git bro.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa81pdz": {
+                "text": "Hey man! To take a look at this code, I would gladly :D Super excited man!",
+                "quotes": [],
+                "parent_text": "Drop your card details XD"
+            }
+        },
+        "9d70bb5ecb037ecd710009130800eabd": {
+            "oacwns9": {
+                "text": "This man wanting to get paid for his work. 🔥🔥🔥",
+                "quotes": [],
+                "parent_text": "Drop your card details XD"
+            }
+        },
+        "6b82c536045c88ce111a5e04ca55e017": {
+            "oadblvq": null
+        },
+        "fc2a8a718cefa2f8c038adbb7ff0a7ed": {
+            "oa5r37k": {
+                "text": "make it into a video game",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oad6vyo": {
+                "text": "something where you peak around corners irl and it does it in-game lol",
+                "quotes": [],
+                "parent_text": "that could actually be interesting. What kind of game do you have in mind?"
+            }
+        },
+        "2d4a15fce3b928c4a4b72a3d241d6c9e": {
+            "oah96s9": {
+                "text": "Make it into a video game where you have to dodge things coming towards you!",
+                "quotes": [],
+                "parent_text": "make it into a video game"
+            }
+        },
+        "2412fe6e3b2603841167f4ac7a59a583": {
+            "oaubfrz": {
+                "text": "Or... Op can make it as a game camera controller. Now people can use their head to control the camera. This will very helpful especially in mobile since there's only so much screen .",
+                "quotes": [],
+                "parent_text": "make it into a video game"
+            }
+        },
+        "84a1288115db13271d3100f1034965e9": {
+            "oa6kjal": {
+                "text": "This is badass. I however do not think many people want their video streaming into a random app unless it's open source / guaranteed to be secure.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7d73626b2e953d59f3cf389f739a3b78": {
+            "oa67naz": {
+                "text": "This is amazing. Do you have the copy or link so we can also try?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oack920": {
+                "text": "Ohh, okay so this is still under develepment, but I registered my email already. Thank man. I like it. Would you be able to share it as well to [ so other users can also give their feedback?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8fa6a4b976cefeff111b82f134ae93ef": {
+            "oa6iv4z": {
+                "text": "How does it work tho?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8d04391aef0cd9fc2b7e482d43dc6ee4": {
+            "oa6jx3g": {
+                "text": "Awesome, what tools did you use for this?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "636364b352b2b6663fd8e22518415a86": {
+            "oa9vnif": {
+                "text": "Webcam",
+                "quotes": [],
+                "parent_text": "Awesome, what tools did you use for this?"
+            }
+        },
+        "ce0b3719e43156f60343891b40aedae6": {
+            "oabzcaf": {
+                "text": "I mean yeahh but..",
+                "quotes": [],
+                "parent_text": "Webcam"
+            }
+        },
+        "c9f771b6861f3c6dfb89caa07af1a260": {
+            "oa6k5a3": {
+                "text": "Is it a 3D scene?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d45eeeb4bf9437e5bf0cbc74c81cec8d": {
+            "oa6lqf0": {
+                "text": "Doesn't this use the webcam all the time?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "03b58a468ddaf63d91a772b6ce16e388": {
+            "oa6pmxx": {
+                "text": "Hey, GreatJob! I like it so cool. Althought its a amazing job indeed, but in my ways, a good desktop wallpaper for using only can in two sides. First, it make me feel joyful thus i can dive work easily. In breif expression, maybe visual-enjoyment. Another cast, i like wallpapers which make my desktop icons more distinguishable. So the work maybe not common for daily use. But you can got this more attractive, inserting images or controlling smaller amplitude of movement. Maybe useful in daily work.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d5df66508b96f7b9d93baa048113e4e4": {
+            "oa6rcep": {
+                "text": "Finally the looking glass irl",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "70cb7b4a4d6406dca3c011cecf22b9c6": {
+            "oa6rm3u": {
+                "text": "Nice idea, feels like a subtle AR effect for the desktop; tools like Runable could probably help prototype smoother motion tracking quickly.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa797pz": {
+                "text": "Rare post that actually appear in side project.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3002bdf41fa96c59be83c923e317320e": {
+            "oa6tbd4": {
+                "text": "fuckin awesome is my feed back!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d189c7817490668b33648dece76763c4": {
+            "oa70h8f": {
+                "text": "This is awesome, ill put it on my pile of project ideas that i I will definitely do some day.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa70bau": {
+                "text": "maybe because its fun? Not every project needs a purpose.",
+                "quotes": [],
+                "parent_text": "Cool. But why? Could it be updated to work like a 3d vision? Looking at a car render in 3d by bending around?"
+            }
+        },
+        "576470b2d36e5e997bcb4ace857a4ea2": {
+            "oa70nor": {
+                "text": "Does it use the camera?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "df90607a369af456a1aa433701b45e6c": {
+            "oa71ywm": {
+                "text": "This looks great from all sides!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1d9125adb610fba93fd8fc316197f7e3": {
+            "oa75cl8": {
+                "text": "Would be rad to see this in 3DS emulation",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cf721201d2cb759d512038d5c34a9850": {
+            "oa76b4r": {
+                "text": "That is very cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "91f140e6de2ff853e31ebdc16951b3bb": {
+            "oa79ogx": {
+                "text": "It looks so cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "84d9f0df24a291597b59472c42272c09": {
+            "oa7byxe": {
+                "text": "That’s sick!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "003f74db724d088449100d25b8fed7fa": {
+            "oa7cg20": {
+                "text": "I’ve had this idea for well over twenty years and never had the gumption to actually try it — this is so cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "02b654dfe4d22c4ee016b2b8292b866e": {
+            "oa7i7i3": {
+                "text": "This gives me horror game after crash 4th wall break vibes.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7d639fe6ccaa40a90d0cf9a456e737ce": {
+            "oa7kx6q": {
+                "text": "The iPhone wallpaper (lock screen) can do this",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4acc653aa0498508de3eda8f2d264998": {
+            "oa7nyop": {
+                "text": "Take my money!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "340d617fa3686d0f0f9bdd7fae8edf28": {
+            "oa7qxtf": {
+                "text": "Cam always on… what could possibly go wrong.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "598e2a74f2a70b75b628fcfb85a72adc": {
+            "oa7sqlv": {
+                "text": "A câmera vai ficar filmado o tempo todo? Como você lida com privacidade e segurança?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5285c80be2df16e82bcc08047fddfff8": {
+            "oa7ux01": {
+                "text": "This is genuinely clever. The parallax-through-a-window effect is something I have seen done in mobile wallpapers but rarely pulled off well on desktop. Have you considered using facial landmark detection instead of just head position? It might give you smoother tracking since you would have more stable reference points to work with.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "15ca660391a46913d12748d71219c325": {
+            "oa7wkk8": {
+                "text": "So cool! I immediately thought of Severance. Giving those vibes.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c75467d7f4ffcc1e0c577d06242ed8b1": {
+            "oa7z09w": {
+                "text": "Nice",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4af5dfacc89436c9015ebc9040a55220": {
+            "oa804kz": {
+                "text": "The illusion definitely works, we did something like this using wiimotes back in the day. At the time head tracking worked but it wasn't really fast enough for what we wanted. I thought about doing this a hundred times and then I came to the reality that I'm never on my desktop. But the illusion works. The software is really cool. Good work! Now instead of doing this on your desktop, maybe you should put this in a frame and hang it on your wall and make the picture change perspective as you walk by and nobody realizes it's a display. Maybe you can introduce a raspberry pi with an integrated web camera. Something really flat and simple.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "94e1c0bb1078c58a3f53617d858cd431": {
+            "oa80wq7": {
+                "text": "This is a really cool idea. That kind of interactive, 3D effect is always satisfying to see. Reminds me of those old-school holographic trading cards, but way more advanced. As someone building I'm always fascinated by how interfaces can change our perception and behavior. You're literally changing how someone sees their environment with a head movement. In trading, the problem is often that our perception of the chart gets distorted by our own psychology, and we need tools to help us see it clearly again. What was the biggest technical hurdle you ran into while getting the motion tracking to feel responsive and natural?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "72acffc724ca8e037e498e14bdbe2691": {
+            "oaauqzu": {
+                "text": "Very cool! Good luck with the project ⭐️",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1c3540d809c6f064549a5924116c127b": {
+            "oaayqzc": {
+                "text": "Seems cool but I can only assume having the cam on 24/7 would drain your battery",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7322a22215fce02b690376494be00b91": {
+            "oabmecl": {
+                "text": "Wow cool Maybe you can show this to the developers at r/wallpaperengine Maybe they can help you implement this in their software if you want.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7301d94c7acb09be8934eaf3159e2c63": {
+            "oadrcfn": {
+                "text": "This is using the webcam? i always wondered what would it be like for multiple people to watch this",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e0086354213b45a4555c6f038d5f9609": {
+            "oadsmk4": {
+                "text": "Only shifts perspective when you’re looking for feedback? Nifty.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aecbfde8f8ed812ea2bd36066bc07f24": {
+            "oady1qw": {
+                "text": "Nice work",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f42de01e6e8c80c2103ca49ccff0c643": {
+            "oaendoa": {
+                "text": "Et tu penses quoi de tes shoes du coup ? 😁",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5d52c0f76891048e9d81c8009742855a": {
+            "oaeulw8": {
+                "text": "Sign me up! I love it! Does it work for Linux/OSX?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3e4ce20ec588600054f050310750c4ca": {
+            "oaf7sx2": {
+                "text": "Jeeez this looks goooood",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "44187f9c081a74a0bf939ab9dd4b4bde": {
+            "oafeue7": {
+                "text": "This is sick!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a672913a87a95c25582a4b2d318b59ad": {
+            "oag0sdo": {
+                "text": "This is really impressive technical work! The head-tracking parallax effect is incredibly smooth. Using WebGL/ for this kind of head-pose estimation + perspective manipulation is the right call performance-wise. A few questions that might help as you develop HollowScope further: - Performance on lower-end devices? Head tracking + rendering effects can get heavy - Mobile support? Phone gyroscope for mobile devices could be next frontier - Battery drain on the device running this? The polish is genuinely impressive for a side project. The transitions are buttery and the effect is mesmerizing. Definitely has commercial potential if you lean into VR/AR experiences.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "32528baccab67e4c53e2e71ba6c4bc72": {
+            "oag0z43": {
+                "text": "What happens when 2 people look at it and go opposite sides at the same time ?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9223fdae4e942016f5a988fce94286db": {
+            "oagfj27": {
+                "text": "One of the best implementations of this I've seen. Kudos",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7c2afe2e401b613c1b06c2163ccacf3c": {
+            "oagjo0g": {
+                "text": "So i have to keep my webcam on? Nice try goverment! Jk looks cool and definitely want to try it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cd0a8a3681d1b582d8dd1615036cdc56": {
+            "oah4eu6": {
+                "text": "How did you do this? This is insane",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oah7bgl": {
+                "text": "Is this free?",
+                "quotes": [],
+                "parent_text": "It’s basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is. If you’re curious, I put a demo and more info here:"
+            }
+        },
+        "f7814525e7d5c823f4707614bd97f906": {
+            "oamks0y": {
+                "text": "Include Translucent TB for full immersion.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7f4417a5e54c4bc53ac90afdf3ec5d08": {
+            "oamtwo1": {
+                "text": "This is fantastic. I've heard there are Pinball trackers that use Kinect but if this can use standard equipment that would be fun!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "860f78f54c48806a499e33155e779c16": {
+            "oatzeoc": {
+                "text": "I need some nautamine",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "681bcf8170ceb34178b05dfe6caf63f0": {
+            "oau9b28": {
+                "text": "The illusion definitely works — first thing I thought was 'this feels like a window' before I even read the description. The jitter is noticeable but honestly not as bad as I expected for webcam tracking. My only concern for daily use is whether it gets distracting after a few hours. Have you tried it for a full work day yet?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2df72bac359adeb0537608f017548ed7": {
+            "oauhroy": {
+                "text": "It’s just like the raindrops I used to have on IOS. When you tilted the phone the parallax moved, it was really cool. Excellent idea tracking the head instead for a monitor! Awesome!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4c5f545fe62091893044ae51dac1ade7": {
+            "ob17uqp": {
+                "text": "This is awesome. Is it compatible with a dual screen setup?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d4c810fd21705e3dd3a566d7f7369162": {
+            "obejn84": {
+                "text": "Mona Lisa painting with this effect would be amazing!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cba9e4cb6ed16a2024e4f96a5d1d4ade": {
+            "obh3sli": {
+                "text": "This is awesome!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2926a9f4cc4d5a37d94e653c0dec8aa7": {
+            "obmwxhv": {
+                "text": "cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e832914ad05f0f5ef9621e42410daea3": {
+            "oc65vfb": {
+                "text": "That is so cool! How long did it take you to build it?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "88c7c2e13a3f4c7820721fe09a4ab835": {
+            "ocbcr87": {
+                "text": "That's really cool!!! Can you make it work on the lock screen?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3b9745385a4402260312e3dfb91b6e23": {
+            "ocer13x": {
+                "text": "this is crazy",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2ffabf2349b3cec3fa1c5eb51ff05011": {
+            "ocqqfl8": {
+                "text": "How to use It??? I definitely wants that, I missed those kind of stuffs from old windows era",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "90e91003d8ac46575307d82b83016e2a": {
+            "od5yplv": {
+                "text": "\"using a webcam\" sounds creepy, I wonder if there's a different way to do it because the effect is cool",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "od60jiu": {
+                "text": "maybe, but face unlock is quite secure, it's built in service, not someone's side project",
+                "quotes": [],
+                "parent_text": "I understand, but it’s not really different from your phone constantly using its camera for things like face unlock."
+            }
+        },
+        "029f112b041898a616f4102aa02f88c5": {
+            "oft6cde": {
+                "text": "This is really cool. Thanks for showing and providing link.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "664078de3a4d0009ce53c9ecc4bbab97": {
+            "oa60asj": {
+                "text": "Cool project. But it won't work for multiple people watching, right?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c784d25a82e9de79b45f3ac3006375a9": {
+            "oa63hb1": {
+                "text": "Cool idea! Wouldn't it block the use of the camera for meetings or other purposes while the wallpaper is running?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f974317a559be750ca68c01121b4c26e": {
+            "oa661u0": {
+                "text": "It’s amazing",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1334af2fd16cc3ea8c82f4b038cd8276": {
+            "oa69v8b": {
+                "text": "Here's what I think it works. It's using your face cam and tracking?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "938bce816b7cd4d1ed5c1272278f54b0": {
+            "oa69v9b": {
+                "text": "Whoa, that’s excellent",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oa8f81n": {
+                "text": "I wish I could try it but I don’t have a Windows machine at the moment.",
+                "quotes": [],
+                "parent_text": "Thanks! Glad you like it 😄I'm turning it into a small project called HollowScope. You can join the waitlist here if you're curious:"
+            }
+        },
+        "c999e87dd76c592719e621bb5fac154d": {
+            "oa6dg77": {
+                "text": "It is cool, but how much of the computer's resources does it take to keep it as a wallpaper? That scares me a little.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oaaaric": {
+                "text": "That doesn’t look entirely bad. Very cool project, keep it up, and thank you!",
+                "quotes": [],
+                "parent_text": "Good question! I actually put together a page where I replied to most of the common questions since a lot of them were similar. If you're interested you can check it out and join the waitlist here:"
+            }
+        },
+        "502551c4a2be4f28508d4f34fe46153f": {
+            "oa6h6aa": {
+                "text": "Yes Cool Maybe add a bit more of ambiance ? Like dust particle, blur, fog… Really really cool side project",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b9f74654195b9d265d6ed1b3296ba854": {
+            "oa6h72v": {
+                "text": "Nice. Source code? Link?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8e299d8ae99c117144cd47776f5aab62": {
+            "oa6iavi": {
+                "text": "Now you just need to render the icons in 3d space!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2066b4562134fcc45b83612f7a9a792e": {
+            "oa85m29": {
+                "text": "Very impressive. What did you make this in? Was it vibe coded? Got a GitHub I can look at?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fd2283b63a020873801773c09e57b621": {
+            "oa86q04": {
+                "text": "You get similar effect without additional software... with a glossy screen.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c67d4452dfb8356fe4943f68325f5e58": {
+            "oa8d4od": {
+                "text": "Looks great! Just make the walls yellow-ish and Backrooms fans would absolutely love it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "be071ff8ea88e50a2aee73f815ebb6ff": {
+            "oa8ibc1": {
+                "text": "cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1a7f570230f2446888938162adf18b59": {
+            "oa8leqd": {
+                "text": "Honestly this is super cool and the application of the tech could in theory be used with a display for a windshield. Imaging having an LED screen that adjusts perspective when looking at it to mimic looking through a windshield. Better HUDs, once fully self driving cars are finalized you could use it as a tv for streaming or gaming. Super cool! Only issue with that would be being able to adjust the display for multiple people’s perspective while all simultaneous looking at it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3204f0c5d8ef83d76eab4cd2248e4740": {
+            "oa8mxt4": {
+                "text": "thats awesome haha",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c9e8c99c8e1e0f100cad3b040c819c5b": {
+            "oa8x9nr": {
+                "text": "Ooooh I wanted to build this too! Do you have it for Mac as well?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "684b70325651dfc77ab1876bc0145b87": {
+            "oa94rqr": {
+                "text": "This is awesome! Feels like I'm in Mission Impossible",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "704ed8f8fc8904299149cff3eda02870": {
+            "oa9e2e0": {
+                "text": "Ok, but I will keep taped the camera",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "30fc4b7d5b2549c3113287ce9409b78a": {
+            "oa9j1g8": {
+                "text": "Interesting idea. What was the hardest part of building it?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ddd3cdfe6b1030cba209bd845a64b9a9": {
+            "oa9n45g": {
+                "text": "trippy and really cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e56dcfd2e39e52b699dcd59f3442c619": {
+            "oa9r53s": {
+                "text": "Imagine making fake windows like this and setting them to whatever you like",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ddf5adc7e9c0e0a36da27a03090afe84": {
+            "oa9sk1m": {
+                "text": "Looks amazing, if you look for feedback, my feedback would be to look into instruments and make sure you can reduce battery usage and memory/ CPU usage ... maybe it's already good, but you asked feedback :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b070eeb0b63df09d9598bed629c594fb": {
+            "oa9vxij": {
+                "text": "Quick Clarification: if 2 people look at the wallpaper at the same time, Both will see the illusion?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "879755b80690bcbaff3f208e31a6706a": {
+            "oa9zrv7": {
+                "text": "I was looking for ti build me a webaite with this effect. Is it possible, or it needs camera acses for it?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "96c659e99703ced8fb106af388249eb4": {
+            "oaa8owd": {
+                "text": "Does this Work on any Laptop what Laptop ist this?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aa0bed5fb4cf5e17d75ec6c98aa7b68c": {
+            "oab5o2n": {
+                "text": "accessing to camera and not open sourced bye bye bro",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "612e7697d6406ab203f2f6047cf9837d": {
+            "oabadiy": {
+                "text": "this would be cooler for an app that already has the camera on, like a zoom meeting background",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "71a4a824385b2e634ce50e87b5da6660": {
+            "oabtlds": {
+                "text": "Congrats on shipping! Fellow builder here — I launched something in a similar vein for job seekers. It's an AI career coach that creates tailored resumes through conversation rather than templates. Been iterating based on user feedback and it's been a blast. If you're curious:CareerCraft AI. Keep building!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "fe90e0db62599827866aadd5338e46ef": {
+            "oabwxua": {
+                "text": "Amazing. Can see you hiding icons behind each other in the future.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ac36aa073eac297bd403830cafcb6a38": {
+            "oac1tdr": {
+                "text": "that is so cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ab0b6743e244f7b00041afca5c9d7f35": {
+            "oac57uv": {
+                "text": "kamera full açık kalacak öylemi",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0b6f1d7a0d5a5d4996ccf772428fecd9": {
+            "oac5yeb": {
+                "text": "Can you take advantage of this illusion and make cool anime wallpapers or something",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a8eafce9229afa2230f80a2e7bccb426": {
+            "oac9irb": {
+                "text": "Cool, but how often do you see the desktop wallpaper besides when restarting the machine",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aa5ebd0c019c5653dda91358198b04a7": {
+            "oacifiw": {
+                "text": "make it AN art scene or photography ! NEW form of art ! Sell to exhibitions or people who like it !",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4c4cbca3337eae60a97e520a5bf14d18": {
+            "oacy7st": {
+                "text": "Looks sick asf🔥🔥👾",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "38325cdbaef61995573f721864d77b07": {
+            "oad0oxv": {
+                "text": "this could be useful for replacing my window that faces a brick wall",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4642abce268e2cb19f635b1e50234d09": {
+            "oad0rt0": {
+                "text": "Looks awesome! Very trippy, very cool visual effect. Nice job!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9ae526b73a75e6fb26017c865357e603": {
+            "oadav7a": {
+                "text": "Thats a very cool project. I‘ll Hope u finish it :)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a984145f819824a97fc29d9d5e50deb4": {
+            "oaddjlm": {
+                "text": "That's trippy. But extremely cool.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "151aaa0ef84da8040e8c088849adcaef": {
+            "oadf9od": {
+                "text": "Going to release the source code as oss?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "331e006497467c2eb7f245209b07d1d2": {
+            "oadhd3q": {
+                "text": "I'll wait for Mac version",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6ab0a8449a395e0f33e86b91546d094a": {
+            "oadism0": {
+                "text": "Uhh, an office hall way on an office tool. Very creative.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7b4ba46c160dec06384144e54fafcd99": {
+            "oadjhj2": {
+                "text": "mission impossible ghost protocol scene !",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "50604d02dc4295e86f3f7d2d31e04922": {
+            "oadq9tq": {
+                "text": "I love it and would immediately hate it. Great work ❤️",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "00d6b1f3d68d1ee97b590a598494f4b5": {
+            "oaptbdh": {
+                "text": "I wanted to do exactly that 3 months ago but gave up when i realized that the 3d effect doesn't work with both eyes open so i gave up really quickly before having a finished product. Seeing this excited me again and I eagerly signed up for testing, very excited to test it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3608e2a3cc7c3aded4daf24ea12e3c4f": {
+            "oas50dx": {
+                "text": "Phase 2 Ideas - I know it will be difficult. But do you think you can extend it to multi monitor setups. That would be neat Another thing that can be done is if you can extend it as a framework so that anyone can convert maybe a 360 image or a 3d render into this kind of wallpaper.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "41dc7cc75a3969cc7b89524015965f15": {
+            "oat23yv": {
+                "text": "That’s cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "bc593d2e61b380d0515275f5e5dd1c51": {
+            "oavcj2r": {
+                "text": "Awesome! im intrigued to know how it works, is it an actual illusion or does it use the laptops camera to track motion position?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c273784acda45f3aa505a24b17c0aea2": {
+            "oaxcvms": null
+        },
+        "41795f01065cbb8eb005c2b7427498ae": {
+            "obxhsyg": {
+                "text": "I've never understood how these work, on this or on iphone. Is it using the camera to see where I'm looking from?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "obxo90p": {
+                "text": "Thanks! That's awesome, I love this.",
+                "quotes": [],
+                "parent_text": "i gave more details here"
+            }
+        },
+        "100f6db331e3d61d6476b52b83d33301": {
+            "obz0r14": {
+                "text": "Noooo. That's so cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1e18c86faff028cba733898709306319": {
+            "od0ota5": {
+                "text": "This is awesome",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8381efaefe883f03aea767c592049867": {
+            "odw3hfp": {
+                "text": "Damn MAN, it is so cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d2cbc8a2a790835466b4e7353f11fcc1": {
+            "ob5y5qi": {
+                "text": "Very nice",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "bbfd5379afa2babaccc87e5d6275e476": {
+            "od08txc": {
+                "text": "You should be on Steam. Just like wallpaper engine this would destroy the market there",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "aa5db0fd085bcb756a1bc7edbad65420": {
+            "oe807c7": {
+                "text": "This is a very useful tool. I can see myself using this daily. Keep it up!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6bb71ab798254b2630f8d3229ee6aeac": {
+            "oes5xmk": {
+                "text": "This is genuinely one of the coolest side projects I've seen on here. The parallax effect using head tracking is such a clever use of the front camera. Would love to see how it handles low light conditions — that's usually where face tracking gets shaky. Excited for the beta!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1a1e1c3e4809a9b60d39b8365dbdd8ea": {
+            "oeynuun": {
+                "text": "S good reminder to move your neck while working",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4ac483cae7897f215ae2711c486ba198": {
+            "oeyqsj3": {
+                "text": "Awesome! How did you go about building it?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "81f53ebf64186abd22cd0890617950b8": {
+            "ofi2ru1": {
+                "text": "That's amazing! How did you do that?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4f8a14dd1089265bba6c7753c0dab54c": {
+            "ofqjvf0": {
+                "text": "Finally a feasible side project, thats awesome. I dont think this would be distracting rather would be a bit of an entertainment when feeling too monotonous while at work",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ad7ad536169221159661da041f8c3f6f": {
+            "oe12rnm": {
+                "text": "That thing is cool af, that'd me my laptop's wallpaper for sure",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e8fca7ffc5c132ce0425963e8c41c114": {
+            "oehegqq": {
+                "text": "Woahh!! Damn, that's a good work",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c9b228d9e5e201f2312611285e476d4c": {
+            "oey6w70": {
+                "text": "That is really impressive!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "294d2763ec1ac1be92fcb262629abe54": {
+            "of0lfvj": {
+                "text": "Great project loved it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "39dcedc664657de300175e879068d8ef": {
+            "of2ootk": {
+                "text": "this is really fuckin cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4a68b4d724c91be46c2f19c79469734d": {
+            "of91rvf": {
+                "text": "this is sick!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e5df084f539978c85e4a030d44039270": {
+            "offtqwj": {
+                "text": "I would like to use this in my computer",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5be844afbf1306628a0111f99ffb1ba0": {
+            "ofg463d": {
+                "text": "This looks freaky, awesome",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5feba13f421480f90022bbc2f50b9438": {
+            "ocri43y": {
+                "text": "I feel trapped, can I at least get a gun or a grenade or something?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4c512f9f4915c33e3236ed9cc12b77bb": {
+            "odg48rd": {
+                "text": "Woah that looks insanely smooth... wish I could try it on Mac! I did a similar thing with an eye-tracking A/B testing app I just released for iPhone a few weeks ago () that leverages ARKit. What a world we're living in....",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "36fa558c5f76e8307135d69640795acb": {
+            "oe9e696": {
+                "text": "looks cool!!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "60dc66d74774419b4cf8061a3238fbd1": {
+            "oewe9ed": {
+                "text": "Good execution on the webcam tracking. If you’re looking for real feedback: the tech is a 10, but the market fit is currently a question mark. You’ve got the 97% of people saying 'cool,' but have you found the 3% who would actually pay for an immersive desktop environment?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "113d8b94a85097999018205a897bc295": {
+            "ofgrrnx": {
+                "text": "This is so sick",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2474b1c28b2d62144665569c8b29b7e9": {
+            "ofku3og": {
+                "text": "Very interesting,I am studying it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5ea9402ece6d9b10c323367b6331fe26": {
+            "ofw8cia": {
+                "text": "Really cool concept. Nice work!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "7077cf2fd8ffbe0de9c46880da8e9e06": {
+            "oa60gze": {
+                "text": "Buddy, are you planning on open sourcing the code??",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "60004ff10f3e1914f449b3956df48811": {
+            "oa633rr": {
+                "text": "Cool. But why? Could it be updated to work like a 3d vision? Looking at a car render in 3d by bending around?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        }
+    }
+}

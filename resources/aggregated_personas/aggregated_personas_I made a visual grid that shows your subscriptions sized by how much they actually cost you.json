@@ -1,0 +1,112 @@
+{
+    "users": {
+        "596966890b69e3117c507083ce442086": {
+            "Question asker (positive)": 1
+        },
+        "7877a66a8a1d1dd221c7b9106a3a51e8": {
+            "Question asker (positive)": 1,
+            "Solution Provider (positive)": 1
+        },
+        "de9c782d741cfc42c5ab4405fc3f86be": {
+            "Question asker (positive)": 1
+        },
+        "7006c56a1b1c016450b8c0d78c952bb9": {
+            "Question asker (positive)": 1
+        },
+        "6b43daecefba466578e2a11be4bba88f": {
+            "Question asker (positive)": 1
+        },
+        "b36a0e5f6e4dea1082fddff17fafbfc3": {
+            "Question asker (positive)": 1
+        },
+        "3b445113e5f991ec14e2c55b4dacc608": {
+            "Question asker (positive)": 1
+        },
+        "63a0208dddd9d8887cbae5f0df8976e7": {
+            "Question asker (neutral)": 1
+        },
+        "4f41e5f1f363af709f9fdb9b4651cfa1": {
+            "Solution Provider (neutral)": 3
+        },
+        "5b2f5b9adc34ca2342ad1c623175d8da": {
+            "Question asker (neutral)": 1
+        },
+        "20e162b02aaedcb53f8a77320b8eb09f": {
+            "Question asker (neutral)": 1
+        },
+        "a4e97d0aa4948566628192dce3ded4fc": {
+            "Question asker (neutral)": 1
+        },
+        "214cde910bb2da3a8b5dc05561c7873c": {
+            "Question asker (neutral)": 1
+        },
+        "74baa1791ce7284067a48ef93cfa6a3f": {
+            "Question asker (neutral)": 1
+        },
+        "a622a55e52ce6435f1d71d3888832994": {
+            "Question asker (negative)": 1
+        },
+        "2af94dc7c941e35c9582e258859af8f4": {
+            "Question asker (negative)": 1
+        },
+        "5e4d24edac06fb0016ace3c6d6cae620": {
+            "Question asker (negative)": 1
+        },
+        "e901c1b169458892410576eca9f3ce8e": {
+            "Solution Provider (positive)": 1
+        },
+        "b624836216e1f49194be9db4d04796b6": {
+            "Solution Provider (positive)": 1
+        },
+        "880975c2a3641efc1411c44403844c8b": {
+            "Solution Provider (positive)": 1
+        },
+        "35705eacae4037113605bcefe771806c": {
+            "Solution Provider (positive)": 1
+        },
+        "5fba28d9362fa8da9c955b95f72ab5e2": {
+            "Solution Provider (positive)": 1
+        },
+        "b693a090651b8951900ab71c3dede330": {
+            "Solution Provider (positive)": 1
+        },
+        "66d65b3da50697177f55e68199d0d9e6": {
+            "Solution Provider (positive)": 1
+        },
+        "9340425c45cd7d24a2c1f58dac9a1596": {
+            "Solution Provider (positive)": 1
+        },
+        "b90cfba76471c269db6d3c376ec372a5": {
+            "Solution Provider (positive)": 1
+        },
+        "55aab9cefe2282c366abceed97f3568f": {
+            "Solution Provider (positive)": 1
+        },
+        "3e4ce20ec588600054f050310750c4ca": {
+            "Solution Provider (neutral)": 1
+        },
+        "87da2de062689618bcb8258e13348e55": {
+            "Solution Provider (neutral)": 1
+        },
+        "c5572b8c64b49808a7fe415a35a9ea49": {
+            "Technical explainer (positive)": 2
+        },
+        "f901ab4cf07ad4957af4a005efd916b8": {
+            "Technical explainer (positive)": 1
+        },
+        "0178ab6a1dff44becd95962e9bd4caa1": {
+            "Critic (neutral)": 1,
+            "Critic (negative)": 1
+        }
+    },
+    "totals": {
+        "Question asker (positive)": 7,
+        "Solution Provider (positive)": 12,
+        "Question asker (neutral)": 7,
+        "Solution Provider (neutral)": 5,
+        "Question asker (negative)": 3,
+        "Technical explainer (positive)": 3,
+        "Critic (neutral)": 1,
+        "Critic (negative)": 1
+    }
+}

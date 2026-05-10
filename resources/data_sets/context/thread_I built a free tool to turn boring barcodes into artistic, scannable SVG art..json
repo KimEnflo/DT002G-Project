@@ -1,0 +1,816 @@
+{
+    "title": "I built a free tool to turn boring barcodes into artistic, scannable SVG art.",
+    "comments": {
+        "817efc6985659a61f44324b6443baf6a": {
+            "ofno11k": {
+                "text": "Great job bro, definitely useful for branding and visual identity!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2b9d95f1959b9473628624321a4d0ae8": {
+            "ofo5met": {
+                "text": "So nice! The world needs more fun software like this",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "535b214cd88b3cdb13c2669b72d0770b": {
+            "ofoxsyw": {
+                "text": "This is legitimately useful AND delightful, great work.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "da82f37f0fd42c117d1fb81f4d437196": {
+            "ofoqjkr": {
+                "text": "Cool concept. Curious how far the stylization can go before scanners start choking on them — is there a rough \"visual distortion budget\" you stay under, or do the heavier styles just get tested device-by-device?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1e55e18de60cd5ce4e6ba5b588b16caf": {
+            "ofpblka": {
+                "text": "From my personal testing, as long as the barcode is large enough, it scans easily provided the bottom horizontal unmodified section remains intact. Most things should work fine, though certain shapes might struggle at very small dimensions. Wackier styles might require larger dimensions to ensure easy scanning. Thanks for commenting :)",
+                "quotes": [],
+                "parent_text": "Cool concept. Curious how far the stylization can go before scanners start choking on them — is there a rough \"visual distortion budget\" you stay under, or do the heavier styles just get tested device-by-device?"
+            },
+            "ofqsaz6": {
+                "text": "oh, ye, i totally forgot about that sub, ill post it there too sometime, tnx :D",
+                "quotes": [],
+                "parent_text": "r/barcodeporn would love this"
+            },
+            "ofpalb3": {
+                "text": "I’ve definitely considered it! Quick research showed there are already a million QR generators out there, so I wanted to focus on barcodes first. That said, if I find a unique artistic angle for QR codes that hasn't been done yet, I’ll definitely dive into that challenge. Thanks for the suggestion.",
+                "quotes": [],
+                "parent_text": "Its an amazing concept. What do you think for QR code similar way?"
+            },
+            "ofpa82l": {
+                "text": "Thanks ☺️",
+                "quotes": [],
+                "parent_text": "oh this is cool"
+            },
+            "ofsrpmd": {
+                "text": "Thanks mate, and yes i did, some shapes originated from an icon library, I modified them extensively to function as barcodes. For example, I adjusted the baseline of the horse icon and merged the legs into the body to create a single, unified silhouette, and i had to add different eye shapes etc.",
+                "quotes": [],
+                "parent_text": "Have you considered using an icon library? It looks awesome btw!"
+            },
+            "ofsyq7e": {
+                "text": "Cool idea, ill add the cat :D",
+                "quotes": [],
+                "parent_text": "The horse does look awesome. In that case, Coffee, Heart, and since you're doing them by hand anyway, maybe a scaredy cat (on its tip toes, hair pointing out?)"
+            },
+            "ofpbwkb": {
+                "text": "Thats the idea , thank you for commenting and trying it out :)",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofpsw2u": {
+                "text": "thank you \\^_\\^",
+                "quotes": [],
+                "parent_text": "This is awsome, all the best!"
+            },
+            "ofpswr8": {
+                "text": "thanks \\^_\\^",
+                "quotes": [],
+                "parent_text": "Cool stuff"
+            },
+            "ofpudn0": {
+                "text": "That would be amazing! ISBN barcodes are essentiallyEAN-13, which the tool supports. Since the bottom part of the design remains standard for reliability, it should scan perfectly. I'd definitely recommend sending a test export to your publisher or printer first just to be 100% sure before the final run. Keep me posted I'd love to see a cool barcode on a book cover! I will even make barcode in a shape of a book or something :D",
+                "quotes": [],
+                "parent_text": "This is very cool. I am writing a book and wondering if my publishet would accept a barcode for the ISBN number like this. But it is worth a try"
+            },
+            "ofpzrt6": {
+                "text": "Thanks ☺️",
+                "quotes": [],
+                "parent_text": "Pretty cool"
+            },
+            "ofq0xok": {
+                "text": "Thanks, that’s exactly what I was going for!",
+                "quotes": [],
+                "parent_text": "it looks cute and simple"
+            },
+            "ofrceqz": {
+                "text": "Hey, good ideas, ill sure try some vegatables, tnx",
+                "quotes": [],
+                "parent_text": "Bonjour 👋votre création est formidable👍👏. Merci concernant les formes pourquoi ne pas créer une forme d’un micro de Podcast , une forme d’un smartphone , des divers forme de vêtements , des divers formes de fleurs et des divers formes de légumes merci 🙏"
+            },
+            "ofs7xul": {
+                "text": "Good idea, ill try that, tnx :)",
+                "quotes": [],
+                "parent_text": "Wow love this, work with many large retailers who might be interested in this, if you could support an easy way to do custom barcodes that would be cool!"
+            },
+            "oftay76": {
+                "text": "tnx, i was going for urban brutalist feel. Built with ** andTailwind CSS,and customSVG path manipulationfor the artistic styles.",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofwo0pk": {
+                "text": "thats a bit too much ambitious for me :D",
+                "quotes": [],
+                "parent_text": "if you could use custom shapes or describe the shapes and have them generated this would be great"
+            },
+            "og428mc": {
+                "text": "I am glad you like it :D",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "og53283": {
+                "text": "Thank you and yep, i dont have background in coding at all.",
+                "quotes": [],
+                "parent_text": "Instagram is saying you vibe coded this just out of curiosity did you ? Cool project btw great job 👏"
+            },
+            "ogaheeb": {
+                "text": "Thank you :D",
+                "quotes": [],
+                "parent_text": "Wow, nice"
+            },
+            "ogejgw0": {
+                "text": "Yep, i would love that for sure :D",
+                "quotes": [],
+                "parent_text": "This is a great idea I can 100% see brands paying for custom ones as well"
+            },
+            "oghvzwo": {
+                "text": "Tnx :D",
+                "quotes": [],
+                "parent_text": "This is so cool!! Never even thought about trying to change a bar code."
+            },
+            "oghw28a": {
+                "text": "Tnx, ill add later categories too :D",
+                "quotes": [],
+                "parent_text": "That is really awesome man it can be categorical to supermarkets, pets, fast food. Great execution."
+            },
+            "ogj6v7g": {
+                "text": "Me too, tnx :D",
+                "quotes": [],
+                "parent_text": "this is pretty cool and unique! would be cool to see other companies use this for branding"
+            },
+            "ogpooc9": {
+                "text": "Glad you like it, i will for sure add light bulb and book, tnx :D",
+                "quotes": [],
+                "parent_text": "This is such a brilliant idea! I’ve always found standard barcodes a bit of an eyesore on clean layouts. As a teacher, I can see this being incredibly helpful for school materials, like adding scannable links to worksheets, classroom posters, or even library labels without making them look like cluttered technical documents. It’s a great way to keep things functional but aesthetically pleasing for the students. For new shapes, have you considered educational icons like a book, a lightbulb, or maybe even a quill? Thanks for sharing this! 🩷"
+            },
+            "ogpoqw7": {
+                "text": "Thank you brother :)))",
+                "quotes": [],
+                "parent_text": "wow, looks amazing brother good job!!!"
+            },
+            "oh9iems": {
+                "text": "Tnx, scanners dont have any problems reading those different shapes, as long bottom half or base of barcode is intact :)",
+                "quotes": [],
+                "parent_text": "this is actually sick lol, the fact that it still scans makes it way cooler than just visual stuff how hard was it to keep it reliable for scanners once you started messing with the shapes?"
+            },
+            "ohene59": {
+                "text": "The shapes are a combination of original designs created from scratch and curated icons from open-source libraries. I meticulously modified the geometry of each icon to ensure they maintain full barcode functionality while serving as artistic assets.",
+                "quotes": [],
+                "parent_text": "Are you setting shapes yourself? How’s that trained/processed?"
+            },
+            "ohv6fxx": {
+                "text": "tnx , regarding the 3D i have no idea tbh :D",
+                "quotes": [],
+                "parent_text": "Great ideea! I wonder if it can be upgraded to 3d images or braille!"
+            },
+            "ois9bii": {
+                "text": "Thanks for the kind words! Regarding the copyright, I’m not even sure if it’s possible or where to start, so for now, I’ll just leave it as it is.",
+                "quotes": [],
+                "parent_text": "Please secure your intellectual property rights. Like right now if you haven't. At the very least, register your code. Gather your UI and graphics, too and copyright in US and UK at the very least. Look up IP law. Do what you want with it but protect yourself. Really cool idea and the execution's great too."
+            },
+            "ois91e1": {
+                "text": "thank you \\^_\\^",
+                "quotes": [],
+                "parent_text": "Wow pretty dope"
+            },
+            "ois92bq": {
+                "text": "thank you 😃",
+                "quotes": [],
+                "parent_text": "Greta job bro, this is awesome 🚀"
+            },
+            "ojewy7v": {
+                "text": "Thank you :))))",
+                "quotes": [],
+                "parent_text": "Amazing!"
+            },
+            "ok0ls4c": {
+                "text": "Thank you :D",
+                "quotes": [],
+                "parent_text": "Super unique - congrats!"
+            },
+            "ok7f12m": {
+                "text": "Thank you, to be honest i dont know how did i came up with this. I was just browsing all the websites for generating barcodes and saw that noone had this approach and its just clicked for me :D",
+                "quotes": [],
+                "parent_text": "honestly so cool - inspiring. the simplest ideas are always the best. how did you come up with this?"
+            },
+            "ok7erso": {
+                "text": "Thank you :D",
+                "quotes": [],
+                "parent_text": "so cool"
+            },
+            "ofps84q": {
+                "text": "Thanks for the feedback! I did some manual testing and realized my previous wording might have been a bit unclear. To clarify: the bottom section of the barcode is the part that consistently scans. It’s working as intended, butit would be great if anyone who can could give it a try and let me know if the barcodes are working on your end.Thanks for commenting! I've removed 100% part from my post, just to be safe :D",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofpsj8n": {
+                "text": "Yeah, I'm aware of that, that’s exactly why I designed all the shapes to keep the bottom part intact and always scannable.",
+                "quotes": [],
+                "parent_text": "I hate to be that person, but scanning the legs of the horse (for example) may result in a scan error"
+            },
+            "ofqbfp9": {
+                "text": "Technically, the barcode can be as small or as large as you want since it’s invector format, but it’s not recommended to make it too small, otherwise it won't bescannable.",
+                "quotes": [],
+                "parent_text": "Looks great! It would be great to generate it for mobile as well, but smaller"
+            },
+            "ofqhavz": {
+                "text": "hmm, i'm not quite sure I follow, you should be able to see the live preview on mobile as well, just like on desktop. Is it not showing up for you?",
+                "quotes": [],
+                "parent_text": "I meant to show a preview on mobile without the need to download it, as it works on desktop"
+            },
+            "ofqhtwz": {
+                "text": "ohh, good to know, ill investigate and try to fix it, thanks",
+                "quotes": [],
+                "parent_text": "No. I use iPhone with Safari browser, I cannot see it. It could be that something is not working well on Safari"
+            },
+            "ofqnzuu": {
+                "text": "Can you check it now? I've updated the code to render better for Safari, thanks",
+                "quotes": [],
+                "parent_text": "No. I use iPhone with Safari browser, I cannot see it. It could be that something is not working well on Safari"
+            },
+            "ofqnnyq": {
+                "text": "I dont understand your question :(",
+                "quotes": [],
+                "parent_text": "Can you guarantee none of the upper sections are accidentally scannable as a “barcode”?"
+            },
+            "ofrakl9": {
+                "text": "I’ve thought about it, but there are many factors involved, such as the logo's shape and complexity. These all affect the barcode parameters and its scannability. All the shapes you see on the website were manually modified by me to ensure they scan properly. If someone were to upload a random logo and it didn't turn out well, the barcode wouldn't work, and I want to avoid any issues because of that. If you'd like a custom version for your brand, use the contact button to get in touch. ( You will need to send mi your logo and i will see if it is possible) And i will try to craft one for you for a small 'buy me a coffee' fee. :D",
+                "quotes": [],
+                "parent_text": "pretty awesome, would it be possible to upload user logo and create custom barcode for business?"
+            },
+            "ogqnjj9": {
+                "text": "Tnx, i did not :D",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ogybja6": {
+                "text": "Idk, i saw some big companies like coca-cola use custom made barcodes, but yeah, the idea was not to make million dollars, just to show people that barcodes can be cool too :D",
+                "quotes": [],
+                "parent_text": "Broo it's a great idea. But think about your customers. who are they? Maybe it's just a toy for you an your friends. I think it's very hard to turn this idea into a millionaire startup. In my opinion, companies wouldn't pay for this barcodes. They can use free ones. If design is only true feature...."
+            },
+            "ogyn3xm": {
+                "text": "Tnx mate :D",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofsudha": {
+                "text": "Maybe someone wants different looking barcodes? Thats it. I didnt mention QR codes at all on my web app. :D",
+                "quotes": [],
+                "parent_text": "Bar code is simple as it, don't need extra space on marketing space of product or Info Area. If you applying on QR CODE Then what the meaning of QR Code in first place, people normally thing like a logo or art. Conversion is the main key, not make people more confuse. Additionally need extra work of awareness of that QR Code or Bar code. Simple is the best,their are tons of tool revolving around this. Truth is Conversion matters, not conventional model which may not apply in the end"
+            },
+            "ofy32rm": {
+                "text": "Essentially, the employees shouldn't even have to think about the barcode details; the scanner handles everything for them. Thanks for the comment, though. All the best!",
+                "quotes": [],
+                "parent_text": "Realistically, Do you consider this barcode to your products ? Employee feel confused over pattern who scanning this barcode vs normal ones. Its a Loss of time. Standard bar codes better for store owners not fancy ones. They are tons of website which makes this type of stuffs which become static at the end with no use or conversion in website. If you want to showcase as project for resume. Good for you"
+            },
+            "ofyc08g": {
+                "text": "fine point, at the end its up to designers to decide where will they put barcodes :D",
+                "quotes": [],
+                "parent_text": "Main thing is - it will take big space of that product and as well it take as new logo type too. Confusion in brand details"
+            },
+            "ofp9xg1": {
+                "text": "Appreciate the input! Scannability was the #1 priority all shapes are tested and work. The bottom section of all the shapes is kept standard specifically for scanner reliability. While it’s perfect for boutique products, high-speed industrial production isn't off the table either, provided the barcode is sized correctly and pre-tested for the specific packaging. It’s all about finding that balance between art and function.",
+                "quotes": [],
+                "parent_text": "I hate it when barcodes are not just a simple rectangular barcode as intended. Designer barcodes are either made for stupid people who believe in bad radiation from colorful lines (it's a thing in Germany) or it's made by rampant designers who did not think for a second about how people use barcodes. I can live with stuff like \"a barcode all around the package\" because it makes scanning faster. But your thing just makes it harder to find the barcode on the package and probably even harder for the machine to scan it."
+            }
+        },
+        "c31409765b9cd74b422404ec0d646c60": {
+            "ofqri8x": {
+                "text": "r/barcodeporn would love this",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c5211663b0923f69f2dcc00d3744b4dc": {
+            "ofouser": {
+                "text": "Its an amazing concept. What do you think for QR code similar way?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6adde0f81b81c7ac2dd168fba1118984": {
+            "ofq4l80": {
+                "text": "Looking forward to it",
+                "quotes": [],
+                "parent_text": "I’ve definitely considered it! Quick research showed there are already a million QR generators out there, so I wanted to focus on barcodes first. That said, if I find a unique artistic angle for QR codes that hasn't been done yet, I’ll definitely dive into that challenge. Thanks for the suggestion."
+            }
+        },
+        "8a7591ac6d0e548a0eca15a0df1035ef": {
+            "ofovhud": {
+                "text": "oh this is cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1691bf99e8a81852ad55e4f3e05272cc": {
+            "ofp5vr6": {
+                "text": "Nice!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4891e768b98e8bcf42f5aa4adccacef5": {
+            "ofsq7iw": {
+                "text": "Have you considered using an icon library? It looks awesome btw!",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofsv3z5": {
+                "text": "The horse does look awesome. In that case, Coffee, Heart, and since you're doing them by hand anyway, maybe a scaredy cat (on its tip toes, hair pointing out?)",
+                "quotes": [],
+                "parent_text": "Thanks mate, and yes i did, some shapes originated from an icon library, I modified them extensively to function as barcodes. For example, I adjusted the baseline of the horse icon and merged the legs into the body to create a single, unified silhouette, and i had to add different eye shapes etc."
+            }
+        },
+        "4aff89bbda390c4d54ae28dce3e01ad7": {
+            "ofqyt7f": {
+                "text": "They kept it scannable by always putting a solid bar at the bottom. Seems pretty trivial to me. (Not to downplay OP's work. Looks like a good tool.)",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "4e4bc9d68d2fc6279119ca1fc1e300fa": {
+            "ofpe13m": {
+                "text": "sick..",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "750ed59412f60d5a9abe8f85bd53fc3c": {
+            "ofpg6mu": {
+                "text": "This is awsome, all the best!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d0bb7ccd0292a478b3aaa0f4fc20f252": {
+            "ofppxru": {
+                "text": "Cool stuff",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "160c0993b8f564f7ee6ae7fb4380269c": {
+            "ofpr3yo": {
+                "text": "Cool! I bookmarked it. I have never had the use for barcodes, but who knows! Cheers!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "6bd5850b7605fb813d0d51f26798fffa": {
+            "ofpteoy": {
+                "text": "This is very cool. I am writing a book and wondering if my publishet would accept a barcode for the ISBN number like this. But it is worth a try",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8f82da4b6e4ca6a343113c69fae5a6b4": {
+            "ofpyw7c": {
+                "text": "Pretty cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "03908fbba159c31fc5a251362f6acb72": {
+            "ofq09ki": {
+                "text": "it looks cute and simple",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "1f87585beed4839a39fd04ee70473d3f": {
+            "ofrc59v": {
+                "text": "Bonjour 👋votre création est formidable👍👏. Merci concernant les formes pourquoi ne pas créer une forme d’un micro de Podcast , une forme d’un smartphone , des divers forme de vêtements , des divers formes de fleurs et des divers formes de légumes merci 🙏",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "71218e1d7e431cfc056537ecf9c01793": {
+            "ofrk5r5": {
+                "text": "Wow. Great job. Would be very useful for brand indentity!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "840d72ef92555b119e9aa8432ddbe204": {
+            "ofrsy1y": {
+                "text": "Oh, wow, this is a really cool tool!)))))",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "0b1efc9ab7c61ec462f39924fe70344b": {
+            "ofs5g4g": {
+                "text": "Wow love this, work with many large retailers who might be interested in this, if you could support an easy way to do custom barcodes that would be cool!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cb755a766c2c31c5ef5be4d3163b6883": {
+            "oftgmnq": {
+                "text": "if you could use custom shapes or describe the shapes and have them generated this would be great",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "803c47edca1c30083755d21c87674f1e": {
+            "ofu65sb": {
+                "text": "great concept",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "76f5e410c3faa094a1483334266c7b2b": {
+            "ofvxca1": {
+                "text": "Dart Vader, Frank Zappa.... and all fruits, banana, doughnuts etc...",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofx5bk0": null
+        },
+        "04a40c518e8dd9af15d0b8a53ccb030c": {
+            "ofzb5eh": {
+                "text": "This is the coolest build I've seen on Reddit. Nice!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "95ad9063c02a55d7e8a95de74644911c": {
+            "og52qtn": {
+                "text": "Instagram is saying you vibe coded this just out of curiosity did you ? Cool project btw great job 👏",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "og58r00": {
+                "text": "Awesome great job",
+                "quotes": [],
+                "parent_text": "Thank you and yep, i dont have background in coding at all."
+            }
+        },
+        "2608f5cbe51f14dbff040926a43664fe": {
+            "og9wwas": {
+                "text": "This is like a billion dollar idea (not kidding). This is genius!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2be53b142b96ca2987227b5caf55c8c5": {
+            "ogagivb": {
+                "text": "Wow, nice",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b1393b9b92af378f048a43fefb51d727": {
+            "ogein2q": {
+                "text": "This is a great idea I can 100% see brands paying for custom ones as well",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3bd9873832f70c0bed423b0048fa7077": {
+            "ogfpsni": {
+                "text": "This is so cool!! Never even thought about trying to change a bar code.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "2d86d0c95133fda14050d6c661c62bcc": {
+            "oggdjyf": {
+                "text": "That is really awesome man it can be categorical to supermarkets, pets, fast food. Great execution.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "611f67bf6bf9ed5ba53e379734050a62": {
+            "ogj52cb": {
+                "text": "this is pretty cool and unique! would be cool to see other companies use this for branding",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cba7983af85d30b122c513dda940f9a8": {
+            "ogjh4i6": {
+                "text": "This is such a brilliant idea! I’ve always found standard barcodes a bit of an eyesore on clean layouts. As a teacher, I can see this being incredibly helpful for school materials, like adding scannable links to worksheets, classroom posters, or even library labels without making them look like cluttered technical documents. It’s a great way to keep things functional but aesthetically pleasing for the students. For new shapes, have you considered educational icons like a book, a lightbulb, or maybe even a quill? Thanks for sharing this! 🩷",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "5c97222005d99490cffeac3fff845892": {
+            "ogjky24": {
+                "text": "wow, looks amazing brother good job!!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "896beb61e12c1b1b4199faa534f5d4e9": {
+            "ogzruq3": {
+                "text": "Okay, this one is legit cool. Saving to my bookmarks",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "f9a6d99d655a1a4648b2235fb8126bef": {
+            "oh3i8wm": {
+                "text": "this is actually sick lol, the fact that it still scans makes it way cooler than just visual stuff how hard was it to keep it reliable for scanners once you started messing with the shapes?",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "oh9ppga": {
+                "text": "Are you setting shapes yourself? How’s that trained/processed?",
+                "quotes": [],
+                "parent_text": "Tnx, scanners dont have any problems reading those different shapes, as long bottom half or base of barcode is intact :)"
+            }
+        },
+        "e844c159d240e35f801ed21eccf70841": {
+            "ohchw7w": {
+                "text": "This is awesome!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "64a0e4493ef699d0b157132360786584": {
+            "ohj1xkc": {
+                "text": "Great ideea! I wonder if it can be upgraded to 3d images or braille!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "77e0b73ef3491181ee9bd128115670b6": {
+            "oi9gido": {
+                "text": "Great job and outside the box , I love it",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "686e301a28aed59508d710358827ebed": {
+            "oiomf0p": {
+                "text": "Please secure your intellectual property rights. Like right now if you haven't. At the very least, register your code. Gather your UI and graphics, too and copyright in US and UK at the very least. Look up IP law. Do what you want with it but protect yourself. Really cool idea and the execution's great too.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e04f262096b01b2f45e18ea6a91baa56": {
+            "oiprz4d": {
+                "text": "Wow pretty dope",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "417dac03cfaedc919d5be54038468066": {
+            "oiqluig": {
+                "text": "Greta job bro, this is awesome 🚀",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ec9fb841f24a74eb84d9dd638c5781da": {
+            "oj20ty8": {
+                "text": "This is one of the coolest I have seen so far from this sub. Very cool application.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8c55a55f3ee2c01f95b67b9c13c531a0": {
+            "oj2a75j": {
+                "text": "thats smart !!!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "19d33df4e4acf67658c684aa61e742ee": {
+            "ojepn4i": {
+                "text": "Amazing!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "3a63905cd4f73761ffffcfe8951fd7b0": {
+            "ojsgak0": {
+                "text": "Definitely using this bro!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e8c2f05e1350eab8ae323e159c8f78ca": {
+            "ojsgvk8": {
+                "text": "Whew! love this project",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "696fdc94b43de3592bcb97f1f7dbd516": {
+            "ojupanm": {
+                "text": "Amazing 👏 it will make it more interesting",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ea59ac741d16529b53dbb3e15130eb70": {
+            "ojvkskr": {
+                "text": "thanks for making this world a little interesting",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "66675656eeba877ebe14500a98f9330a": {
+            "ojz7w7f": {
+                "text": "Super unique - congrats!",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ad2643fe45125e3ed9088ec538369a27": {
+            "ok1r4z5": {
+                "text": "Sehr cool! Super nice für sicherlich viele Firmen",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "896d8612853d0d095bfa2fff561ce73b": {
+            "ok2enjk": {
+                "text": "honestly so cool - inspiring. the simplest ideas are always the best. how did you come up with this?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "b0590669ad0b0c5fc8e3349ae7d662dd": {
+            "ok6przo": {
+                "text": "so cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "cb7bf9137d7789676380257cc810cef9": {
+            "ofq2tuz": {
+                "text": "the actual barcode (ie the lines) is there, no reason for it not to be scannable.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "351fa57dc16b9a569b6342ee102005c4": {
+            "ogubff9": {
+                "text": "my suggestion for the clarity issue: add a small visual indicator that highlights the scannable region in a different color when hovered. that way the user understands at a glance which part the scanner reads vs which part is decorative. it removes the explanation problem entirely.",
+                "quotes": [],
+                "parent_text": "Thanks for the feedback! I did some manual testing and realized my previous wording might have been a bit unclear. To clarify: the bottom section of the barcode is the part that consistently scans. It’s working as intended, butit would be great if anyone who can could give it a try and let me know if the barcodes are working on your end.Thanks for commenting! I've removed 100% part from my post, just to be safe :D"
+            }
+        },
+        "b668168bc85a565d9fe99baa3bda15f5": {
+            "ofprzw8": {
+                "text": "I hate to be that person, but scanning the legs of the horse (for example) may result in a scan error",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "ec4f7c01848d1a2aeda304fcde7dcdac": {
+            "ofq8j4a": {
+                "text": "Looks great! It would be great to generate it for mobile as well, but smaller",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofqg80b": {
+                "text": "I meant to show a preview on mobile without the need to download it, as it works on desktop",
+                "quotes": [],
+                "parent_text": "Technically, the barcode can be as small or as large as you want since it’s invector format, but it’s not recommended to make it too small, otherwise it won't bescannable."
+            },
+            "ofqhn0b": {
+                "text": "No. I use iPhone with Safari browser, I cannot see it. It could be that something is not working well on Safari",
+                "quotes": [],
+                "parent_text": "hmm, i'm not quite sure I follow, you should be able to see the live preview on mobile as well, just like on desktop. Is it not showing up for you?"
+            }
+        },
+        "b9204b5afac85b0b27f13512eb435381": {
+            "ofqiw80": {
+                "text": "Can you guarantee none of the upper sections are accidentally scannable as a “barcode”?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "8df54cf126068a050c7e224469b95f5c": {
+            "ofr7zoz": {
+                "text": "pretty awesome, would it be possible to upload user logo and create custom barcode for business?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c0762a702d085900955094c8eed5e1f3": {
+            "og584qj": {
+                "text": "it's super cool! could you also allow to create or draw custom shapes for the bar codes?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "09e0df5e7c7ba767721d52f45922a265": {
+            "og89o6d": {
+                "text": "Ficou top demais",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "96428700a51d59914ad1ffb04914f0dd": {
+            "ogabi5f": {
+                "text": "This is good.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "500abb3c64155972b510689d90aea81f": {
+            "ogyavu9": {
+                "text": "Broo it's a great idea. But think about your customers. who are they? Maybe it's just a toy for you an your friends. I think it's very hard to turn this idea into a millionaire startup. In my opinion, companies wouldn't pay for this barcodes. They can use free ones. If design is only true feature....",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "dc214c6051e41ce99d801330b1ce90a3": {
+            "ok51pdx": {
+                "text": "Cool stuff. Love the idea of turning boring and plain into fun",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "9b4f5df6832d1421c63d6d17a3b40e61": {
+            "ok7kw9d": {
+                "text": "Whoaa, can you do QR codes somehow?",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "17b96372f705b0c0c25c77bcf2ddaa2f": {
+            "okd1u76": {
+                "text": "Oh dam thats actually looks really cool. I have seen some brands do this before but I always thought these where hard to make but ig I was wrong.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "c833f70eaac4f652834c89578f08525a": {
+            "okd760o": {
+                "text": "Wow, nice bro.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "819746e3c58d20888e782823fd202662": {
+            "okgqdm6": {
+                "text": "it could be use for nsfw 🍺😆",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "67fd3c071b109eec8d2cb8690fab33a5": {
+            "okkesmj": {
+                "text": "cool",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "e534b94c388f37992e63dc4af7bb427b": {
+            "okkz7gb": {
+                "text": "What a big help to newbies! Great job! 👏",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "d588d16a0608f7b8c9b931254a65a26a": {
+            "oklpma1": {
+                "text": "This is soooo cool. Would love to see retropixel-art style and maybe organic shapes like leaves or waves",
+                "quotes": [],
+                "parent_text": ""
+            }
+        },
+        "a1bce4a6e55df9ddcddb8574d8fbb997": {
+            "ofsnzb0": {
+                "text": "Bar code is simple as it, don't need extra space on marketing space of product or Info Area. If you applying on QR CODE Then what the meaning of QR Code in first place, people normally thing like a logo or art. Conversion is the main key, not make people more confuse. Additionally need extra work of awareness of that QR Code or Bar code. Simple is the best,their are tons of tool revolving around this. Truth is Conversion matters, not conventional model which may not apply in the end",
+                "quotes": [],
+                "parent_text": ""
+            },
+            "ofxzprt": {
+                "text": "Realistically, Do you consider this barcode to your products ? Employee feel confused over pattern who scanning this barcode vs normal ones. Its a Loss of time. Standard bar codes better for store owners not fancy ones. They are tons of website which makes this type of stuffs which become static at the end with no use or conversion in website. If you want to showcase as project for resume. Good for you",
+                "quotes": [],
+                "parent_text": "Maybe someone wants different looking barcodes? Thats it. I didnt mention QR codes at all on my web app. :D"
+            },
+            "ofy6l3a": {
+                "text": "Main thing is - it will take big space of that product and as well it take as new logo type too. Confusion in brand details",
+                "quotes": [],
+                "parent_text": "Essentially, the employees shouldn't even have to think about the barcode details; the scanner handles everything for them. Thanks for the comment, though. All the best!"
+            },
+            "ofzdxcr": {
+                "text": "Nice concept btw Why not you try ai projects which is now trending",
+                "quotes": [],
+                "parent_text": "fine point, at the end its up to designers to decide where will they put barcodes :D"
+            }
+        },
+        "31fcfa19fcb35989ea74a1cdebf20ffe": {
+            "ofo9whq": {
+                "text": "I hate it when barcodes are not just a simple rectangular barcode as intended. Designer barcodes are either made for stupid people who believe in bad radiation from colorful lines (it's a thing in Germany) or it's made by rampant designers who did not think for a second about how people use barcodes. I can live with stuff like \"a barcode all around the package\" because it makes scanning faster. But your thing just makes it harder to find the barcode on the package and probably even harder for the machine to scan it.",
+                "quotes": [],
+                "parent_text": ""
+            }
+        }
+    }
+}
