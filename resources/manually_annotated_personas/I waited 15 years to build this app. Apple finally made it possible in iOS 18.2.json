@@ -36,7 +36,7 @@
     "parent_text": "I really like the idea but that does mean your app will know about who calls me and when right? I’m not really a fan of that part"
   },
   "mr1nyud": {
-    "persona": "Solution Provider",
+    "persona": "Technical Explainer",
     "text": "Using something called homomorphic encryption. If you are interested in the technical aspect of it you can read more about it here:",
     "quotes": [],
     "parent_text": ""
@@ -48,7 +48,7 @@
     "parent_text": "Sooo if the phone is decrypting it locally you could in theory send that decrypted result back to your own servers... Unless Apple has some way of preventing that."
   },
   "mr4mw0u": {
-    "persona": "Solution Provider",
+    "persona": "Technical Explainer",
     "text": "When screening a call that might be legit, Google Assistant answers the call and asks what they want, then forwards on what they say as a text if someone actually leaves a message. May not be the best for a business phone, but I never deal with spam and still get any calls I actually need. If an actual business, like the dentist, calls you, it goes through. It's only personal numbers that you don't have saved that it'll screen. Google Pixel screening is legit",
     "quotes": [],
     "parent_text": "That's pretty good, but it's still a hassle for real humans who actually want to talk to you. There's a better solution. p.s. I personally love answering and wasting their time - I mess with them and post the episodes on a podcast!"

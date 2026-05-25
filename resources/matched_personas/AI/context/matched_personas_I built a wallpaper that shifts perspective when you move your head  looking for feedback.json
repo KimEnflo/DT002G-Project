@@ -1,0 +1,760 @@
+{
+  "Question asker": {
+    "positive": [
+      {
+        "user": "446ddeedd76160b19637f2c95430afa2",
+        "message_id": "oa5apo9",
+        "comment": "That is cool. How can I get it?",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "7077cf2fd8ffbe0de9c46880da8e9e06",
+        "message_id": "oa60gze",
+        "comment": "Buddy, are you planning on open sourcing the code??",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "8d04391aef0cd9fc2b7e482d43dc6ee4",
+        "message_id": "oa6jx3g",
+        "comment": "Awesome, what tools did you use for this?",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "7d73626b2e953d59f3cf389f739a3b78",
+        "message_id": "oa67naz",
+        "comment": "This is amazing. Do you have the copy or link so we can also try?",
+        "polarity": 0.6,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "84a1288115db13271d3100f1034965e9",
+        "message_id": "oa6kjal",
+        "comment": "This is badass. I however do not think many people want their video streaming into a random app unless it's open source / guaranteed to be secure.",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "4ac483cae7897f215ae2711c486ba198",
+        "message_id": "oeyqsj3",
+        "comment": "Awesome! How did you go about building it?",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "81f53ebf64186abd22cd0890617950b8",
+        "message_id": "ofi2ru1",
+        "comment": "That's amazing! How did you do that?",
+        "polarity": 0.6,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "8d469ff122b487907bb8396a9e4c4d17",
+        "message_id": "oa5x7is",
+        "comment": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+        "polarity": 0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "5285c80be2df16e82bcc08047fddfff8",
+        "message_id": "oa7ux01",
+        "comment": "This is genuinely clever. The parallax-through-a-window effect is something I have seen done in mobile wallpapers but rarely pulled off well on desktop. Have you considered using facial landmark detection instead of just head position? It might give you smoother tracking since you would have more stable reference points to work with.",
+        "polarity": 0.6,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "6bb71ab798254b2630f8d3229ee6aeac",
+        "message_id": "oes5xmk",
+        "comment": "This is genuinely one of the coolest side projects I've seen on here. The parallax effect using head tracking is such a clever use of the front camera. Would love to see how it handles low light conditions — that's usually where face tracking gets shaky. Excited for the beta!",
+        "polarity": 0.7,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "8fa6a4b976cefeff111b82f134ae93ef",
+        "message_id": "oa6iv4z",
+        "comment": "How does it work tho?",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "61768e4dbbcb6618db118445c90c621d",
+        "message_id": "ocmjhvf",
+        "comment": "I was thinking.. would it be somehow good for compensating person with vision problems forcing the focus outside the video plane and thus allowing the text in the foreground to be read (or the opposite) ?",
+        "polarity": 0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "7d73626b2e953d59f3cf389f739a3b78",
+        "message_id": "oack920",
+        "comment": "Ohh, okay so this is still under development, but I registered my email already. Thank man. I like it. Would you be able to share it as well to [ so other users can also give their feedback?",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "052aacca066120c7e163092eb80f3b7d",
+        "message_id": "oa682yr",
+        "comment": "What if two person are staring at the screen, who will it track?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "576470b2d36e5e997bcb4ace857a4ea2",
+        "message_id": "oa70nor",
+        "comment": "Does it use the camera?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d45eeeb4bf9437e5bf0cbc74c81cec8d",
+        "message_id": "oa6lqf0",
+        "comment": "Doesn't this use the webcam all the time?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "c9f771b6861f3c6dfb89caa07af1a260",
+        "message_id": "oa6k5a3",
+        "comment": "Is it a 3D scene?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "1fbea7355ba6630d2518df4f0aa7cec5",
+        "message_id": "oa6vq5f",
+        "comment": "Would it be basically it's a zoomed in image that moves according to your positioning from the webcam? What software do you use and what language do you need to code this in?",
+        "polarity": 0.0,
+        "parent": "just vibe code your own",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "c4125f31b3107db0ee81a8016c36f3c7",
+        "message_id": "oa5vvee",
+        "comment": "is it running with the camera on? if not, that's awesome. if it uses the camera that's cool as well",
+        "polarity": 0.05,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "60004ff10f3e1914f449b3956df48811",
+        "message_id": "oa633rr",
+        "comment": "Cool. But why? Could it be updated to work like a 3d vision? Looking at a car render in 3d by bending around?",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "92456fee103f21fa075b95957d2af5e9",
+        "message_id": "oa7ydh1",
+        "comment": "how deep can we go? asking for inception 2 plot.",
+        "polarity": 0.0,
+        "parent": "This is a side to side project. It has actual depth.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "598e2a74f2a70b75b628fcfb85a72adc",
+        "message_id": "oa7sqlv",
+        "comment": "A câmera vai ficar filmado o tempo todo? Como você lida com privacidade e segurança?",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f551c481b1931bb5e795b62658ce5dae",
+        "message_id": "oa6ejho",
+        "comment": "Source code!!!!",
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "fce72b37c09ca760a59ed972816bbe3d",
+        "message_id": "oa81pdz",
+        "comment": "Hey man! To take a look at this code, I would gladly :D Super excited man!",
+        "polarity": 0.05,
+        "parent": "Drop your card details XD",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Solution Provider": {
+    "positive": [
+      {
+        "user": "c007953a7fe6e33fa50dfa4f60e76646",
+        "message_id": "oa5vt7l",
+        "comment": "It works for me and I want it. The only improvement idea I can think of is to make it available :)",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "fc2a8a718cefa2f8c038adbb7ff0a7ed",
+        "message_id": "oa5r37k",
+        "comment": "make it into a video game",
+        "polarity": 0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "fc2a8a718cefa2f8c038adbb7ff0a7ed",
+        "message_id": "oad6vyo",
+        "comment": "something where you peak around corners irl and it does it in-game lol",
+        "polarity": 0.2,
+        "parent": "that could actually be interesting. What kind of game do you have in mind?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2d4a15fce3b928c4a4b72a3d241d6c9e",
+        "message_id": "oah96s9",
+        "comment": "Make it into a video game where you have to dodge things coming towards you!",
+        "polarity": 0.3,
+        "parent": "make it into a video game",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2412fe6e3b2603841167f4ac7a59a583",
+        "message_id": "oaubfrz",
+        "comment": "Or... Op can make it as a game camera controller. Now people can use their head to control the camera. This will very helpful especially in mobile since there's only so much screen.",
+        "polarity": 0.3,
+        "parent": "make it into a video game",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "03b58a468ddaf63d91a772b6ce16e388",
+        "message_id": "oa6pmxx",
+        "comment": "Hey, GreatJob! I like it so cool. Althought its a amazing job indeed, but in my ways, a good desktop wallpaper for using only can in two sides. First, it make me feel joyful thus i can dive work easily. In brief expression, maybe visual-enjoyment. Another cast, i like wallpapers which make my desktop icons more distinguishable. So the work maybe not common for daily use. But you can got this more attractive, inserting images or controlling smaller amplitude of movement. Maybe useful in daily work.",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "8e9b47f389047c2ddaf06cd0bd458b54",
+        "message_id": "oa9dja5",
+        "comment": "Eyes following you would be cool",
+        "polarity": 0.3,
+        "parent": "Yeah that's a good idea. I should test something like that.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "c410b7e72b8230c30af397d314374405",
+        "message_id": "oa7sc0r",
+        "comment": "Just make it stop tracking (hold state) if there's more than one person detected. Might be pretty enough",
+        "polarity": 0.2,
+        "parent": "This will work only for one person. Always will be, you can't solve it",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "2c1db6e65a407bd3e8335d250da731ee",
+        "message_id": "oaf8xht",
+        "comment": "This could be a fantastic wall display for those who don't have windows in their homes.",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "a309c0f27b97e8b2f9da4bb1b9db8bfe",
+        "message_id": "od08txc",
+        "comment": "You should be on Steam. Just like wallpaper engine this would destroy the market there",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "70cb7b4a4d6406dca3c011cecf22b9c6",
+        "message_id": "oa6rm3u",
+        "comment": "Nice idea, feels like a subtle AR effect for the desktop; tools like Runable could probably help prototype smoother motion tracking quickly.",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "4c512f9f4915c33e3236ed9cc12b77bb",
+        "message_id": "odg48rd",
+        "comment": "Woah that looks insanely smooth... wish I could try it on Mac! I did a similar thing with an eye-tracking A/B testing app I just released for iPhone a few weeks ago () that leverages ARKit. What a world we're living in....",
+        "polarity": 0.5,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "6e7ea06e0bce834b365fc54d9d5af94f",
+        "message_id": "adadd0v7",
+        "comment": "I built a model viewer around the same concept ,",
+        "polarity": 0.2,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "a4d238c66f361e6887b9cd4a7b16fa1d",
+        "message_id": "oa8mcpo",
+        "comment": "I'm on Mac and don't see myself using this in it's wallpaper respect but super cool idea, they need to implement this for a billion other things, looking at 3D models (either for 3D printing or anatomy in medical education) and gaming... Good work.",
+        "polarity": 0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "1d9125adb610fba93fd8fc316197f7e3",
+        "message_id": "oa75cl8",
+        "comment": "Would be rad to see this in 3DS emulation",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "ofx9wux",
+        "comment": "would you like to have it on steam?",
+        "polarity": 0.05,
+        "parent": "This is really cool. Thanks for showing and providing link.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "aa89ce9665ea78dda87cc6507f22123e",
+        "message_id": "oa6lmcz",
+        "comment": "just vibe code your own Edit: what did i do?",
+        "polarity": 0.0,
+        "parent": "That is cool. How can I get it?",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Technical explainer": {
+    "positive": [
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7zq86",
+        "comment": "It tracks your head position with the webcam and adjusts the camera of a small 3D scene accordingly. So when you move left/right the perspective shifts, which creates the depth illusion. I explained it a bit more here:",
+        "polarity": 0.2,
+        "parent": "How does it work tho?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7zsuh",
+        "comment": "Yes, the demo is a small 3D scene and the camera moves based on your head position.",
+        "polarity": 0.2,
+        "parent": "Is it a 3D scene?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7zxip",
+        "comment": "Totally fair concern. All the head tracking runs locally on the computer. No video is stored or sent anywhere. The webcam is only used to estimate the head position for the perspective effect.",
+        "polarity": 0.2,
+        "parent": "This is badass. I however do not think many people want their video streaming into a random app unless it's open source / guaranteed to be secure.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7w8rc",
+        "comment": "Good question! I actually answered this in the FAQ on the landing page. Short version: the perspective can only be correct for one viewpoint at a time, so it tracks a single viewer. More details here:",
+        "polarity": 0.2,
+        "parent": "What if two person are staring at the screen, who will it track?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7y737",
+        "comment": "Good point. Right now you can't do a call and run the wallpaper at the same time. I'm working on making it automatically stop using the camera when another app (like a meeting app) needs it.",
+        "polarity": 0.2,
+        "parent": "Cool idea! Wouldn't it block the use of the camera for meetings or other purposes while the wallpaper is running?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7z655",
+        "comment": "Good question! I actually put together a page where I replied to most of the common questions since a lot of them were similar.",
+        "polarity": 0.2,
+        "parent": "It is cool, but how much of the computer's resources does it take to keep it as a wallpaper?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oah6j5u",
+        "comment": "It's basically head-tracking with the webcam + perspective rendering so the scene shifts based on where your head is.",
+        "polarity": 0.2,
+        "parent": "How did you do this? This is insane",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oah76z9",
+        "comment": "Right now it tracks a single face, so if two people move in opposite directions it will usually follow whichever face gets detected first.",
+        "polarity": 0.1,
+        "parent": "What happens when 2 people look at it and go opposite sides at the same time?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa80yz6",
+        "comment": "Fair point , The head tracking runs locally and no video is stored or sent anywhere it only estimates the head position for the effect",
+        "polarity": 0.2,
+        "parent": "Cam always on… what could possibly go wrong.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "od5zej6",
+        "comment": "I understand, but it's not really different from your phone constantly using its camera for things like face unlock.",
+        "polarity": 0.1,
+        "parent": "\"using a webcam\" sounds creepy, I wonder if there's a different way to do it because the effect is cool",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "od6st11",
+        "comment": "Totally fair point; but just to reassure you, the app is now Microsoft-certified 😉 so it's not just some random side project anymore.",
+        "polarity": 0.2,
+        "parent": "maybe, but face unlock is quite secure, it's built in service, not someone's side project",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7vho4",
+        "comment": "Yeah exactly! Johnny Lee's Wii remote demo was actually a big inspiration for this. I wanted to see if a similar effect could be done using just a webcam instead of IR tracking.",
+        "polarity": 0.3,
+        "parent": "This reminds me of what Johnny Lee did using the Wii sensor bar...",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7zkmp",
+        "comment": "Rendering the icons in actual 3D space is probably the hard part though. Right now it's just the wallpaper scene reacting to the head movement.",
+        "polarity": 0.1,
+        "parent": "Now you just need to render the icons in 3d space!",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "5f3ee6c41e5251a115a5da1ceb17a441",
+        "message_id": "oa5x344",
+        "comment": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is. The illusion wouldn't work for several people though I assume.",
+        "polarity": 0.1,
+        "parent": "is it running with the camera on? if not, that's awesome. if it uses the camera that's cool as well",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "3b68b0ba8d6d1428422d918273d8922a",
+        "message_id": "oa7yvqm",
+        "comment": "No, it's not just a static image moving, that wouldn't give the same illusion effect.",
+        "polarity": 0.1,
+        "parent": "Would it be basically it's a zoomed in image that moves according to your positioning from the webcam?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "61768e4dbbcb6618db118445c90c621d",
+        "message_id": "oa6ue0z",
+        "comment": "I'm here to read this ! Thank you. At first I thought this technology is going to be the nextgen standard on 3D filmmaking and TV. So many years has passed and nobody still cares.. This tech is so clever .... it can be also applied to 3D design, videogames... also a 3D desktop with icons behind others.",
+        "polarity": 0.4,
+        "parent": "This reminds me of what Johnny Lee did using the Wii sensor bar...",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "893ef1973164b43e572db27fba45c0c3",
+        "message_id": "oa7k2uq",
+        "comment": "You can create a depth map of an image and use it to displace with the head movement, I think it would look like a person in a box.",
+        "polarity": 0.1,
+        "parent": "I wonder how would it look like if there was a person in the wallpaper. Maybe like the Monalisa painting?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "7d639fe6ccaa40a90d0cf9a456e737ce",
+        "message_id": "oa7kx6q",
+        "comment": "The iPhone wallpaper (lock screen) can do this",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oah31bt",
+        "comment": null,
+        "polarity": 0.0,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oah7ai5",
+        "comment": "Thanks, I appreciate it! Performance on lower-end machines is something I'm actively testing and optimizing. Mobile/gyro support is also something I'd love to experiment with later.",
+        "polarity": 0.3,
+        "parent": "This is really impressive technical work! The head-tracking parallax effect is incredibly smooth.",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7x8ve",
+        "comment": "For now yes, I'm focusing on Windows first. If it works well I'd love to add Mac later.",
+        "polarity": 0.05,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7z8hq",
+        "comment": "Not open source right now, but I might share some technical details later once the beta is out.",
+        "polarity": 0.0,
+        "parent": "Source code!!!!",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa80bwb",
+        "comment": "yup",
+        "polarity": 0.0,
+        "parent": "Does it use the camera?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7ya6l",
+        "comment": "yes it needs the face cam!",
+        "polarity": 0.0,
+        "parent": "Here's what I think it works. It's using your face cam and tracking?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "od5nnnt",
+        "comment": "for the moment only on normal screen",
+        "polarity": 0.0,
+        "parent": "That's really cool!!! Can you make it work on the lock screen?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "oa7wd4i",
+        "comment": "the perspective can only be correct for one viewpoint at a time, so it tracks a single viewer. More details here:",
+        "polarity": 0.0,
+        "parent": "Cool project. But it won't work for multiple people watching, right?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "1e20524a6f6897d54c2eeef5330b9611",
+        "message_id": "oa6o8ym",
+        "comment": "This will work only for one person. Always will be, you can't solve it",
+        "polarity": -0.1,
+        "parent": "What if two person are staring at the screen, who will it track?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "f551c481b1931bb5e795b62658ce5dae",
+        "message_id": "oa6ef9j",
+        "comment": "Gyroscope",
+        "polarity": 0.0,
+        "parent": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "ea3f5f708dfd3a6d23418fb694b93007",
+        "message_id": "oa6p7wl",
+        "comment": "The laptop isn't moving.",
+        "polarity": 0.0,
+        "parent": "Gyroscope",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "ob1am0y",
+        "comment": "Yep! You can choose your screen in the settings tab — it's actually live right now:",
+        "polarity": 0.05,
+        "parent": "This is awesome. Is it compatible with a dual screen setup?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "636364b352b2b6663fd8e22518415a86",
+        "message_id": "oa9vnif",
+        "comment": "Webcam",
+        "polarity": 0.0,
+        "parent": "Awesome, what tools did you use for this?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "obxmgn3",
+        "comment": "i gave more details here",
+        "polarity": 0.0,
+        "parent": "I've never understood how these work, on this or on iphone. Is it using the camera to see where I'm looking from?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "85c3a7fb0eb6a17ba3ec1e6467f40b5e",
+        "message_id": "Im going threw the validation process actually",
+        "comment": "Im going threw the validation process actually",
+        "polarity": 0.0,
+        "parent": "You should be on Steam. Just like wallpaper engine this would destroy the market there",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Critic": {
+    "positive": [
+      {
+        "user": "60dc66d74774419b4cf8061a3238fbd1",
+        "message_id": "oewe9ed",
+        "comment": "Good execution on the webcam tracking. If you're looking for real feedback: the tech is a 10, but the market fit is currently a question mark. You've got the 97% of people saying 'cool,' but have you found the 3% who would actually pay for an immersive desktop environment?",
+        "polarity": 0.3,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "340d617fa3686d0f0f9bdd7fae8edf28",
+        "message_id": "oa7qxtf",
+        "comment": "Cam always on… what could possibly go wrong.",
+        "polarity": 0.1,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "1e20524a6f6897d54c2eeef5330b9611",
+        "message_id": "oa6xpz7",
+        "comment": "Cool, but absolutely useless",
+        "polarity": 0.05,
+        "parent": "Actually… try googling Parallel Reality by Delta",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "188566aa7a2cbed370ae988c9298eb03",
+        "message_id": "oa6dmxc",
+        "comment": "That's actually not entirely true, but I also don't really want to explain why",
+        "polarity": -0.05,
+        "parent": "yes it does, it has too. It would need any kind of visual sensor to determine where the user is.",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d189c7817490668b33648dece76763c4",
+        "message_id": "oa70bau",
+        "comment": "maybe because its fun? Not every project needs a purpose.",
+        "polarity": 0.05,
+        "parent": "Cool. But why? Could it be updated to work like a 3d vision?",
+        "quotes": [],
+        "score": []
+      },
+      {
+        "user": "d384397ef83d04cafadbf6d755690d0b",
+        "message_id": "oa7hbrx",
+        "comment": "how bout you vibe the fuck outta here",
+        "polarity": -0.1,
+        "parent": "just vibe code your own Edit: what did i do?",
+        "quotes": [],
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "5feba13f421480f90022bbc2f50b9438",
+        "message_id": "ocri43y",
+        "comment": "I feel trapped, can I at least get a gun or a grenade or something?",
+        "polarity": -0.4,
+        "parent": "",
+        "quotes": [],
+        "score": []
+      }
+    ]
+  }
+}

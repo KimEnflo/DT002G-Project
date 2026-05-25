@@ -35,11 +35,11 @@
             },
             {
                 "term": "question",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "anyone know",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "how can i",
@@ -47,51 +47,51 @@
             },
             {
                 "term": "is there a way",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "what should i",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "confused about",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "not sure why",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "wondering if",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "asking",
-                "weight": 0.5
+                "weight": 1.0
             },
             {
                 "term": "why does",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "how would",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "hasn't",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "doesn't",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "isn't this",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "already",
-                "weight": 0.5
+                "weight": 1.0
             }
         ]
     },
@@ -123,7 +123,7 @@
             },
             {
                 "term": "implement this",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "another option is",
@@ -135,63 +135,63 @@
             },
             {
                 "term": "try using",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "have you tried",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "just use",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "i use",
-                "weight": 0.5
+                "weight": 1.0
             },
             {
                 "term": "works well",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "worked for me",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "fixed it by",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "the fix is",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "solution is",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "here is how",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "here's how",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "what worked",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "recommend",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "suggest",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "spam blocking",
-                "weight": 0.7064
+                "weight": 0.4791
             }
         ]
     },
@@ -211,11 +211,11 @@
             },
             {
                 "term": "for example",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "for instance",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "this means that",
@@ -227,19 +227,19 @@
             },
             {
                 "term": "in practice",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "based on this",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "essentially",
-                "weight": 0.5
+                "weight": 1.0
             },
             {
                 "term": "technically",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "under the hood",
@@ -247,11 +247,11 @@
             },
             {
                 "term": "what happens is",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "what this does",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "the way it works",
@@ -259,79 +259,91 @@
             },
             {
                 "term": "think of it as",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "basically",
-                "weight": 0.4
+                "weight": 1.0
             },
             {
                 "term": "to clarify",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "put simply",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "the difference is",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "the reason",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "which means",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "the difference",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "unlike",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "meaning",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "specifically",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "limited to",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "regardless of",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "depending on",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "works by",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "caller id",
-                "weight": 0.835
+                "weight": 0.6895
             },
             {
                 "term": "area code",
-                "weight": 0.7128
+                "weight": 0.5231
+            },
+            {
+                "term": "hash password",
+                "weight": 0.5231
+            },
+            {
+                "term": "real time caller",
+                "weight": 0.6666
+            },
+            {
+                "term": "time caller id",
+                "weight": 0.6666
+            },
+            {
+                "term": "time caller",
+                "weight": 0.5555
             },
             {
                 "term": "real time",
-                "weight": 0.6696
-            },
-            {
-                "term": "live caller id",
-                "weight": 0.7843
+                "weight": 0.5213
             }
         ]
     },
@@ -343,7 +355,7 @@
             },
             {
                 "term": "doesn't work",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "this fails",
@@ -363,7 +375,7 @@
             },
             {
                 "term": "this is unclear",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "needs fixing",
@@ -371,7 +383,7 @@
             },
             {
                 "term": "bug in",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "this is bad",
@@ -379,27 +391,27 @@
             },
             {
                 "term": "terrible",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "broken",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "misleading",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "incorrect",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "downvote",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "disagree",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "that's not right",
@@ -419,55 +431,59 @@
             },
             {
                 "term": "useless",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "pointless",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "waste of",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "awful",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "outdated",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "however",
-                "weight": 0.6
+                "weight": 1.0
             },
             {
                 "term": "but the same",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "risky",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "concern",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "frustration",
-                "weight": 0.8
+                "weight": 1.0
             },
             {
                 "term": "the problem is",
-                "weight": 0.9
+                "weight": 1.0
             },
             {
                 "term": "worse",
-                "weight": 0.7
+                "weight": 1.0
             },
             {
                 "term": "still",
-                "weight": 0.3
+                "weight": 1.0
+            },
+            {
+                "term": "star sticker",
+                "weight": 0.7068
             }
         ]
     }

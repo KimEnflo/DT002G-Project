@@ -2,5 +2,10 @@ spacy
 httpx
 beautifulsoup4
 markdown2
-vader-sentiment
 contractions
+pandas
+numpy
+vadersentiment
+scipy
+matplotlib
+scikit-learn

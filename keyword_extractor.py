@@ -14,10 +14,6 @@ JUNK_TERMS = {
     "ok", "okay", "sure", "hi", "hey", "really", "look"
 }
 
-GENERIC_PHRASES = {
-    "really cool", "good idea", "nice work",
-}
-
 def extract_persona_keywords(
         data: Dict,
         iteration: int,
@@ -25,13 +21,13 @@ def extract_persona_keywords(
         top_n: int = 15,
         alpha: float = 1,
 ) -> dict:
-    """Extract and visualize persona-specific keywords using log-odds weighting
+    """Extract persona-specific keywords using log-odds weighting
       :param data: The matched personas data
-      :param title: title of the post
       :param iteration: The iteration number
+      :param title: title of the post
       :param top_n: Number of top terms to display per persona
       :param alpha: Smoothing parameter for log-odds
-      :return: Altair heatmap chart of persona keyword scores"""
+      :return: dict of the dataframe ,title iteration and top words"""
 
     docs, persona_labels = flatten_data(data)
 
@@ -169,8 +165,6 @@ def is_informative(term: str, score: float) -> bool:
     """
     words = term.split()
     if score < 1.5:
-        return False
-    if term in GENERIC_PHRASES:
         return False
     if any(w in JUNK_TERMS for w in words):
         return False

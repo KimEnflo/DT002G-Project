@@ -11,35 +11,35 @@ nlp = spacy.load("en_core_web_lg")
 ACK_WORDS = {"ok", "okay", "thanks", "thank", "cool", "nice", "got", "got it", "sure", "yep", "yup"}
 
 ITERATION_RULES = {
-    1: {"threshold": 0.35, "kw_w": 0.45, "sim_w": 0.40, "beh_w": 0.15},
-    2: {"threshold": 0.40, "kw_w": 0.45, "sim_w": 0.40, "beh_w": 0.15},
-    3: {"threshold": 0.45, "kw_w": 0.45, "sim_w": 0.35, "beh_w": 0.20},
+    1: {"threshold": 0.25, "kw_w": 0.60, "beh_w": 0.40},
+    2: {"threshold": 0.28, "kw_w": 0.60, "beh_w": 0.40},
+    3: {"threshold": 0.32, "kw_w": 0.55, "beh_w": 0.45},
 }
 
 PARENT_REPLY_WEIGHTS = {
     "Question asker": {
         "Solution Provider": 0.08,
         "Technical explainer": 0.05,
-        "Critic": 0.01,
+        "Critic": 0.04,
         "Question asker": 0.01,
     },
     "Solution Provider": {
         "Question asker": 0.05,
         "Technical explainer": 0.04,
-        "Critic": 0.02,
+        "Critic": 0.03,
         "Solution Provider": 0.01,
     },
     "Critic": {
         "Solution Provider": 0.06,
         "Critic": 0.05,
-        "Technical explainer": 0.02,
+        "Technical explainer": 0.04,
         "Question asker": 0.01,
     },
     "Technical explainer": {
         "Question asker": 0.04,
         "Technical explainer": 0.04,
-        "Solution Provider": 0.02,
-        "Critic": 0.01,
+        "Solution Provider": 0.01,
+        "Critic": 0.03,
     },
 }
 
@@ -85,39 +85,39 @@ def analyze_comment(comments: dict, persona_rules: dict, iteration: int, platfor
             if platform == "reddit":
                 data = extract_reddit_comments(comment_data, title)
 
+            if not data["main_text"].strip():
+                continue
+
             main_doc = nlp(data["main_text"])
             ctx_doc = nlp(data["full_context"]) if use_context and data["full_context"] else None
             parent_doc = nlp(data["parent_text"]) if use_context and data["parent_text"] else None
 
             main_proc = process_text(main_doc)
-            ctx_proc = process_text(ctx_doc) if ctx_doc else ("", set())
-
-            if filter_messages(main_proc[1], main_proc[0], parent_doc):
+            if filter_messages(main_proc[1], main_proc[0], data["parent_text"]):
                 continue
 
             scores = []
 
             for persona in persona_rules:
-                score = find_match_score(
+                score, kw_hits = find_match_score(
                     iteration,
-                    persona_docs[persona],
                     persona_keywords[persona],
-                    (main_doc, ctx_doc),
                     main_proc,
-                    ctx_proc,
                     persona,
                 )
                 if score > 0:
-                    scores.append((persona, score))
-
+                    scores.append((persona, score, kw_hits))
+            parent_persona, parent_score = None, 0.0
             if use_context:
-                parent_persona = classify_parent_persona(parent_doc, persona_docs, persona_keywords,iteration)
+                parent_persona, parent_score = classify_parent_persona(
+                    parent_doc, persona_docs, persona_keywords, iteration
+                )
                 scores = apply_parent_nudge(scores, parent_persona, list(persona_rules.keys()))
 
             if not scores:
                 continue
 
-            best_persona = pick_best_persona(scores, main_proc)
+            best_persona = pick_best_persona(scores)
 
             if best_persona:
                 sentiment = calculate_sentiment_score(
@@ -132,117 +132,95 @@ def analyze_comment(comments: dict, persona_rules: dict, iteration: int, platfor
                     "comment": data["main_text"],
                     "polarity": sentiment[1],
                     "parent": data["parent_text"],
+                    "parent_persona": parent_persona if use_context else None,
+                    "parent_persona_score": parent_score if use_context else 0.0,
                     "quotes": data["quotes"],
-                    "score": scores
+                    "score": [(p, s) for p, s, _ in scores]
                 })
 
     return matched_personas
 
 
-def pick_best_persona(scores: list, processed_main: tuple) -> str | None:
+def pick_best_persona(scores: list) -> str | None:
     """Pick the best persona from scored candidates skipping close ties to prevent misclassification
     :param scores: List of scores
-    :param processed_main: Tuple containing (text,tokens) from the main document
     :return The best fitting persona or None"""
     if not scores:
         return None
     scores.sort(key=lambda x: x[1], reverse=True)
+
     if len(scores) == 1:
         return scores[0][0]
 
-    top_persona, top_score = scores[0]
-    second_persona, second_score = scores[1]
+    top_persona, top_score, top_kw = scores[0]
+    second_persona, second_score, second_kw = scores[1]
     gap = top_score - second_score
 
-    if gap < 0.05:
-        intent_features = intent(processed_main[0])
-        top_beh = behavior_score(intent_features, top_persona)
-        second_beh = behavior_score(intent_features, second_persona)
-        if abs(top_beh - second_beh) < 0.2:
-            return None
-        return top_persona if top_beh >= second_beh else second_persona
+    if gap >= 0.05:
+        return top_persona
 
-    return top_persona
+    kw_gap = top_kw - second_kw
+    if abs(kw_gap) < 0.01:
+        return None
+
+    return top_persona if kw_gap >= 0 else second_persona
 
 
 def find_match_score(iteration: int,
-                     persona_doc: Doc,
                      keywords: list,
-                     documents: tuple[Doc, Doc],
                      processed_main: tuple[str, set],
-                     processed_ctx: tuple[str, set],
-                     persona: str) -> float:
+                     persona: str) -> float | tuple[float, float]:
     """Find matching persona for a comment
     :param iteration: Iteration number
-    :param persona_doc: Doc
     :param keywords: List of keywords
-    :param documents: Tuple of unprocessed main and context documents
     :param processed_main: Tuple containing (text,tokens) from the main document
-    :param processed_ctx: Tuple containing (text,tokens) from the context document
     :param persona: Current persona being tried
-    :return: Matching persona"""
+    :return: Float of 0.0 if no matching or Tuple containing (score, kw_hits)"""
     rules = ITERATION_RULES[iteration]
-    main_doc, ctx_doc = documents
     return compute_persona_score(
-        persona_doc, keywords,
-        main_doc, ctx_doc,
-        processed_main, processed_ctx,
+        keywords,
+        processed_main,
         kw_w=rules["kw_w"],
-        sim_w=rules["sim_w"],
         beh_w=rules["beh_w"],
         persona=persona,
     )
 
+
 def compute_persona_score(
-        persona_doc: Doc,
         keywords: list,
-        main_doc: Doc,
-        ctx_doc: Doc | None,
         processed_main: tuple[str, set],
-        processed_ctx: tuple[str, set],
         kw_w: float,
-        sim_w: float,
         beh_w: float,
         persona: str,
-) -> float:
+) -> float | tuple[float, float]:
     """Core persona scoring.
-    :param persona_doc: Combined keyword doc for the persona
     :param keywords: Persona keyword list with weights
-    :param main_doc: Unprocessed main comment doc
-    :param ctx_doc: Unprocessed context doc, or None
     :param processed_main: (text, tokens) for the main comment
-    :param processed_ctx: (text, tokens) for the context, or ("", set())
-    :param kw_w: Weight for keyword score component
-    :param sim_w: Weight for semantic similarity component
-    :param beh_w: Weight for behavioural intent component
-    :param persona: Persona name (used for behavior_score)
-    :return: Weighted composite score
+    :param kw_w: Weight for keyword score for this iteration
+    :param beh_w: Weight for behavioral intent for this iteration
+    :param persona: Persona name
+    :return: Float of 0.0 if no matching or Tuple containing (score, kw_hits)
     """
     total_weight = sum(kw["weight"] for kw in keywords)
     if total_weight == 0:
         return 0.0
 
     main_hits = find_keyword_hits(keywords, *processed_main)
-    ctx_hits = find_keyword_hits(keywords, *processed_ctx) if processed_ctx[0] else 0.0
 
     kw_main_ratio = min(main_hits / total_weight, 1.0)
-    kw_ctx_ratio = min(ctx_hits / total_weight, 1.0)
-    keyword_score = 0.85 * kw_main_ratio + 0.15 * kw_ctx_ratio
-
-    main_sim = main_doc.similarity(persona_doc)
-    ctx_sim = ctx_doc.similarity(persona_doc) if ctx_doc else main_sim
-    sim_score = 0.80 * main_sim + 0.20 * ctx_sim
+    keyword_score = 0.85 * kw_main_ratio
 
     beh = behavior_score(intent(processed_main[0]), persona)
 
-    return kw_w * keyword_score + sim_w * sim_score + beh_w * beh
+    return kw_w * keyword_score + beh_w * beh, main_hits
+
 
 def find_keyword_hits(keywords: list, text: str, token_set: set) -> float:
     """Search for keyword hits against the comment text and token set and scores it accordingly
     :param keywords: Keywords of the persona
     :param text: The comment text
-    :param token_set: tokens from the comment
-    :return: float score of the number of hits for the comment agains the persona keywords
+    :param token_set: set of tokens from the comment
+    :return: float score of the number of hits for the comment against the persona keywords
     """
     score = 0.0
     for kw in keywords:
@@ -255,6 +233,7 @@ def find_keyword_hits(keywords: list, text: str, token_set: set) -> float:
         elif any(similar(token, term) > 0.82 for token in token_set if len(token) > 2):
             score += weight * 0.1
     return score
+
 
 def behavior_score(intent_feature: dict, persona: str) -> float:
     """ Behavioral score to boost persona detection if intent signal and persona match
@@ -269,7 +248,7 @@ def behavior_score(intent_feature: dict, persona: str) -> float:
     if p == "solution provider" and intent_feature["is_advice"]:
         score += 0.8
     if p == "critic" and intent_feature["is_criticisms"]:
-        score += 0.9
+        score += 0.8
     if p == "technical explainer" and intent_feature["is_explanation"]:
         score += 0.8
     return min(score, 1.0)
@@ -322,26 +301,28 @@ def intent(text: str) -> dict:
         )),
     }
 
-def classify_parent_persona(parent_doc: Doc, persona_docs: dict, persona_keywords: dict,iteration:int) -> str | None:
+
+def classify_parent_persona(parent_doc: Doc | None,
+                            persona_docs: dict,
+                            persona_keywords: dict,
+                            iteration: int) -> tuple[None, float] | tuple[float, float]:
     """Classify the parent comment's persona using the same scoring logic as main comments.
-    :param iteration: Iteration of the classification
-    :param parent_doc: Parent comment
+    :param parent_doc: Parent comment or None
     :param persona_docs: dictionary of all personas
     :param persona_keywords: persona keywords
-    :return: Parent persona or None"""
+    :param iteration: Iteration of the classification
+    :return: tuple of persona and score or tuple of None and score"""
     if parent_doc is None:
-        return None
+        return None, 0.0
     rules = ITERATION_RULES[iteration]
     parent_proc = process_text(parent_doc)
     best_persona, best_score = None, 0.0
 
     for persona, p_doc in persona_docs.items():
-        score = compute_persona_score(
-            p_doc, persona_keywords[persona],
-            parent_doc, None,
-            parent_proc,("", set()),
+        score, kw_hits = compute_persona_score(
+            persona_keywords[persona],
+            parent_proc,
             kw_w=rules["kw_w"],
-            sim_w=rules["sim_w"],
             beh_w=rules["beh_w"],
             persona=persona,
         )
@@ -349,37 +330,40 @@ def classify_parent_persona(parent_doc: Doc, persona_docs: dict, persona_keyword
             best_score = score
             best_persona = persona
 
-    return best_persona if best_score >= 0.3 else None
+    return (best_persona if best_score >= 0.15 else None), best_score
+
 
 def apply_parent_nudge(scores: list, parent_persona: str | None, all_personas: list) -> list:
     """Nudge persona scores based on the parent comment's persona.
     :param scores: list of scores to apply the nudge
-    :param parent_persona: parent comment's persona
+    :param parent_persona: parent comment's persona or None
     :param all_personas: list of all personas
     :return: list of the updated score"""
     if parent_persona is None or parent_persona not in PARENT_REPLY_WEIGHTS:
         return scores
 
     nudges = PARENT_REPLY_WEIGHTS[parent_persona]
-    score_dict = dict(scores)
+    score_dict = {persona: (score, kw) for persona, score, kw in scores}
+
     return [
-        (persona, score_dict.get(persona, 0.0) + nudges.get(persona, 0.0))
+        (persona, score_dict.get(persona, (0.0, 0.0))[0] + nudges.get(persona, 0.0),
+         score_dict.get(persona, (0.0, 0.0))[1])
         for persona in all_personas
     ]
 
 
-def calculate_sentiment_score(main_text: str, context_text: str, use_context: bool) -> tuple:
+def calculate_sentiment_score(main_text: str, context_text: str, use_context: bool) -> tuple[str, float]:
     """Calculates sentiment score for the persona
     :param main_text : main comment text
     :param context_text : quotation,title and parent context
     :param use_context: use context or not
-    :return sentiment label and score"""
+    :return tuple of label and score"""
     main_compound = analyzer.polarity_scores(main_text)["compound"]
     context_compound = analyzer.polarity_scores(context_text)["compound"]
     sentiment = main_compound if not use_context else combine_with_context(
         main_compound,
         context_compound)
-    return classify_sentiment_label(sentiment),sentiment
+    return classify_sentiment_label(sentiment), sentiment
 
 
 def classify_sentiment_label(polarity: float, threshold: float = 0.10) -> str:
@@ -410,6 +394,7 @@ def combine_with_context(main_compound: float, context_compound: float, context_
     adjustment = context_weight * (context_compound if same_direction else -abs(context_compound))
     return main_compound + adjustment
 
+
 def extract_reddit_comments(comment_data: dict, title: str) -> dict:
     """extract Reddit comments for persona matches, including parent and quotes
     :param comment_data: Dictionary of cleaned comments, keyed by comment ID.
@@ -431,17 +416,17 @@ def extract_reddit_comments(comment_data: dict, title: str) -> dict:
     }
 
 
-def filter_messages(tokens: set, main_text: str, parent_doc: Doc) -> bool:
+def filter_messages(tokens: set, main_text: str, parent_text: str) -> bool:
     """Filter out low signal comments that are too short or purely acknowledgement noise
     :param tokens: tokens existing in the comment
     :param main_text: the main comment text
-    :param parent_doc: parent Document
+    :param parent_text: parent text
     :return: boolean if it should be skipped or not
     """
     meaningful = tokens - ACK_WORDS
     words = main_text.split()
-    if parent_doc is not None:
-        words += parent_doc.text.split()
+    if parent_text is not None:
+        words += parent_text.split()
 
     return len(meaningful) < 3 or len(words) < 6
 
@@ -456,7 +441,7 @@ def process_text(doc: Doc) -> tuple[str, set]:
     return text, tokens
 
 
-def similar(a:str, b:str) -> float:
+def similar(a: str, b: str) -> float:
     """Check similarity ratio between two strings
     :param a: First string
     :param b: Second string
@@ -464,7 +449,7 @@ def similar(a:str, b:str) -> float:
     return SequenceMatcher(None, a, b).ratio()
 
 
-def phrase_in_text(term:str, text:str) -> bool:
+def phrase_in_text(term: str, text: str) -> bool:
     """ Check for if term exist as a whole word in the text
     :param term: The keyword term to search for
     :param text: The full comment text being searched

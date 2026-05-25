@@ -1,0 +1,676 @@
+
+{
+  "Question asker": {
+    "positive": [
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "mogeziy",
+        "comment": "Interesting idea, does this work globally?",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "e97c0d2fef1b2945187b562576cd69b5",
+        "message_id": "mp4o1jf",
+        "comment": "Love it. Curious - how did you integrate Apple Pay payment into it?",
+        "polarity": 0.6,
+        "score": []
+      },
+      {
+        "user": "898e8927729e487e89f4cd14c71e23e9",
+        "message_id": "mpiqbf3",
+        "comment": "Looks pretty cool. I have a question though, how are you able to afford this around the world?",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "e14f9d1e852377dea671fff430f10971",
+        "message_id": "moru4vs",
+        "comment": "Really cool. Who did you partner with to print, stamp, fold the paper and put in envelope?",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "a22b8ec37d012933c333e504dd2bbbfd",
+        "message_id": "mol53uv",
+        "comment": "honestly pretty cool idea, would you be interested in opening an API? I think I could use this for my ai agent.",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "93676e6d5ba42c599f656ae25c9f6e01",
+        "message_id": "mokjy5t",
+        "comment": "Curious to know how you got this unique idea, and did you validate the idea if so how?",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "814285a55af5ee2e494ebc988e2f7060",
+        "message_id": "moke2je",
+        "comment": "I like this idea. I probably use it. Is it live?",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "e97c0d2fef1b2945187b562576cd69b5",
+        "message_id": "mqlf8gu",
+        "comment": "How did you add Apple Pay button to the page? Is it a stripe integration or another way? Thanks 🙏",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "1414136b6ef30ef549d83d6d99b552b8",
+        "message_id": "moi4vmg",
+        "comment": "This is a great idea. I'm thinking of doing a prank on my friend. That got me thinking, How well are you inspecting the letters? I guess it might create some opportunity for some malicious stuff. Not sure how tbh",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "f9d40b3c7cbfe6a687d6770e7e6e9bb7",
+        "message_id": "moxdl90",
+        "comment": "I'd love to try sending one to my friends overseas! Just joined the waitlist. Super excited for this!",
+        "polarity": 0.8,
+        "score": []
+      },
+      {
+        "user": "a64321ce987ac2959f3e77bc75699b62",
+        "message_id": "mohcwce",
+        "comment": "Can I Invest in this?",
+        "polarity": 0.2,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "391b0bfc665b3cc92c773f394f516da7",
+        "message_id": "mogvht6",
+        "comment": "Which map library did you use?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "96c659e99703ced8fb106af388249eb4",
+        "message_id": "mogpqcr",
+        "comment": "Say what API do you use to send the mail. I doubt you do it manually?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "43ad43cf4c48d4cb47cd769f2f5c815a",
+        "message_id": "mohiom9",
+        "comment": "How does this compare to sending a telegram?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "0810b218d4f4dd6475174736f85227c6",
+        "message_id": "moje3qw",
+        "comment": "But who actually sends it?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "01a1c2204ea9056841d8ae515154d9d7",
+        "message_id": "moigh68",
+        "comment": "how/why?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "2813afbd8e34e041b0e5ae1db5c7dad2",
+        "message_id": "mowbo9p",
+        "comment": "I'm not getting any order confirmation emails...is that expected",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "2813afbd8e34e041b0e5ae1db5c7dad2",
+        "message_id": "mp0d68p",
+        "comment": "Any way to track order?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "72ac3c41fd979efc2310afbd0fdf6bca",
+        "message_id": "monvfdb",
+        "comment": "Serious question: Who writes letters?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e09f4bc275b4f135d98f5c19ce35c8bb",
+        "message_id": "moy9r02",
+        "comment": "what tech stack did you use ?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e97c0d2fef1b2945187b562576cd69b5",
+        "message_id": "mp4s3cp",
+        "comment": "It loads in EUR for me. If in UK can it show in GBP, or just a set currency? Do you have a printer that can print, stamp and send from anywhere to anywhere in the world, single letters at consistent prices?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "mpenvn3",
+        "comment": "Did you receive it? There no update on my order page",
+        "polarity": -0.05,
+        "score": []
+      },
+      {
+        "user": "bf3aa7e5f83c562c9f644a5cf8016615",
+        "message_id": "ms9xuou",
+        "comment": "How long did it take you to arrive?",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "e2c77e688f724b28ad7c181bb8197cbc",
+        "message_id": "moggecd",
+        "comment": "Fabulous idea, where are the letters sent from?",
+        "polarity": 0.1,
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "muuhhlq",
+        "comment": "Did you receive it ? Its been a month, I have not received anything yet lol",
+        "polarity": -0.3,
+        "score": []
+      },
+      {
+        "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+        "message_id": "n8zqlp8",
+        "comment": "hey, did you receive anything:? i havent received anything either and im starting to think itll never arrive",
+        "polarity": -0.4,
+        "score": []
+      }
+    ]
+  },
+  "Solution Provider": {
+    "positive": [
+      {
+        "user": "0e6962b7beb520aa842b244d0e7dda67",
+        "message_id": "mogs5bk",
+        "comment": "Would be good to show on you website how the actual printed letter looks like, like paper quality, stamps, letter etc.",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "75c43ada39e5b0b8ffa9b2cf1bd2d554",
+        "message_id": "mohnuin",
+        "comment": "Really cool. Maybe as an upsell, you could allow users to \"gift a response\" as part of their letter. In other words, prepaying for their recipient's response. The letter could come with a tiny tag or something where the recipient would essentially be able to scan a QR code or go to a custom link that lets them send a letter back to the original sender at no cost to them. Added benefit of increasing user adoption.",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "dbdcb06bb7c3a1b2fe2c457a5429f987",
+        "message_id": "mp6wybe",
+        "comment": "Yeah man upsale packages with chocolate - flowers - a small gift would be awesome. (Also reach out to do partnerships with other businesses that sell those. Maybe later on) Goed bezig Pieter🤙🏼",
+        "polarity": 0.6,
+        "score": []
+      },
+      {
+        "user": "8265f1da3ba11bfa997640c6a75727f2",
+        "message_id": "mp75f2l",
+        "comment": "Great idea. When redeeming the gift response, the responder might be prompted to gift a response to the response. And so on, and so on... :)",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "c5c76b3f4529b603c05628b70a1711d6",
+        "message_id": "mohn7wu",
+        "comment": "Just some thoughts to help the flow. - !!! Nice subtle gradient animation in the background. - The header logo can be clicked on within the main-page and I get a little nod and a wink, but visiting other pages like your About, Privacy, Terms does not show the animation and does provide a link back to the Main Page... Could I pay more to expedite a delivery or add a dozen roses to it with a box of chocolates? I love this service!",
+        "polarity": 0.6,
+        "score": []
+      },
+      {
+        "user": "de13a6b32b3229c7918342b2a9b80d8b",
+        "message_id": "mrfu1al",
+        "comment": "hi OP, i really like your project so far but i have some suggestions: - allow other payment methods such as paypal... - are you going to review the content of the letters?... - i haven't tried sending a letter via your service yet but i hope there are other choices for the stamp... - an app would be neat as well!... - while i don't mind the font that you use, it would be neat if there are choices for font styles as well... - i wish there was an option to add more files or to resize the images...",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "4406b477291a9d7e571ee248bc49889a",
+        "message_id": "mpm59cp",
+        "comment": "This is a really cool idea, hey if you want help with adding features like a more customizable text editor and themes and all, you can dm me, this seems like a great idea and would love to team up.",
+        "polarity": 0.6,
+        "score": []
+      },
+      {
+        "user": "02b841d001d1dbc7bc1dd486f894a17f",
+        "message_id": "moob112",
+        "comment": "I would totally use your service. But I don't feel good sharing my credit card data like that. Add a paypal and we are in business.",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "4afa7466bcfb4b924186fb9a0d947d64",
+        "message_id": "molsisf",
+        "comment": "That's a really nice idea. I would love to have a feature where I can schedule a delivery date for the mail. For ex - a birthday greeting to be delivered on a particular day. Your website is catchy and it feels smooth.",
+        "polarity": 0.7,
+        "score": []
+      },
+      {
+        "user": "de8041935fba988d9d7067fe6da9c170",
+        "message_id": "mpioq1n",
+        "comment": "Really cool idea! And nice branding. I love the logo",
+        "polarity": 0.7,
+        "score": []
+      },
+      {
+        "user": "de8041935fba988d9d7067fe6da9c170",
+        "message_id": "mpiv3zg",
+        "comment": "Sure, and it would be nice to have the kind of robots that write by hand. I modded a 3d printer to do it. Could be a nice add to your product",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "a309313d401efd759a4b4cd631b9831e",
+        "message_id": "moke9w8",
+        "comment": "Sounds like an excellent opportunity to collab with a PenPal app on ios",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "47edbab1e9c97c7d48c905d88217be89",
+        "message_id": "moima4c",
+        "comment": "Hey! I'm a fellow mailing entrepreneur. I made an app that sends mail too, but more focused on photo prints and shorter message cards! I'd love to meet and collaborate. Congrats on your project. Snail mail is booming 💌",
+        "polarity": 0.7,
+        "score": []
+      },
+      {
+        "user": "c686e78b889696a2ff449afd6bc66da5",
+        "message_id": "mou2z1h",
+        "comment": "Such a cool and unique concept, well done! Love the look of it too! An idea that may have already popped up in your head too: being able to 'hand write the text' and have that printed on the letter? Would that be possible? That might already come quite close for people that want to give it a more personal touch! Keep it up!",
+        "polarity": 0.8,
+        "score": []
+      },
+      {
+        "user": "0819c62d6a919004430573a0548b0c38",
+        "message_id": "mpb4zpo",
+        "comment": "I like the idea, super cool! It would be great if people could write a simple text in their own handwriting style, so you could parse it and use it for their physical mail. I think that would give it a more personalized and less sterile touch.",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "12a1493fdcf8b1d1a79c0989f896e1fd",
+        "message_id": "mohvwto",
+        "comment": "Make an MCP for this!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "385d0cb43b80e7ef22267eeb20e5b466",
+        "message_id": "mohjk5s",
+        "comment": "They might mean its not on the landing page. Maybe a version of the logo stamped with a round \"€2\" label somewhere on the page would be enough to communicate it earlier?",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "c13e15d5e4ed3f4c88186b786e7ddab1",
+        "message_id": "mohecln",
+        "comment": "Very nice idea, and good execution! I sent to myself apple pie recipe, to test it out also to fill your empty spots in Eastern Europe 😂 From a user perspective will be nice somehow to track the orders or at least to see some history. Either sent confirmation by email or account with saved old letters data. Additionally, I do not know if it's possible but will be cool if sender names can be mine. Moreover +1 for the idea about visuals of the real letter. Once again, good job on the project!",
+        "polarity": 0.6,
+        "score": []
+      },
+      {
+        "user": "c13e15d5e4ed3f4c88186b786e7ddab1",
+        "message_id": "mok1h5j",
+        "comment": "I do not know if it's country specific thing but in Bulgaria when you send letters, the sender names and addresses are in top left corner and the recipient is in the bottom right, stamp is on top right of the envelope. Additionally the name of the sender and address is put in the first sheet of the letter itself again in the top left corner. One more suggestion, you can experiment with handwriting fonts customisations... Map page is a bit hard to navigate and to check which countries are filled. Maybe will be good addition to add country list and count of sent letters. Good luck with it!",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "26d0272ba7054edf5e504ed0f547ddc9",
+        "message_id": "moysgqn",
+        "comment": "This is great! Reminds me of Telegram Stop, a service from 2010s that let you send mock-telegrams from online. They're gone, in case you want to expand...",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "f70dddf6055687aebe66dcf6d4490557",
+        "message_id": "mojw78u",
+        "comment": "This is very cool! I am thinking that I could send a letter from Santa to my own address for my kids. Having a template like your recipe one to do that easy would be awesome!",
+        "polarity": 0.7,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "b435f683834f233ce5e7d85015fb9c8d",
+        "message_id": "moidii6",
+        "comment": "Allow for an anonymous payment. People will use it to prank or tell off their boss lol",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "700e13ef8cc104892b33a6787230ea37",
+        "message_id": "mogtmbx",
+        "comment": "Please include pricing on the first page. I don't want to write a long letter only to see a high price at the end.",
+        "polarity": -0.1,
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Technical explainer": {
+    "positive": [
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mogfrl2",
+        "comment": "Yes it works globally! :) EDIT: Feel free to try. Would be cool if we could fill the worldmap with Reddit?",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mogvtjt",
+        "comment": "It's the Google Maps :)",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mogh8dr",
+        "comment": "Different locations worldwide, to deliver fast and sustainable. Working with different companies.",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mp4rmxc",
+        "comment": "It was really important for me that I would use it myself. And since Apple Pay works so good, it was an easy choice to integrate it.",
+        "polarity": 0.4,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mpp6o6j",
+        "comment": "Yesss! People are going crazy when receiving letters, its special in a world where every message is no longer then 3 sentences nowadays.",
+        "polarity": 0.5,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mohj8m3",
+        "comment": "Totally fair! And yes there's something magical about a handwritten note. I think with PieterPost real mail is more accessible and easy to use. You can always personalize it with pictures or a .pdf. But I think receiving a letter from a friend or family always gives that little bit of extra joy, and with PieterPost its easier then ever.",
+        "polarity": 0.7,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "moh0azl",
+        "comment": "Good one! The adress is processed in the end and then it's correct. We successfully send some letters to the UK now. But might be weird now that the preview is not correct. Add it to my TODO's. Thanks for the feedback.",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "moklh1n",
+        "comment": "Good one! It always starts with some little frustration, like never having stamps, envelopes or a pen at home. So that's a start and then just build something you actually want to use yourself.",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mqm9i8u",
+        "comment": "Stripe it is!",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "mogwg3w",
+        "comment": "I think it is on the first page or what do you mean? It's right below the letter. If you upload a photo or like a .pdf then there is an extra charge for more pages.",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "moxh6yt",
+        "comment": "We don't send order confirmation by email, yet!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "4aff89bbda390c4d54ae28dce8a40fd7",
+        "message_id": "ofqyt7f",
+        "comment": "They kept it scannable by always putting a solid bar at the bottom. Seems pretty trivial to me. (Not to downplay OP's work. Looks like a good tool.)",
+        "polarity": 0.2,
+        "score": []
+      },
+      {
+        "user": "458eaaafb9bc295fc78a5d6f676882b9",
+        "message_id": "mohuvw0",
+        "comment": "French post does this as a service (focusing mostly on administrative stuff, many things still require actual mail with proof of delivery rather than a simple email), interesting that this was an open space in the US!",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "25b1ed13af6f1071933ba63b630d8bef",
+        "message_id": "mohak25",
+        "comment": "I think his are actually physical letters",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "5d9fcdd53450d9c9c652012e40d1c932",
+        "message_id": "mogrisp",
+        "comment": "Presumably you're wrapping a letter sending API? I see some with pricing for a postcard a bit under $1.",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "de8041935fba988d9d7067fe6da9c170",
+        "message_id": "mpix7on",
+        "comment": "I made a shitty version with a cheap 3d printer but the real deal is like 15k, but it has automatic feeding and a bunch of thing. 1st supplier I found. I know some people rent these to send batch letters. Personally I would use your service, and be willing to pay more if it would be written like that. Best of luck!",
+        "polarity": 0.3,
+        "score": []
+      },
+      {
+        "user": "b1f5cdb0d1c6b55cdfe1c0dd979e5055",
+        "message_id": "monl89t",
+        "comment": "Good luck. We launched this many years back in Royal Mail. It was built in partnership with Microsoft as a printer driver that could mail out. It failed miserably",
+        "polarity": 0.1,
+        "score": []
+      }
+    ],
+    "neutral": [
+      {
+        "user": "6ca6cdefb698d10a40060ae666ff3da5",
+        "message_id": "moh8hbc",
+        "comment": "wait I remember something like this existing a while ago, I think it was called slowly",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "f86cb253ad8af86e099a307ad5bc53b4",
+        "message_id": "mp4d99r",
+        "comment": "His send real letters so I am curious too, because this isn't scalable",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "60a19c772c9da99464a85d552aa79977",
+        "message_id": "moxh91a",
+        "comment": "There is no waitlist anymore! You can send immediately :)",
+        "polarity": 0.1,
+        "score": []
+      }
+    ],
+    "negative": []
+  },
+  "Critic": {
+    "positive": [],
+    "neutral": [
+      {
+        "user": "705bd9f30b46cc608c4eafc43112635b",
+        "message_id": "mohi77e",
+        "comment": "Although this is cool and well designed Im a bit skeptical that a person who prefers to send mail would want it printed with no personal touch. To me the handwriting is what makes the difference. Isn't this just a text message/email delivered via mail? Maybe I'm just not thinking of other case scenarios where this would be helpful.",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "3e4ce20ec588600054f050310750c4ca",
+        "message_id": "moh9pfs",
+        "comment": "The concept is cool man but u know this is a downhill market right",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "dc403cbde8929ccc2721e5edab773a6b",
+        "message_id": "mokwl8n",
+        "comment": "Very nice website, you better surf on the vitality if you get any because there are a lot of competitors, including national post companies which offer the same service",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "8d6f77ddd92f663c8a6f5b8186463710",
+        "message_id": "mpm25tx",
+        "comment": "How are you preventing hate, terrorism related or similar things ? They could just send through post and the sender will be you via post.",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "1717e75dafa060b059fa1e613ab1f568",
+        "message_id": "mokc4g6",
+        "comment": "I like this, but it kind of draws away from the personal aspect of sending a letter these days. Cool project man!",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "e89eecdfd09022b8a1574011e78edc9d",
+        "message_id": "mp0hiij",
+        "comment": "I think I still prefer hand writing my letters, but I really do applaud this idea",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "287100e843dfd9ddfee02a211ca3c52b",
+        "message_id": "mom8ks1",
+        "comment": "First of all great idea! I saw some Instagram advertisements of this service, but that didn't make it clear for me what this service was for. Until this post ;) But isnt 'Pieter Post' a copyrighted name, or a name that can get you into some sort of legal trouble when using commercially? Just a heads up, since this is also used for the famous children cartoon (Dutch version of Postman Pat):))",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "b32fa1040bcc262eeafdbc4e1098b912",
+        "message_id": "moocd7r",
+        "comment": "2 dollars for what? Sending email?",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "3062d5af45287c79d3113817a6a21280",
+        "message_id": "mok9bql",
+        "comment": "Very cool idea OP Few critical things: Hyperlink is NOT a good Call To Action button. The general public won't even notice it. You should add a clear button. It won't let you calculate additional charges or choose location before inserting credit card? CC should mostly come last",
+        "polarity": 0.1,
+        "score": []
+      },
+      {
+        "user": "47bf3dc1ab86b0dc1dcdf43e4f817a88",
+        "message_id": "moggfgo",
+        "comment": "Hey just wanted to let you know that there's a \"[Insert Your Country]\" in the terms & conditions, near the bottom.",
+        "polarity": 0.0,
+        "score": []
+      },
+      {
+        "user": "8d6f77ddd92f663c8a6f5b8186463710",
+        "message_id": "mrg3fq4",
+        "comment": "Had a similar idea. But the issue was that our country takes terrorism related things very seriously and it is a non-bailable offense here. If someone sends a message to those people through us, we will obviously be the sender and could be linked. This could be like an undetected mode of communication. But you could end up being a part of it unknowingly.",
+        "polarity": -0.1,
+        "score": []
+      },
+      {
+        "user": "d3f83f0ad82a8aff082bdd32af8e257503",
+        "message_id": "molj9e1",
+        "comment": "The address doesn't adapt to regional address standards. While in Belgium and the Netherlands, the building number follows the street, in North America, the custom is that the number precedes the street in the first line of the address. This might cause some small confusion and would help if remedied.",
+        "polarity": -0.05,
+        "score": []
+      }
+    ],
+    "negative": [
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "n90arzc",
+        "comment": "Same. It was scam",
+        "polarity": -0.8,
+        "score": []
+      },
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "n90jad1",
+        "comment": "The payment page was also fishy, even though they claimed it was via stripe. I am still getting their fake emails lol. I knew this can't be real, thank god I didn't put any sensitive info, but I used my personal image 😭",
+        "polarity": -0.7,
+        "score": []
+      },
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "n90ks2q",
+        "comment": "Mods should ban them & delete their posts and let other people know",
+        "polarity": -0.8,
+        "score": []
+      },
+      {
+        "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+        "message_id": "n90iqpt",
+        "comment": "Aw man. Well I'd demand proof of it being sent out or else a refund, their costumer service was really sketchy and the no tracking is also pretty weird. Starting to think that's how they profit, by making people believe the 'cheap 3£ letters' are worth it since some of us can't send it out and this service does it for you... Idk what I expected but I'm not surprised, this is the third letter service I've seen scamming. The pictures look fake too.",
+        "polarity": -0.7,
+        "score": []
+      },
+      {
+        "user": "8b9f8c2c4a6cd8c2953ed7f6ac758290",
+        "message_id": "n90khsd",
+        "comment": "yeah very fishy, only two options credit card and...ideal? never heard of that 😭 unfortunately I was dumb enough to trust this site because their original post blew up, no idea what they're going to do with that address and credit card information now",
+        "polarity": -0.6,
+        "score": []
+      },
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "my9sr57",
+        "comment": "Huh. I never got cancellation email. But they already have our payment info and letter content 😏",
+        "polarity": -0.5,
+        "score": []
+      },
+      {
+        "user": "b1f5cdb0d1c6b55cdfe1c0dd979e5055",
+        "message_id": "moquszk",
+        "comment": "Lack of traffic",
+        "polarity": -0.3,
+        "score": []
+      },
+      {
+        "user": "de13a6b32b3229c7918342b2a9b80d8b",
+        "message_id": "mrfuk50",
+        "comment": "this is my question too! i didn't see anything in the terms and conditions but hopefully OP can still update it",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "8ecb696c591c15a6ee71b6e6f13acc4a",
+        "message_id": "mokqoc0",
+        "comment": "Love the idea, but I can't send a mail. I get error \"Error creating payment: The string did not match the expected pattern\" on two different cards with apple pay + one card with just the credit card numbers.",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "bccc801bdd4182024663551ebc6acbe9",
+        "message_id": "moio74f",
+        "comment": "Nice, just ordered a letter to myself. One thing is it lets you enter an address without some fields (eg city) but this throws an error when you go to pay, and the error message wasn't very clear about the problem, had to try 3 times to work it out.",
+        "polarity": -0.2,
+        "score": []
+      },
+      {
+        "user": "765176c513bc6e8bbd7f6d89b82a32d7",
+        "message_id": "my9eu8o",
+        "comment": "Did your friend receive it? I have sent mine months ago, no update !",
+        "polarity": -0.3,
+        "score": []
+      }
+    ]
+  }
+}

@@ -2,28 +2,34 @@
     "Question asker": {
         "positive": [
             {
+                "user": "4f41e5f1f363af709f9fdb9b4651cfa1",
+                "message_id": "ntsqsyk",
+                "comment": "It's already open source, I forgot to add a license, though, it's MIT. Feel free to do anything with the code",
+                "polarity": 0.5106,
+                "parent": "Cool idea. Are you going to open source it (there’s no license on the GitHub)? I know it’s source available but I’d like to try the bank import on some ideas, I love the cleanup it does because of “ugly statements”",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.018293478260869567
+                    ]
+                ]
+            },
+            {
                 "user": "596966890b69e3117c507083ce442086",
                 "message_id": "nty06aq",
                 "comment": "It’s really cool, would also be very interesting to see actual usage of each subscription. Adobe might be the biggest one but if you’re using it every day, then you’re extracting value from that. What is the actual usage of the gym membership? 😂",
                 "polarity": 0.8671,
                 "parent": "Oh thank you! I'll look more into it.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.48255538403987885
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3342702716588974
-                    ],
-                    [
-                        "Solution Provider",
-                        0.33246019184589387
-                    ],
-                    [
-                        "Critic",
-                        0.31859090328216555
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -33,23 +39,33 @@
                 "comment": "Haven't looked at the code yet but wanted to ask, any special instructions on how to deploy it locally?",
                 "polarity": 0.5499,
                 "parent": "It's already open source, I forgot to add a license, though, it's MIT. Feel free to do anything with the code",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.48218990921974186
+                        0.36000000000000004
+                    ]
+                ]
+            },
+            {
+                "user": "98b1e6bc08e908813980f8d738717b94",
+                "message_id": "nty9fq7",
+                "comment": "This is one of those tools that feels harmless until you actually use it and immediately regret it. Seeing subscriptions as a list is fine. Seeing them as big angry boxes competing for space in your budget hits different. Also respect for no signup and local-only data. Anything that touches money instantly gets more trust when it doesn’t ask for an email first. Out of curiosity, did you consider adding a “hide this one because I’m not ready emotionally” toggle? Asking for a friend.",
+                "polarity": 0.5078,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.36203260869565224
                     ],
                     [
                         "Solution Provider",
-                        0.33293055891990664
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3208586037158966
-                    ],
-                    [
-                        "Critic",
-                        0.311309152841568
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -59,23 +75,13 @@
                 "comment": "A noob question. Do you dynamically retrieve the subscription icons in some way, or you have them stored?",
                 "polarity": 0.3182,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.48108442449569705
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3233076959848404
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3123911827802658
-                    ],
-                    [
-                        "Critic",
-                        0.30552797913551333
+                        0.3782934782608696
                     ]
                 ]
             },
@@ -85,23 +91,17 @@
                 "comment": "People still pay for Adobe Creative Cloud? We just put this into an end of long years subscription and never been this good.",
                 "polarity": 0.7073,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.47568971872329713
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3250184953212738
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3228838086128235
+                        0.36000000000000004
                     ],
                     [
                         "Critic",
-                        0.3159231307863759
+                        0.01286697247706422
                     ]
                 ]
             },
@@ -111,23 +111,13 @@
                 "comment": "Nice design! Can you share please your portofolio website?",
                 "polarity": 0.7644,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4340833342075348
-                    ],
-                    [
-                        "Solution Provider",
-                        0.2882519453763962
-                    ],
-                    [
-                        "Technical explainer",
-                        0.257352477312088
-                    ],
-                    [
-                        "Critic",
-                        0.25148399770259855
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -137,23 +127,13 @@
                 "comment": "What approach or idea to make the layout fill out? i'm also implementing a start menu windows phone like.",
                 "polarity": 0.3612,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4758596366643906
-                    ],
-                    [
-                        "Solution Provider",
-                        0.33222693800926206
-                    ],
-                    [
-                        "Technical explainer",
-                        0.31731759309768676
-                    ],
-                    [
-                        "Critic",
-                        0.30637210309505464
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -163,23 +143,13 @@
                 "comment": "That looks very clean! Which tools did you use?",
                 "polarity": 0.5081,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4757220542430878
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3245433300733566
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30859361588954926
-                    ],
-                    [
-                        "Critic",
-                        0.30561803877353666
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -191,23 +161,13 @@
                 "comment": "does the subscription tracker have a tracker for the subscription of the subscription tracker itself? /s",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4221311664581299
-                    ],
-                    [
-                        "Technical explainer",
-                        0.28401989340782163
-                    ],
-                    [
-                        "Solution Provider",
-                        0.27735785841941835
-                    ],
-                    [
-                        "Critic",
-                        0.2648490607738495
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -217,23 +177,29 @@
                 "comment": "wdym? in the bank statement import?",
                 "polarity": 0.0,
                 "parent": "a \"add all\" button would be nice to see how much money i don't spend",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4255257284641266
-                    ],
+                        0.36000000000000004
+                    ]
+                ]
+            },
+            {
+                "user": "5b2f5b9adc34ca2342ad1c623175d8da",
+                "message_id": "ntzs71j",
+                "comment": "Who will track the Trackers?",
+                "polarity": 0.0,
+                "parent": "does the subscription tracker have a tracker for the subscription of the subscription tracker itself? /s",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
                     [
-                        "Technical explainer",
-                        0.27886306643486025
-                    ],
-                    [
-                        "Critic",
-                        0.2704016327857971
-                    ],
-                    [
-                        "Solution Provider",
-                        0.26716436743736266
+                        "Question asker",
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -243,23 +209,13 @@
                 "comment": "Can't you just take a normal screenshot?",
                 "polarity": 0.0,
                 "parent": "I mean you were right, it would be cool if someone could actually found the solution to this xD",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4788470840454102
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31873578727245333
-                    ],
-                    [
-                        "Critic",
-                        0.30189169347286227
-                    ],
-                    [
-                        "Technical explainer",
-                        0.29589287042617796
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -269,23 +225,13 @@
                 "comment": "Disney 8? Apple 3? NordVPN? Omg!",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.3638904100656509
-                    ],
-                    [
-                        "Solution Provider",
-                        0.18841227293014526
-                    ],
-                    [
-                        "Critic",
-                        0.18314784169197082
-                    ],
-                    [
-                        "Technical explainer",
-                        0.17210234105587005
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -295,23 +241,13 @@
                 "comment": "Where the heck are you finding such a cheap gym? Even the YMCA wants ~$100 near me.",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4748072928190232
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31944856643676756
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3139562219381332
-                    ],
-                    [
-                        "Critic",
-                        0.30350356698036196
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -321,23 +257,13 @@
                 "comment": "may I ask how the layout algorithm works?",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.474044862985611
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31827345192432405
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3046595722436905
-                    ],
-                    [
-                        "Critic",
-                        0.2994756460189819
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -349,23 +275,13 @@
                 "comment": "Doesn't youtube premium come with a music service? Why pay for spotify?",
                 "polarity": -0.1926,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4654840445518494
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3037054240703583
-                    ],
-                    [
-                        "Technical explainer",
-                        0.29125505983829497
-                    ],
-                    [
-                        "Critic",
-                        0.2871856242418289
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -375,23 +291,13 @@
                 "comment": "not doubting you, but wtf is the relationship to tree's in these? :D I get that you would have the large block with the next largest next to it, which is tree'ish I guess.",
                 "polarity": -0.4557,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4893423801660538
-                    ],
-                    [
-                        "Solution Provider",
-                        0.33158254325389863
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3303669363260269
-                    ],
-                    [
-                        "Critic",
-                        0.318719807267189
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -401,23 +307,13 @@
                 "comment": "Can this tool send notification when users choose to renew or cancel their subscription?",
                 "polarity": -0.25,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4349327778816223
-                    ],
-                    [
-                        "Solution Provider",
-                        0.29753146767616273
-                    ],
-                    [
-                        "Technical explainer",
-                        0.28076007664203645
-                    ],
-                    [
-                        "Critic",
-                        0.2721733272075653
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -431,23 +327,13 @@
                 "comment": "yes once I get a Mac. but you can use Vexly perfectly fine in mobile!",
                 "polarity": 0.8791,
                 "parent": "Nice! Any plans to make vexly a mobile app",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5039382963893402
-                    ],
-                    [
-                        "Question asker",
-                        0.31344540417194366
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30503420531749725
-                    ],
-                    [
-                        "Critic",
-                        0.29900542497634885
+                        0.38032608695652176
                     ]
                 ]
             },
@@ -457,23 +343,17 @@
                 "comment": "The conversion feature is a nice bonus. Ideally you could choose the currency when entering each price, default the selected currency in settings, (like Euro) but can also enter a service in USD for example and only those will be converted. Anyway great tool, very intuitive and great design 👏",
                 "polarity": 0.9612,
                 "parent": "Oh thank you! I'll look more into it.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.48126352787017823
+                        0.36000000000000004
                     ],
                     [
                         "Technical explainer",
-                        0.3330283532142639
-                    ],
-                    [
-                        "Critic",
-                        0.29916509985923767
-                    ],
-                    [
-                        "Question asker",
-                        0.2979399383068085
+                        0.015583333333333334
                     ]
                 ]
             },
@@ -483,23 +363,13 @@
                 "comment": "Ah ok, I thought maybe I needed some kind of webpack voodoo thing. I'll try with the good ol' ``` python3 -m 8000 ``` Appreciated man!",
                 "polarity": 0.7574,
                 "parent": "simple option would be using live-server (via npm or vscode's one), or you must setup a http server yourself.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.45294074177742005
-                    ],
-                    [
-                        "Question asker",
-                        0.294903028011322
-                    ],
-                    [
-                        "Critic",
-                        0.27793441116809847
-                    ],
-                    [
-                        "Technical explainer",
-                        0.27375864386558535
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -509,23 +379,13 @@
                 "comment": "They should be weighted against how much you gain from them. Not just money but the health part also",
                 "polarity": 0.296,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4882902866601944
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3285503685474396
-                    ],
-                    [
-                        "Question asker",
-                        0.3217693388462067
-                    ],
-                    [
-                        "Critic",
-                        0.31813201010227204
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -535,23 +395,13 @@
                 "comment": "Funny how you can save a lot buy just actually paying for what you cannot get any other way, like the gym/vpn/amazon",
                 "polarity": 0.8225,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49034711778163914
-                    ],
-                    [
-                        "Question asker",
-                        0.3247796297073364
-                    ],
-                    [
-                        "Technical explainer",
-                        0.31271393299102784
-                    ],
-                    [
-                        "Critic",
-                        0.30660917460918424
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -561,23 +411,13 @@
                 "comment": "cool app, i know it’s a stretch but if you can add the option to connect to a persistent database (something like supabase) it would be great!",
                 "polarity": 0.8966,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49599223196506503
-                    ],
-                    [
-                        "Question asker",
-                        0.32335432171821593
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3217997759580612
-                    ],
-                    [
-                        "Critic",
-                        0.3111534833908081
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -587,23 +427,13 @@
                 "comment": "I'm newbie to Web Dev. This looks very interesting as a project. I'll give a try! Great work OP!",
                 "polarity": 0.8261,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47933071911334996
-                    ],
-                    [
-                        "Question asker",
-                        0.3112935066223145
-                    ],
-                    [
-                        "Technical explainer",
-                        0.2963133156299591
-                    ],
-                    [
-                        "Critic",
-                        0.2949536591768265
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -613,23 +443,17 @@
                 "comment": "That's a killer idea! You should try to sell it to Rocket Money or a company like that, it'd be an awesome feature in an already established finance tracking app",
                 "polarity": 0.3802,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49402243554592135
+                        0.36000000000000004
                     ],
                     [
                         "Question asker",
-                        0.32883894562721255
-                    ],
-                    [
-                        "Technical explainer",
-                        0.32670676410198213
-                    ],
-                    [
-                        "Critic",
-                        0.31200444996356963
+                        0.018293478260869567
                     ]
                 ]
             },
@@ -639,23 +463,17 @@
                 "comment": "Nice, well I guess you can now add sections, so that you can add other expenses You have a nice presentation already.",
                 "polarity": 0.7717,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.48920004129409794
+                        0.36000000000000004
                     ],
                     [
                         "Question asker",
-                        0.32703364312648775
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3107020378112793
-                    ],
-                    [
-                        "Critic",
-                        0.3034626364707947
+                        0.018293478260869567
                     ]
                 ]
             },
@@ -665,23 +483,13 @@
                 "comment": "Clean idea. The treemap makes the pain instantly visible, and no signup + local data is a huge trust win. This feels like one of those tools people try “just to look” and then actually rethink a few subscriptions.",
                 "polarity": 0.8442,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4897987908124924
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3271545797586441
-                    ],
-                    [
-                        "Question asker",
-                        0.3166222542524338
-                    ],
-                    [
-                        "Critic",
-                        0.31618466079235075
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -691,23 +499,13 @@
                 "comment": "There are some that are worth it like Jetbrains products where you get a perpetual licence for the years you've paid for, so you can cancel and use that version forever. Media ones are dog shit though, I buy music but films and TV are impossible to find DRM free.",
                 "polarity": 0.5745,
                 "parent": "Never bought any subscription, and never will. Ever. Am I morally wrong, that my only subscription is for Internet itself ? Sail the seas 🏴‍☠️",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.48799939215183263
-                    ],
-                    [
-                        "Question asker",
-                        0.32018022537231444
-                    ],
-                    [
-                        "Technical explainer",
-                        0.319367852807045
-                    ],
-                    [
-                        "Critic",
-                        0.31157159209251406
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -719,23 +517,13 @@
                 "comment": "I mean you can but an export button would be more convenient, especially for mobile users where they have to do multiple steps if doing screenshots",
                 "polarity": 0.0,
                 "parent": "Can't you just take a normal screenshot?",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4929672753810883
-                    ],
-                    [
-                        "Question asker",
-                        0.3181517034769058
-                    ],
-                    [
-                        "Technical explainer",
-                        0.317234542965889
-                    ],
-                    [
-                        "Critic",
-                        0.3086325854063034
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -745,23 +533,13 @@
                 "comment": "OOF, sorry should have a toggle or something to not converting the prices",
                 "polarity": -0.0772,
                 "parent": "Look is awesome, everything is easy to understand ! The struggle for me was to enter all my subs, hit generate, to discover its USD, change to EUR And now my prices are converted to EUR and not the same amount as input",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4843271410465241
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3154775142669678
-                    ],
-                    [
-                        "Question asker",
-                        0.3131787717342377
-                    ],
-                    [
-                        "Critic",
-                        0.31104848682880404
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -771,23 +549,13 @@
                 "comment": "thank you, ill consider this. its called treemaps btw",
                 "polarity": -0.0772,
                 "parent": "Thanks this is really good, one note though: no need to convert the prices from USD to other currencies. If I set “50” in a subscription I am assuming it to be 50 of the currency I selected. What is this type of view called? It’s similar to WinDirStat",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.46889898836612703
-                    ],
-                    [
-                        "Question asker",
-                        0.3079465925693512
-                    ],
-                    [
-                        "Technical explainer",
-                        0.29927003383636475
-                    ],
-                    [
-                        "Critic",
-                        0.297255802154541
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -797,23 +565,13 @@
                 "comment": "This should be a pro feature",
                 "polarity": 0.0,
                 "parent": "does the subscription tracker have a tracker for the subscription of the subscription tracker itself? /s",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4669866865873337
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30247677862644196
-                    ],
-                    [
-                        "Question asker",
-                        0.2931744337081909
-                    ],
-                    [
-                        "Critic",
-                        0.2889672487974167
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -823,23 +581,13 @@
                 "comment": "there should be an option for custom item. mine was not on the predefined list",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47554237306118013
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3171676188707352
-                    ],
-                    [
-                        "Critic",
-                        0.30035097897052765
-                    ],
-                    [
-                        "Question asker",
-                        0.2943394511938095
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -854,11 +602,13 @@
                 "comment": "Full tree maps are nested. So the most common usecase in computing is a program like WinDirStat that essentially shows you which folders are taking up the most space on a drive. So you take your tree C:\\ 129 GB ├─ Windows 39 GB │ ├─ Drivers 15 GB │ ├─ DLLs 10 GB │ └─ Bins 14 GB │ └─ Program Files 80 GB ├─ Photoshop 40 GB ├─ Chrome 1 GB └─ Steam 39 GB Which as a tree map looks a bit like this C:\\ 129 GB ┌─────────────────────────────────────────────────────────────┐ │ │ │ │ WINDOWS 39 GB │ PROGRAM FILES 80 GB │ │ │ │ │ ┌────────────────┐ │ ┌────────────────────────────────┐ │ │ │ Drivers 15 GB │ │ │ Photoshop 40 GB │ │ │ └────────────────┘ │ └────────────────────────────────┘ │ │ ┌──────────────┐ │ ┌──────────┐ ┌──────────────────┐ │ │ │ DLLs 10 GB │ │ │ Chrome │ │ Steam 39 GB │ │ │ └──────────────┘ │ │ 1 GB │ └──────────────────┘ │ │ ┌────────────────┐ │ └──────────┘ │ │ │ Bins 14 GB │ │ │ │ └────────────────┘ │ │ └─────────────────────────────────────────────────────────────┘",
                 "polarity": 0.6124,
                 "parent": "not doubting you, but wtf is the relationship to tree's in these? :D I get that you would have the large block with the next largest next to it, which is tree'ish I guess.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.14317331014573578
+                        0.37402500000000005
                     ]
                 ]
             },
@@ -868,11 +618,29 @@
                 "comment": "Copy pasting because this was too much effort to only show once: Full tree maps are nested. So the most common usecase in computing is a program like WinDirStat that essentially shows you which folders are taking up the most space on a drive. So you take your tree C:\\ 129 GB ├─ Windows 39 GB │ ├─ Drivers 15 GB │ ├─ DLLs 10 GB │ └─ Bins 14 GB │ └─ Program Files 80 GB ├─ Photoshop 40 GB ├─ Chrome 1 GB └─ Steam 39 GB Which as a tree map looks a bit like this C:\\ 129 GB ┌─────────────────────────────────────────────────────────────┐ │ │ │ │ WINDOWS 39 GB │ PROGRAM FILES 80 GB │ │ │ │ │ ┌────────────────┐ │ ┌────────────────────────────────┐ │ │ │ Drivers 15 GB │ │ │ Photoshop 40 GB │ │ │ └────────────────┘ │ └────────────────────────────────┘ │ │ ┌──────────────┐ │ ┌──────────┐ ┌──────────────────┐ │ │ │ DLLs 10 GB │ │ │ Chrome │ │ Steam 39 GB │ │ │ └──────────────┘ │ │ 1 GB │ └──────────────────┘ │ │ ┌────────────────┐ │ └──────────┘ │ │ │ Bins 14 GB │ │ │ │ └────────────────┘ │ │ └─────────────────────────────────────────────────────────────┘",
                 "polarity": 0.6124,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.1484882695451379
+                        0.37402500000000005
+                    ]
+                ]
+            },
+            {
+                "user": "360919e748076903f2c2d9c94e03640d",
+                "message_id": "ntuxt58",
+                "comment": "I'm here with my gym subscription only 😁 Great solution by the way, it will give you a good reason to cancel the non essential.",
+                "polarity": 0.8834,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.0015583333333333337
                     ]
                 ]
             },
@@ -882,23 +650,13 @@
                 "comment": "This feels like one of those problems that’s technically solved, yet somehow never actually gone.",
                 "polarity": 0.2263,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.4905350342512131
-                    ],
-                    [
-                        "Critic",
-                        0.3291715860366821
-                    ],
-                    [
-                        "Question asker",
-                        0.3252661645412445
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3202375739812851
+                        0.37402500000000005
                     ]
                 ]
             }
@@ -907,7 +665,24 @@
         "negative": []
     },
     "Critic": {
-        "positive": [],
+        "positive": [
+            {
+                "user": "12adc9e4402a933695f5cb33e189759c",
+                "message_id": "nuhgh94",
+                "comment": "Looks nice. But I rather would have a nose in which I can set a own value for my subscriptions. Some of the most expensive ones would still yield the cheapest to me",
+                "polarity": 0.6124,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.01286697247706422
+                    ]
+                ]
+            }
+        ],
         "neutral": [
             {
                 "user": "0178ab6a1dff44becd95962e9bd4caa1",
@@ -915,23 +690,13 @@
                 "comment": "I tried it on my mobile data and home network, both seemed to have the same issue",
                 "polarity": 0.0,
                 "parent": "I'm using cloudflare to host it. seems to work fine for me",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Critic",
-                        0.48554777681827543
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3210910648107529
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3180308312177658
-                    ],
-                    [
-                        "Question asker",
-                        0.3055977612733841
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -943,23 +708,13 @@
                 "comment": "I think you've got an issue with your cdn, every few page refreshes the css fails to load",
                 "polarity": -0.4215,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Critic",
-                        0.48565402507781985
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3199229806661606
-                    ],
-                    [
-                        "Question asker",
-                        0.3096989274024963
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30657454431056974
+                        0.36000000000000004
                     ]
                 ]
             }

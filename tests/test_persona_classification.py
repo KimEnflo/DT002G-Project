@@ -1,11 +1,10 @@
 import json
 from pathlib import Path
 
+from matplotlib import pyplot as plt
 from scipy.stats import pearsonr
-import spacy
 import persona_parser
 
-nlp = spacy.load("en_core_web_lg")
 ALL_PERSONAS = {
     "question asker",
     "solution provider",
@@ -51,7 +50,7 @@ def print_persona_summary(
         global_total:int
 ):
     """print persona summaries for all threads by writing out the confusion matrix
-    :param path:
+    :param path: Relative path to use for title for the confusion matrix based on approach
     :param persona_order: the list of personas in order
     :param global_counts: Global counts
     :param global_correct: Global correct
@@ -134,12 +133,32 @@ class TestPersonaClassification:
 
         context_scores = load_polarities(context_dir)
         no_context_scores = load_polarities(no_context_dir)
+
         shared = set(context_scores) & set(no_context_scores)
+
         x = [context_scores[i] for i in shared]
         y = [no_context_scores[i] for i in shared]
+
         corr, _ = pearsonr(x, y)
 
         print("Pearson correlation:", corr)
+
+        plt.figure(figsize=(6, 6))
+        plt.scatter(x, y, alpha=0.5)
+
+        min_val = min(min(x), min(y))
+        max_val = max(max(x), max(y))
+        plt.plot([min_val, max_val],
+                 [min_val, max_val],
+                 color="red",
+                 linestyle="--")
+
+        plt.xlabel("Context polarity")
+        plt.ylabel("No-context polarity")
+        plt.title(f"Context vs No-context Polarities\nPearson r = {corr:.3f}")
+
+        plt.grid(True)
+        plt.show()
 
 
     def test_persona_classification_all(self):

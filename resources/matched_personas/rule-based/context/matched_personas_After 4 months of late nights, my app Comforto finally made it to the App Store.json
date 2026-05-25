@@ -3,27 +3,61 @@
         "positive": [
             {
                 "user": "becbb1e19c597efa8b715e2ce2334136",
-                "message_id": "nlypvyt",
-                "comment": "Thanks mate! yeah it costs much. Hoping to recover it soon. What do you think is the free minutes is fair. Hoping you will purchase it haha. but to be honest. this was my own problem and i was looking for an app and I buit it myself to scratch my own itch.",
-                "polarity": 1.27478,
-                "parent": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn’t able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no.",
+                "message_id": "nlgmyk0",
+                "comment": "100%! 🙌 This one already feels special because people are reacting emotionally to it, not just functionally. Even if it’s a small win, it’s proof that those late nights are worth it. Appreciate the encouragement!",
+                "polarity": 1.3054,
+                "parent": "Very cool! The key is to never give up! If this one does not pan out, keep trying!",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.5351901406049728
-                    ],
+                        0.018293478260869567
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlypvyt",
+                "comment": "Thanks mate! yeah it costs much. Hoping to recover it soon. What do you think is the free minutes is fair. Hoping you will purchase it haha. but to be honest. this was my own problem and i was looking for an app and I buit it myself to scratch my own itch.",
+                "polarity": 1.27478,
+                "parent": "Damm thats v great, how did you end up deciding 3 min mark for keeping it free, ai know this also cost you much, but like I was proposing you to extend this mark a little, I didn’t able to get a complete hang of it to purchase. Btw whats the sale status until now? Did you able to make money thorough this! Also you can actually keep a section of real savers underneath, eg fire fighter or police etc phone no.",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
+                "quotes": [],
+                "score": [
                     [
-                        "Technical explainer",
-                        0.3576692909002304
+                        "Question asker",
+                        0.37000000000000005
                     ],
                     [
                         "Solution Provider",
-                        0.3412679749727249
+                        0.08
+                    ],
+                    [
+                        "Technical explainer",
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.33628296911716465
+                        0.04
+                    ]
+                ]
+            },
+            {
+                "user": "7f7323f886c9f96cff83891eb57d2040",
+                "message_id": "nlimbsw",
+                "comment": "Yep, I am strugling to ship my app as well. Already hard like 7 new shiny ideas, I am trying very hard to not abandom this project like many others. Need to cultivate the habit of starting AND finishing everything.",
+                "polarity": 1.1154600000000001,
+                "parent": "As a Senior level procastinator I feel you, congratulations man hope success",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Question asker",
+                        0.018293478260869567
                     ]
                 ]
             },
@@ -33,23 +67,13 @@
                 "comment": "Can you add Singapore to the list please",
                 "polarity": 0.54116,
                 "parent": "I have added Poland to the list. Please check now",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.49840500295162204
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3247018724679947
-                    ],
-                    [
-                        "Solution Provider",
-                        0.317258734703064
-                    ],
-                    [
-                        "Critic",
-                        0.28954732000827793
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -59,23 +83,13 @@
                 "comment": "Wait I thought you said in another comment that it was free?",
                 "polarity": 0.6280000000000001,
                 "parent": "Going so far good. Seeing few installs but no purchases yet. 🤞I would have launched it sooner.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.5359768116474152
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3527002185583114
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3325897264480591
-                    ],
-                    [
-                        "Critic",
-                        0.3324749964475632
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -85,23 +99,13 @@
                 "comment": "Hey congratulations How are you going to market it to real users?",
                 "polarity": 0.8391600000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4808221167325974
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3241643786430359
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3064237356185913
-                    ],
-                    [
-                        "Critic",
-                        0.30287803113460543
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -111,23 +115,13 @@
                 "comment": "Sounds interesting. What was the tech stack you used to build it? What were the building and ongoing costs needed to support it for the next 6, 12, and 24 months? Just curious, as I have an idea but never get past 10 to 50% up and out.",
                 "polarity": 0.8026200000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.47535557806491857
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3267303168773651
-                    ],
-                    [
-                        "Technical explainer",
-                        0.32258878350257875
-                    ],
-                    [
-                        "Critic",
-                        0.3105914294719696
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -137,23 +131,13 @@
                 "comment": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats",
                 "polarity": 1.24712,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.45245174527168275
-                    ],
-                    [
-                        "Solution Provider",
-                        0.2970977336168289
-                    ],
-                    [
-                        "Critic",
-                        0.2821701347827911
-                    ],
-                    [
-                        "Technical explainer",
-                        0.27636038064956664
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -163,23 +147,13 @@
                 "comment": "The art looks great, where did you get it done?",
                 "polarity": 0.87486,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4862129276990891
-                    ],
-                    [
-                        "Solution Provider",
-                        0.32477220296859743
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3156834185123444
-                    ],
-                    [
-                        "Critic",
-                        0.30953080356121065
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -189,23 +163,13 @@
                 "comment": "Congrats! Was this vibe coded or are you a coder?",
                 "polarity": 0.79898,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.45904967248439793
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3023352950811386
-                    ],
-                    [
-                        "Technical explainer",
-                        0.2911220878362656
-                    ],
-                    [
-                        "Critic",
-                        0.2888488590717316
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -215,23 +179,13 @@
                 "comment": "I’m building an app that helps traders analyzed their trades and based on those to give a strategy. Is that something that will interests anyone?",
                 "polarity": 0.78036,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4785726493597031
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3314357399940491
-                    ],
-                    [
-                        "Solution Provider",
-                        0.33035882115364074
-                    ],
-                    [
-                        "Critic",
-                        0.31545667350292206
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -241,23 +195,13 @@
                 "comment": "Does it have multi language support, I think Japan really needs this",
                 "polarity": 0.5626599999999999,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.48380215823650363
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3191345989704132
-                    ],
-                    [
-                        "Critic",
-                        0.31063818037509916
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30884247422218325
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -267,23 +211,13 @@
                 "comment": "Throw wisdom on us! What would you do to cut it down next time",
                 "polarity": 0.53228,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.47839893460273747
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3225405514240265
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3102186322212219
-                    ],
-                    [
-                        "Critic",
-                        0.30262041091918945
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -293,23 +227,13 @@
                 "comment": "Hey! Congratulations. Could you please share the tech-stack ?",
                 "polarity": 1.1575199999999999,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.44823865652084355
-                    ],
-                    [
-                        "Solution Provider",
-                        0.2893799334764481
-                    ],
-                    [
-                        "Critic",
-                        0.2690563291311264
-                    ],
-                    [
-                        "Technical explainer",
-                        0.26716474294662473
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -319,23 +243,13 @@
                 "comment": "congrats i never knew how much actually goes into making an app until i started mine. LITRALLY EVERY CLICK OR TAP. any plans on doing another?",
                 "polarity": 0.7373799999999999,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.48345399856567384
-                    ],
-                    [
-                        "Solution Provider",
-                        0.32470321357250215
-                    ],
-                    [
-                        "Technical explainer",
-                        0.31219483315944674
-                    ],
-                    [
-                        "Critic",
-                        0.310036364197731
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -345,23 +259,13 @@
                 "comment": "Virality? You went viral by vibe coding an app, not even taking your time to make an original post without using ChatGPT and casually buying some Reddit upvotes too hoping that you get few customers? Lmao.",
                 "polarity": 1.1869800000000001,
                 "parent": "We are living in a world where virality is directionally proportional to finding negativity. (PS: not typed using AI)",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.5208301901817322
-                    ],
-                    [
-                        "Technical explainer",
-                        0.358355513215065
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3496626019477844
-                    ],
-                    [
-                        "Critic",
-                        0.3251734685897827
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -371,23 +275,13 @@
                 "comment": "Bruh clean up your inbox!! emails?!",
                 "polarity": 0.77532,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.3877048110961914
-                    ],
-                    [
-                        "Solution Provider",
-                        0.23114472627639768
-                    ],
-                    [
-                        "Critic",
-                        0.2200025528669357
-                    ],
-                    [
-                        "Technical explainer",
-                        0.207486891746521
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -399,23 +293,25 @@
                 "comment": "What’s this? Never heard of it",
                 "polarity": 0.0,
                 "parent": "same [ ?",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4934224891662598
+                        0.37000000000000005
                     ],
                     [
                         "Solution Provider",
-                        0.3927438360452652
+                        0.08
                     ],
                     [
                         "Technical explainer",
-                        0.3645028632879257
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.32070261359214786
+                        0.04
                     ]
                 ]
             },
@@ -425,23 +321,25 @@
                 "comment": "Can I PM you? I am looking for a co-founder.",
                 "polarity": 0.0,
                 "parent": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
+                "parent_persona": "Technical explainer",
+                "parent_persona_score": 0.3755833333333334,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.49633388936519623
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31779761612415314
+                        0.4
                     ],
                     [
                         "Technical explainer",
-                        0.3171469229316961
+                        0.04
                     ],
                     [
                         "Critic",
-                        0.2802898645401001
+                        0.03
+                    ],
+                    [
+                        "Solution Provider",
+                        0.01
                     ]
                 ]
             },
@@ -451,23 +349,13 @@
                 "comment": "R u earning with this app ?",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4313806062936783
-                    ],
-                    [
-                        "Solution Provider",
-                        0.2701621621847153
-                    ],
-                    [
-                        "Technical explainer",
-                        0.25764773190021517
-                    ],
-                    [
-                        "Critic",
-                        0.2556940406560898
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -477,23 +365,13 @@
                 "comment": "How’s it going? Any update.",
                 "polarity": 0.0,
                 "parent": "Thanks mate 🙏 glad",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4782751500606537
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31829155564308165
-                    ],
-                    [
-                        "Critic",
-                        0.31040580689907077
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3064404332637787
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -503,23 +381,13 @@
                 "comment": "What did you use for voice api ?",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.4736292576789856
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3150626182556152
-                    ],
-                    [
-                        "Technical explainer",
-                        0.2966778725385666
-                    ],
-                    [
-                        "Critic",
-                        0.2927535712718964
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -529,23 +397,13 @@
                 "comment": "May I know what did you use to build the app on and what is the cost?",
                 "polarity": 0.0,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.49231770694255833
-                    ],
-                    [
-                        "Solution Provider",
-                        0.3381150275468826
-                    ],
-                    [
-                        "Technical explainer",
-                        0.32882058918476104
-                    ],
-                    [
-                        "Critic",
-                        0.315749529004097
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -555,23 +413,13 @@
                 "comment": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
                 "polarity": -0.0258,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.45742757678031926
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31791947185993197
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3138935327529907
-                    ],
-                    [
-                        "Critic",
-                        0.3002051770687103
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -583,23 +431,13 @@
                 "comment": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
                 "polarity": -0.8316,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Question asker",
-                        0.47345041096210483
-                    ],
-                    [
-                        "Critic",
-                        0.3172518163919449
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3164540886878967
-                    ],
-                    [
-                        "Solution Provider",
-                        0.31420124173164365
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -613,23 +451,25 @@
                 "comment": "Sure! Thanks mate. Here is thelinkto the app if you would like to try. It’s free",
                 "polarity": 1.26872,
                 "parent": "Great idea, hope that you can help many people",
+                "parent_persona": "Solution Provider",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4981211698055268
+                        0.37000000000000005
                     ],
                     [
                         "Question asker",
-                        0.3686807000637054
+                        0.05
                     ],
                     [
                         "Technical explainer",
-                        0.3503177917003631
+                        0.04
                     ],
                     [
                         "Critic",
-                        0.3243549507856369
+                        0.03
                     ]
                 ]
             },
@@ -639,23 +479,13 @@
                 "comment": "Done! I have enabled Romania. You should be able to get the SMS now. Please check. Please share your call experience after you the app.",
                 "polarity": 0.7263,
                 "parent": "Congrats! Trying to install it from Romania, but I get this error: “Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed)”",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49165173768997195
-                    ],
-                    [
-                        "Question asker",
-                        0.3576301884651184
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3410340595245361
-                    ],
-                    [
-                        "Critic",
-                        0.314908339381218
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -665,23 +495,25 @@
                 "comment": "Done! Singapore activated. Please try the app now",
                 "polarity": 0.6195200000000001,
                 "parent": "Can you add Singapore to the list please",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.54441113114357
+                        0.44000000000000006
                     ],
                     [
                         "Technical explainer",
-                        0.3330867654085159
-                    ],
-                    [
-                        "Question asker",
-                        0.29765831112861635
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.28704888939857487
+                        0.04
+                    ],
+                    [
+                        "Question asker",
+                        0.01
                     ]
                 ]
             },
@@ -691,23 +523,13 @@
                 "comment": "Done fixed it. Please check now",
                 "polarity": 0.23487999999999998,
                 "parent": "Also getting this error in the US",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4907165908813477
-                    ],
-                    [
-                        "Question asker",
-                        0.3370935904979706
-                    ],
-                    [
-                        "Technical explainer",
-                        0.33288716495037074
-                    ],
-                    [
-                        "Critic",
-                        0.3050929981470108
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -717,23 +539,13 @@
                 "comment": "For sure! Your first 3 minutes are free. Also please share how was your call experience. Don’t forget to try mom call haha.",
                 "polarity": 1.26802,
                 "parent": "This is super cool. I just downloaded it and gonna test it out",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49167815685272215
-                    ],
-                    [
-                        "Question asker",
-                        0.3621045398712158
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3410489672422409
-                    ],
-                    [
-                        "Critic",
-                        0.3158432698249817
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -743,23 +555,25 @@
                 "comment": "Sure! You can PM me",
                 "polarity": 0.53228,
                 "parent": "Can I PM you? I am looking for a co-founder.",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5366578078269959
+                        0.44000000000000006
                     ],
                     [
                         "Technical explainer",
-                        0.31637185931205747
-                    ],
-                    [
-                        "Question asker",
-                        0.3072827762365341
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.2750114643573761
+                        0.04
+                    ],
+                    [
+                        "Question asker",
+                        0.01
                     ]
                 ]
             },
@@ -769,23 +583,29 @@
                 "comment": "Thanks mate ;) please go ahead try the app",
                 "polarity": 1.0595400000000001,
                 "parent": "interesting idea",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4551939100027085
-                    ],
+                        0.36000000000000004
+                    ]
+                ]
+            },
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlhoyno",
+                "comment": "Yes UI needs a redo. Any suggestions mate. Would be helpful",
+                "polarity": 0.88742,
+                "parent": "I like the idea but the UI is not",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
                     [
-                        "Question asker",
-                        0.28294728457927704
-                    ],
-                    [
-                        "Critic",
-                        0.2675390756130218
-                    ],
-                    [
-                        "Technical explainer",
-                        0.2671965777873993
+                        "Solution Provider",
+                        0.002032608695652174
                     ]
                 ]
             },
@@ -795,49 +615,25 @@
                 "comment": "lol 😂! Sorry will try to clear that. Please please check the app. Please share your call experience. Thanks mate;)",
                 "polarity": 1.34644,
                 "parent": "36k emails?! I won’t check your app out until you post your progress on getting your inbox down… Jk, awesome app and congrats",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5466709625720978
+                        0.44000000000000006
                     ],
                     [
                         "Technical explainer",
-                        0.3318547737598419
-                    ],
-                    [
-                        "Question asker",
-                        0.30805295407772065
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.2927824693918228
-                    ]
-                ]
-            },
-            {
-                "user": "becbb1e19c597efa8b715e2ce2334136",
-                "message_id": "nll2y48",
-                "comment": "Thanks mate 🙏 glad",
-                "polarity": 1.07496,
-                "parent": "Congratulations! That feeling is epic. You’ll do well",
-                "quotes": [],
-                "score": [
-                    [
-                        "Solution Provider",
-                        0.3152845698595047
-                    ],
-                    [
-                        "Technical explainer",
-                        0.25834888577461246
+                        0.04
                     ],
                     [
                         "Question asker",
-                        0.24858008503913878
-                    ],
-                    [
-                        "Critic",
-                        0.23133266508579256
+                        0.01
                     ]
                 ]
             },
@@ -847,23 +643,13 @@
                 "comment": "Thanks mate:) appreciate that. Please do try the app",
                 "polarity": 1.16754,
                 "parent": "Buddy, well done! Congratulations on the launch! This is an awesome idea!",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4682180815935135
-                    ],
-                    [
-                        "Question asker",
-                        0.30159745275974276
-                    ],
-                    [
-                        "Technical explainer",
-                        0.283054763674736
-                    ],
-                    [
-                        "Critic",
-                        0.2823221117258072
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -873,23 +659,13 @@
                 "comment": "Thanks. All the best. please share it here. I will try it",
                 "polarity": 1.27068,
                 "parent": "Congrats! Im almost finishing my app as well!",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47677744388580323
-                    ],
-                    [
-                        "Question asker",
-                        0.3063720238208771
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30000379145145417
-                    ],
-                    [
-                        "Critic",
-                        0.29344341933727264
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -899,49 +675,13 @@
                 "comment": "Thank you:) Please try the app. hope you like it.",
                 "polarity": 1.23118,
                 "parent": "Congrats, neat idea! :)",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47223891794681555
-                    ],
-                    [
-                        "Question asker",
-                        0.3042395567893982
-                    ],
-                    [
-                        "Technical explainer",
-                        0.28583046555519104
-                    ],
-                    [
-                        "Critic",
-                        0.28325864851474764
-                    ]
-                ]
-            },
-            {
-                "user": "becbb1e19c597efa8b715e2ce2334136",
-                "message_id": "nls85g7",
-                "comment": "Is it? Thank you so much. Feel free to try the app",
-                "polarity": 1.0709,
-                "parent": "It’s crazy how good of an idea this is. Good stuff man!",
-                "quotes": [],
-                "score": [
-                    [
-                        "Solution Provider",
-                        0.5689856547117234
-                    ],
-                    [
-                        "Question asker",
-                        0.49099384129047396
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3631470495462418
-                    ],
-                    [
-                        "Critic",
-                        0.3178547638654709
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -951,23 +691,25 @@
                 "comment": "Thank you mate;) glad you tried the app. Thats a good suggestion. Just to let you know. You can even switch languages on the call. Currently the app supports: Spanish Hindi additional automatic switch languages",
                 "polarity": 1.23072,
                 "parent": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better.",
+                "parent_persona": "Solution Provider",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5015334705641522
-                    ],
-                    [
-                        "Technical explainer",
-                        0.37151430303137956
+                        0.37203260869565224
                     ],
                     [
                         "Question asker",
-                        0.36668579459190365
+                        0.05
+                    ],
+                    [
+                        "Technical explainer",
+                        0.04
                     ],
                     [
                         "Critic",
-                        0.325253598690033
+                        0.03
                     ]
                 ]
             },
@@ -977,23 +719,25 @@
                 "comment": "Yes! Absolutely. I have added support to Japanese. What’s cool is that you can speak Japanese and the ai automatically detect and switch the language. Below are the languages supported : Hindi Japanese Spanish German French Go ahead speak mom call. And start changing the language in the middle of a call. And it works",
                 "polarity": 1.21156,
                 "parent": "Does it have multi language support, I think Japan really needs this",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5603837096691132
+                        0.44000000000000006
                     ],
                     [
                         "Question asker",
-                        0.4810468637943268
+                        0.37000000000000005
                     ],
                     [
                         "Technical explainer",
-                        0.37025395452976223
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.315555437207222
+                        0.04
                     ]
                 ]
             },
@@ -1003,23 +747,25 @@
                 "comment": "That’s a good question actually! I wanted to go with real phone calls because the fake call screen trick doesn’t always hold up in real situations — people can notice the screen or timing feels off. A real call gives you that authentic ring tone, vibration, and interaction with your carrier’s call UI — it just feels real. Plus, since it’s an actual voice line, you can pick up, talk, and it sounds completely natural to anyone nearby. So yeah, the goal was to make it feel believable, not staged.",
                 "polarity": 0.81616,
                 "parent": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
+                "parent_persona": "Solution Provider",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49894855022430423
+                        0.37000000000000005
                     ],
                     [
                         "Question asker",
-                        0.3851591336727142
+                        0.06829347826086957
                     ],
                     [
                         "Technical explainer",
-                        0.36529998540878295
+                        0.04
                     ],
                     [
                         "Critic",
-                        0.33825770139694217
+                        0.03
                     ]
                 ]
             },
@@ -1029,23 +775,13 @@
                 "comment": "If anyone wants to try the app. Here is thedownloadlink. It’s free also share your thought here on how was your phone call experience!",
                 "polarity": 0.9794400000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4900098478794098
-                    ],
-                    [
-                        "Question asker",
-                        0.32098913490772246
-                    ],
-                    [
-                        "Technical explainer",
-                        0.31714006066322326
-                    ],
-                    [
-                        "Critic",
-                        0.30829078853130343
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1055,23 +791,13 @@
                 "comment": "It is so true! Thats why I needed this app as well! Please give it a try and also spread the word",
                 "polarity": 1.20402,
                 "parent": "For me, it’s the perfect tool to simulate fake calls—like when I’m in a meeting and need a smooth way to leave, or if I know I’ll have to step out after 5 or 10 minutes for something important. It really acts as a kind of “call breaker” for awkward moments or when I need an excuse to exit gracefully. Thanks for creating something so practical!",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5037066906690597
-                    ],
-                    [
-                        "Question asker",
-                        0.3769053041934967
-                    ],
-                    [
-                        "Technical explainer",
-                        0.36618292450904844
-                    ],
-                    [
-                        "Critic",
-                        0.3365495431423187
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1081,23 +807,25 @@
                 "comment": "Hey can you please let me know which country you are trying from. I will enable it in backend ?",
                 "polarity": 0.4366,
                 "parent": "Firebase: SMS unable to be sent until this region enabled by the app developer. (auth/operation-not-allowed). 😭😭 I have one small feedback on the UX part. Can you increase touch point for the inputs. They are ultra small xD",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.5703286343812942
+                        0.44000000000000006
                     ],
                     [
                         "Question asker",
-                        0.49385892689228056
+                        0.37000000000000005
                     ],
                     [
                         "Technical explainer",
-                        0.3621283638477325
+                        0.05
                     ],
                     [
                         "Critic",
-                        0.31669327199459074
+                        0.04
                     ]
                 ]
             },
@@ -1107,23 +835,13 @@
                 "comment": "Hey thanks mate;) sure please feel free to try the app and let me know how was your call experience",
                 "polarity": 1.2527,
                 "parent": "Love the idea. I've definitely wanted something like this to exist in multiple situations.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4948169678449631
-                    ],
-                    [
-                        "Question asker",
-                        0.37044198453426364
-                    ],
-                    [
-                        "Technical explainer",
-                        0.34072902500629426
-                    ],
-                    [
-                        "Critic",
-                        0.31911086797714233
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1133,23 +851,13 @@
                 "comment": "Great idea, hope that you can help many people",
                 "polarity": 1.21212,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4834083324670792
-                    ],
-                    [
-                        "Question asker",
-                        0.31954605281353
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30784785449504853
-                    ],
-                    [
-                        "Critic",
-                        0.3010344058275223
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1159,23 +867,33 @@
                 "comment": "You might want some 'ANTIZEN VACCINE' my friend. You need it for your well being.",
                 "polarity": 0.95312,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4867705172300339
-                    ],
+                        0.36000000000000004
+                    ]
+                ]
+            },
+            {
+                "user": "b90238820761764d1d3fb7c0e94a3d0f",
+                "message_id": "nlilgre",
+                "comment": "Amazing, thanks for your honest feedback, keep us posted on how you do. In terms of getting it out there, I would recommend posting your product to as many A-listers and celebs on TikTok, Instagram, and Twitter (can't use the word X). A free plug from a space with a huge following will help get your product to increase usage.",
+                "polarity": 1.36216,
+                "parent": "Hey thanks, appreciate the curiosity! I built Comforto using + Supabase for the backend and auth, moshi for audio agents and llm model training. On the app side, it’s a React Native / Expo build (so I could ship to both iOS and Android later), with a light Firebase layer for analytics and push. Costs are actually minimal right now: • Hosting + Supabase → under $20/month • voice agents- upto $3 for 30 minutes of interaction. • Everything else (frontend hosting, analytics, etc.) is free or hobby-tier.",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
                     [
-                        "Question asker",
-                        0.31680097579956057
+                        "Solution Provider",
+                        0.3782934782608696
                     ],
                     [
                         "Technical explainer",
-                        0.3107361674308777
-                    ],
-                    [
-                        "Critic",
-                        0.3071291923522949
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1185,23 +903,13 @@
                 "comment": "Congratulations buddy. I’ll be sure to give this a try.",
                 "polarity": 1.02914,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47807595491409305
-                    ],
-                    [
-                        "Question asker",
-                        0.3092986553907394
-                    ],
-                    [
-                        "Technical explainer",
-                        0.2895789533853531
-                    ],
-                    [
-                        "Critic",
-                        0.2880453109741211
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1211,23 +919,13 @@
                 "comment": "Looks really interesting!! Will try to use once I can afford an iPhone",
                 "polarity": 0.7756000000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4881554788351059
-                    ],
-                    [
-                        "Question asker",
-                        0.3195898413658142
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3011226922273636
-                    ],
-                    [
-                        "Critic",
-                        0.2984693020582199
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1237,23 +935,13 @@
                 "comment": "Congrats! Really cool idea and I will definitely try it out. Seeing a project through is a big win in itself.",
                 "polarity": 1.2810000000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.48335492670536045
-                    ],
-                    [
-                        "Question asker",
-                        0.31672038733959196
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3141312301158905
-                    ],
-                    [
-                        "Critic",
-                        0.3064007043838501
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1263,23 +951,13 @@
                 "comment": "Hi Chetan ... kandarp here from SAP.. glad/surprised and kind of proud to find u here . Great .. some one with multiple talent wow... will try this one ..",
                 "polarity": 1.29654,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.47800275146961213
-                    ],
-                    [
-                        "Question asker",
-                        0.3134834557771683
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3028456121683121
-                    ],
-                    [
-                        "Critic",
-                        0.29693482518196107
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1289,23 +967,13 @@
                 "comment": "Congrats.... I know the feeling well of finally getting accepted into the appstore. I built an App Elfmonn.... it took over 2 years to build and I'm only really beginning to market it now..... But when Google and Apple finally approved..... there was a great sense of accomplishment. Well done!! I'll try out your app today.",
                 "polarity": 1.33364,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.48393688261508944
-                    ],
-                    [
-                        "Critic",
-                        0.3251462008791103
-                    ],
-                    [
-                        "Question asker",
-                        0.31836995780467986
-                    ],
-                    [
-                        "Technical explainer",
-                        0.314743185043335
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1315,23 +983,13 @@
                 "comment": "Hey, i tried your app it’s awesome. but don’t you think you should add some realistic voice’s and also option to choose voice’s that will be much better.",
                 "polarity": 1.05084,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4943530923128128
-                    ],
-                    [
-                        "Question asker",
-                        0.3287414610385895
-                    ],
-                    [
-                        "Technical explainer",
-                        0.3159941524267197
-                    ],
-                    [
-                        "Critic",
-                        0.31268894076347353
+                        0.36000000000000004
                     ]
                 ]
             },
@@ -1341,23 +999,13 @@
                 "comment": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
                 "polarity": 0.7698600000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4967486119270325
-                    ],
-                    [
-                        "Question asker",
-                        0.328899884223938
-                    ],
-                    [
-                        "Technical explainer",
-                        0.32876655757427214
-                    ],
-                    [
-                        "Critic",
-                        0.31888188123703004
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -1369,23 +1017,13 @@
                 "comment": "You can now. I have enabled it",
                 "polarity": 0.0,
                 "parent": "Such a good idea. Just a little bummed that I can’t use it here in the Philippines. But huge congrats on going live in the App Store!",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.49408067345619205
-                    ],
-                    [
-                        "Question asker",
-                        0.366006218791008
-                    ],
-                    [
-                        "Technical explainer",
-                        0.34370393872261046
-                    ],
-                    [
-                        "Critic",
-                        0.32050541758537293
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -1397,23 +1035,13 @@
                 "comment": "One query: why keep a phone call, instead you could keep fake call screen with same voice overs",
                 "polarity": -0.6673800000000001,
                 "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
                 "quotes": [],
                 "score": [
                     [
                         "Solution Provider",
-                        0.4734390205144883
-                    ],
-                    [
-                        "Question asker",
-                        0.3053186535835266
-                    ],
-                    [
-                        "Technical explainer",
-                        0.30200799703598025
-                    ],
-                    [
-                        "Critic",
-                        0.29826613068580626
+                        0.36000000000000004
                     ]
                 ]
             }
@@ -1427,23 +1055,25 @@
                 "comment": "Thanks much’ yeah offcourse marketing is the big thing now. I have few waitlist users which I got from my previous Reddit posts. The next thing is to post videos on social media like tik tok and instagram. Not looking at paid ads but will see depending on how this app performs.",
                 "polarity": 0.8562400000000001,
                 "parent": "Hey congratulations How are you going to market it to real users?",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.5385068453393062
+                        0.42558333333333337
                     ],
                     [
                         "Solution Provider",
-                        0.4029040277004242
-                    ],
-                    [
-                        "Question asker",
-                        0.33001163840293884
+                        0.08
                     ],
                     [
                         "Critic",
-                        0.32217216908931734
+                        0.04
+                    ],
+                    [
+                        "Question asker",
+                        0.01
                     ]
                 ]
             },
@@ -1453,55 +1083,124 @@
                 "comment": "Hey thanks man, it’s already multilingual. The bot can auto switch languages depending on the speaker",
                 "polarity": 0.7086,
                 "parent": "Hood job man, I liked the app, consider making bilingual bots too if possible to cater different audience, which I know you might not have started considering the PPP, but what framework or wrapper have you used to create this at first place",
+                "parent_persona": "Solution Provider",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.5428290462960627
+                        0.41558333333333336
                     ],
                     [
                         "Question asker",
-                        0.363208504319191
-                    ],
-                    [
-                        "Solution Provider",
-                        0.32442581713199614
+                        0.06829347826086957
                     ],
                     [
                         "Critic",
-                        0.32122550249099735
+                        0.03
+                    ],
+                    [
+                        "Solution Provider",
+                        0.01
                     ]
                 ]
             }
         ],
         "neutral": [],
-        "negative": []
+        "negative": [
+            {
+                "user": "63dfe067adab3259a9edea98637a0089",
+                "message_id": "nprxa3y",
+                "comment": "I tried the app but for some reason it keeps saying the call failed. So unfortunately I wasn’t able to access it. But I love the idea around it! Just have to fix some technical difficulties",
+                "polarity": -0.9954,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Technical explainer",
+                        0.0015583333333333337
+                    ]
+                ]
+            }
+        ]
     },
     "Critic": {
         "positive": [
+            {
+                "user": "becbb1e19c597efa8b715e2ce2334136",
+                "message_id": "nlg6lg5",
+                "comment": "Haha thank you for the concern! I’m alright it’s just that I woke up on a lazy Sunday late and I wanted to post the update without a makeup. Keeping it raw and real.",
+                "polarity": 0.95868,
+                "parent": "Bro looks like needs some sleep",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.01286697247706422
+                    ]
+                ]
+            },
             {
                 "user": "becbb1e19c597efa8b715e2ce2334136",
                 "message_id": "nlhow10",
                 "comment": "No it was the issue with ui. Actually the app is designed to be used only on phones. But the app was allowed to install on iPad. Also point to note that they do install on iPad and check thoroughly. So if someone planning to release iPhone only app then make sure you disable iPad to false in the plist. The other reason is the payment wasn’t integrated properly with revenue cat. After fixing both issues finally they approved the release.",
                 "polarity": 0.7227,
                 "parent": "What were the 2 rejection reasons? Was it something to do with audio / ai related issues or listing metadata issues?",
+                "parent_persona": "Question asker",
+                "parent_persona_score": 0.36000000000000004,
                 "quotes": [],
                 "score": [
                     [
                         "Critic",
-                        0.5079119575023652
+                        0.4
                     ],
                     [
                         "Solution Provider",
-                        0.4090418893098831
+                        0.08
                     ],
                     [
                         "Technical explainer",
-                        0.37689984261989595
+                        0.05
                     ],
                     [
                         "Question asker",
-                        0.32394085109233856
+                        0.01
+                    ]
+                ]
+            },
+            {
+                "user": "f64af7a549769f4cbe67233fa79d7d64",
+                "message_id": "nlhnqsk",
+                "comment": "This is AMAZING congratulations!!...from the person whose idea is still in my head😔",
+                "polarity": 1.05266,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.01286697247706422
+                    ]
+                ]
+            },
+            {
+                "user": "810fca5e29c4d8462cd28cc502dd4637",
+                "message_id": "nlhvsuv",
+                "comment": "Congrats on the launch, Chetan. I launchedSoundSafealmost a year ago, a similar safety companion app for women that rings you an actual phone call to get out of uncomfortable situations. Looking back, it was hard to admit that the app wasn't getting many users. Still, seeing it go live and get approved on the App Store was an unreal feeling. Wish you luck and many users!",
+                "polarity": 1.2922,
+                "parent": "",
+                "parent_persona": null,
+                "parent_persona_score": 0.0,
+                "quotes": [],
+                "score": [
+                    [
+                        "Critic",
+                        0.01286697247706422
                     ]
                 ]
             }

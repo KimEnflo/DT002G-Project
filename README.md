@@ -31,7 +31,7 @@ Because of that a virtual environment is needed to run this script, so from the 
 ### 3. Install dependencies
       - pip install --upgrade pip setuptools wheel
       - pip install -r requirements.txt
-      - pip install -m spacy download en_core_web_sm
+      - python -m spacy download en_core_web_lg
 
 ### 4. Define persona specification
 Create the persona of your choice in the /resources/persona_specifications.json file.
