@@ -48,7 +48,6 @@ def run_all(use_context: bool = True):
                     )
                     path_extension =  Path(f"{full_path}/matched_personas_{title}.json")
                     save_output(analyzed_data,path_extension)
-                    data = keyword_extractor.extract_persona_keywords(analyzed_data, iteration, title)
                     print(f"  Iteration {iteration} done in {time.time() - start:.2f}s")
 
             except Exception as e:

@@ -5,7 +5,7 @@
                 "user": "d5b61956bc5b1f504d3aee7b097cb561",
                 "message_id": "n4zcxnv",
                 "comment": "Awesome work. What did you use to build it ?",
-                "polarity": 0.9791400000000001,
+                "polarity": 0.6249,
                 "parent": "Hey I really appreciate it! I had the hexagons in mind since the beginning.... I actually ditched the project like a year ago when I couldn't figure out the hexagons, wasn't the same with squares/rectangles along lat/long lines",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -21,7 +21,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n55mnmf",
                 "comment": "Yeah that's something I'm considering. But ultimately I'm kind of leaning that maybe that's just a part of it. It's already something not everyone will use, but as long as the people that do use it love it I think it could do well. But perhaps there are some creative ways to make it more useful to more people.",
-                "polarity": 1.3573,
+                "polarity": 0.9595,
                 "parent": "Oh man, that’s cool!! Honestly though, only people who are doing pretty well are traveling. And that’s a small market. But you could possibly make that work. It does seem like you have a pretty good handle on your UI so far, so that’s a good start!",
                 "parent_persona": "Solution Provider",
                 "parent_persona_score": 0.36000000000000004,
@@ -49,7 +49,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n6wsrlc",
                 "comment": "Hey thanks for downloading! And no worries. The most major selling point of pro is just no ads so not too crazy. Though I do have plans to build it out and am already working on it",
-                "polarity": 1.07248,
+                "polarity": 0.6832,
                 "parent": "Just downloaded in the UK and it's pretty sweet! Can't pay for Pro mode though happy to support. Also - would be amazing to upload photos and use metadata to locate them on the globe...nice one mate!",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -65,7 +65,7 @@
                 "user": "fccca07f163612d0baac1e3f350b1ed7",
                 "message_id": "n67jc4v",
                 "comment": "Do you like anything else?",
-                "polarity": 0.7112,
+                "polarity": 0.3612,
                 "parent": "God damn it looks sexy af. Love the hexagons",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -81,7 +81,7 @@
                 "user": "fccca07f163612d0baac1e3f350b1ed7",
                 "message_id": "n67iwme",
                 "comment": "How useful it actually is ? I believe these people only UP this for sugar effects.",
-                "polarity": 0.61656,
+                "polarity": 0.4404,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -97,7 +97,7 @@
                 "user": "e10be31825d18023baffc2015f1dd123",
                 "message_id": "n51dfyz",
                 "comment": "I was looking for this comment and agree. If there were a way to already unlock what’s mapped in my iOS photo library that would be amazing.",
-                "polarity": 1.08068,
+                "polarity": 0.743,
                 "parent": "Make sure to be able to sync photo meta data for location of places you have been in the past",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -113,7 +113,7 @@
                 "user": "9b322fc216a0e1d0450d970d035bb3d6",
                 "message_id": "n51qnn1",
                 "comment": "Idea I also had since forever, nice implementation! Couldn’t figure out how to label tiles where I have already been to. Is it possible? One piece of feedback on UX - I personally find the font too small and hard to read. Mostly I am talking about on onboarding flow. I think the smallest font should be couple of steps larger than it is now.",
-                "polarity": 0.56042,
+                "polarity": 0.4003,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -133,7 +133,7 @@
                 "user": "ccacdfb6897a25f0f378e19174380937",
                 "message_id": "n52jwo3",
                 "comment": "Does it get down to street level detail for cities? I’d love to play with that",
-                "polarity": 1.0710000000000002,
+                "polarity": 0.765,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -149,7 +149,7 @@
                 "user": "c60868e999e9bff8b98ac2b5bc7d68d5",
                 "message_id": "n52u5l7",
                 "comment": "This is sick OP! I’m not your target user (too lazy) but I’m sure there are lots of folks who’d find this fun. Have you considered any social features (eg leaderboard) to keep people engaged?",
-                "polarity": 1.23312,
+                "polarity": 0.8808,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -165,7 +165,7 @@
                 "user": "cfd936ae9a5439f51c78a07e1a9af444",
                 "message_id": "n5ddfv5",
                 "comment": "Very cool OP!! What's the tech stack?",
-                "polarity": 0.6859999999999999,
+                "polarity": 0.49,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -181,7 +181,7 @@
                 "user": "077283ac0ece11e8ae6df14be5aa6dd1",
                 "message_id": "n4z9am8",
                 "comment": "That is very cool, and I like your image on the app store as well, how did you make them?",
-                "polarity": 1.02844,
+                "polarity": 0.7346,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -197,7 +197,7 @@
                 "user": "f966d7fa2d3ef32f8764b13dbca11add",
                 "message_id": "n50lcsh",
                 "comment": "I’m curious, why are you using MapBox instead of Apple MapKit, when the latter would make it free to operate?",
-                "polarity": 0.95312,
+                "polarity": 0.6808,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -213,7 +213,7 @@
                 "user": "27463acd4f337d1b0bb1d0481c60d349",
                 "message_id": "n511vbl",
                 "comment": "I love it. I tried some other app that is similar, where it shows areas which you've explored. But even after setting location tracking to always allow, it still didn't track places properly in the background which is a bummer. Downloaded it, hopefully it works. Though wondering if the smallest sector can be subdivided into smaller areas. My country is very small, there are only 17 sub sectors (the layer under the biggest layer) total. So it won't be long before I unlock them even though I didn't technically explore most of the country. Subscription wise.... Not really keen on the whole subscription idea, maybe it would be an easier pill for me to swallow if it could be a one time purchase, though I understand things like leaderboard need constant upkeep so it makes the most sense for you financial wise. Tho 99 a month sounds pretty accessible. It's it possible to have a trial period so that I can see how are the pro features like? Data wise will it retain if I change phones? Can it be synced to an email or account instead, in case I switch over to android Edit: nvm just saw lifetime pro lol might get it if I like it after awhile",
-                "polarity": 1.38516,
+                "polarity": 0.9894,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -225,7 +225,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.37381233606570835
+                        0.3738106585788562
                     ],
                     [
                         "Solution Provider",
@@ -233,7 +233,7 @@
                     ],
                     [
                         "Critic",
-                        0.020254053086482898
+                        0.020241943247731597
                     ]
                 ]
             },
@@ -241,7 +241,7 @@
                 "user": "c2051cb951c5197e9915c039bac1f29f",
                 "message_id": "n518d9k",
                 "comment": "Just curious, how long did it take you to build your MVP? I’m working on something similar and trying to balance between building and promoting.",
-                "polarity": 0.82026,
+                "polarity": 0.5859,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -257,7 +257,7 @@
                 "user": "498ac4eeb9fdab68de8e4e0ba5350ebd",
                 "message_id": "n52a63m",
                 "comment": "Looks so cool. Is it open source?",
-                "polarity": 0.53256,
+                "polarity": 0.3804,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -273,7 +273,7 @@
                 "user": "be049bd1aac47d54f5974505dfc89508",
                 "message_id": "n52l21v",
                 "comment": "Any plans to make it another layer deeper? I live in a very dense city and was hoping there is a deeper layer since there are many things to explore around where I'm at.",
-                "polarity": 0.5901,
+                "polarity": 0.4215,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -289,7 +289,7 @@
                 "user": "4dcea3a1f82c44cbf226ea9a83c8de6e",
                 "message_id": "n555jxw",
                 "comment": "This is awesome! Can I unlock the countries I have visited in the past? Or I just start from scratch as a new user?",
-                "polarity": 0.97412,
+                "polarity": 0.6958,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -305,7 +305,7 @@
                 "user": "b4c96cd3fb5f9688b390ff74fbef588b",
                 "message_id": "n5iifyr",
                 "comment": "This is fucking cool! How did you begin to design something like this?",
-                "polarity": 0.92134,
+                "polarity": 0.6581,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -321,7 +321,7 @@
                 "user": "a2233b64ab9d3e09b289af2b8765cdde",
                 "message_id": "n5upqgl",
                 "comment": "This looks cool! What tech did you use to build this? Can I see the code?",
-                "polarity": 0.63014,
+                "polarity": 0.4501,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -337,7 +337,7 @@
                 "user": "ae6689a8277294dccaf6589a7688bc67",
                 "message_id": "n65gv4v",
                 "comment": "Can you like upload the footstep data from snapchat maps",
-                "polarity": 0.50568,
+                "polarity": 0.3612,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -353,7 +353,7 @@
                 "user": "71a5769458341a3f30eab4fa05052cae",
                 "message_id": "n6kgg3y",
                 "comment": "Cool concept! Any chance for a beta code? Would love to test it out and give some feedback.",
-                "polarity": 1.16382,
+                "polarity": 0.8313,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -383,7 +383,7 @@
                     ],
                     [
                         "Critic",
-                        0.0014064337953255258
+                        0.0014064718765794608
                     ]
                 ]
             },
@@ -458,7 +458,7 @@
                 "polarity": 0.0,
                 "parent": "By the way, there are some sort of unavoidable issues with ios force quitting background apps if there is enough memory pressure on the phone (using things like the camera etc.) I've put in some safeguards but it won't prevent all cases. I'm still working out a way to make it even better (and it will try to restart once you've moved a certain distance since ios allows that feature), but yeah, it could be a deal breaker for some people. There are other apps vaguely similar to this and I've tested them and they all have this same issue. The only foolproof thing I could think of is some sort of push notification when then app is offloaded, but that could be annoying in its own way As for the pro features there is a 3 hour trial at the beginning. Right now the pro features are just no ads and statistics. Planning on building those out though also. Leaderboards will also be pro",
                 "parent_persona": "Critic",
-                "parent_persona_score": 0.38025405308648297,
+                "parent_persona_score": 0.38024194324773164,
                 "quotes": [],
                 "score": [
                     [
@@ -549,7 +549,7 @@
                 "user": "9ba66a07ecb4448942535c4bfd61c9f3",
                 "message_id": "n53w14h",
                 "comment": "I wanted to do something similar when I moved to a new city. Can you tell me how did you fix the problem with maps being too detailed and unlocking for every intersection or crosswalk would be not helpful? In my case I’m trying to make 8 bit map overlays to make it feel like a retro game with a Pokemon feel to it.",
-                "polarity": -0.51492,
+                "polarity": -0.3678,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -561,7 +561,7 @@
                     ],
                     [
                         "Critic",
-                        0.009845036567278679
+                        0.009845303136056223
                     ]
                 ]
             },
@@ -569,7 +569,7 @@
                 "user": "bbdbe5a4c36691bb57d891c702add34b",
                 "message_id": "n56dsdc",
                 "comment": "This is actually sick OP. Could be quite cool to be able to click into a hexagon (area) and maybe be able to leave a note or something about the place/your experience/dates traveled?!",
-                "polarity": -0.41398,
+                "polarity": -0.2957,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -589,7 +589,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4zfxtn",
                 "comment": "Yeah that is ironic... I should have mentioned it's available in US/Canada right now. I will open it up though, should be available elsewhere in the coming days. EDIT: it should be available almost everywhere in the next 24 hours",
-                "polarity": 0.30386,
+                "polarity": 0.1779,
                 "parent": "“This app is not available in your country or region” which is somewhat ironic given it’s about visiting everywhere in the world!",
                 "parent_persona": "Solution Provider",
                 "parent_persona_score": 0.36000000000000004,
@@ -617,7 +617,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4z95ud",
                 "comment": "Yeah fair enough, that's actually part of what I'm interested in ppls opinions on. FWIW you can use it free. I tried to keep the ads minimal, but I do actually have some costs to keep it running",
-                "polarity": 0.7325600000000001,
+                "polarity": 0.6428,
                 "parent": "But not sure I like the subscription for access might delete later.",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -633,7 +633,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n50b6vp",
                 "comment": "Thank you for your thorough response! I agree there is the cost of travel aspect to consider. I’ll have to carefully think about how to handle that. As for the other comments on AI/vibe coding, yeah I didn’t vibe code this, I used some LLM tools for certain aspects, but I think using LLMs as tools is here to stay. I have a SW background though so in the case I used it it was done with care",
-                "polarity": 1.20232,
+                "polarity": 0.8588,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -649,7 +649,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n55o2p6",
                 "comment": "It gets down to what I would consider the large neighborhood level at least tuned to my US point of view. I'm considering adding a level deeper, it seems to be a popular request.",
-                "polarity": 0.7703,
+                "polarity": 0.4215,
                 "parent": "Does it get down to street level detail for cities? I’d love to play with that",
                 "parent_persona": "Question asker",
                 "parent_persona_score": 0.36000000000000004,
@@ -677,7 +677,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4z9hql",
                 "comment": "Hey thanks for the feedback! And I don't think I collect email, unless there's a way through App Store Connect to get user email info but I'd think that would not exist for privacy purposes",
-                "polarity": 0.6975600000000001,
+                "polarity": 0.3054,
                 "parent": "I downloaded and fired it up. From my initial 30 second experience: - I like the design a lot, very cool. It feels fresh and not derivative. If you are vibe coding the UI, great job. - When I see my initial location, I would probably want to engage more if there were some sort of score or sort of resource or location I could claim. Maybe think a bit about Pokemon Go mechanics to make this more exciting to users. However, that would put you in the business of a multiuser backend - The UI transition from macro to micro gets a little jarring when the bigger region fades out entirely and you are just looking at the micro. Maybe work on that a little bit for ideal UX You can email me directly from your user info database if you want to chat more.",
                 "parent_persona": "Solution Provider",
                 "parent_persona_score": 0.36000000000000004,
@@ -705,7 +705,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4z9zxz",
                 "comment": "Used Sora with a bunch of iteration to make the logo. I kind of backed into it b/c I found this which I use in one of the menus: and I thought it felt out of place unless I used it to inspire the logo lol",
-                "polarity": 1.11104,
+                "polarity": 0.7436,
                 "parent": "That is very cool, and I like your image on the app store as well, how did you make them?",
                 "parent_persona": "Question asker",
                 "parent_persona_score": 0.36000000000000004,
@@ -733,7 +733,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4zob4e",
                 "comment": "No, but I would definitely consider implementing that if there were interest, seems like a good idea",
-                "polarity": 1.31572,
+                "polarity": 0.9398,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -749,7 +749,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n56evby",
                 "comment": "That's awesome, thanks! I will add the ability to turn off sound in the next update. I'll add the other suggestions to the backlog for potential additions. I actually considered that the music might be annoying. I like it but also recognize that. Will add a permanent setting for it as well",
-                "polarity": 1.1854200000000001,
+                "polarity": 0.7901,
                 "parent": "Okay. Love it. Life time license bought. I could just not be able to find it but please add the ability to turn off all sound under settings. I like the sound but don’t always like to hear clicking. I think I found the button to turn the music off at least. Would love to see how long I have spent in each tile if that is an option in the future.",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -765,10 +765,10 @@
                 "user": "e099b164a843f6a9a20024fe29e665db",
                 "message_id": "n4zfvuo",
                 "comment": "Maybe you could link it to social media and unlock places by having friends there, could be cool",
-                "polarity": 1.04758,
+                "polarity": 0.6597,
                 "parent": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3891593761387176,
+                "parent_persona_score": 0.38915583477758525,
                 "quotes": [],
                 "score": [
                     [
@@ -793,7 +793,7 @@
                 "user": "e10be31825d18023baffc2015f1dd123",
                 "message_id": "n54e7b4",
                 "comment": "Nah, I’m done with apps that wants me to sign up for a sub before I’ve even had a chance to try it. I think it’s deceptive and counts on people forgetting they signed up in the first place. Pass.",
-                "polarity": 0.26238,
+                "polarity": 0.1531,
                 "parent": "This is available in this app here",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -809,7 +809,7 @@
                 "user": "3e4ce20ec588600054f050310750c4ca",
                 "message_id": "n56bvva",
                 "comment": "Geocaching communities are great too, as they enjoy exploring random places. Try niche travel forums and Facebook groups where people share their trips. I used Beno One to find similar discussions and join in naturally without spamming.",
-                "polarity": 1.2915,
+                "polarity": 0.9225,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -825,7 +825,7 @@
                 "user": "b85e53819c58774b3866ce40389edbd3",
                 "message_id": "n53yimy",
                 "comment": "You should be able to import historical data from various sources. Photo library geotags, health/running apps and I’d love to import from Google Maps Timeline.",
-                "polarity": 0.8916600000000001,
+                "polarity": 0.6369,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -841,7 +841,7 @@
                 "user": "27b6414b9da41ae9aace7e5992e9e14f",
                 "message_id": "n56e5l3",
                 "comment": "Joined. I'm excited to try it out whenever it comes to android.",
-                "polarity": 0.7043600000000001,
+                "polarity": 0.34,
                 "parent": "Yeah, I am planning on it. Wanted to validate the concept first. So far it seems there might be enough interest. It will take some work though so won't be instant. I think I'll start a subreddit to both track requests like these but also make announcements for things like when the Android port would be ready (it may take a bit of work): r/surveyor_64",
                 "parent_persona": null,
                 "parent_persona_score": 0.002032608695652174,
@@ -857,7 +857,7 @@
                 "user": "eb9b21d975c08db23842a13c07f3bca8",
                 "message_id": "n500smr",
                 "comment": "Not sure there’s a way to do this and respect privacy but would be cool if you can scan my photos for location meta info and start me off with where ive been. Thats really my only record and I’ve been to dozens of countries but travel has slowed.",
-                "polarity": 0.7632800000000001,
+                "polarity": 0.5452,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -873,7 +873,7 @@
                 "user": "72fbf7a567804b6dc9ce8eccefca1cae",
                 "message_id": "n555hrr",
                 "comment": "Oh man, that’s cool!! Honestly though, only people who are doing pretty well are traveling. And that’s a small market. But you could possibly make that work. It does seem like you have a pretty good handle on your UI so far, so that’s a good start!",
-                "polarity": 1.35982,
+                "polarity": 0.9713,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -889,7 +889,7 @@
                 "user": "f7632bc5a3d6b9773e3ce1c3d43ae14f",
                 "message_id": "n4z7vg9",
                 "comment": "I downloaded and fired it up. From my initial 30 second experience: - I like the design a lot, very cool. It feels fresh and not derivative. If you are vibe coding the UI, great job. - When I see my initial location, I would probably want to engage more if there were some sort of score or sort of resource or location I could claim. Maybe think a bit about Pokemon Go mechanics to make this more exciting to users. However, that would put you in the business of a multiuser backend - The UI transition from macro to micro gets a little jarring when the bigger region fades out entirely and you are just looking at the micro. Maybe work on that a little bit for ideal UX You can email me directly from your user info database if you want to chat more.",
-                "polarity": 1.32706,
+                "polarity": 0.9479,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -901,7 +901,7 @@
                     ],
                     [
                         "Critic",
-                        0.012657904157929731
+                        0.012658246889215146
                     ]
                 ]
             },
@@ -909,7 +909,7 @@
                 "user": "9aac7b3a8ca0d5debdfe1541e620ec6d",
                 "message_id": "n51u18u",
                 "comment": "True, I think he ment you could send him a DM on reddit",
-                "polarity": 0.6316999999999999,
+                "polarity": 0.4215,
                 "parent": "Hey thanks for the feedback! And I don't think I collect email, unless there's a way through App Store Connect to get user email info but I'd think that would not exist for privacy purposes",
                 "parent_persona": "Solution Provider",
                 "parent_persona_score": 0.36000000000000004,
@@ -937,7 +937,7 @@
                 "user": "9650d3c2cd2c1a8d4d8e89c218eb2a33",
                 "message_id": "n5ih72o",
                 "comment": "hey u/davew1 BEWARE OF MAPBOX FREE TIER IDK how is it billed for mobile use, but I bet you can end up with a big sum owed once the app goes viral.",
-                "polarity": 0.58936,
+                "polarity": 0.2382,
                 "parent": "I’m curious, why are you using MapBox instead of Apple MapKit, when the latter would make it free to operate?",
                 "parent_persona": "Question asker",
                 "parent_persona_score": 0.36000000000000004,
@@ -965,7 +965,7 @@
                 "user": "4fd14671a2e21059ed5b4c34c69c97cd",
                 "message_id": "n522yaw",
                 "comment": "Great execution. I had the same idea. Nice twist with the large and small hexagons. Maybe you can access a users photo library and get past locations this way.",
-                "polarity": 1.0983,
+                "polarity": 0.7845,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -981,7 +981,7 @@
                 "user": "36ef876aaad9bea22e79695467c19c71",
                 "message_id": "n584uep",
                 "comment": "dyam bro nice concept nd execution you could actually sell this to pokemon go or create a extention for it lol",
-                "polarity": 1.0803800000000001,
+                "polarity": 0.7717,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -997,7 +997,7 @@
                 "user": "b4c96cd3fb5f9688b390ff74fbef588b",
                 "message_id": "n5kskax",
                 "comment": "But what software/coding skills did you employ? I'm interested in learning new skills to flesh out my own ideas for apps. Do you recommend a good skills to learn as a foundation?",
-                "polarity": 1.29234,
+                "polarity": 0.9003,
                 "parent": "One commit at a time haha. I had an idea for the aesthetic and it eventually came together. I’m glad you like it!",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1017,7 +1017,7 @@
                 "user": "36d4cfb9aef2ee198233cbb687330aac",
                 "message_id": "n62jfbl",
                 "comment": "User growth is tough. Try Reddit travel communities or Instagram partnerships andAnchor' NewsLetterhas good tips for early-stage products.",
-                "polarity": 0.8573600000000001,
+                "polarity": 0.6124,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1153,10 +1153,10 @@
                 "user": "a85d8ea041dfd42cba55ce3f83e43d5e",
                 "message_id": "n4zi0sn",
                 "comment": "You should make ocean tiles larger for sections of the ocean with no islands",
-                "polarity": -0.6795599999999999,
+                "polarity": -0.296,
                 "parent": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3891593761387176,
+                "parent_persona_score": 0.38915583477758525,
                 "quotes": [],
                 "score": [
                     [
@@ -1201,7 +1201,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n4z0hes",
                 "comment": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
-                "polarity": 1.34966,
+                "polarity": 0.9609,
                 "parent": "Cool concept. Just seems like it would piss off completionists to no end. You'll never unlock the whole globe, at least not at that zoomed in view you showed. Cool for showing where you have been tho.",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1209,7 +1209,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3891593761387176
+                        0.38915583477758525
                     ]
                 ]
             },
@@ -1217,7 +1217,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n5057as",
                 "comment": "Great idea, that's probably doable. But also for the \"big\" hexagons you can manually mark the ones you've been to. Maybe that's a bit annoying if you've been to a ton of places, so the photo idea is good. I believe there are ways to do it while respecting privacy (basically the photos not leaving the phone at any point)",
-                "polarity": 1.16992,
+                "polarity": 0.7992,
                 "parent": "Not sure there’s a way to do this and respect privacy but would be cool if you can scan my photos for location meta info and start me off with where ive been. Thats really my only record and I’ve been to dozens of countries but travel has slowed.",
                 "parent_persona": "Solution Provider",
                 "parent_persona_score": 0.36000000000000004,
@@ -1225,7 +1225,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.41381233606570833
+                        0.4138106585788562
                     ],
                     [
                         "Solution Provider",
@@ -1248,7 +1248,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n55nv8v",
                 "comment": "I'm considering this. I was torn between \"overcomplicating\" it vs making the tile size not what most people like. For what it's worth I selected the small tiles based on my idea of where someone would be able to go assuming they have access to a car. Almost like for road trippers for example. That's not everyone in all parts of the world though, but it is something doable at most levels of wealth at least in the US, though I could be wrong. I'm hesitant to make it them too small b/c then it's going to be impossible to ever unlock all of the tiles in a section (you can't for example walk into every building or house, that would be illegal). But if it's a popular enough request I'll probably do it",
-                "polarity": -0.41172,
+                "polarity": -0.1808,
                 "parent": "Any plans to make it another layer deeper? I live in a very dense city and was hoping there is a deeper layer since there are many things to explore around where I'm at.",
                 "parent_persona": "Question asker",
                 "parent_persona_score": 0.36000000000000004,
@@ -1260,7 +1260,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.4253470400730093
+                        0.4253451761987291
                     ],
                     [
                         "Critic",
@@ -1280,7 +1280,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n51j3tj",
                 "comment": "By the way, there are some sort of unavoidable issues with ios force quitting background apps if there is enough memory pressure on the phone (using things like the camera etc.) I've put in some safeguards but it won't prevent all cases. I'm still working out a way to make it even better (and it will try to restart once you've moved a certain distance since ios allows that feature), but yeah, it could be a deal breaker for some people. There are other apps vaguely similar to this and I've tested them and they all have this same issue. The only foolproof thing I could think of is some sort of push notification when then app is offloaded, but that could be annoying in its own way As for the pro features there is a 3 hour trial at the beginning. Right now the pro features are just no ads and statistics. Planning on building those out though also. Leaderboards will also be pro",
-                "polarity": 1.1934399999999998,
+                "polarity": 0.7958,
                 "parent": "I love it. I tried some other app that is similar, where it shows areas which you've explored. But even after setting location tracking to always allow, it still didn't track places properly in the background which is a bummer. Downloaded it, hopefully it works. Though wondering if the smallest sector can be subdivided into smaller areas. My country is very small, there are only 17 sub sectors (the layer under the biggest layer) total. So it won't be long before I unlock them even though I didn't technically explore most of the country. Subscription wise.... Not really keen on the whole subscription idea, maybe it would be an easier pill for me to swallow if it could be a one time purchase, though I understand things like leaderboard need constant upkeep so it makes the most sense for you financial wise. Tho 99 a month sounds pretty accessible. It's it possible to have a trial period so that I can see how are the pro features like? Data wise will it retain if I change phones? Can it be synced to an email or account instead, in case I switch over to android Edit: nvm just saw lifetime pro lol might get it if I like it after awhile",
                 "parent_persona": "Question asker",
                 "parent_persona_score": 0.38032608695652176,
@@ -1292,7 +1292,7 @@
                     ],
                     [
                         "Critic",
-                        0.42025405308648295
+                        0.4202419432477316
                     ],
                     [
                         "Technical explainer",
@@ -1316,7 +1316,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.37265790415792976
+                        0.3726582468892152
                     ],
                     [
                         "Solution Provider",
@@ -1328,7 +1328,7 @@
                 "user": "1758e9818784e53a2e49dd6f49309932",
                 "message_id": "n6x9001",
                 "comment": "Oh I see… that’s weird, it’s possible it’s due to it having just released a new version. But not really sure. I’m very curious if you still get the issue in a few hours if you’re willing to try again. But either way I really appreciate it!",
-                "polarity": 0.5684400000000001,
+                "polarity": 0.676,
                 "parent": "I meant that I’m getting an error when trying to pay System alert: authentication failure. Unable to process monthly subscription request. Same on monthly and lifetime",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1336,7 +1336,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.37265790415792976
+                        0.3726582468892152
                     ],
                     [
                         "Solution Provider",
@@ -1348,7 +1348,7 @@
                 "user": "c699891eddae3f0c147959d27ab9d089",
                 "message_id": "n56a4ih",
                 "comment": "Please give me the option to turn social off in settings when you release it! I hate social in my apps. The only social I would enjoy is sharing my world with a friend or family so they could see it and see how it changes.",
-                "polarity": 1.17154,
+                "polarity": 0.7959,
                 "parent": "Yep! It's on the roadmap for sure. Pretty high on the priority list",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1364,7 +1364,7 @@
                 "user": "cb8772b55b977ed77809bbc7632ee036",
                 "message_id": "n4zjgwg",
                 "comment": "Cool idea and project. My two scents: not a big fan of the “digital” and it’s too complex. I would simplify it and make it more minimalistic. the zooming and hexagon display is a bit “misleading”. The initial one shows two countries but then I zoom in and it’s only the city where I’m but even this is too big. I would display it in a different way (e.g. colours in the first hexagonal levels). Either way, congrats and thank you for sharing. It gave me an idea for a project I had in mind.",
-                "polarity": 1.27946,
+                "polarity": 0.9139,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1372,7 +1372,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.37265790415792976
+                        0.3726582468892152
                     ]
                 ]
             },
@@ -1380,7 +1380,7 @@
                 "user": "4d1c411f355eaa996268fd92633996b3",
                 "message_id": "n50zap6",
                 "comment": "hey there, this is incredible. I have a lot of advice on growing apps and I think yours would take off. Not selling anything, so feel free to PM me, I just want to help you out and see if my theory is correct.",
-                "polarity": 1.1286800000000001,
+                "polarity": 0.8062,
                 "parent": "",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,
@@ -1388,7 +1388,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.0014064337953255258
+                        0.0014064718765794608
                     ]
                 ]
             }
@@ -1399,7 +1399,7 @@
                 "user": "95c1ced454c1a09c9d7f14979246e6ed",
                 "message_id": "n5aobe4",
                 "comment": "Too bad wrong platform I would love to test it on Android.",
-                "polarity": -0.43052,
+                "polarity": -0.34,
                 "parent": "Here's the link:",
                 "parent_persona": null,
                 "parent_persona_score": 0.0,

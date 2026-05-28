@@ -114,6 +114,13 @@ def analyze_comment(comments: dict, persona_rules: dict, iteration: int, platfor
                 )
                 scores = apply_parent_nudge(scores, parent_persona, list(persona_rules.keys()))
 
+            if ctx_doc:
+                scores = apply_context_score(
+                    scores,
+                    ctx_doc,
+                    persona_keywords
+                )
+
             if not scores:
                 continue
 
@@ -214,6 +221,46 @@ def compute_persona_score(
 
     return kw_w * keyword_score + beh_w * beh, main_hits
 
+def apply_context_score(
+        scores: list,
+        ctx_doc: Doc,
+        persona_keywords: dict
+) -> list:
+    """Apply additional context-based reinforcement to persona scores.
+    :param scores: List of scores
+    :param ctx_doc: Document context
+    :param persona_keywords: Keywords of the persona
+    :return: Updated list of (persona, score, kw_hits)"""
+
+    updated = []
+
+    for persona, score, kw_hits in scores:
+        ctx_score = compute_context_score(
+            persona_keywords[persona],
+            ctx_doc
+        )
+
+        updated.append(
+            (persona, score + ctx_score, kw_hits)
+        )
+
+    return updated
+
+def compute_context_score(keywords: list,ctx:Doc)-> float:
+    """ Calculate the score for the context
+    :param keywords: Keywords of the persona
+    :param ctx: Document context
+    :return score: Score of the context"""
+    total_weight = sum(kw["weight"] for kw in keywords)
+    if total_weight == 0:
+        return 0.0
+    processed_ctx = process_text(ctx)
+    main_hits = find_keyword_hits(keywords, *processed_ctx)
+
+    kw_main_ratio = min(main_hits / total_weight, 1.0)
+    keyword_score = 0.45 * kw_main_ratio
+
+    return min(keyword_score, 0.12)
 
 def find_keyword_hits(keywords: list, text: str, token_set: set) -> float:
     """Search for keyword hits against the comment text and token set and scores it accordingly
@@ -351,7 +398,6 @@ def apply_parent_nudge(scores: list, parent_persona: str | None, all_personas: l
         for persona in all_personas
     ]
 
-
 def calculate_sentiment_score(main_text: str, context_text: str, use_context: bool) -> tuple[str, float]:
     """Calculates sentiment score for the persona
     :param main_text : main comment text
@@ -404,13 +450,11 @@ def extract_reddit_comments(comment_data: dict, title: str) -> dict:
     parent_text = comment_data.get('parent_text', '')
     quotes = [q.get('text', '') for q in comment_data.get('quotes', [])]
 
-    context_text = " ".join([title, parent_text] + quotes) if parent_text or quotes else ""
-
-    full_text_for_sentiment = " ".join([main_text, context_text]).strip()
+    context_text = " ".join([title] + quotes) if parent_text or quotes else ""
 
     return {
         "main_text": main_text,
-        "full_context": full_text_for_sentiment,
+        "full_context": context_text,
         "parent_text": parent_text,
         "quotes": quotes
     }
