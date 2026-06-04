@@ -225,7 +225,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.3738106585788562
+                        0.37381233606570835
                     ],
                     [
                         "Solution Provider",
@@ -233,7 +233,7 @@
                     ],
                     [
                         "Critic",
-                        0.020241943247731597
+                        0.020254053086482898
                     ]
                 ]
             },
@@ -383,7 +383,7 @@
                     ],
                     [
                         "Critic",
-                        0.0014064718765794608
+                        0.0014064337953255258
                     ]
                 ]
             },
@@ -458,7 +458,7 @@
                 "polarity": 0.0,
                 "parent": "By the way, there are some sort of unavoidable issues with ios force quitting background apps if there is enough memory pressure on the phone (using things like the camera etc.) I've put in some safeguards but it won't prevent all cases. I'm still working out a way to make it even better (and it will try to restart once you've moved a certain distance since ios allows that feature), but yeah, it could be a deal breaker for some people. There are other apps vaguely similar to this and I've tested them and they all have this same issue. The only foolproof thing I could think of is some sort of push notification when then app is offloaded, but that could be annoying in its own way As for the pro features there is a 3 hour trial at the beginning. Right now the pro features are just no ads and statistics. Planning on building those out though also. Leaderboards will also be pro",
                 "parent_persona": "Critic",
-                "parent_persona_score": 0.38024194324773164,
+                "parent_persona_score": 0.38025405308648297,
                 "quotes": [],
                 "score": [
                     [
@@ -561,7 +561,7 @@
                     ],
                     [
                         "Critic",
-                        0.009845303136056223
+                        0.009845036567278679
                     ]
                 ]
             },
@@ -768,7 +768,7 @@
                 "polarity": 0.6597,
                 "parent": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38915583477758525,
+                "parent_persona_score": 0.3891593761387176,
                 "quotes": [],
                 "score": [
                     [
@@ -901,7 +901,7 @@
                     ],
                     [
                         "Critic",
-                        0.012658246889215146
+                        0.012657904157929731
                     ]
                 ]
             },
@@ -1156,7 +1156,7 @@
                 "polarity": -0.296,
                 "parent": "Yeah, I basically have 2 \"levels\" of tile resolution... the big ones I sized so that someone who dedicated a lot of effort to visiting everywhere could feasibly complete it. The smaller level is more for like \"I visited all of the tiles in my home major tile\", or showing where you've been like you say. But anyway, that's good feedback, thanks! Maybe I could have challenges/milestones like visiting all the major tiles in the US for example, and then a set of milestones that actually is achievable for the completionists",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38915583477758525,
+                "parent_persona_score": 0.3891593761387176,
                 "quotes": [],
                 "score": [
                     [
@@ -1209,7 +1209,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38915583477758525
+                        0.3891593761387176
                     ]
                 ]
             },
@@ -1225,7 +1225,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4138106585788562
+                        0.41381233606570833
                     ],
                     [
                         "Solution Provider",
@@ -1260,7 +1260,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.4253451761987291
+                        0.4253470400730093
                     ],
                     [
                         "Critic",
@@ -1292,7 +1292,7 @@
                     ],
                     [
                         "Critic",
-                        0.4202419432477316
+                        0.42025405308648295
                     ],
                     [
                         "Technical explainer",
@@ -1316,7 +1316,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.3726582468892152
+                        0.37265790415792976
                     ],
                     [
                         "Solution Provider",
@@ -1336,7 +1336,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.3726582468892152
+                        0.37265790415792976
                     ],
                     [
                         "Solution Provider",
@@ -1372,7 +1372,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.3726582468892152
+                        0.37265790415792976
                     ]
                 ]
             },
@@ -1388,7 +1388,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.0014064718765794608
+                        0.0014064337953255258
                     ]
                 ]
             }

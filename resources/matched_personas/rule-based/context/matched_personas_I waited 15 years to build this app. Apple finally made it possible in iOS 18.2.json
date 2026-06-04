@@ -21,7 +21,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -49,7 +49,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -77,7 +77,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -105,7 +105,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -133,7 +133,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -161,7 +161,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.06657746070515468
+                        0.07760631139531296
                     ],
                     [
                         "Critic",
@@ -285,7 +285,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.029911325391518417
+                        0.029927366348112973
                     ]
                 ]
             },
@@ -305,7 +305,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -341,7 +341,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.08986367243898939
+                        0.08914066562662507
                     ],
                     [
                         "Solution Provider",
@@ -360,7 +360,7 @@
                 "polarity": 0.1154,
                 "parent": "let's say the number that called you is 123456 Iphone will encrypt that to let's say \"asdasfG1423SDF\" The server will recieve \"asdasfG1423SDF\" The server will try to find if they have something like \"asdasfG1423SDF\" The server will return the correct data let's say it returns \"Verified number\" your iphone will recieve \"Verified number\" and it will display it Now can the server decrypt \"asdasfG1423SDF\" to 123456 Short answer: no, because he needs a secret key that he doesn't know This is a simplification but i want to tell you that it is safe and the server cannot know who you are calling, also, i recommend you learn more about encryption algorithms and api's it will make the image much clearer",
                 "parent_persona": "Solution Provider",
-                "parent_persona_score": 0.3779201928523666,
+                "parent_persona_score": 0.3779346297133017,
                 "quotes": [],
                 "score": [
                     [
@@ -432,7 +432,7 @@
                 "polarity": 0.7717,
                 "parent": "let's say the number that called you is 123456 Iphone will encrypt that to let's say \"asdasfG1423SDF\" The server will recieve \"asdasfG1423SDF\" The server will try to find if they have something like \"asdasfG1423SDF\" The server will return the correct data let's say it returns \"Verified number\" your iphone will recieve \"Verified number\" and it will display it Now can the server decrypt \"asdasfG1423SDF\" to 123456 Short answer: no, because he needs a secret key that he doesn't know This is a simplification but i want to tell you that it is safe and the server cannot know who you are calling, also, i recommend you learn more about encryption algorithms and api's it will make the image much clearer",
                 "parent_persona": "Solution Provider",
-                "parent_persona_score": 0.3779201928523666,
+                "parent_persona_score": 0.3779346297133017,
                 "quotes": [],
                 "score": [
                     [
@@ -475,7 +475,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.05908679570194783
+                        0.0686757470298812
                     ],
                     [
                         "Critic",
@@ -518,7 +518,7 @@
                 "polarity": 0.2732,
                 "parent": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.369440171090357,
+                "parent_persona_score": 0.3794020260810433,
                 "quotes": [],
                 "score": [
                     [
@@ -546,7 +546,7 @@
                 "polarity": 0.3527,
                 "parent": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.369440171090357,
+                "parent_persona_score": 0.3794020260810433,
                 "quotes": [],
                 "score": [
                     [
@@ -619,7 +619,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.06369132862995927
+                        0.06335767716422944
                     ],
                     [
                         "Critic",
@@ -662,7 +662,7 @@
                 "polarity": 0.5475,
                 "parent": "I know this seems nip picking but open-source doesn’t mean something is free. It just means the source code is available for you to check yourself. And depending on the open source license what you can do with the available source code. It’s completely possible to be open source and still sell the app or sell services related to the app.",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3736913286299593,
+                "parent_persona_score": 0.37335767716422946,
                 "quotes": [],
                 "score": [
                     [
@@ -706,7 +706,7 @@
                 "polarity": 0.4767,
                 "parent": "Recently was in Sweden seeing some friends and one of them got a cold call from someone who knew their full name. You can just type a number in to Google and it's all there I know the comment was a joke but it seems like in some places, it's an opt out thing, you're in by default. If you have scraping capabilities, depending on where - this could be implemented with the user adding a blacklist of names. It wouldn't catch it everywhere and all the time, but it would probably get some. e: awesome project btw, the commitment is very inspiring e2: entirely missed the point of what I was saying lol",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3736913286299593,
+                "parent_persona_score": 0.37335767716422946,
                 "quotes": [],
                 "score": [
                     [
@@ -807,7 +807,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.009539515995076473
+                        0.00917057399340159
                     ]
                 ]
             },
@@ -818,7 +818,7 @@
                 "polarity": 0.4404,
                 "parent": "No, you’re not required to support spam blocking. You can just focus on Caller ID if that’s your goal",
                 "parent_persona": "Solution Provider",
-                "parent_persona_score": 0.3695395159950765,
+                "parent_persona_score": 0.36917057399340164,
                 "quotes": [],
                 "score": [
                     [
@@ -886,7 +886,7 @@
                 "polarity": 0.565,
                 "parent": "It doesn’t import your existing iOS block list (Apple doesn’t allow access to that), but you can enable automatic spam blocking right from Livecaller’s settings. It works independently using our crowdsourced database of spammers and catches high-risk spam in real time.",
                 "parent_persona": "Solution Provider",
-                "parent_persona_score": 0.3695395159950765,
+                "parent_persona_score": 0.36917057399340164,
                 "quotes": [],
                 "score": [
                     [
@@ -923,7 +923,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0013691328629959264
+                        0.0013357677164229427
                     ]
                 ]
             },
@@ -1190,7 +1190,7 @@
                 "polarity": 0.1717,
                 "parent": "What you’re seeing is likely Siri Suggestions or info from your carrier, which can show limited caller details. Livecaller takes it further - it uses Apple’s new real-time API to identify unknown numbers with wider global coverage and built-in spam protection, all as the phone rings.",
                 "parent_persona": null,
-                "parent_persona_score": 0.0019911325391518417,
+                "parent_persona_score": 0.001992736634811298,
                 "quotes": [],
                 "score": [
                     [
@@ -1251,7 +1251,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -1299,7 +1299,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -1335,7 +1335,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.017920192852366575
+                        0.01793462971330168
                     ]
                 ]
             },
@@ -1371,11 +1371,11 @@
                     ],
                     [
                         "Solution Provider",
-                        0.019911325391518415
+                        0.019927366348112974
                     ],
                     [
                         "Technical explainer",
-                        0.0013691328629959264
+                        0.0013357677164229427
                     ]
                 ]
             },
@@ -1523,7 +1523,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -1543,7 +1543,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.013691328629959264
+                        0.013357677164229427
                     ]
                 ]
             },
@@ -1663,7 +1663,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.3779201928523666
+                        0.3779346297133017
                     ]
                 ]
             },
@@ -1771,7 +1771,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.01940202608104324
                     ]
                 ]
             },
@@ -1791,7 +1791,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.04713728961479777
+                        0.048204285314269714
                     ],
                     [
                         "Critic",
@@ -2095,7 +2095,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07519263040441403
+                        0.07481784985685141
                     ],
                     [
                         "Critic",
@@ -2110,7 +2110,7 @@
                 "polarity": 0.0772,
                 "parent": "let's say the number that called you is 123456 Iphone will encrypt that to let's say \"asdasfG1423SDF\" The server will recieve \"asdasfG1423SDF\" The server will try to find if they have something like \"asdasfG1423SDF\" The server will return the correct data let's say it returns \"Verified number\" your iphone will recieve \"Verified number\" and it will display it Now can the server decrypt \"asdasfG1423SDF\" to 123456 Short answer: no, because he needs a secret key that he doesn't know This is a simplification but i want to tell you that it is safe and the server cannot know who you are calling, also, i recommend you learn more about encryption algorithms and api's it will make the image much clearer",
                 "parent_persona": "Solution Provider",
-                "parent_persona_score": 0.3779201928523666,
+                "parent_persona_score": 0.3779346297133017,
                 "quotes": [],
                 "score": [
                     [
@@ -2138,7 +2138,7 @@
                 "polarity": 0.0,
                 "parent": "Passwords are created by the user and immediately (should be) properly encrypted. Server side doesn’t know what the password is. In this case though the billions of numbers are from the company that does the encryption… they can easily find out which encrypted data is the phone number since they have the billions of numbers. Seems disingenuous to say “nah we’d never know” as if it’s technically not possible because of the encryption… it’s entirely possible. Unless I’m reading this wrong. If a company took your password and stored it separately in plaintext and also stored it encrypted - and the encrypted one is what they used for authentication - it would be same scenario as here. You think that encrypted data is safe?",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3723221957669634,
+                "parent_persona_score": 0.3720219094478065,
                 "quotes": [],
                 "score": [
                     [
@@ -2166,7 +2166,7 @@
                 "polarity": 0.0,
                 "parent": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.369440171090357,
+                "parent_persona_score": 0.3794020260810433,
                 "quotes": [],
                 "score": [
                     [
@@ -2439,7 +2439,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.369440171090357
+                        0.36993410450703745
                     ]
                 ]
             },
@@ -2715,7 +2715,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.04243627308855874
+                        0.042632362437354625
                     ]
                 ]
             },
@@ -2751,7 +2751,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -2819,7 +2819,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.013691328629959264
+                        0.013357677164229427
                     ]
                 ]
             },
@@ -3028,7 +3028,7 @@
                 "polarity": -0.7351,
                 "parent": "Get a phone number whose area code is different from where you live. Almost local area code call you receive (other than contacts) is spam.",
                 "parent_persona": null,
-                "parent_persona_score": 0.007161934006331691,
+                "parent_persona_score": 0.007334700530878378,
                 "quotes": [],
                 "score": [
                     [
@@ -3037,7 +3037,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.007161934006331691
+                        0.007334700530878378
                     ]
                 ]
             },
@@ -3161,7 +3161,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.013691328629959264
+                        0.013357677164229427
                     ]
                 ]
             },
@@ -3229,7 +3229,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.013691328629959264
+                        0.013357677164229427
                     ]
                 ]
             },
@@ -3329,7 +3329,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.019911325391518415
+                        0.019927366348112974
                     ]
                 ]
             },
@@ -3464,12 +3464,12 @@
                         0.36000000000000004
                     ],
                     [
-                        "Critic",
-                        0.012594741190416325
+                        "Technical explainer",
+                        0.01940202608104324
                     ],
                     [
-                        "Technical explainer",
-                        0.009440171090356914
+                        "Critic",
+                        0.012594741190416325
                     ]
                 ]
             },
@@ -3601,7 +3601,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -3737,7 +3737,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0013691328629959264
+                        0.0013357677164229427
                     ]
                 ]
             },
@@ -3945,7 +3945,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -4021,7 +4021,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.05136913286299593
+                        0.051335767716422946
                     ],
                     [
                         "Question asker",
@@ -4133,7 +4133,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.4579201928523666
+                        0.45793462971330173
                     ],
                     [
                         "Technical explainer",
@@ -4225,7 +4225,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.09991132539151842
+                        0.09992736634811297
                     ],
                     [
                         "Technical explainer",
@@ -4253,7 +4253,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.0019911325391518417
+                        0.001992736634811298
                     ]
                 ]
             },
@@ -4368,7 +4368,7 @@
                 "polarity": 0.8555,
                 "parent": "Privacy is at the heart of how Livecaller works. We use Apple’s new Live Caller ID API, which is designed with homomorphic encryption, meaning: - Incoming numbers are encrypted before they’re sent - We perform lookups without ever seeing the actual number - The response is also encrypted and only decrypted on your device No call logs and no contact access. Everything happens in real time, and we’re fully audited by Apple as part of the App Store approval process.",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38889965647211805,
+                "parent_persona_score": 0.3996282208431195,
                 "quotes": [],
                 "score": [
                     [
@@ -4465,7 +4465,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.3779201928523666
+                        0.3779346297133017
                     ]
                 ]
             },
@@ -4503,7 +4503,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -4606,7 +4606,7 @@
                 "polarity": -0.0258,
                 "parent": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.369440171090357,
+                "parent_persona_score": 0.3794020260810433,
                 "quotes": [],
                 "score": [
                     [
@@ -4650,7 +4650,7 @@
                 "polarity": 0.0,
                 "parent": "It might conflict, we are seeing that sometimes when multiple apps are installed, iOS is not bringing the Caller ID results.",
                 "parent_persona": null,
-                "parent_persona_score": 0.009440171090356914,
+                "parent_persona_score": 0.009934104507037423,
                 "quotes": [],
                 "score": [
                     [
@@ -4701,11 +4701,11 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.4495395159950765
+                        0.44917057399340166
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -4729,11 +4729,11 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.4495395159950765
+                        0.44917057399340166
                     ],
                     [
                         "Technical explainer",
-                        0.05713728961479777
+                        0.058204285314269716
                     ],
                     [
                         "Critic",
@@ -4757,7 +4757,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.4495395159950765
+                        0.44917057399340166
                     ],
                     [
                         "Technical explainer",
@@ -4829,7 +4829,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.4495395159950765
+                        0.44917057399340166
                     ],
                     [
                         "Technical explainer",
@@ -4857,7 +4857,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.08199113253915184
+                        0.0819927366348113
                     ],
                     [
                         "Technical explainer",
@@ -4977,7 +4977,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4635550010689487
+                        0.4624983427908545
                     ],
                     [
                         "Solution Provider",
@@ -5009,7 +5009,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5037,7 +5037,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5065,7 +5065,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5093,7 +5093,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5121,7 +5121,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5145,11 +5145,11 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.08953951599507648
+                        0.08917057399340159
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.06940202608104325
                     ],
                     [
                         "Critic",
@@ -5168,12 +5168,12 @@
                 "polarity": 0.8565,
                 "parent": "OP - first, mad respect. Always wanted to build iOS apps but never had the energy to dive in. Second - to clarify, how is this any different from the vendor apps that you can download for free, like Verizon's Call Filter or ATT's ActiveArmor? They both show the caller ID and allow you to make spam decisions from there. (not bashing your app; trying to understand what I'm missing)",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38313149972031624,
+                "parent_persona_score": 0.3832917816712669,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.06617234380903013
+                        0.06578298846239564
                     ],
                     [
                         "Question asker",
@@ -5205,7 +5205,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5229,7 +5229,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -5245,7 +5245,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4484945395759935
+                        0.44780489791020217
                     ],
                     [
                         "Solution Provider",
@@ -5277,7 +5277,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5296,12 +5296,12 @@
                 "polarity": 0.9161,
                 "parent": "What is the difference between this and I already have a subscription on don’t want to have another one in the future. Plus also has live caller id for most numbers (at least in Portugal and Angola).",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38313149972031624,
+                "parent_persona_score": 0.3927597032452727,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.4354536954872795
+                        0.43531369111907336
                     ],
                     [
                         "Solution Provider",
@@ -5329,7 +5329,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -5349,7 +5349,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.06940202608104325
                     ],
                     [
                         "Critic",
@@ -5377,7 +5377,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5405,7 +5405,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.06940202608104325
                     ],
                     [
                         "Critic",
@@ -5433,7 +5433,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5485,7 +5485,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.43889965647211804
+                        0.4496282208431195
                     ],
                     [
                         "Solution Provider",
@@ -5517,7 +5517,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5545,7 +5545,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5573,7 +5573,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5597,7 +5597,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4236913286299593
+                        0.42335767716422945
                     ],
                     [
                         "Solution Provider",
@@ -5625,7 +5625,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3984945395759935
+                        0.3978048979102022
                     ]
                 ]
             },
@@ -5641,7 +5641,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4497048530268819
+                        0.4487372637762654
                     ],
                     [
                         "Question asker",
@@ -5673,7 +5673,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -5701,7 +5701,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -5725,7 +5725,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3736913286299593
+                        0.37335767716422946
                     ],
                     [
                         "Critic",
@@ -5749,7 +5749,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.4223221957669634
+                        0.4220219094478065
                     ],
                     [
                         "Critic",
@@ -5768,12 +5768,12 @@
                 "polarity": 0.3421,
                 "parent": "No, we don’t see who’s calling you or when. iOS 18.2 uses a privacy-first system for Live Caller ID. The Phone app makes encrypted requests to our database, and we return encrypted responses. The entire process uses homomorphic encryption, meaning we never see the actual number or call data. Only your iPhone decrypts the result locally, so we never access your contacts, call logs, or caller info...",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.369440171090357,
+                "parent_persona_score": 0.3794020260810433,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.4136913286299593
+                        0.41335767716422944
                     ],
                     [
                         "Question asker",
@@ -5805,7 +5805,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.4236913286299593
+                        0.42335767716422945
                     ],
                     [
                         "Critic",
@@ -5829,7 +5829,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3736913286299593
+                        0.37335767716422946
                     ],
                     [
                         "Solution Provider",
@@ -5849,7 +5849,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -5865,7 +5865,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38313149972031624
+                        0.3832917816712669
                     ],
                     [
                         "Question asker",
@@ -5889,7 +5889,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -5905,7 +5905,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -5925,7 +5925,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.06940202608104325
                     ],
                     [
                         "Critic",
@@ -5951,7 +5951,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.419440171090357
+                        0.4294020260810433
                     ],
                     [
                         "Solution Provider",
@@ -6011,7 +6011,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -6035,11 +6035,11 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4635550010689487
+                        0.4624983427908545
                     ],
                     [
                         "Solution Provider",
-                        0.08953951599507648
+                        0.08917057399340159
                     ],
                     [
                         "Critic",
@@ -6067,7 +6067,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07617234380903014
+                        0.07578298846239565
                     ],
                     [
                         "Critic",
@@ -6091,7 +6091,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.009440171090356914
+                        0.009934104507037423
                     ]
                 ]
             },
@@ -6107,7 +6107,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.09243627308855874
+                        0.09263236243735462
                     ],
                     [
                         "Solution Provider",
@@ -6163,7 +6163,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3736913286299593
+                        0.37335767716422946
                     ],
                     [
                         "Question asker",
@@ -6183,7 +6183,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38313149972031624
+                        0.3927597032452727
                     ],
                     [
                         "Question asker",
@@ -6203,7 +6203,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4136913286299593
+                        0.41335767716422944
                     ],
                     [
                         "Question asker",
@@ -6231,7 +6231,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.007161934006331691
+                        0.007334700530878378
                     ]
                 ]
             }
@@ -6253,7 +6253,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.05713728961479777
+                        0.058204285314269716
                     ],
                     [
                         "Critic",
@@ -6281,7 +6281,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -6309,7 +6309,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.059440171090356916
+                        0.05993410450703743
                     ],
                     [
                         "Critic",
@@ -6333,7 +6333,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4331314997203162
+                        0.4427597032452727
                     ],
                     [
                         "Solution Provider",
@@ -6365,7 +6365,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0571619340063317
+                        0.05733470053087838
                     ],
                     [
                         "Critic",
@@ -6384,12 +6384,12 @@
                 "polarity": -0.8415,
                 "parent": "Spam callers use your phone number's area code, presumably because you are more likely to pick up. Ignore numbers from that area code unless they are contacts and you almost never pick up spam calls.",
                 "parent_persona": null,
-                "parent_persona_score": 0.007161934006331691,
+                "parent_persona_score": 0.007334700530878378,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.380853262636291
+                        0.38069237769510783
                     ],
                     [
                         "Critic",
@@ -6404,12 +6404,12 @@
                 "polarity": -0.296,
                 "parent": "Passwords are created by the user and immediately (should be) properly encrypted. Server side doesn’t know what the password is. In this case though the billions of numbers are from the company that does the encryption… they can easily find out which encrypted data is the phone number since they have the billions of numbers. Seems disingenuous to say “nah we’d never know” as if it’s technically not possible because of the encryption… it’s entirely possible. Unless I’m reading this wrong. If a company took your password and stored it separately in plaintext and also stored it encrypted - and the encrypted one is what they used for authentication - it would be same scenario as here. You think that encrypted data is safe?",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3723221957669634,
+                "parent_persona_score": 0.3720219094478065,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.4136913286299593
+                        0.41335767716422944
                     ],
                     [
                         "Critic",
@@ -6437,7 +6437,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4194841297732951
+                        0.4193566099786849
                     ],
                     [
                         "Critic",
@@ -6445,7 +6445,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.0799113253915184
+                        0.07992736634811297
                     ],
                     [
                         "Question asker",
@@ -6465,7 +6465,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4236913286299593
+                        0.42335767716422945
                     ],
                     [
                         "Question asker",
@@ -6580,7 +6580,7 @@
                 "polarity": 0.9252,
                 "parent": "Right now, we’re not making money from it - we honestly just think it’s a huge moment for iOS users to finally have this. In the future, we may offer a paid subscription for extra features, but the core Caller ID functionality will stay free.",
                 "parent_persona": null,
-                "parent_persona_score": 0.009440171090356914,
+                "parent_persona_score": 0.009934104507037423,
                 "quotes": [],
                 "score": [
                     [
@@ -6612,7 +6612,7 @@
                 "polarity": 0.9433,
                 "parent": "Right now, we’re not making money from it - we honestly just think it’s a huge moment for iOS users to finally have this. In the future, we may offer a paid subscription for extra features, but the core Caller ID functionality will stay free.",
                 "parent_persona": null,
-                "parent_persona_score": 0.009440171090356914,
+                "parent_persona_score": 0.009934104507037423,
                 "quotes": [],
                 "score": [
                     [
@@ -6702,7 +6702,7 @@
                 "polarity": 0.0,
                 "parent": "Get a phone number whose area code is different from where you live. Almost local area code call you receive (other than contacts) is spam.",
                 "parent_persona": null,
-                "parent_persona_score": 0.007161934006331691,
+                "parent_persona_score": 0.007334700530878378,
                 "quotes": [],
                 "score": [
                     [
@@ -6711,7 +6711,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.007161934006331691
+                        0.007334700530878378
                     ]
                 ]
             }
@@ -6780,7 +6780,7 @@
                 "polarity": -0.3818,
                 "parent": "Passwords aren't encrypted. They are hashed , which means there is no key to decrypt it. Passwords are only verified by comparing 2 different hashes. In a sense, there is no way to compare 2 different encrypted data. However, homomorphic encryptions seem to be able to compare 2 encrypted datas. Haven't read about it in detail, but that is what i seemed to get from the article OP posted.",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.3736913286299593,
+                "parent_persona_score": 0.37335767716422946,
                 "quotes": [],
                 "score": [
                     [
@@ -6813,7 +6813,7 @@
                 "score": [
                     [
                         "Solution Provider",
-                        0.45991132539151847
+                        0.45992736634811304
                     ],
                     [
                         "Critic",
@@ -6905,7 +6905,7 @@
                     ],
                     [
                         "Solution Provider",
-                        0.017920192852366575
+                        0.01793462971330168
                     ]
                 ]
             },

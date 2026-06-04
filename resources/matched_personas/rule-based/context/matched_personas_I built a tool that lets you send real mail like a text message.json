@@ -224,7 +224,7 @@
                 "polarity": 0.39448000000000005,
                 "parent": "The payment page was also fishy, even though they claimed it was via stripe. I am still getting their fake emails lol. I knew this can’t be real, thank god I didn’t put and sensitive info, but I used my personal image 😭",
                 "parent_persona": null,
-                "parent_persona_score": 0.012485163204747775,
+                "parent_persona_score": 0.01212536023054755,
                 "quotes": [],
                 "score": [
                     [
@@ -281,7 +281,7 @@
                     ],
                     [
                         "Critic",
-                        0.012485163204747775
+                        0.01212536023054755
                     ]
                 ]
             },
@@ -378,10 +378,6 @@
                     [
                         "Question asker",
                         0.3782934782608696
-                    ],
-                    [
-                        "Technical explainer",
-                        0.00983670965384013
                     ]
                 ]
             },
@@ -453,7 +449,7 @@
                     ],
                     [
                         "Critic",
-                        0.012485163204747775
+                        0.01212536023054755
                     ]
                 ]
             }
@@ -940,7 +936,7 @@
                 "polarity": 1.10488,
                 "parent": "Although this is cool and well designed Im a bit skeptical that a person who prefers to send mail would want it printed with no personal touch. To me the handwriting is what makes the difference. Isn’t this just a text message/email delivered via mail? Maybe I’m just not thinking of other case scenarios where this would be helpful.",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38509215266537883,
+                "parent_persona_score": 0.3755833333333334,
                 "quotes": [],
                 "score": [
                     [
@@ -1081,11 +1077,11 @@
                     ],
                     [
                         "Critic",
-                        0.06635756676557863
+                        0.06559798270893372
                     ],
                     [
                         "Technical explainer",
-                        0.05983670965384014
+                        0.05
                     ],
                     [
                         "Question asker",
@@ -1237,7 +1233,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3889853417219235
+                        0.3896083333333334
                     ],
                     [
                         "Solution Provider",
@@ -1257,7 +1253,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38509215266537883
+                        0.3755833333333334
                     ],
                     [
                         "Question asker",
@@ -1283,7 +1279,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.40525964391691394
+                        0.4048198847262249
                     ],
                     [
                         "Question asker",
@@ -1315,7 +1311,7 @@
                     ],
                     [
                         "Critic",
-                        0.052485163204747776
+                        0.05212536023054755
                     ],
                     [
                         "Technical explainer",
@@ -1339,7 +1335,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.012485163204747775
+                        0.01212536023054755
                     ]
                 ]
             },
@@ -1355,7 +1351,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.012485163204747775
+                        0.01212536023054755
                     ]
                 ]
             },
@@ -1375,7 +1371,7 @@
                     ],
                     [
                         "Critic",
-                        0.052485163204747776
+                        0.05212536023054755
                     ],
                     [
                         "Technical explainer",
@@ -1434,7 +1430,7 @@
                     ],
                     [
                         "Critic",
-                        0.052485163204747776
+                        0.05212536023054755
                     ],
                     [
                         "Technical explainer",

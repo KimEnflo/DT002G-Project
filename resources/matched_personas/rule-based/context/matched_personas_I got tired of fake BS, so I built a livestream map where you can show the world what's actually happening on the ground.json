@@ -24,7 +24,7 @@
                 "polarity": 0.33754,
                 "parent": "good point! there are a lot of avenues to monetizing and paying the cost of the servers -- we're just still trying to figure out what works, we released the app a few days ago",
                 "parent_persona": null,
-                "parent_persona_score": 0.010381045432340011,
+                "parent_persona_score": 0.010381557714798933,
                 "quotes": [],
                 "score": [
                     [
@@ -281,7 +281,7 @@
                     ],
                     [
                         "Critic",
-                        0.010381045432340011
+                        0.010381557714798933
                     ]
                 ]
             },
@@ -671,7 +671,7 @@
                     ],
                     [
                         "Critic",
-                        0.05038104543234001
+                        0.050381557714798936
                     ],
                     [
                         "Technical explainer",
@@ -727,7 +727,7 @@
                     ],
                     [
                         "Critic",
-                        0.0011534494924822236
+                        0.0011535064127554371
                     ]
                 ]
             },
@@ -799,7 +799,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.06448745401976491
+                        0.0644870499718006
                     ],
                     [
                         "Critic",
@@ -838,7 +838,7 @@
                 "polarity": 0.39124,
                 "parent": "It is neat, but consider the privacy and security concerns of individuals whose locations you’re doxxing. We’re in strange times here in the States and personally this would creep me out if I were at a protest and someone was broadcasting who is where to possible bad actors or others with bad intentions.",
                 "parent_persona": "Critic",
-                "parent_persona_score": 0.380053872876296,
+                "parent_persona_score": 0.38005601599857886,
                 "quotes": [],
                 "score": [
                     [
@@ -847,11 +847,11 @@
                     ],
                     [
                         "Technical explainer",
-                        0.07287637940705252
+                        0.07288850084598175
                     ],
                     [
                         "Critic",
-                        0.06038104543234001
+                        0.06038155771479894
                     ],
                     [
                         "Question asker",
@@ -1003,7 +1003,7 @@
                     ],
                     [
                         "Critic",
-                        0.04061173533083645
+                        0.04060879847811175
                     ],
                     [
                         "Technical explainer",
@@ -1043,7 +1043,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0014487454019764918
+                        0.0014487049971800608
                     ]
                 ]
             },
@@ -1063,7 +1063,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.014487454019764916
+                        0.014487049971800607
                     ]
                 ]
             },
@@ -1090,7 +1090,7 @@
                 "polarity": 0.42863999999999997,
                 "parent": "we agree, we're still working on the branding, we just havent really had much time to get things right",
                 "parent_persona": null,
-                "parent_persona_score": 0.010381045432340011,
+                "parent_persona_score": 0.010381557714798933,
                 "quotes": [],
                 "score": [
                     [
@@ -1265,7 +1265,7 @@
                     ],
                     [
                         "Critic",
-                        0.051765184823318676
+                        0.051762304890867195
                     ],
                     [
                         "Technical explainer",
@@ -1403,7 +1403,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.42448745401976495
+                        0.42448704997180065
                     ],
                     [
                         "Solution Provider",
@@ -1431,7 +1431,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38607741723557687
+                        0.38607668994924116
                     ],
                     [
                         "Solution Provider",
@@ -1455,7 +1455,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.455915088024841
+                        0.45592684582060233
                     ],
                     [
                         "Solution Provider",
@@ -1487,7 +1487,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0514487454019765
+                        0.051448704997180066
                     ],
                     [
                         "Critic",
@@ -1511,7 +1511,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4230387086177885
+                        0.42303834497462056
                     ],
                     [
                         "Solution Provider",
@@ -1539,7 +1539,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4230387086177885
+                        0.42303834497462056
                     ],
                     [
                         "Solution Provider",
@@ -1567,7 +1567,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.44351672487472615
+                        0.4435244823397438
                     ],
                     [
                         "Solution Provider",
@@ -1595,7 +1595,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.03287637940705252
+                        0.032888500845981744
                     ]
                 ]
             },
@@ -1606,12 +1606,12 @@
                 "polarity": 0.6262399999999999,
                 "parent": "Just thinking outloud, but didn't Foursquare rename itself to Swarm, and then subsequently shut itself down once it realized it probably wasn't safe to show people where a group of people were gathered (mass-shootings, etc). I think Google had a similar feature and also shut it down. That said, this is really cool. I know it's more about showing live video, but just thought the map feature is the risky part.",
                 "parent_persona": null,
-                "parent_persona_score": 0.010381045432340011,
+                "parent_persona_score": 0.010381557714798933,
                 "quotes": [],
                 "score": [
                     [
                         "Technical explainer",
-                        0.37448745401976496
+                        0.37448704997180066
                     ],
                     [
                         "Solution Provider",
@@ -1619,7 +1619,7 @@
                     ],
                     [
                         "Critic",
-                        0.010381045432340011
+                        0.010381557714798933
                     ]
                 ]
             },
@@ -1635,7 +1635,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4275261626375534
+                        0.42752539494642117
                     ],
                     [
                         "Solution Provider",
@@ -1667,11 +1667,11 @@
                     ],
                     [
                         "Technical explainer",
-                        0.06448745401976491
+                        0.0644870499718006
                     ],
                     [
                         "Critic",
-                        0.05061173533083645
+                        0.050608798478111755
                     ],
                     [
                         "Question asker",
@@ -1691,7 +1691,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3875261626375534
+                        0.3875253949464212
                     ],
                     [
                         "Question asker",
@@ -1699,7 +1699,7 @@
                     ],
                     [
                         "Critic",
-                        0.3708262769364382
+                        0.37082796469653534
                     ],
                     [
                         "Solution Provider",
@@ -1719,7 +1719,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3730387086177885
+                        0.3730383449746206
                     ]
                 ]
             }
@@ -1738,7 +1738,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.37448745401976496
+                        0.37448704997180066
                     ],
                     [
                         "Critic",
@@ -1766,7 +1766,7 @@
                     ],
                     [
                         "Critic",
-                        0.04038104543234001
+                        0.040381557714798934
                     ],
                     [
                         "Technical explainer",
@@ -1794,7 +1794,7 @@
                     ],
                     [
                         "Critic",
-                        0.05038104543234001
+                        0.050381557714798936
                     ],
                     [
                         "Technical explainer",
@@ -1822,7 +1822,7 @@
                     ],
                     [
                         "Critic",
-                        0.06099278076317646
+                        0.06099035619291069
                     ],
                     [
                         "Technical explainer",
@@ -1846,7 +1846,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.44104665363947243
+                        0.4410463721914895
                     ],
                     [
                         "Solution Provider",
@@ -1874,7 +1874,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.4106117353308365
+                        0.41060879847811177
                     ],
                     [
                         "Solution Provider",
@@ -1902,7 +1902,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.008074146447375563
+                        0.008074544889288058
                     ]
                 ]
             }
@@ -1920,7 +1920,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.010381045432340011
+                        0.010381557714798933
                     ]
                 ]
             }
@@ -1938,7 +1938,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.380053872876296
+                        0.38005601599857886
                     ],
                     [
                         "Solution Provider",
@@ -1958,7 +1958,7 @@
                 "score": [
                     [
                         "Critic",
-                        0.010381045432340011
+                        0.010381557714798933
                     ]
                 ]
             }

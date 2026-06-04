@@ -80,7 +80,7 @@
                 "polarity": 0.7166,
                 "parent": "Bar code is simple as it, don't need extra space on marketing space of product or Info Area. If you applying on QR CODE Then what the meaning of QR Code in first place, people normally thing like a logo or art. Conversion is the main key, not make people more confuse. Additionally need extra work of awareness of that QR Code or Bar code. Simple is the best,their are tons of tool revolving around this. Truth is Conversion matters, not conventional model which may not apply in the end",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.38559266110773655,
+                "parent_persona_score": 0.3855653858897978,
                 "quotes": [],
                 "score": [
                     [
@@ -117,7 +117,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.011925423822408748
+                        0.011897305041028608
                     ]
                 ]
             },
@@ -144,7 +144,7 @@
                 "polarity": 1.01,
                 "parent": "Thanks mate, and yes i did, some shapes originated from an icon library, I modified them extensively to function as barcodes. For example, I adjusted the baseline of the horse icon and merged the legs into the body to create a single, unified silhouette, and i had to add different eye shapes etc.",
                 "parent_persona": null,
-                "parent_persona_score": 0.01518581920591971,
+                "parent_persona_score": 0.01518675649863238,
                 "quotes": [],
                 "score": [
                     [
@@ -185,7 +185,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.0015185819205919711
+                        0.0015186756498632382
                     ]
                 ]
             },
@@ -676,7 +676,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.06518581920591972
+                        0.06518675649863238
                     ],
                     [
                         "Critic",
@@ -700,7 +700,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.37518581920591976
+                        0.3751867564986324
                     ],
                     [
                         "Solution Provider",
@@ -720,7 +720,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4236672372853278
+                        0.42366808084876917
                     ],
                     [
                         "Solution Provider",
@@ -748,7 +748,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.4136672372853278
+                        0.41366808084876916
                     ],
                     [
                         "Solution Provider",
@@ -776,7 +776,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.38559266110773655
+                        0.3855653858897978
                     ]
                 ]
             }
@@ -795,7 +795,7 @@
                 "score": [
                     [
                         "Technical explainer",
-                        0.3736672372853278
+                        0.3736680808487692
                     ],
                     [
                         "Solution Provider",
@@ -831,7 +831,7 @@
                 "polarity": 0.0,
                 "parent": "Thanks for the feedback! I did some manual testing and realized my previous wording might have been a bit unclear. To clarify: the bottom section of the barcode is the part that consistently scans. It’s working as intended, butit would be great if anyone who can could give it a try and let me know if the barcodes are working on your end.Thanks for commenting! I've removed 100% part from my post, just to be safe :D",
                 "parent_persona": "Technical explainer",
-                "parent_persona_score": 0.37518581920591976,
+                "parent_persona_score": 0.3751867564986324,
                 "quotes": [],
                 "score": [
                     [
@@ -870,7 +870,7 @@
                     ],
                     [
                         "Technical explainer",
-                        0.01518581920591971
+                        0.01518675649863238
                     ]
                 ]
             },
