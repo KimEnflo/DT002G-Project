@@ -22,7 +22,7 @@ def clean(data: dict) -> dict:
         if not filter_comments(comment["body"]):
             continue
 
-        clean_comment = clean_text(comment,comment_lookup)
+        clean_comment = clean_text(comment, comment_lookup)
         author = anonymize_author(comment.get("author"))
         comment_id = comment.get("id")
 
@@ -40,7 +40,7 @@ def clean(data: dict) -> dict:
     }
 
 
-def clean_text(comment: dict,previous:dict) -> dict[str, str | list[Any]] | None:
+def clean_text(comment: dict, previous: dict) -> dict[str, str | list[Any]] | None:
     """clean the comment by removing whitespaces and urls
     :param: comment: comment body text
     :returns: dictionary with cleaned data or None for dropped comments"""
@@ -101,8 +101,17 @@ def filter_comments(comment: str) -> bool:
     """Filter out deleted, removed comments, bot comments and GIFs
     :param: comment: comment body text
     :returns: boolean with True or False"""
-    filters = ("[deleted]", "[removed]", "i am a bot", "![gif]", "this is a bot", "removed by reddit")
-    return not any(x in comment.lower() for x in filters)
+
+    filters = (
+        r"\[deleted\]",
+        r"\[removed\]",
+        r"i am a bot",
+        r"!\[gif\]",
+        r"this is a bot",
+        r"removed by reddit",
+        r"redact",
+    )
+    return not any(re.search(pattern, comment.lower()) for pattern in filters)
 
 
 def anonymize_author(author: str) -> str:

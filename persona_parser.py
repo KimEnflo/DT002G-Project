@@ -3,8 +3,8 @@ import json
 import time
 from pathlib import Path
 
-import aggregate_personas
 import comment_analyzer
+import keyword_extractor
 from scrapers import reddit_scraper
 from text_cleaners import reddit_text_cleaner
 
@@ -21,6 +21,7 @@ def main():
     parser.add_argument(
         "--no-context",
         action="store_false",
+        default="true",
         dest="context",
         help="Disable including parent/quote context (default: context included)"
     )
@@ -56,16 +57,18 @@ def parse(args):
         title = scraped_data["title"]
         cleaned_data = reddit_text_cleaner.clean(scraped_data)
         save_output(cleaned_data, Path(f"resources/data_sets/thread_{title}.json"))
-        analyzed_data = comment_analyzer.analyze_comment(
-            cleaned_data,
-            persona_rules,
-            platform=args.platform,
-            use_context=getattr(args, "context", True)
-        )
+        for iteration in range(3):
+            analyzed_data = comment_analyzer.analyze_comment(
+                cleaned_data,
+                persona_rules,
+                iteration,
+                platform=args.platform,
+                use_context=getattr(args, "context", True)
+            )
+            keyword_extractor.extract_persona_keywords(analyzed_data, iteration, title)
 
     end = time.time()
     save_output(analyzed_data, Path(f"resources/matched_personas/matched_personas_{title}.json"))
-    aggregate_personas.aggregate_user_personas(title)
     print(f"Time taken to run the code was {end - start} seconds")
 
 

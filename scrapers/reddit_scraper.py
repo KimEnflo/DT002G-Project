@@ -4,8 +4,8 @@ from typing import Any, Generator, Sequence
 import httpx
 
 headers = {
-    "User-Agent": "redditScaper/0.1 (by u/redditScraper)",
-    "Referer": "https://www.reddit.com/"
+    "User-Agent": "redditScaper/0.5 (by u/redditScraper)",
+    "Referer": "https://www.reddit.com/",
 }
 
 client = httpx.Client(headers=headers)
@@ -24,7 +24,7 @@ def parse(url: str) -> dict[str, list | Any]:
 
     return {
         "title": title,
-        "comments": extract_comments(data[1]["data"]["children"],link_id,total_comments)
+        "comments": extract_comments(data[1]["data"]["children"], link_id, total_comments)
     }
 
 
