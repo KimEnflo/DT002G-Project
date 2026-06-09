@@ -8,7 +8,7 @@ This program analyzes Reddit threads and classifies comments into predefined per
 In the current state, the tool will break at around 1,500-comment threads due to Reddit’s API throttling the requests
 for additional children. To ensure no loss of data, try to keep it to 1,000-comment threads or fewer.
 
-## Reddit Scraper – Quick Usage Guide
+## Persona parser – Quick Usage Guide
 
 ### 1. Install Python 3.12
 
@@ -33,23 +33,10 @@ Because of that a virtual environment is needed to run this script, so from the 
       - pip install -r requirements.txt
       - python -m spacy download en_core_web_lg
 
-### 4. Define persona specification
-Create the persona of your choice in the /resources/persona_specifications.json file.
-
-Persona specifications structure:
-
-`{  
-  "Name of the persona": {  
-    "keywords": ["apple","pear","orange"] 
-  }
-}`
+### 3. Run the reproduction package
+The reproduction package comes with fetched and cleaned data sets and defined persona specification 
+so simply run the script with:
+`python persona_parser.py `
+   
     
-### 5. Run the scraper
-    python persona_parser.py <parser> <URL>
-   Example:
-       python persona_parser.py reddit https://reddit.com/r/python/comments/id/titlename
-   - <parser> – the parser to use (reddit for Reddit threads)
-   - <URL> – the URL of the Reddit thread you want to scrape
-
-    `python persona_parser.py reddit https://reddit.com/r/python/comments/xyz`
  
