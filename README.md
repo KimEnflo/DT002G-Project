@@ -33,7 +33,7 @@ Because of that a virtual environment is needed to run this script, so from the 
       - pip install -r requirements.txt
       - python -m spacy download en_core_web_lg
 
-### 3. Run the reproduction package
+### 4. Run the reproduction package
 The reproduction package comes with fetched and cleaned data sets and defined persona specification 
 so simply run the script with:
 `python persona_parser.py `
